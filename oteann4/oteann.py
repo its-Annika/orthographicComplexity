@@ -28,6 +28,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 sys.path.insert(1, os.getcwd())
 
+
 from mingpt.model import GPT, GPTConfig
 from mingpt.trainer import Trainer, TrainerConfig
 from mingpt.utils import sample
@@ -59,7 +60,7 @@ ROOT_DIR = os.getcwd()
 
 # These other configuration parameters will not be tuned
 def extend_config(config): 
-    config['languages'] = ['engIPA1000', 'engIPA2000', 'engIPA5000', 'engIPA10000']
+    config['languages'] = ['enga', 'engb', 'engc', 'engd']
     config['n_test'] = 1000 
     config['do_finetune'] = False 
     config['n_samples'] = config['n_train'] + config['n_test']
@@ -79,7 +80,7 @@ def extend_config(config):
     config['test_filename'] = config['trial_filename'] + '_test.csv'
     config['model_filename'] = config['trial_filename'] + '_model.pt'
     config['results_filename'] = config['trial_filename'] + '_results.csv'
-    config['aggregated_subdatasets'] = config['root_dir'] + '/' + config['subdataset']
+    config['aggregated_subdatasets'] = config['root_dir'] + '/oteann4/' + config['subdataset']
     full_text = open(config['aggregated_subdatasets'], 'r').read() 
     config['chars'] = sorted(list(set(full_text)))
     return config
@@ -87,7 +88,7 @@ def extend_config(config):
 
 def add_samples(config, language, task):
     
-    filename = config['root_dir'] + '/' + config['subdatasets_dir'] + '/' + language + '_' + config['subdataset']
+    filename = config['root_dir'] + '/oteann4/' + config['subdatasets_dir'] + '/' + language + '_' + config['subdataset']
     if config['episodes'] == 1:
         print('%s: processing "%s" data from %s' %(language, task, filename))
     
@@ -137,9 +138,11 @@ def add_samples(config, language, task):
         if task == 'read':
             input = word        
             output = pron 
+
         elif task == 'write':
             input = pron       
             output = word 
+       
         else:
             print('ERROR: task=',task,'should not happen')
             return
@@ -218,6 +221,7 @@ from torch.utils.data import Dataset
 class CharDataset(Dataset):
 
     def __init__(self, chars, data, block_size, debug=True):
+
         #chars = sorted(list(set(full_data)))
         data_size, vocab_size = len(data), len(chars)
         if debug:
@@ -545,8 +549,7 @@ def main():
         else:
             df_results = tests(config)
 
-main()
-
-
-if __name__ == '__main__':
+if __name__ == '__main__':      
     main()
+
+
