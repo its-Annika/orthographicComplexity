@@ -60,7 +60,7 @@ ROOT_DIR = os.getcwd()
 
 # These other configuration parameters will not be tuned
 def extend_config(config): 
-    config['languages'] = ['enga', 'engb', 'engc', 'engd']
+    config['languages'] = ['engc']
     config['n_test'] = 1000 
     config['do_finetune'] = False 
     config['n_samples'] = config['n_train'] + config['n_test']
