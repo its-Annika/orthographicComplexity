@@ -1,0 +1,17 @@
+
+Belarussian: aбвгдeёжзійклмнопрстуўфхцчшыьэюя
+Catalan: abcdefghijklmnopqrstuvwxyzçéáíóú
+Dutch: abcdefghijklmnopqrstuvwxyz
+English: abcdefghijklmnopqrstuvwxyz
+German: abcdefghijklmnopqrstuvwxyzäöüß
+Italian: abcdefghijklmnopqrstuvwxyzàìòùèé
+Portuguese: abcdefghijklmnopqrstuvwxyzçáéíóúâêôãõàòèìù
+Polish: abcdefghijklmnopqrstuvwxyząćęłńóśźż 
+Russian: абвгдеёжзийклмнопрстуфхцчшщъыьэюя
+Spanish: abcdefghijklmnopqrstuvwxyzñáéíóúü
+Swahili: abcdefghijklmnopqrstuvwxyzç
+Tamil: கஙசஞடணதநபமயரலவழளறனஜஶஷஸஹஅஆஇஈஉஊஎஏஐஒஓஔ ா ி ீ ு ூ ெ ே ை ொ ோ ௌ ௗ ௐ ஂ ஃ
+Thai: กขฃคฅฆงจฉชซฌญณฒฑฐฏฎดตถทธนมภพผปบฝฟยรลวศษสหฬอฮะาฤฦๅเแโ ำ ไ ใ  ั   ิ  ี  ึ  ื  ุ  ู
+Turkish: abcdefghijklmnopqrstuvwxyzâçğıİîöşüû
+Uyghur: ف غ ش س ژ ز ر د خ چ ج ت پ ب ا ئ ق ك ڭ گ ل م ن ھ ە و ۆ ۇ ۈ ۋ ي ى ې ؟ ؛ ،
+
