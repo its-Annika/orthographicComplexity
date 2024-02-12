@@ -4,6 +4,7 @@ Catalan: abcdefghijklmnopqrstuvwxyzçéáíóú
 Dutch: abcdefghijklmnopqrstuvwxyz
 English: abcdefghijklmnopqrstuvwxyz
 German: abcdefghijklmnopqrstuvwxyzäöüß
+Gorgian: აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶ
 Italian: abcdefghijklmnopqrstuvwxyzàìòùèé
 Portuguese: abcdefghijklmnopqrstuvwxyzçáéíóúâêôãõàòèìù
 Polish: abcdefghijklmnopqrstuvwxyząćęłńóśźż 
