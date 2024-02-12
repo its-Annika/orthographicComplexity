@@ -1,13 +1,11 @@
 import sys
 import re
 import random
+import unicodedata
 
 pairs = sys.stdin.readlines()
 storage = []
-seenWords = []
 exemplars = str(sys.argv[1])
-
-currentLetter = pairs[1][0].lower()
 
 for pair in pairs: 
 
@@ -25,28 +23,13 @@ for pair in pairs:
 	#throw out words with invalid characters for the given langauge 
 	invalid = False
 	for character in orthForm:
-		if character not in exemplars:
+		if character not in exemplars or "L" not in  unicodedata.category(character):
 			invalid = True
 			break
 
-	if invalid:
-		continue
-			
-
-	#keep only one pronucition of each word
-	if orthForm in seenWords:
-		continue
-
-	else:
-		seenWords.append(orthForm)
+	if not invalid:
 		curSet = [orthForm, ipaForm]
-		storage += [curSet]
-
-	#when the letter switches, clear the seenWords list to keep searching time down
-	if orthForm[0] != currentLetter:
-		currentLetter = orthForm[0]
-		seenWords = []
-		seenWords.append(orthForm)
+		storage.append(curSet)
 
 random.shuffle(storage)
 
