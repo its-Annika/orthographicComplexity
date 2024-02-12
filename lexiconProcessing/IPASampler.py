@@ -5,15 +5,15 @@ import unicodedata
 
 pairs = sys.stdin.readlines()
 storage = []
-exemplars = str(sys.argv[1])
+invalidExemplars = str(sys.argv[1])
 
 for pair in pairs: 
 
 	orthForm = pair.split("\t")[0].lower()
-	ipaForm = re.sub("\s", "", pair.split("\t")[1])
+	ipaForm = re.sub("\s", "", pair.split("\t")[1]) 
 
 	#throw out words over 25 characters	
-	if len(orthForm) > 25:
+	if len(orthForm) > 25 or len(ipaForm) > 25:
 		continue
 
 	#prevent pronunciation of acronyms: <who> as "dʌbəljuːeɪt͡ʃəʊ"
@@ -23,7 +23,7 @@ for pair in pairs:
 	#throw out words with invalid characters for the given langauge 
 	invalid = False
 	for character in orthForm:
-		if character not in exemplars or "L" not in  unicodedata.category(character):
+		if character in invalidExemplars or "L" not in unicodedata.category(character):
 			invalid = True
 			break
 
