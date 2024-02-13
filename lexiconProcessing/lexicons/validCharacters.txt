@@ -6,6 +6,7 @@ English: abcdefghijklmnopqrstuvwxyz
 German: abcdefghijklmnopqrstuvwxyzäöüß
 Gorgian: აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶ
 Italian: abcdefghijklmnopqrstuvwxyzàìòùèé
+Japanese: ンワラヤマハナタサカアリミヒニチシキイルユムフヌツスクウレメヘネテセケエヲロヨモホノトソコオ
 Portuguese: abcdefghijklmnopqrstuvwxyzçáéíóúâêôãõàòèìù
 Polish: abcdefghijklmnopqrstuvwxyząćęłńóśźż 
 Russian: абвгдеёжзийклмнопрстуфхцчшщъыьэюя
