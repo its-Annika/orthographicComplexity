@@ -3,6 +3,7 @@ Belarussian: aбвгдeёжзійклмнопрстуўфхцчшыьэюя
 Catalan: abcdefghijklmnopqrstuvwxyzçéáíóú
 Dutch: abcdefghijklmnopqrstuvwxyz
 English: abcdefghijklmnopqrstuvwxyz
+Farsi: ء آ أ ؤ ئ ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ـ ف  ق ل م ن ه و ى پ چ ژ ڤ ک گ ی ە
 German: abcdefghijklmnopqrstuvwxyzäöüß
 Gorgian: აბგდევზთიკლმნოპჟრსტუფქღყშჩცძწჭხჯჰჱჲჳჴჵჶ
 Italian: abcdefghijklmnopqrstuvwxyzàìòùèé
@@ -12,8 +13,8 @@ Polish: abcdefghijklmnopqrstuvwxyząćęłńóśźż
 Russian: абвгдеёжзийклмнопрстуфхцчшщъыьэюя
 Spanish: abcdefghijklmnopqrstuvwxyzñáéíóúü
 Swahili: abcdefghijklmnopqrstuvwxyzç
-Tamil: கஙசஞடணதநபமயரலவழளறனஜஶஷஸஹஅஆஇஈஉஊஎஏஐஒஓஔ ா ி ீ ு ூ ெ ே ை ொ ோ ௌ ௗ ௐ ஂ ஃ
+Tamil: ஃ அ  ஆ  இ ஈ உ ஊ  எ ஏ ஐ ஒ  ஓ ஔ   க  ங  ச  ஜ  ஞ  ட  ண  த ந ன ப ம ய  ர  ற  ல  ள  ழ  வ  ஷ  ஸ  ஹ  ா  ி  ு  ூ  ெ  ே  ை  ொ ோ ௌௐௗ            
 Thai: กขฃคฅฆงจฉชซฌญณฒฑฐฏฎดตถทธนมภพผปบฝฟยรลวศษสหฬอฮะาฤฦๅเแโ ำ ไ ใ  ั   ิ  ี  ึ  ื  ุ  ู
 Turkish: abcdefghijklmnopqrstuvwxyzâçğıİîöşüû
-Uyghur: ف غ ش س ژ ز ر د خ چ ج ت پ ب ا ئ ق ك ڭ گ ل م ن ھ ە و ۆ ۇ ۈ ۋ ي ى ې ؟ ؛ ،
+Uyghur: ء آ أ ؤ ئ ا ب ت ث ج ح خ د ذ ر ز س ش ص ض ط ظ ع غ ـ ف ق ل م ن ه و ىً پ چ ژ ڤ ک گ ی ە
 Welsh: abcdefghijklmnopqrstuvwxyzäëïöüÿẅẁàèìòùỳáéíóúýẃâêîôûŵŷ
