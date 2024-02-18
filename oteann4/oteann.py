@@ -48,7 +48,7 @@ from torch.nn import functional as F
 
 # These first configuration parameters are hyperparameters that we will need to tune
 CONFIG = {            
-    'episodes': 3,
+    'episodes': 1,
     'n_train': 3000,
     'n_layer': 4, 
     'n_head': 4, 
@@ -508,7 +508,7 @@ def ray_train_and_tests(config):
 def finetune_hyperparameters():
 
     FINETUNING_CONFIG = {            
-        'episodes': tune.grid_search([3]),
+        'episodes': tune.grid_search([1]),
         'n_train': tune.grid_search([10000]),
         'n_layer': tune.grid_search([4]),
         'n_head': tune.grid_search([4]), 
@@ -549,7 +549,7 @@ def main():
         else:
             df_results = tests(config)
 
-if __name__ == '__main__':      
-    main()
+# if __name__ == '__main__':      
+#     main()
 
 
