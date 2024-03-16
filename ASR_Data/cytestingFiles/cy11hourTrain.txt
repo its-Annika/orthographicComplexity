@@ -1,3 +1,4 @@
+path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/trainFiles/common_voice_cy_23641588.mp3|Penderfynodd ddod yn weithiwr cymdeithasol.|4.464
 /home/ashankwi/commonVoiceData/cy/trainFiles/common_voice_cy_23028578.mp3|Dw i'n dechrau teimlo dros Dave druan.|3.264
 /home/ashankwi/commonVoiceData/cy/trainFiles/common_voice_cy_30595523.mp3|Yn ddi-rym o drefn broffesiynol, mae ei baentiad yn gwneud argraff lem, soniol.|7.236

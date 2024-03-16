@@ -48,5 +48,6 @@ except:
 
 for i in range(1,totalHours + 1):
 	with open(langCode + "testingFiles/" + langCode + str(i) + "hourTrain.txt", "w") as file:
+		file.write("path|transcript|duration\n")
 		for path,transcript,duration in sum(storage[0:i], []):
 			file.write(path + "|" + transcript + "|" + str(duration) + "\n") 
