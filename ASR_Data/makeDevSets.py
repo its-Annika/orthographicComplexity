@@ -1,5 +1,5 @@
 '''
-python3 makeTraingSets.py path/to/clips/folder path/to/dev/file languageCode
+python3 makeDevSets.py path/to/clips/folder path/to/dev/file languageCode
 
 '''
 
@@ -28,14 +28,15 @@ time = 0
 #storage them in 1 hour chunks
 
 for file in os.listdir(dataFolder):
-	audio = MP3(dataFolder+"/"+file)
-	hourChunk.append((dataFolder+"/"+file, transcriptDict[file], audio.info.length))
-	time += audio.info.length
+	if file in transcriptDict:
+		audio = MP3(dataFolder+"/"+file)
+		hourChunk.append((dataFolder+"/"+file, transcriptDict[file], audio.info.length))
+		time += audio.info.length
 
-	if time >= 3600:
-		storage.append(hourChunk)
-		hourChunk = []
-		time = 0
+		if time >= 3600:
+			storage.append(hourChunk)
+			hourChunk = []
+			time = 0
 
 totalHours = len(storage)
 
@@ -47,7 +48,7 @@ except:
 	pass
 
 for i in range(1,totalHours + 1):
-	with open(langCode + "ASR_FFiles/" + langCode + str(i) + "hourdev.txt", "w") as file:
+	with open(langCode + "ASR_Files/" + langCode + "dev" +  str(i) + "hour.txt", "w") as file:
 		file.write("path|transcript|duration\n")
 		for path,transcript,duration in sum(storage[0:i], []):
 			file.write(path + "|" + transcript + "|" + str(duration) + "\n") 
