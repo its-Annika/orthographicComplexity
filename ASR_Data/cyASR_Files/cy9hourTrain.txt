@@ -98,7 +98,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23084185.mp3|Gwasanaethodd fel gweinidog mewn gweinyddiaethau Torïaidd a Chwigaidd|5.616
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_27282794.mp3|Nath y dyn ddeud bod y tŷ ar fin cael i werthu|4.68
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23647175.mp3|Roedd Yma o Hyd a Bob yn y Ddinas wedi cystadlu yn aflwyddiannus|7.464
-/home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23684784.mp3|Hwynt yw ein harglwyddi — ein duwiau a ddylaswn ddweud|5.256
+/home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23684784.mp3|Hwynt yw ein harglwyddi  ein duwiau a ddylaswn ddweud|5.256
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_21486613.mp3|Yr oedd o yn ddistaw a digalon cyn amser cinio|5.424
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23895545.mp3|Roedd ganddynt un gannwyll i bara am bythefnos|4.752
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23609771.mp3|Cofion i ti or pen yma hefyd|3.096

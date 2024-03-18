@@ -43,7 +43,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38519545.mp3|پۈتۈن كىتاب جەمئىي ئوتتۇز پارچە بولۇپ، ئىنتايىن سۈپەتلىك بېسىلغان|5.076
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39274042.mp3|بۇنى ئاڭلىغان مايمۇنلارنىڭ خۇشاللىقتىن گۈلقەقەلىرى ئېچىلىپ كېتىشتى|5.904
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39245779.mp3|ھەقىقەتنى ئويلايدىغان قەلبتىن، ئۇنىڭغا قۇلاق سالىدىغان ئاڭلىقلىقتىن، ئۇنى كۆرۈپ يېتەلەيدىغان پاراسەتتىن ئەسەر قالمىغىلى تۇردى|9.108
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_35081139.mp3|— ئۇلار قەيەردىن كېلىۋاتقاندۇ، — سورىدى ھاجىم سەل جىددىيلىشىپ|6.048
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_35081139.mp3| ئۇلار قەيەردىن كېلىۋاتقاندۇ،  سورىدى ھاجىم سەل جىددىيلىشىپ|6.048
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38285765.mp3|ۋەيران بولغانلىقىنى ئېلان قىلىشنىڭ خېلى كۆپ زىيىنى بار|5.508
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27584036.mp3|داننى بۇ يەردىن يەپ، باشقا يەردە تۇخۇملاپتۇ|4.896
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39295792.mp3|ئۇيغۇرچىدا بالىدەك گەپ قىلىش مېتافورى فىزىيولوگىيەلىك كىچىك بالا كۆرگەنلىكنى كۆرسەتمەيدۇ|6.948
@@ -52,7 +52,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39241643.mp3|خوپ، جەزمەن دېگەنلىرىدەك قىلىمەن|5.076
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27107278.mp3|بۇ تۇرالغۇ جاي شارائىتى ناھايىتى ياخشى بولۇپ ئالىي دەرىجىلىك خان سارايلاردىن قېلىشمايتتى|10.26
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39298174.mp3|ئوتنى ئۆچۈرۈۋېلىشقا ئۇرۇنۇپ كۆرگەن بولسىمۇ، لېكىن ئوت ئەدەپ كەتكەنلىكتىن ھېچقانداق ئىلاج قىلالمىدى|7.2
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38246835.mp3|تارىم دەرياسى — ئىچكى قۇرۇقلۇق دەرياسىدۇر|5.04
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38246835.mp3|تارىم دەرياسى  ئىچكى قۇرۇقلۇق دەرياسىدۇر|5.04
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39297866.mp3|ئەل  خالايىق ئەگەر كۆيدۈرسە ئوت، يوق ئۆچۈرمەكتىن بۆلەك چارە ئاڭا|6.12
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38259962.mp3|ياخشى يېزىلىپتۇ دېمىسىمۇ گاھىدا ئۇنتۇپ قالىمىز چوڭ ئۆينى|6.588
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_26189010.mp3|ھەممە ئادەم جىمىپ قالدى|2.628
@@ -71,7 +71,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38519376.mp3|يەنى، ئۇ، مىللەت، ماكان ۋە زامانغا قاراپ ئوخشاش بولمايدۇ|5.688
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39261291.mp3|تەخسىكەش مۇناپىقلار ئارقا  ئارقىدىن يۇرت سورىدى نەتىجىدە، خانىدانلىق خانىۋەيران بولدى|8.568
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34483299.mp3|دۇنيالىق ھۆرمەت ۋە شان – شەرەپلەر بولسا مىسالى كۆزنى يۇمۇپ ئاچقۇچە يوقاپ كېتىدىغان ئەرزىمەس ئالۋۇندۇر|9.252
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_35324924.mp3|— بولىدۇ، ماقۇل، شۇنداق بولسۇن|5.076
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_35324924.mp3| بولىدۇ، ماقۇل، شۇنداق بولسۇن|5.076
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39300530.mp3|فېليەتوننىڭ سۆزى ئاز، لېكىن مېغىزى توق|5.076
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38233047.mp3|ئەڭ قىممەتلىك نەرسە سىز ئىگە بولغان نەرسە ئەمەس، بەلكى سىزگە ھەمراھ بولغان ئادەم|8.748
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39384184.mp3|قېرىپ كەتكەنلىكىدىن ماڭالمايدىغان بوۋايلاردەك مۈكچەيگەن|4.608
@@ -251,7 +251,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38623529.mp3|چاۋاك تىلەمچىلىرى كۆپىيىپ قاپتۇ|3.78
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39278367.mp3|ھەي يارەنلەر قانداقلىكى بولسۇن بىر ئامال قىلىپ سېپىلغا چىقىڭلار|5.4
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38523065.mp3|ئۆزۈمنىڭ سوئالىغا ئۆزۈم جاۋاب تېپىۋالدىم|3.888
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38238016.mp3|— ئۇنداق بولسا، سىز ئەتە ئەتىگەن سائەت ئوندا بېكەتكە كېلىپ مېنى ساقلاپ تۇرۇڭ|7.056
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38238016.mp3| ئۇنداق بولسا، سىز ئەتە ئەتىگەن سائەت ئوندا بېكەتكە كېلىپ مېنى ساقلاپ تۇرۇڭ|7.056
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39290810.mp3|ئىشنى ئەڭ ئاۋۋال ئۆزىمىزدىن باشلىشىمىز كېرەك|4.716
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38319134.mp3|سىزگە دەيدىغان بىر گەپ بار ئىدى، بىكار بولغاندا ماڭا تېلېفون قىلىڭە|5.904
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27421027.mp3|بېخىل بايدىن نان چىقماس، ئۆلۈك مالدىن قان|5.436
@@ -437,7 +437,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33607887.mp3|ئۇ ھەسەننىڭ شار يىپىنى ھە دەپ تارتىۋاتقانلىقىنى كۆردى|6.588
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38519723.mp3|فىرانسىيەدىكى خەلقئارا مۇزىكا فېستىۋالىغا قاتناشقان ئىككى ئۇيغۇر يىگىتى|6.048
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27587210.mp3|نيۇتون دىففېرېنسىئال ۋە ئىنتېگرال ئىلمىنى كەشىپ قىلغان|6.516
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38514842.mp3|— قوي قانداقسىغا دەرەخكە چىقالىسۇن؟ بۇ مۇمكىن بولمايدىغان ئىشقۇ؟|6.3
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38514842.mp3| قوي قانداقسىغا دەرەخكە چىقالىسۇن؟ بۇ مۇمكىن بولمايدىغان ئىشقۇ؟|6.3
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27457077.mp3|كېسەلنىڭ كېلىشى ئاسان، كېتىشى تەس|3.96
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27593351.mp3|بۇغۇ بەلەن گەپ ئىكەن|2.736
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39240296.mp3|ۋەتەنگە مەنسۇپلەنمەك ۋاپادارلىقتۇر؛ ۋەتەنگە خىزمەت ۋاپادارلىقتۇر؛ ۋەتەنگە پىداكارلىق ۋاپادارلىقتۇر|9.936
@@ -448,7 +448,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38613085.mp3|ئادەمنى ئەپسۇسلاندۇردىغىنى، بۇ كۈتۈش مەڭگۈلۈك كۈتۈشكە ئايلىنىدۇ|5.04
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27382750.mp3|دېمىگەننى دېگۈچى چىقار، يېمىگەننى يېگۈچى|5.22
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38668361.mp3|ئاتاڭلارنى كۆردۈڭلارمۇ، ئوبدانمىكەن|4.968
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_37304707.mp3|شەخسى خاراكتېر يېتىشتۈرۈشتىكى ئەڭ مۇھىم ئامىل — تارىخىي كىتابلارنى ئوقۇش|8.208
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_37304707.mp3|شەخسى خاراكتېر يېتىشتۈرۈشتىكى ئەڭ مۇھىم ئامىل  تارىخىي كىتابلارنى ئوقۇش|8.208
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_32814224.mp3|گۈلشەن ئۆزىنى ھەر قانچە چاندۇرمايمەن دېگەن بىلەنمۇ ۋاقتى كەلسە چانىدىغانلىقىنى ھېس قىلدى|7.74
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39452704.mp3|ھازىر كۆپىنچە ئائىلىلەردە ئىنتېرنېت ۋە كومپيۇتېر ئومۇملىشىپ، تور ئوقۇتۇشى ئۈچۈن ئاساس سېلىندى|9.288
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33866036.mp3|يامان بىلەن يولداش بولما، نادان بىلەن سىرداش|3.816
@@ -502,7 +502,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34261228.mp3|ئەگەر تەكشىلىكتىكى ئىككى تۈز سىزىق ئۆزئارا كېسىشمىسە، بۇ ئىككى تۈز سىزىق پاراللېل بولىدۇ|6.84
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27674705.mp3|چىشلىرى ئاپئاق، كۆزلىرى چىرايلىق ئادەم ئىدى|6.3
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38618743.mp3|ئۇيغۇرچە لايىق تونۇشتۇرۇش تىپىدىكىدەك پىروگرامما چىقسا، ئۇيغۇرلاردىن قاتنىشىدىغانلار قانچىلىك چىقار؟|7.488
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_37325638.mp3|— ئاكا، ئائىلىنىڭ ئېغىرچىلىقىنى مەنمۇ كۆتۈرۈشۈپ بەرمىسەم بولماس|5.796
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_37325638.mp3| ئاكا، ئائىلىنىڭ ئېغىرچىلىقىنى مەنمۇ كۆتۈرۈشۈپ بەرمىسەم بولماس|5.796
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39435220.mp3|كېيىن دەپ بەرسەم، سىز زىيادە چارچاپ كېتىپسىز دەيدۇ|5.328
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39212717.mp3|كۆڭلۈممۇ، جېنىممۇ، ئەقلىممۇ، ھۇشۇممۇ _ ھەممىسى شۇ ياقتا بۇ ھالەتتە دەردىمگە دانىشمەنلەر قانچىلىك دەرمان بولار|8.964
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39260432.mp3|ئەگەر كەم بولۇپ قالسا، قايتىپ كەلگەندە سىلىدىن ھېساب ئالىمەن|4.5
@@ -628,11 +628,11 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38310662.mp3|بۇ، ۋەزىيەت ئۈستىدىكى قىياسلار|3.996
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39289994.mp3|«چاپان ياپىمەن» دەپ ئارقىسىدىن پالاقلاپ يۈرۈپ، ئاخىر «تېپىك يەپ قالغان»لىقىدا شەك بولمىسا كېرەك|6.84
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27290882.mp3|ئوق يەتمىگەن يەرگە قىلىچ شىلتىما|4.176
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38431168.mp3|لوگىكا ئىلمى — تەپەككۇر قانۇنىيىتى ئىلمىدۇر|4.968
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38431168.mp3|لوگىكا ئىلمى  تەپەككۇر قانۇنىيىتى ئىلمىدۇر|4.968
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39336414.mp3|ئىشقىلىپ، مەن تارقىتىپ بولدۇم|3.348
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27256898.mp3|نېمە ئۈچۈن نىكاھتىن ئاجرىشىشنى ئوتتۇرىغا قويىدۇ؟|4.32
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38627215.mp3|ھەر خىل شەرتشارائىتلارنىڭ پىشىپ يېتىلمەسلىكى تۈپەيلىدىن ئۇنىڭ تەلەپئارزۇلىرى ئەمەلگە ئاشمىدى|6.84
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38217019.mp3|ھەر يىلى يىگىرمە بىرىنچى فېۋرال — دۇنيا ئانا تىل كۈنىدۇر|7.776
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38217019.mp3|ھەر يىلى يىگىرمە بىرىنچى فېۋرال  دۇنيا ئانا تىل كۈنىدۇر|7.776
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38331371.mp3|يامغۇر يېغىپ ھاۋا بەكمۇ سوغۇق بولۇپ كەتتىغۇ ئەمدى|5.94
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38219674.mp3|يامغۇرنىڭ ئاۋازى بوشاپ قالدى، ئەمما گۈلدۈرماما تېخى بار|4.86
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38536946.mp3|ئاۋازىم مۇشۇنداق بولۇپ قالدى پۇراش، تەم سېزىمىم بىردەم بار، بىردەم يوق|6.984
@@ -682,7 +682,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39310279.mp3|ئۆيدىن ئوتقاش كۆتۈرۈپ چىقىپ، ئەتراپقا سىنچىلاپ قارىغىلى تۇردى|5.508
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33824059.mp3|ئۈچىنچى يىلى بالا يەنە توختام تۈزگىلى بارغاندا، باي «ئەمدىغۇ دەردىمنى ئالارمەن» دەپ ئويلاپتۇ|8.244
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38326256.mp3|ئۆمەر ھەييام رۇبائىيلىرىدىن بىر پارچە|5.076
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39266845.mp3|— ئۈجمە سايىسى ئاكاڭ قارىغاينىڭ، ياغىچى باي غوجامنىڭ، — دەپ پەرۋا قىلماي جاۋاب بېرىپتۇ|7.74
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39266845.mp3| ئۈجمە سايىسى ئاكاڭ قارىغاينىڭ، ياغىچى باي غوجامنىڭ،  دەپ پەرۋا قىلماي جاۋاب بېرىپتۇ|7.74
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_26334586.mp3|ئۇ ياكى قىرغاققا ئۈزۈپ چىقىدۇ، ياكى ھالاك بولىدۇ ئۇنىڭغا ئەمدى باشقا يول يوق|6.336
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39304225.mp3|ئۇچرايدىغان ئادەملەر بەك كۆپ، ئەمما ئۇچرىشالايدىغان روھ بەك ئاز|6.336
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39115790.mp3|ئادەمگە ئەقىل يول باشچى بولسىلا، ئۇنىڭ ئىشلىرىدىن زىيان  زەخمەت ئازراق بولىدۇ|6.66
@@ -830,7 +830,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38310417.mp3|مەن توردىن «نىشان تىكلەش» كە ئائىت بىر قىسىم ماتېرىياللارنى تېپىپ ئوقۇپ چىقتىم|7.344
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39488250.mp3|ئەدەبىيات تۇرمۇشنى ئۆزىگە خاس ئۇسۇل – ئوبرازلىق تەپەككۇر ئۇسۇلى بويىچە تونۇشنى ۋە ئىپادىلەشنى تەلەپ قىلىدۇ|9.54
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39384149.mp3|چەۋەندازلىق ئاتقا يۈگەن سېلىشتىن مەلۇم|4.14
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34218984.mp3|تېزلىنىش — تېزلىك ئۆزگىرىشىنىڭ تېزئاستىلىقىنى ئىپادىلەيدىغان فىزىكىلىق مىقدار|6.336
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34218984.mp3|تېزلىنىش  تېزلىك ئۆزگىرىشىنىڭ تېزئاستىلىقىنى ئىپادىلەيدىغان فىزىكىلىق مىقدار|6.336
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39307033.mp3|ئۆز ھەمراھلىرىمنىڭمۇ ئۇيقۇسىنى ئېچىشىمغا ياردەم بەرسە پايدىلىق بولماسمىدى؟|6.408
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38310697.mp3|ۋايجان، نېمىدېگەن سەت چاپان كىيىۋالغاندۇ بۇ؟ |5.076
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27327594.mp3|شامال ۋە يامغۇرغا، ئاينىڭ نېمە ئۈچۈن چۈشۈپ كەتمەيدىغانلىقىغا ھەيران قالغان|7.596
@@ -923,7 +923,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38232998.mp3|شۇنداق ياخشى تېمىنى يوللاپسىز، ھارمىغايسىز|4.572
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38627174.mp3|ئورۇقنىڭ كۆڭلى يورۇق|3.528
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39246560.mp3|شامال ئۆتمەيدىغان تام يوق|3.6
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38519752.mp3|فىزىكا — يېڭىلىق يارىتىش خاراكتېرى تولىمۇ كۈچلۈك بولغان بىر پەن|4.896
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38519752.mp3|فىزىكا  يېڭىلىق يارىتىش خاراكتېرى تولىمۇ كۈچلۈك بولغان بىر پەن|4.896
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38318949.mp3|بىر كۆرۈشكە ئەرزىيدىغان فىلىم ئىكەن|3.996
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39258335.mp3|بىلگىنىڭنى كىشىدىن ئايىما دەپتىكەن|3.276
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33868013.mp3|لېكىن ئوغلى خۇشال بولۇشنىڭ ئورنىغا جىمىپ قالدى|5.04
@@ -943,7 +943,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39212740.mp3|بىر پارچە سالام خەتنىمۇ جايلاپ يازالىشىدىن ئۈمىد كۈتۈلمەيدىغان بىرى ئىدى|6.696
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27729454.mp3|ئۇ تۇنجى قېتىم ئۆزىگە تاشلانغان قىزنىڭ چاچلىرىنى پۇرىدى، قولىنى تۇتتى|7.74
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39251209.mp3|ۋەدىسىگە ئەمەك قىلماي ناپاك ۋە بەتبۇي نەرسىلەرنى يېدى|5.58
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39327289.mp3|— مەن ئۆز كۆزۈمگە ئىشەنمەيلا قالدىم، — دېدىم ئەتراپىمغا ھەيرانلىق بىلەن قاراپ|5.688
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39327289.mp3| مەن ئۆز كۆزۈمگە ئىشەنمەيلا قالدىم،  دېدىم ئەتراپىمغا ھەيرانلىق بىلەن قاراپ|5.688
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39262990.mp3|ئەمدى ئۇنداق قىلمايمەن، ھەرگىز قىلمايمەن|3.456
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39268648.mp3|پىكىر ئوخشاشماسلىقى تەپەككۇر ئەربابلىرى، كىتاپخۇمار بىلىم ئىگىلىرى، كەسپىي ئىزدەنگۈچىلەر ئوتتۇرسىدا كۈچكە ئىگە نەرسە|10.116
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39210148.mp3|ئەگەر كىشى مەنمەنلىك ئۈچۈن ساخاۋەت قىلسا، بۇ ساخاۋەت قىلغانلىق بولمايدۇ|7.308
@@ -960,7 +960,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_26064523.mp3|ئۈچىنچى ئايدا بۇغداي باھاسى ئۆرلەيدۇ|4.176
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39261186.mp3|«بالىدەك» دەپ بولغۇچە بالا ئەمەسلىكىمنى تامبال ئىچىدىن ئىسپاتلايمەن، دەپ چۈشۈپسىز|6.408
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39264089.mp3|ئۇيغۇر كومپيۇتېر ئىلمى جەمئىيىتىنىڭ ئەرەبچە خەت نۇسخىسىنى ئەۋەتىپ بەرسەڭلار|5.94
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38220212.mp3|ئۇنتۇلماس نادىر ئەسەرلەردىن بىرى — «مۆمىننىڭ مومىغا چىقىشى»|6.552
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38220212.mp3|ئۇنتۇلماس نادىر ئەسەرلەردىن بىرى  «مۆمىننىڭ مومىغا چىقىشى»|6.552
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38515365.mp3|ئۇيغۇر بالىلىرىنىڭ چىرايى نېمىدېگەن سەبىي، تاتلىقھە|4.896
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34968239.mp3|دەرەخنىڭ غولىدىكى كاماردا بىر تۈلكە ياشايدىكەن|4.968
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38360578.mp3|ئۇنىڭ مىللىي سەنئىتىمىز، كىنوچىلىقىمىزنىڭ گۈللىنىشى ئۈچۈن قوشقان تۆھپىسى ئەبەدىلئەبەد ئۇنتۇلمايدۇ|9.54
@@ -968,7 +968,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27468358.mp3|ھەممە كىشى ئانىدىن يالىڭاچ تۇغۇلغان|4.428
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39264064.mp3|ئۆزۈمنىڭ شەپەرەڭ پالۋان ئەمەسلىكىمنى ئاخىرى ھېس قىلدىم|4.896
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38200074.mp3|ئادەم چوڭ بولغانسېرى غەم كۆپىيىدىكەن كىشى يۇرتىدا مۇساپىر بولۇش كۆپ ۋاقىتلاردا جاندىن ئۆتۈپ كېتىدىكەن|9.036
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34930875.mp3|تەشەببۇسكار بولۇش — پۇرسەت يارىتىشتا ئۆزىنىڭ مەسئۇلىيىتى بارلىقىنى تونۇپ يېتىشتۇر|9.468
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34930875.mp3|تەشەببۇسكار بولۇش  پۇرسەت يارىتىشتا ئۆزىنىڭ مەسئۇلىيىتى بارلىقىنى تونۇپ يېتىشتۇر|9.468
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38229674.mp3|ئاللاھ ھىممەت قىلىپ، ھەممىمىزنىڭ بالىلىرى بىربىرىدىن ئەقىللىق، ساغلام چوڭ بولۇۋاتىدۇ كۆز تەگمىسۇن|10.332
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33420171.mp3|مۇشۇ شەھەرنىڭ بازىرىدا، ئاشۇ قەدىمىي شەھەردىن يۆتكەپ كېلىنگەن مەدەنىي بۇيۇملارنى ئۆز كۆزۈم بىلەن كۆردۈم|7.92
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33666316.mp3|دۇنيا خەلقى شادلىق ۋە بەخت بىلەن ئەمىن تاپتى|4.86
@@ -995,7 +995,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39249569.mp3|ۋاقىتنىڭ سۇسلىشىشى ئالەمنىڭ چوڭ كۆلەملىك قۇرۇلمىسى بىلەنمۇ مۇناسىۋەتلىك بولۇشى مۇمكىن|7.524
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38389829.mp3|ياخشى ساۋاتلار ئىكەن، رەھمەت سىزگە|4.32
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33621857.mp3|كارىز ئۇزاق تارىخقا ئىگە، پارلاق مەدەنىيەت ياراتقان ئۇيغۇر خەلقىنىڭ دۇنيا مەدەنىيىتىگە قوشقان ئۇلۇغ تۆھپىسىدۇر|8.748
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38536971.mp3|ئۇيغۇرلارنىڭ ئاۋات بازىرى — دۆڭكۆۋرۈك|4.356
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38536971.mp3|ئۇيغۇرلارنىڭ ئاۋات بازىرى  دۆڭكۆۋرۈك|4.356
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38771594.mp3|ئارىستودەك ھەكىممۇ ئېيتقان ئىدىكى «بىلگەنسىرى بىلدىم بىلمەسلىكنى ئاخىر»|10.332
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38519691.mp3|ئالما شىركىتى پات ئارىدا ئېلان قىلماقچى بولغان قول سائىتى|5.076
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39370191.mp3|بەزىلىرى توي قىلىشقا جۈپ تاپالماي قىينىلىۋاتىدۇ|4.14
@@ -1021,7 +1021,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39314080.mp3|ساداقەتمەن شاگىرتىم بۇ ئىشنى ئەمدى قانداق قىلغۇلۇق؟|5.076
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38523526.mp3|ئاپامنىڭ مىجەزى يوق، ئاغرىقچان بولۇپ قاپتۇ|3.996
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33484027.mp3|ياسىن تېلېفوننى ئېتىپ، جوزىلارنى سۈرتكەچ گەپ تىڭشاۋاتقان گۈلشەنگە قاراپ قويدى|7.272
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34303363.mp3|يىگىرمە بەش — بەش بىلەن بەشنىڭ كۆپەيتمىسىگە تەڭ بولغان قوشما سان|6.048
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34303363.mp3|يىگىرمە بەش  بەش بىلەن بەشنىڭ كۆپەيتمىسىگە تەڭ بولغان قوشما سان|6.048
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39288595.mp3|ئىشىك كۆرگەننى ئالما، بۆشۈك كۆرگەننى ئال|4.248
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38537071.mp3|سىزدە «ئۇيغۇر تىلىنىڭ ئىزاھلىق لۇغىتى» دېگەن قوللانما كىتاب بارمۇ؟|6.3
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38624000.mp3|ھەئە ،مەن سۇشى ئۇستىسى|3.708
@@ -1048,7 +1048,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_26339423.mp3|ئۇ مۇشۇنداق ئىككى خىيالدا ئۇياقتىن بۇياققا مېڭىپ تۇرغاندا يېنىغا بىر تاكسى كېلىپ توختىدى،|9.072
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39261579.mp3|ھايالىق كىشى – باھالىق كىشى|2.736
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39471121.mp3|بۇ ناھايىتى بۈيۈك مەرتىۋىدۇر بۇ مەرتىۋىگە يەتكەن كىشىنىڭ ئىشى پۈتكەندە ھېساب|7.308
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_35330120.mp3|— ئۇنىڭ ماختانغانلىقىنى كۆرگەنمىدىڭ؟|3.924
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_35330120.mp3| ئۇنىڭ ماختانغانلىقىنى كۆرگەنمىدىڭ؟|3.924
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33865990.mp3|بۇ مېنىڭ ئۆمرۈمدىكى ئەڭ قىممەتلىك سوۋغا بولدى|4.248
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39300775.mp3|مەلىكە بەرنا ناھايىتى ئەقىللىق ۋە زېرەك قىز بولۇپ چوڭ بولۇشقا باشلاپتۇ|7.02
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39254959.mp3|ئاندىن مۇۋاپىق مىقداردا قايناق سۇ قۇيۇپ، ئىككى مىنۇت تۇرغۇزىمىز|5.508
@@ -1116,7 +1116,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27574789.mp3|ھازىرقى ئادەملەرغۇ بالىلىرى قاتتىقراق ئىنجىقلاپ قويسىمۇ، دوختۇرخانىغا ئاپىرىپ ئوكۇل سالدۇرىدىغان بولۇۋالدى|8.604
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39270440.mp3|بىرەر چاتاق چىقمىغاندۇ؟|3.456
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39212782.mp3|پۇلى بارلارنىڭ گۆرىنى كەڭ، پۇلى يوقلارنىڭكىنى تار كولىغىنىڭچۇ؟|6.768
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34968464.mp3|تارىخ — ئۆزىنى ئىزدەپ يۈرگەن ئىنساننىڭ پائالىيىتىدىن ئىبارەت|5.4
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_34968464.mp3|تارىخ  ئۆزىنى ئىزدەپ يۈرگەن ئىنساننىڭ پائالىيىتىدىن ئىبارەت|5.4
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38311730.mp3|ئۇ ھېلىقى بىر توپ مۇخبىرلارنى توختىتىپ قويۇپ، ماڭا شەخسەن زىيارەت قىلىش پۇرسىتى يارىتىپ بەردى|9.036
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33779291.mp3|كان قازغان بايلىق تاپار، سۆز قازغان يامانلىق|5.04
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27659259.mp3|لالما بولغۇچە سالما بول|3.888
@@ -1169,7 +1169,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39277000.mp3|مېنى قوغلىۋەتمەكچى بولۇۋاتىدىلا|2.988
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_26605640.mp3|مەندىن يەنە گۇمان قىلىۋاتامسەن؟ زادى قاچان تۈگەيدۇ بۇ گۇمانىڭ؟|5.868
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_39241568.mp3|شۇ تاپتا خۇددى گۈل  چېچەكلەرگە ئورىنىپ، ئۈنچە  مارجانلارغا كۆمۈلگەندەك چىرايلىقلىشىپ، كىشىنىڭ تېخىمۇ ئامراقلىقىنى كەلتۈرەتتى|10.044
-/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38519033.mp3|— ئەپەندىم، بۇ نېمە قىلىق، يانچۇققا چاي قۇيغان نەدە بار؟ — دەپ سوراپتۇ|6.12
+/home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_38519033.mp3| ئەپەندىم، بۇ نېمە قىلىق، يانچۇققا چاي قۇيغان نەدە بار؟  دەپ سوراپتۇ|6.12
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_33782281.mp3|سۆزلىگەن ئەخمەق بولسىمۇ، ئاڭلىغان ئەقىللىق بولسۇن|5.904
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_26323448.mp3|ئۇ ئۆيگە كىرگەندىن كېيىن، مېنىڭ ئۇدۇلۇمغا كېلىپ ئولتۇرۇپ ئۈن سېلىپ يىغلاپ كەتتى|9.648
 /home/ashankwi/commonVoiceData/ug/trainFiles//common_voice_ug_27276875.mp3|دەردى يوققا ۋاي چىشىم دېمە|3.924

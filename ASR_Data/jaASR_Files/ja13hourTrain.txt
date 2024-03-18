@@ -4006,7 +4006,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26025345.mp3|スペンスは言った：「マローンはパレードについて書いた。」|5.184
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36289333.mp3|今日の物理学というも、かかる立場から発展し来ったものでなければならない。|8.028
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36206973.mp3|三学期は教壇に立たず、教授会に顔を出したり、|4.896
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051784.mp3|聖ケント — 誰もが彼を知っています — リンゴ、チェリー、ホップ。|4.572
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051784.mp3|聖ケント  誰もが彼を知っています  リンゴ、チェリー、ホップ。|4.572
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26189694.mp3|フェルディナンドは続けて、ディースト、ゴッホ、ヘネプ、リンブルフ、およびシェンクの攻略に成功しました。|8.136
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25893790.mp3|一日中いつでも長い祈りを捧げることができます。|5.256
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051998.mp3|この精度に対する影響は比較的小さかったが、エネルギーを素早く消費し、有効距離を制限した。|6.444

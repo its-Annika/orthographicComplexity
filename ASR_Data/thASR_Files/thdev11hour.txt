@@ -2561,7 +2561,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25662673.mp3|ฉันจะขึ้นรถบัส|3.168
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25631569.mp3|สีผนังในออฟฟิศนั้นเป็นสีน้ำตาลที่น่าเบื่อและเศร้าสร้อย|5.22
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25669286.mp3|แล้วพวกเขากินไหม|3.276
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25899385.mp3|และเป็นอีกครั้งที่ฉันงานเข้าแล้ว— งานเข้าหนักด้วย|6.948
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25899385.mp3|และเป็นอีกครั้งที่ฉันงานเข้าแล้ว งานเข้าหนักด้วย|6.948
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25719181.mp3|ตอนฉันเป็นเด็ก ฉันรักการซื้อไอศกรีมเชอร์เบทที่ร้านขนมหวาน|7.776
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25647616.mp3|คุณนอนหลับเมื่อไร|3.168
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25843537.mp3|ยิ่งอยู่นานยิ่งเห็นความจริง|3.996
