@@ -6,6 +6,7 @@ python3 makeTraingSets.py path/to/data/folder path/to/data/file languageCode
 from mutagen.mp3 import MP3
 import os
 import sys
+import re
 
 dataFolder = sys.argv[1]
 dataFile = sys.argv[2]
@@ -16,7 +17,7 @@ transcriptDict = {}
 #read in path,transcription from tsv file
 with open(dataFile) as d:
 	for line in d:
-		transcriptDict[line.split("\t")[1]] = line.split("\t")[2]
+		transcriptDict[line.split("\t")[1]] = re.sub("[.!?\-\"\',;:]","",line.split("\t")[2])
 
 storage = []
 hourChunk = []
@@ -42,12 +43,12 @@ totalHours = len(storage)
 #write testing data files, 1 hour, 2 hours, 3 hours ...
 
 try:
-	os.mkdir(langCode + "testingFiles")
+	os.mkdir(langCode + "ASR_Files")
 except:
 	pass
 
 for i in range(1,totalHours + 1):
-	with open(langCode + "testingFiles/" + langCode + str(i) + "hourTrain.txt", "w") as file:
+	with open(langCode + "ASR_Files/" + langCode + str(i) + "hourTrain.txt", "w") as file:
 		file.write("path|transcript|duration\n")
 		for path,transcript,duration in sum(storage[0:i], []):
 			file.write(path + "|" + transcript + "|" + str(duration) + "\n") 

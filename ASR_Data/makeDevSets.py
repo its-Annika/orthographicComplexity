@@ -6,6 +6,7 @@ python3 makeDevSets.py path/to/clips/folder path/to/dev/file languageCode
 from mutagen.mp3 import MP3
 import os
 import sys
+import re
 
 dataFolder = sys.argv[1]
 dataFile = sys.argv[2]
@@ -16,7 +17,7 @@ transcriptDict = {}
 #read in path,transcription from tsv file
 with open(dataFile) as d:
 	for line in d:
-		transcriptDict[line.split("\t")[1]] = line.split("\t")[2]
+		transcriptDict[line.split("\t")[1]] = re.sub("[.!?\-\"\',;:]","",line.split("\t")[2])
 
 storage = []
 hourChunk = []

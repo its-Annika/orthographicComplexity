@@ -25,7 +25,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35888701.mp3|必要なパソコンを買う金を工面する|3.996
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25989112.mp3|その上で彼はそこには入らないと言いました。|4.536
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26038022.mp3|この番組は、毎晩ジム・オルブライトの司会でした。|3.708
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990534.mp3|P-gpの異所的結合ポケットには、芳香族アミノ酸側鎖が並んでいます。|5.904
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990534.mp3|Pgpの異所的結合ポケットには、芳香族アミノ酸側鎖が並んでいます。|5.904
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36332572.mp3|体にいいと宣伝してるけど、飲んでる人まわりで見たことない|5.076
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35847039.mp3|香川県丸亀市|3.24
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26001266.mp3|彼女ｊは左利きのピッチングをしていたものの、ゴルフは右利きを習得した。|5.796
@@ -66,13 +66,13 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36333939.mp3|記憶の中のまま、砂場は変わっていなかった|3.456
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_19779851.mp3|みんな、この大学の学生です。|3.408
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35870986.mp3|吾輩は藁の上から急に笹原の中へ棄てられたのである|6.156
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26000806.mp3|この遺伝子は、BCR-ABL融合蛋白質をエンコードする。|4.788
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26000806.mp3|この遺伝子は、BCRABL融合蛋白質をエンコードする。|4.788
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26031385.mp3|ジョン王は息子と一緒に泳ぐように誘った。|4.104
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26068095.mp3|フォーラムの「対話」での講演者の選択も抗議の火付け役となりました。|4.608
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26015579.mp3|地元の住民はよく、ベリー・セント・エドマンズをシンプルに「ベリー」と呼ぶ。|4.356
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26142053.mp3|ケルベロスは、もっと安全な方法で、認証を行うようにデザインされた。|4.644
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36335596.mp3|社会というのは、矛盾的自己同一的世界の自己形成として成立するのである。|4.248
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905078.mp3|フィクションとノンフィクション..もちろん私はここに無駄に座っているわけではありません。|7.02
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905078.mp3|フィクションとノンフィクションもちろん私はここに無駄に座っているわけではありません。|7.02
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26081082.mp3|彼らは、切り裂きジャックの心を読み、操作することができます。|5.04
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_24785877.mp3|教室に机といすがあります。|3.708
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26068003.mp3|雪で覆われた大きな棒を運びながら雪の中を走っている茶色の犬|4.896
@@ -245,7 +245,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36284090.mp3|抽象的論理の立場から具体的論理的に考えることはできない。|3.78
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26015420.mp3|地元の主要競争相手であるフィルコが閉鎖された工場を買収し、そこに冷凍倉庫を建設しました。|6.516
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36315640.mp3|この兵器では歯が立たない|2.52
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014345.mp3|Rivera は、同様に、O'Gorman の絵にも影響を与えました。|4.536
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014345.mp3|Rivera は、同様に、OGorman の絵にも影響を与えました。|4.536
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36361010.mp3|三重県伊勢市|2.448
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26095378.mp3|対戦表の勝者の予測には、さまざまな方法が使用されます。|5.832
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35949109.mp3|水から揚がるのは、いい魚ばかりとは限らない|3.312
@@ -413,7 +413,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26080564.mp3|寺院は広州地下鉄の西門口駅から北へ徒歩圏内にあります。|5.22
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36325582.mp3|信頼できるソースを教えてくれ|2.088
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26027334.mp3|さらにコード番号では、車がオートマチックもしくはマニュアルトランスミッションを持っていたかどうかを知ることが出来る。|7.632
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26008946.mp3|Blu-rayの限定版には、完全版と劇場版の両方が含まれる。|4.5
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26008946.mp3|Blurayの限定版には、完全版と劇場版の両方が含まれる。|4.5
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26039214.mp3|ドライキャスクを使用した集中保管施設がアハウスにあります。|4.536
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25986102.mp3|新バージョンは指摘されて、フィグメントと一緒の想像への旅路、と名付けられました。|6.228
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_27751574.mp3|回線が混んでるのか、スマホがポンコツなのか原因を絞りこむ|5.796
@@ -468,7 +468,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35846613.mp3|砂の塊を砕くように粉々になり、消え去る|3.348
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20727700.mp3|わたしは毎朝三キロ走ります。|4.08
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_23241212.mp3|南西部ウォーレンはベイアーマンファームズとフィッツジェラルドの地区で構成される|6.624
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905146.mp3|悲観しないでください!|2.808
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905146.mp3|悲観しないでください|2.808
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35973354.mp3|それら物理的、生物学的、心理的現象を一定の関係において|6.48
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26096676.mp3|Kabyliaの多くの町は、党の創設後に彼らを支援しました。|4.608
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_27695963.mp3|私が社会を歴史的身体的と考える所以である。|5.076
@@ -566,7 +566,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_38887073.mp3|黒い軽気球は、どうしても見つけることができませんでした。空いちめんに雲が低くたれていましたので、軽気球は雲の中へはいってしまったのかもしれません。|9.396
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_19779396.mp3|ユーザーにも責任がある、との論理は、暴論と言わざるをえません。|6.216
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26134771.mp3|人々はソファに座って笑っています。|3.312
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990468.mp3|映画は、キャサリンとアルバートが「ワーフー!」と言っているところで終わる。|4.248
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990468.mp3|映画は、キャサリンとアルバートが「ワーフー」と言っているところで終わる。|4.248
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051408.mp3|彼の両親は彼の潜在的能力に気づき、ピアノのレッスンを受けさせました。|5.256
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014224.mp3|被告人は妻がお風呂に倒れたと主張した。|3.42
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20446588.mp3|松井さんのうちはわたしのうちのそばです。|4.488
@@ -663,7 +663,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20468826.mp3|テーブルの上にマッチがあります。|3.144
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20048502.mp3|怒れば怒るほど、火に油を注ぐようなものだった。|7.032
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051431.mp3|フセインと私は一緒に夕食を食べるかもしれない。|3.672
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25885012.mp3|後に彼は、『Moth or Phoenix?』という本の中で、これらの出来事について書いた。|7.956
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25885012.mp3|後に彼は、『Moth or Phoenix』という本の中で、これらの出来事について書いた。|7.956
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26000026.mp3|彼女は、エルモのあまりに絶えることのない落胆に、ペットロックのロコをつれてくる。|6.588
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25118479.mp3|我慢しきれず、大声で怒鳴りつけ、その日の撮影は中止になってしまう。|9.216
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26042063.mp3|母親に育てられ、週末は父親と一緒に過ごすこともあった。|6.048
@@ -693,7 +693,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36349893.mp3|駄目です。|1.908
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905188.mp3|電車は満員でした。|2.916
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905087.mp3|コモには、セント・ジョージ・ロウイング・クラブがあります。|4.896
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26038021.mp3|ムスカは、「Tony Hawk's」シリーズのビデオゲームのプレイヤブルキャラクターです。|4.896
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26038021.mp3|ムスカは、「Tony Hawks」シリーズのビデオゲームのプレイヤブルキャラクターです。|4.896
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36323239.mp3|問題はその笑い所である|3.816
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25989579.mp3|それが政府の外交および貿易政策を管理します。|6.012
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22732714.mp3|毎日日本語を勉強していますが、漢字が覚えられません。|6.144
@@ -892,7 +892,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22437988.mp3|日本の夏は暑いです。|2.904
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36307633.mp3|ここは、不幸にして川辺から少しはなれているため|6.12
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25948843.mp3|ビッベとチャニングは、彼の最も象徴的な作品のいくつかを演奏することで、彼の遺産を継続しています。|8.928
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26162836.mp3|ユニコーン企業が存在しないというのは「実体」何が真実なのだろうか?|6.66
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26162836.mp3|ユニコーン企業が存在しないというのは「実体」何が真実なのだろうか|6.66
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26013854.mp3|ケインズは、金利は流動性の好みによって決定されると主張している。|5.22
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20492411.mp3|イさんは日本に三年いるつもりです。|4.824
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20013027.mp3|きょうはとても天気がいいです。|3.624
@@ -1029,7 +1029,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014190.mp3|それはマンチェスターからプレストンラインにあります。|3.456
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22451667.mp3|一年中、擦り切れた、小倉の詰めえり服、一着でとおす。|5.712
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36030724.mp3|而して我々は矛盾的自己同一的世界の自己形成によって、|6.3
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26066747.mp3|ホワイト･ジンファンデルはブドウ種ではなく、ジンファンデル.のブドウを処理する方法である。|5.616
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26066747.mp3|ホワイト･ジンファンデルはブドウ種ではなく、ジンファンデルのブドウを処理する方法である。|5.616
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36324790.mp3|この情報コーナー、ほとんど宣伝だな|3.24
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26058922.mp3|その間、「ジェム」は彼自身の国を含め世界を征服しました。|6.048
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26081049.mp3|サングラスの男性が熱心な様子でバス停の近くに立っています。|6.336
@@ -1172,7 +1172,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36353158.mp3|誰かに何かを期待することはほどほどに|3.816
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36305948.mp3|多は一の多である。然るに個物は何処までも独立的たることによって個物である。|6.516
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36207281.mp3|最近はテレビ番組も配信に力を入れてる|3.78
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25938353.mp3|したがって、土地の発見はNo.の掘削の功績だった。|4.716
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25938353.mp3|したがって、土地の発見はNoの掘削の功績だった。|4.716
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26130735.mp3|彼の運転手は、それこそがその煙のないタバコの取り組みが進んでいる方向だ、と彼にいった。|6.192
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_21560575.mp3|スーパーへ買い物に行きます。|3.72
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36319458.mp3|わたしの弱さゆえに、あなたを傷つけてしまった。|3.78
@@ -1591,7 +1591,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25892248.mp3|ショーの公演と公演の間の、ある夜。|5.04
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051480.mp3|アウグストゥスのことを忘れることは決してないけど、でも彼への愛はなくなってしまったの。|5.544
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36283564.mp3|君との久しぶりの再会は、空の木箱との出会いでもあった。|4.896
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26134768.mp3|GatesはCabrini-Greenハウジングプロジェクトから来た若い男性だ。|5.184
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26134768.mp3|GatesはCabriniGreenハウジングプロジェクトから来た若い男性だ。|5.184
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26066786.mp3|また、彼は、キックオフ・リターナーとして活躍しました。|3.816
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36136255.mp3|ここに六歳までおりましたが、|2.736
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36316581.mp3|和歌山県高野町|2.808
@@ -1709,12 +1709,12 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26130673.mp3|母性本能として知られているもののためにですか？|3.744
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36340792.mp3|午後に証言したよ。|2.628
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014675.mp3|経験的なベイズ法で使用されるロビンス補題は、彼にちなんで名付けられました。|5.328
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26228320.mp3|そして、彼らが最高の栄誉を得て卒業することを保証します!|5.22
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26228320.mp3|そして、彼らが最高の栄誉を得て卒業することを保証します|5.22
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26142138.mp3|私たちに、何と呼ばせますか？|2.7
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26096390.mp3|合算した時間が一番短かった選手が勝者となった。|4.176
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20404608.mp3|外国で日本の自動車が売られています。|4.32
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25925978.mp3|しかし、ローレンコリンズとジェイクエプスタインも登場します。|6.3
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26236627.mp3|新しい理論T'が両方の質問に答えられる場合、Tは放棄される。|5.976
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26236627.mp3|新しい理論Tが両方の質問に答えられる場合、Tは放棄される。|5.976
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22411993.mp3|山田さんは妹に本をくれました。|4.176
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_24991262.mp3|この教室の壁は厚いです。|3.096
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014255.mp3|女性は立ち、花の花輪を作ります。|3.168
@@ -1860,7 +1860,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990506.mp3|その密接に関連している方言は、イラクアラビア語でしばしばまとめて、「Soureth」または「シリア語」と呼ばれる。|7.02
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22732666.mp3|あした荷物が着きます。|4.056
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990495.mp3|燕はその後、漢王朝の直轄領となった。|3.6
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25962150.mp3|「これは何だ?」とうとうピーターは言いました。|4.356
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25962150.mp3|「これは何だ」とうとうピーターは言いました。|4.356
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22344093.mp3|戦争末期、ソ連軍と戦って、捕虜になった体験を持つ人だ。|6.48
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051842.mp3|彼の孫息子であるジョン・ロスは、小説「Unintended Consequences（予期せぬ結果）」の作家です。|7.92
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26015436.mp3|古代の砦に関連する伝説がある。|2.808
@@ -1906,7 +1906,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26124385.mp3|ピットはスタジアムの東端のトンネルにありました。|3.996
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36320443.mp3|場所教えて。|1.548
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26144712.mp3|ダニーは勝利を祝うために、それを飲もうと提案する。|4.86
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26038950.mp3|これは、ショーにおいて、彼自身で「Quantick's World」と名付けた時間枠に発展しました。|5.688
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26038950.mp3|これは、ショーにおいて、彼自身で「Quanticks World」と名付けた時間枠に発展しました。|5.688
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_24523882.mp3|週休二日制になっていて、土曜日は休みだった。|4.536
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36284158.mp3|トルコの最大都市はイスタンブールである|2.268
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26124348.mp3|バイクに乗った何人かの人が、トロッコ車と同じ方向に向かって道路を走っている。|5.616
@@ -1929,7 +1929,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26001017.mp3|アルバニアの国民運動は、いろいろな要因が刺激となった。|4.428
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26001347.mp3|ウィルソンは、長い間ウィンザーで貧困撲滅運動家を務めた。|4.14
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26066853.mp3|否定的な肝頸静脈逆流はバット・キアリ症候群に見られます。|5.076
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905144.mp3|赤いシダが育つ場所...|3.276
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905144.mp3|赤いシダが育つ場所|3.276
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36345182.mp3|世界はどこまでも超身体的として記号によって表現せられる、即ち単に思惟的と考えられるであろう。|7.92
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26008768.mp3|首長の名前は、支持することを意味します。|3.6
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20815358.mp3|きのうデパートでセーターやスカートなどを買いました。|7.776
@@ -1956,9 +1956,9 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014301.mp3|オンタリオ州の制度はノンアルコール飲料には適用されていない。|3.78
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36353033.mp3|芸術は非論理的と考えられる。|2.16
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_19492776.mp3|きのうは疲れていたので、すぐ寝てしまいました。|4.848
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25921860.mp3|何をしたか見てみろ!|3.096
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25921860.mp3|何をしたか見てみろ|3.096
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36306469.mp3|買う理由が安さなら買わない|2.916
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26236576.mp3|歴史的背景についての理解を深めるには、記事Austria-Hungaryを参照してください。|7.38
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26236576.mp3|歴史的背景についての理解を深めるには、記事AustriaHungaryを参照してください。|7.38
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25896273.mp3|そのエクストラ作品にリンゴ・スター監督は登場しない。|5.976
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26037566.mp3|彼が支持した左翼の思想は彼に「赤いブルジョワ」というニックネームを与えました。|6.66
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26030166.mp3|彼はその男のことをまだ知らなかったが、彼が現れたときに慣れた目で彼だとわかるだろう。|6.444
@@ -2008,7 +2008,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36139104.mp3|消費電力がすぐにわかるので人気があります|3.636
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26024391.mp3|オートバイのグループが駐車場を走り回る|4.176
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20184306.mp3|夕食は、一行がそろって、刺身と、牛肉の鉄板焼きをつつく。|7.368
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25884997.mp3|これで仮想のループ"b"を考えることができます。|5.22
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25884997.mp3|これで仮想のループbを考えることができます。|5.22
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990457.mp3|どちらもそのアーティストのファンからはあまり評判が良くなかった。|3.924
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26008907.mp3|しかし、国民はヒックスの状態を知らなかった。|3.24
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014630.mp3|映画の慎重なデザインはこれを軽減することができます。|4.14
@@ -2050,7 +2050,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36345033.mp3|与えられたものは作られたものであり、自己否定的に作るものを作るものである。|5.508
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014191.mp3|マーズダイアル（MarsDial）は、教育的なアウトリーチであり、校正対象でもあることを意図していました。|5.58
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25986103.mp3|アンダーソンはワシントン大学から英語の博士号を授与されています。|4.788
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014339.mp3|名前「Rosmerta」はガリア語であり、 「ro-smert-a」と分析される。|5.796
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014339.mp3|名前「Rosmerta」はガリア語であり、 「rosmerta」と分析される。|5.796
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25989252.mp3|ねえ、何故ですか？|3.096
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26024419.mp3|ブランドはミルトンハイスクールで学びました。|3.708
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22921081.mp3|部屋に入ったら、ドアを閉めます。|3.0
@@ -2088,7 +2088,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36323663.mp3|親鸞が「歎異抄」においての|2.16
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36311616.mp3|岐阜県養老町|2.628
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36318035.mp3|もなかと言えばお菓子よりアイスを思いつく|3.456
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26134634.mp3|"ローデシアから来たのを覚えているだろう」「なんてことだ、殺人犯め!」と彼は声を詰まらせた。|6.444
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26134634.mp3|ローデシアから来たのを覚えているだろう」「なんてことだ、殺人犯め」と彼は声を詰まらせた。|6.444
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25962824.mp3|コーエン氏はまた、トゥルー・マジョリティおよびセンシブル・プライオリティのビジネスリーダーを監督した。|7.668
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36308240.mp3|観光地はすごい人出でお店はうれしい悲鳴をあげている|5.256
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26096420.mp3|おじいさんはその意味を、にやりとした表情でほのめかします。|4.176
@@ -2211,8 +2211,8 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014172.mp3|キャザーの性的同一性は、学者の間で依然として争点となっている。|4.716
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26080938.mp3|一番大きい湾はプラセンシア湾だろう。|4.5
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26142155.mp3|彼はまだ生きているだけでなく、Delのネズミも生きている、ミスタージングル。|4.932
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26068401.mp3|アッテルの一連の番組解説は"The Ugly American（醜いアメリカ人）"と呼ばれていました。|5.94
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905821.mp3|自分の展覧会を開くのはやめてください!|5.04
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26068401.mp3|アッテルの一連の番組解説はThe Ugly American（醜いアメリカ人）と呼ばれていました。|5.94
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905821.mp3|自分の展覧会を開くのはやめてください|5.04
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20425602.mp3|あしたの朝洗濯をしなければなりません。|4.056
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051027.mp3|イェーガーはメッセンジャーとなり、映像制作でハバードを支援した。|4.716
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26024416.mp3|その唯一の収入源は広告だ。|3.528

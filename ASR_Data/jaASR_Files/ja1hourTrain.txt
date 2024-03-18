@@ -25,7 +25,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35888701.mp3|必要なパソコンを買う金を工面する|3.996
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25989112.mp3|その上で彼はそこには入らないと言いました。|4.536
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26038022.mp3|この番組は、毎晩ジム・オルブライトの司会でした。|3.708
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990534.mp3|P-gpの異所的結合ポケットには、芳香族アミノ酸側鎖が並んでいます。|5.904
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990534.mp3|Pgpの異所的結合ポケットには、芳香族アミノ酸側鎖が並んでいます。|5.904
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36332572.mp3|体にいいと宣伝してるけど、飲んでる人まわりで見たことない|5.076
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35847039.mp3|香川県丸亀市|3.24
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26001266.mp3|彼女ｊは左利きのピッチングをしていたものの、ゴルフは右利きを習得した。|5.796
@@ -66,13 +66,13 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36333939.mp3|記憶の中のまま、砂場は変わっていなかった|3.456
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_19779851.mp3|みんな、この大学の学生です。|3.408
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35870986.mp3|吾輩は藁の上から急に笹原の中へ棄てられたのである|6.156
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26000806.mp3|この遺伝子は、BCR-ABL融合蛋白質をエンコードする。|4.788
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26000806.mp3|この遺伝子は、BCRABL融合蛋白質をエンコードする。|4.788
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26031385.mp3|ジョン王は息子と一緒に泳ぐように誘った。|4.104
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26068095.mp3|フォーラムの「対話」での講演者の選択も抗議の火付け役となりました。|4.608
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26015579.mp3|地元の住民はよく、ベリー・セント・エドマンズをシンプルに「ベリー」と呼ぶ。|4.356
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26142053.mp3|ケルベロスは、もっと安全な方法で、認証を行うようにデザインされた。|4.644
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36335596.mp3|社会というのは、矛盾的自己同一的世界の自己形成として成立するのである。|4.248
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905078.mp3|フィクションとノンフィクション..もちろん私はここに無駄に座っているわけではありません。|7.02
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905078.mp3|フィクションとノンフィクションもちろん私はここに無駄に座っているわけではありません。|7.02
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26081082.mp3|彼らは、切り裂きジャックの心を読み、操作することができます。|5.04
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_24785877.mp3|教室に机といすがあります。|3.708
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26068003.mp3|雪で覆われた大きな棒を運びながら雪の中を走っている茶色の犬|4.896
@@ -245,7 +245,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36284090.mp3|抽象的論理の立場から具体的論理的に考えることはできない。|3.78
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26015420.mp3|地元の主要競争相手であるフィルコが閉鎖された工場を買収し、そこに冷凍倉庫を建設しました。|6.516
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36315640.mp3|この兵器では歯が立たない|2.52
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014345.mp3|Rivera は、同様に、O'Gorman の絵にも影響を与えました。|4.536
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014345.mp3|Rivera は、同様に、OGorman の絵にも影響を与えました。|4.536
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36361010.mp3|三重県伊勢市|2.448
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26095378.mp3|対戦表の勝者の予測には、さまざまな方法が使用されます。|5.832
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35949109.mp3|水から揚がるのは、いい魚ばかりとは限らない|3.312
@@ -413,7 +413,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26080564.mp3|寺院は広州地下鉄の西門口駅から北へ徒歩圏内にあります。|5.22
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36325582.mp3|信頼できるソースを教えてくれ|2.088
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26027334.mp3|さらにコード番号では、車がオートマチックもしくはマニュアルトランスミッションを持っていたかどうかを知ることが出来る。|7.632
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26008946.mp3|Blu-rayの限定版には、完全版と劇場版の両方が含まれる。|4.5
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26008946.mp3|Blurayの限定版には、完全版と劇場版の両方が含まれる。|4.5
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26039214.mp3|ドライキャスクを使用した集中保管施設がアハウスにあります。|4.536
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25986102.mp3|新バージョンは指摘されて、フィグメントと一緒の想像への旅路、と名付けられました。|6.228
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_27751574.mp3|回線が混んでるのか、スマホがポンコツなのか原因を絞りこむ|5.796
@@ -468,7 +468,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35846613.mp3|砂の塊を砕くように粉々になり、消え去る|3.348
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20727700.mp3|わたしは毎朝三キロ走ります。|4.08
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_23241212.mp3|南西部ウォーレンはベイアーマンファームズとフィッツジェラルドの地区で構成される|6.624
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905146.mp3|悲観しないでください!|2.808
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905146.mp3|悲観しないでください|2.808
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35973354.mp3|それら物理的、生物学的、心理的現象を一定の関係において|6.48
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26096676.mp3|Kabyliaの多くの町は、党の創設後に彼らを支援しました。|4.608
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_27695963.mp3|私が社会を歴史的身体的と考える所以である。|5.076
@@ -566,7 +566,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_38887073.mp3|黒い軽気球は、どうしても見つけることができませんでした。空いちめんに雲が低くたれていましたので、軽気球は雲の中へはいってしまったのかもしれません。|9.396
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_19779396.mp3|ユーザーにも責任がある、との論理は、暴論と言わざるをえません。|6.216
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26134771.mp3|人々はソファに座って笑っています。|3.312
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990468.mp3|映画は、キャサリンとアルバートが「ワーフー!」と言っているところで終わる。|4.248
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990468.mp3|映画は、キャサリンとアルバートが「ワーフー」と言っているところで終わる。|4.248
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051408.mp3|彼の両親は彼の潜在的能力に気づき、ピアノのレッスンを受けさせました。|5.256
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26014224.mp3|被告人は妻がお風呂に倒れたと主張した。|3.42
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20446588.mp3|松井さんのうちはわたしのうちのそばです。|4.488
@@ -663,7 +663,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20468826.mp3|テーブルの上にマッチがあります。|3.144
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_20048502.mp3|怒れば怒るほど、火に油を注ぐようなものだった。|7.032
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26051431.mp3|フセインと私は一緒に夕食を食べるかもしれない。|3.672
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25885012.mp3|後に彼は、『Moth or Phoenix?』という本の中で、これらの出来事について書いた。|7.956
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25885012.mp3|後に彼は、『Moth or Phoenix』という本の中で、これらの出来事について書いた。|7.956
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26000026.mp3|彼女は、エルモのあまりに絶えることのない落胆に、ペットロックのロコをつれてくる。|6.588
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25118479.mp3|我慢しきれず、大声で怒鳴りつけ、その日の撮影は中止になってしまう。|9.216
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26042063.mp3|母親に育てられ、週末は父親と一緒に過ごすこともあった。|6.048
@@ -693,7 +693,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36349893.mp3|駄目です。|1.908
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905188.mp3|電車は満員でした。|2.916
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905087.mp3|コモには、セント・ジョージ・ロウイング・クラブがあります。|4.896
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26038021.mp3|ムスカは、「Tony Hawk's」シリーズのビデオゲームのプレイヤブルキャラクターです。|4.896
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26038021.mp3|ムスカは、「Tony Hawks」シリーズのビデオゲームのプレイヤブルキャラクターです。|4.896
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36323239.mp3|問題はその笑い所である|3.816
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25989579.mp3|それが政府の外交および貿易政策を管理します。|6.012
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22732714.mp3|毎日日本語を勉強していますが、漢字が覚えられません。|6.144
