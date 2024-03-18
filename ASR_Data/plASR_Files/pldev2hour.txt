@@ -1,0 +1,1403 @@
+path|transcript|duration
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35130850.mp3|"Ogrom ich przewyższał wszystko, co w życiu widzieli polscy rycerze."|5.436
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20618434.mp3|Zawezwany lekarz oświadczył się za natychmiastową operacją.|8.16
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34580685.mp3|Śmieją się z nas wszystkich|3.132
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21083995.mp3|Może on jeszcze wytrzyma.|3.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20928184.mp3|Cóż ci się stało nagle?|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25879396.mp3|"Ja co wieczór będę przypływać do ciebie."|3.636
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25837004.mp3|"„Kura do rosołu!"|2.016
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26962592.mp3|Zgadzam się z propozycją, ażeby umowa wspólnotowa zastąpiła niektóre postanowienia obecnie obowiązujących umów dwustronnych|8.46
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716311.mp3|"Jeszcze jeden skok i wszystkie psy znalazły się za mną."|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22770343.mp3|Kupiłem tę piosenkę i mogę ją odtwarzać gdzie chcę.|4.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26153474.mp3|To publiczne złożenie podpisów uświadomi europejskim obywatelom znaczenie europejskich przepisów prawnych|8.028
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25111305.mp3|"Poznałem obcą twarz."|2.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23608639.mp3|"Tylko kształt głowy Ibisa egipskiego trwał najdłużej."|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27002635.mp3|I to jest problem, którym musimy się zająć|3.636
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21642772.mp3|"Ani mnie, ani pana nie będzie w aptece."|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27369890.mp3|Na obronę zagranicznej obecności militarnej w Afganistanie przedstawiane są dwa argumenty|6.804
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21698725.mp3|Oddamy ci wszystkie hołdy i całą cześć umarłym należną!|4.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30529034.mp3|Takie działania będą przyczyniać się do powstawania miejsc pracy i pobudzać konsumpcję|5.94
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20946099.mp3|— Nie wiem… ale może byłoby najlepiej… nie, to na pewno głupie.|7.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38569221.mp3|"Kropił na prawo i na lewo, wolno wznosząc rękę."|5.94
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20651743.mp3|Obojętne, czy mówi do jednego słuchacza, czy do stu.|4.368
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390725.mp3|Nie możemy dyskryminować jakiejś choroby, tak samo jak nie możemy dyskryminować jakiegoś kraju|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20946361.mp3|Nie złoży obciążającego świadectwa przeciw mordercy swojej siostry.|7.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25274164.mp3|"Obejrzałem się zaciekawiony."|3.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21156552.mp3|Nie potrzebuję go.|3.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20896973.mp3|Ale nie martw się.|2.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27683335.mp3|"jedna osoba, jedno prawo do emisji"|3.78
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385229.mp3|"Holmes zanotował adres."|2.688
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27598307.mp3|Może pani komisarz zechciałaby podjąć tę kwestię w swojej odpowiedzi|6.66
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112799.mp3|Źle to świadczy o jedności Europy w kontekście tego ważnego wydarzenia|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36943003.mp3|Cel był jasny, wspieramy rolę kobiet we współpracy na rzecz rozwoju|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643756.mp3|"Nikt nie odważał się spojrzeć mu prosto w oczy."|4.8
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20867185.mp3|Och, ja nieszczęśliwa!|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731973.mp3|"Rysowanie łusek rybich w ten sposób przez delikatne ukłucie jest właściwe Chinom."|6.96
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26365635.mp3|Chciałbym prosić wszystkich o powstanie i uczczenie pamięci zmarłych minutą ciszy|6.012
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23629197.mp3|"Zwracam uwagę pańską, że tym sposobem poprawi pan swoje położenie."|6.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21083720.mp3|— Wydajesz mi się bardzo zmęczona, Saro — rzekła.|4.632
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21540780.mp3|"Niedługiem jednak było ich szczęście."|4.032
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35919936.mp3|Chciałbym prosić, aby zdał sobie sprawę, że w kilku pozycjach tak się nie stanie|7.92
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30486449.mp3|na piśmie - Przedmiotowe sprawozdanie jest zwycięstwem orędowników sprawy rolnictwa fińskiego i europejskiego|8.28
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22462551.mp3|"Całe miasto musi płonąć."|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25459116.mp3|"Przestraszyłem się sam własnego głosu."|3.924
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20946059.mp3|Po chwili uwagę jego zwrócił jakiś białawy przedmiot, zaplątany w pnącze.|7.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21496527.mp3|"Na drugi dzień morze wyrzuciło na brzeg szczątki rozbitej łodzi Piotra."|5.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20928257.mp3|To wszystko brednie.|2.928
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21077277.mp3|"Na honor, moja klacz miała ciężką przeprawę."|7.032
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25357800.mp3|"Po ciężkiej pracy odlał nowy dzwon i znów zaniesiono go przed pałac cesarski."|7.848
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420191.mp3|Również ta kwestia została szczegółowo opisana w rezolucji|4.716
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35919677.mp3|Kwestia jądrowa nadal stanowi problem|4.716
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38567069.mp3|Potrzebujemy innowacyjnego podejścia politycznego, aby się nimi zająć|6.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24719938.mp3|Po co miałbym uciekać z więzienia?|2.988
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20810354.mp3|To rzekłszy, odwróciła się i wybiegła z pokoju.|4.872
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20610287.mp3|Gdy się ciotka w końcu zorientowała, powiedziała: — Emilku, przyjdźcie do mnie z mamusią.|8.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30316211.mp3|Jednakże ta substancja reprezentuje grupę około setki innych|5.22
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26376964.mp3|Żadną|1.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999537.mp3|"Gdy wróciłem, zauważyłem, że był zaczerwieniony."|6.024
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20973867.mp3|"Nie trzeba sprowadzać Amerykan z zewnątrz, kiedy się ich ma w domu."|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27967804.mp3|Istnieje pięć elementów|2.7
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25745648.mp3|"Ale chciałem zobaczyć, co się z tobą dzieje."|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23615226.mp3|"I zawsze ta sama twarz, i nigdy innych rysów."|6.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20867157.mp3|- Cóż myślisz?|2.352
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21180802.mp3|Lecz lepiej daj mu spocząć, później znów kochanie|4.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20615323.mp3|— Mimo wszystko zrobiłabyś tak, jakbyś chciała.|4.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27971044.mp3|Chciałbym omówić kilka punktów tego świetnego sprawozdania|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21694558.mp3|"Ludzie nacisnęli na oczy kapelusze i podnieśli kołnierze, aby nie pokazywać twarzy."|5.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35919940.mp3|Na zakończenie, panie przewodniczący, chciałabym podziękować sprawozdawcom pomocniczym i innym kolegom za wspaniałą współpracę|10.152
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21025785.mp3|Wierny, mądry pies.|4.248
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32855591.mp3|Nie poparłem rezolucji z dwóch kluczowych powodów|3.636
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27422602.mp3|To nie dałoby kompletnie nic|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22998931.mp3|"Godziny moje nabrały treści, treści bogatej i świetnej."|5.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985928.mp3|Są to bowiem praktyki wyzwalające najniższe instynkty i powodujące brutalizację życia społecznego|6.732
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716338.mp3|"Dowiedziałem się coś o nim przedtem."|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32818807.mp3|Producenci opon są dotknięci równie poważnie|6.192
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26967580.mp3|Wybrzeże Kanady jest dobrym przykładem tego, jak człowiek zdołał doszczętnie zniszczyć stada dorsza|6.48
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21694605.mp3|Idę poharatać w gałę.|2.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27960342.mp3|Przyjęta rezolucja obejmuje dobre środki niezbędne w kontekście bieżącego poważnego kryzysu w tym sektorze|9.0
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22996305.mp3|"Zrozumiałem dwuznaczność, ukrytą w jego słowach."|5.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25879394.mp3|— A to dopiero awantura!|2.592
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21655249.mp3|"Stary weteran posiada męskość, krew zimną i jest ostrożny."|5.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25234722.mp3|"Ani godziny, ani minuty."|2.7
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21155825.mp3|Wsadził głębiej, językiem jak młynkiem obracał|4.728
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21085920.mp3|"Może czyjeś inicjały?"|3.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32855649.mp3|Komisja nie realizuje operacji pomocowych samodzielnie|4.32
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22256875.mp3|"Takim to wykrzyknikiem witał każdy wstrząsający obraz śmierci, który przedstawiał się naszym oczom."|7.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643599.mp3|"Proszę, masz pan!"|2.52
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32259749.mp3|To ważne dla całej Europy, a w szczególności dla Komisji|5.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21269915.mp3|I jął rozglądać się dokoła.|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072174.mp3|Statystyki europejskie|3.312
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185957.mp3|Tak, w istocie pamiętam pańskie przemówienia, pamiętam pańskie słowa|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695558.mp3|Z pewnością tak by powiedziała.|3.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27246692.mp3|Akty zastraszania miejscowej ludności i zagranicznych obserwatorów nie mogą mieć miejsca|7.272
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22998410.mp3|"Czy nie miałem prawa do szczęścia?"|3.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26951153.mp3|Parlament Europejski odrzucił ten wniosek|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25321437.mp3|"Z pewnością ona“."|2.808
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695280.mp3|A ty musisz zawsze gdzieś stać i wypatrywać.|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20607417.mp3|Nie dawali listom nagłówków, aby nie używać pewnych słów.|4.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25274151.mp3|"Dawajcie i drugą połowę."|2.7
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25229077.mp3|"Małego pożaru, kradzieży, nadużycia zaufania, awantury?..."|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20946385.mp3|To było przecież najważniejsze.|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636137.mp3|"Nic się jednak nie trafiało."|2.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363165.mp3|talentu, techniki i tolerancji|3.6
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25228895.mp3|"Coś się stało widocznie."|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072328.mp3|Teraz jesteśmy w Unii Europejskiej|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38568287.mp3|Mamy w Rumunii powiedzenie|4.32
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28797968.mp3|z uwagi na nieobecność delegacji Czadu, czy jakoś tak|6.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34580791.mp3|Ten formalny obowiązek w praktyce powoduje unieważnienie praw przyznanych na mocy Traktatu|6.3
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385177.mp3|"Obaj policjanci drzemali."|4.128
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32884040.mp3|Naszym obowiązkiem jest wsparcie tej alternatywy i zapewnienie Libijczykom ochrony przed siłami reżimu|6.84
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147293.mp3|Jednakże jeżeli rozmawia się z inwestorami, stale powtarzają oni to samo|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385248.mp3|"Miał moc człowieka w napadzie epileptycznym."|3.432
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35130826.mp3|Otwarty handel musi być sprawiedliwy|2.988
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32380010.mp3|Kontrowersyjna jest kwestia powołania krajowych ośrodków referencyjnych, które miałyby być powołane na szczeblu krajowym|8.1
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23732713.mp3|"Wahał się chwilę, potem rzekł, nawet nie drgnąwszy powieką: „Morderstwo na tle seksualnem."|9.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147312.mp3|Jest na to wyjaśnienie|2.988
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22457191.mp3|"Tu jest plan miasta, panie rotmistrzu."|4.08
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23615216.mp3|"Przez sekundę ogarnęła mnie trwoga: co będzie, gdy zabłądzę?!"|8.136
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28498500.mp3|Sytuacja kobiet na obszarach wiejskich zasługuje na naszą szczególną uwagę|6.876
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28498497.mp3|Uwzględnia ono praktyki stosowane w innych częściach świata|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21644347.mp3|"Co zaś do wódki, będziecie dostawać oznaczoną porcję, ale nie więcej."|7.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22571473.mp3|"Zaledwie jednakże uszedł kilkadziesiąt kroków, inna niespodzianka go spotkała."|6.84
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22298324.mp3|"Gdybym mógł go zapomnieć choć na jedną chwilę!"|4.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20898544.mp3|Ona wszystko gotuje dla ciebie.|3.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21345454.mp3|"Sądzę, że gdy opuszczę fotel przewodniczącego, będę mógł wskazać po nazwisku mego następcę."|7.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21318779.mp3|"Liczę jednak, że to wkrótce nastąpi."|3.432
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23864799.mp3|"On to, jak się później przekonano, wyższym był od wszystkich otaczających."|5.832
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37232391.mp3|Składam Państwu wielkie gratulacje|4.5
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27205631.mp3|Naprawdę byłoby szkoda, gdyby tak się stało, dlatego zawarliśmy kompromis|6.588
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878842.mp3|"Księżyc błyszczał na niebie, oświecając wszystko."|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390575.mp3|Krytykowano ją za jej politykę w Chinach prowadzoną przez lata i kwestionującą wspomniane motto|6.66
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20618259.mp3|«Nikogo nie widzi poza nią» — to nie jest tylko powiedzenie.|4.704
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22996681.mp3|"W tym domu wesoły śmiech."|3.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20628915.mp3|Stałem, otoczony zewsząd ludźmi.|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25363114.mp3|"Niech pan dotknie tych wielkich kości."|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23000046.mp3|"Jeszcze jako młodzieniec, nic nie znał poza nauką."|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21161008.mp3|— Sama nie wiem — odpowiedziała Sara.|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729610.mp3|Istnieje niebezpieczeństwo złamania równowagi miedzy interesem kapitału a konsumentem|6.012
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27205620.mp3|Teraz, ze względu na równą reprezentację, udzielę głosu panu komisarzowi Andorowi|7.2
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21535295.mp3|"Jakiekolwiek są pobudki tych niezwykłych zbrodni, rabunek jest zupełnie wyłączony."|7.152
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27068995.mp3|Szkoda, że zostały podważone awanturniczymi działaniami wobec Izraela|5.58
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23062863.mp3|"Nienawidziłem tego pilnika."|3.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20814768.mp3|— Prawo zgoła nie wtrąca się do spraw tego rodzaju.|4.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985526.mp3|Postrzegam to raczej jako proces ewolucyjny niż rewolucyjny|4.572
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26175539.mp3|Problem rodzi się wtedy, gdy tajemnice, zamiast pozostać wyjątkiem, stają się regułą|7.848
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21535258.mp3|"Dziewczę rozstawało się z nim ze łzami."|7.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22462527.mp3|"Nie pojmuję, jak można spać w takich chwilach."|4.08
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072227.mp3|Duże znaczenie ma również opracowanie i wdrożenie skuteczniejszego systemu praktycznych mechanizmów współpracy|7.848
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27634773.mp3|Konieczność realizacji reform podyktowana jest również potrzebą umocnienia wolności i pluralizmu mediów|7.668
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20973951.mp3|— Uczyniłeś to już, i w ogromnej nawet mierze!|3.672
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20614324.mp3|Noc była ciemna.|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35747297.mp3|Mogą państwo również przeczytać o prawie do zakładania funduszy dla osób fizycznych|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22257981.mp3|"Nie wiem, czy będę posiadał już dość siły, aby zapisać to wszystko."|5.928
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20657639.mp3|— Tobie je składam w ofierze, o piękny, połyskujący płomieniu.|5.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29112714.mp3|Aby znaleźć wyjście z tej sytuacji, musi jednak nastąpić pewnego rodzaju porozumienie, pewien kompromis|7.596
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25234723.mp3|"Wiedz mój panie, że kobiety lubią rozmowę."|3.6
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26593738.mp3|Dlatego wyrażamy nasze głębokie zadowolenie|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20689284.mp3|Stało się to, co się nie zawsze i nie każdemu przytrafia.|4.032
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32818806.mp3|Proces ratyfikacji traktatu wreszcie dobiegł końca, dzięki podpisowi prezydenta Republiki Czeskiej|9.792
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20633916.mp3|To chodzenie na spacer było jeszcze nudniejsze niż siedzenie w domu.|5.376
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087683.mp3|Dzikie hordy oblegały już miasto od półtora miesiąca.|4.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21161031.mp3|Może się pomyliłem.|2.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20882480.mp3|Właśnie nadchodzi lekarz.|3.792
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22546342.mp3|"Wyświadcz mi pan teraz małą usługę."|4.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25596033.mp3|— O, już jedzie! — zawołał jakiś chłopiec.|4.788
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23409999.mp3|"Zostało mi jeszcze dosyć czasu do jutra rana."|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25064832.mp3|"Głowa Marsa nie błyszczała, ciemność panowała dokoła."|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695607.mp3|kontrola dostępu|2.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25218024.mp3|"Tak daleko zaszły moje przypuszczenia, kiedy przyszliśmy oglądnąć teren działania."|6.948
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26365357.mp3|W rzeczywistości nie wykorzystuje się efektywnie całych dużych obszarów krajobrazu rolniczego|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20951356.mp3|Jakubie, jak to rozumiesz?|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26091205.mp3|Z całą pewnością nie mogę opowiedzieć się za tym ustępem|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25245316.mp3|"Ale i taka żoneczka niewiele zostawiłaby mu chwil wolnych."|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21570543.mp3|"Odsunęła je i ujrzała kryjówkę, lecz, niestety, zamkniętą na klucz."|7.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20867248.mp3|Nie kołata nic, ucichło.|2.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21077417.mp3|"Teraz nie odpowiedziałem na jej pytające spojrzenie."|6.072
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21086014.mp3|Potem odeszła, by naprawić twą bieliznę.|5.016
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27961985.mp3|Budżet kolegium jest ustalany corocznie przez organy budżetowe|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999578.mp3|"Nie mogłem odwrócić wzroku od jej wpół-otwartych ust."|5.376
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20633921.mp3|Nie umiał zatrzymywać moczu i zanim zdołano cośkolwiek zrobić, miał mokre majtki.|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002962.mp3|"I dlatego tyle przewracania się i podnoszenia, tyle biegu i zmęczenia!"|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36988828.mp3|Nie możemy zaprzepaścić szansy wspólnego działania na tym polu|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26967592.mp3|Nie mogę ich komentować|2.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25108432.mp3|"Moment, w którym o nią lękać się musiałem, minął."|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24983292.mp3|"Jeżeli pan chce czekać, do szóstej rano, to popłynę w dół Wełtawą."|5.652
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34118135.mp3|Penalizuje ono wydajnych rolników, faworyzując niewydajnych|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27422599.mp3|Także nie jest możliwe wynagrodzenie osobom dotkniętym ich cierpienia|4.5
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20873708.mp3|Przycisnął ją do piersi i ucałował parokrotnie.|4.704
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731763.mp3|Mówi, że aplikacja nie działa, czy coś.|4.008
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22984931.mp3|"tylko tego nie chcę."|3.0
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27671125.mp3|Jednakże wysuwa ona również cztery ważne żądania|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23662972.mp3|"Jest w pół do trzeciej."|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22160090.mp3|"Litość brała patrzeć."|3.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27067354.mp3|Jeśli o mnie chodzi, byłoby to już za wiele|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30530730.mp3|Będzie to droższe i bardziej skomplikowane|2.556
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072329.mp3|Myślę, że ważne jest podkreślenie powiązania pomiędzy tymi dwoma faktami|5.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22459088.mp3|"Śmierć mego brata nie rozkrwawiła jej zanadto serca."|5.352
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370323.mp3|Wie pan, na czym polega współpraca z Parlamentem Europejskim w wielu różnorodnych sytuacjach|6.372
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26951156.mp3|Mamy nadzieję, że pan komisarz przedstawi kilka rozsądnych propozycji w tej sprawie|5.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497493.mp3|Ponadto można było zaakceptować większość poprawek, które również zostały przedłożone w duchu porozumienia|6.588
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363201.mp3|W międzyczasie rząd cypryjski przysłał również zaktualizowany program stabilności|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32259762.mp3|W tej jednak kwestii musimy jasno stwierdzić, że nie powinniśmy tu uprawiać partyjnej polityki|8.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20608947.mp3|Dziwożona milczała uparcie.|3.936
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23732726.mp3|"Pomyślmy... Może odwiedzić jakiego więźnia, brata pewnie."|6.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25240204.mp3|"Doktór, widząc, że słowa jego odniosły pożądany skutek, jął go teraz pocieszać."|8.28
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26950900.mp3|"Ale nie wiedział."|2.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34579941.mp3|Również głosowanie w komisji przebiegło bardzo pomyślnie|3.96
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27598181.mp3|nie ma siły bez jedności|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22605698.mp3|"Bo napadnięty okręt nie myślał zwijać żagli."|5.041625
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32385040.mp3|W grę wchodzi przecież zdrowie naszej młodzieży, a koszt ten zwróciłby się z czasem|6.192
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22770498.mp3|Nie najlepsze to selfie, wszystko jest rozmyte.|4.488
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087566.mp3|W sam czas przynosicie te płachty!…|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31841655.mp3|Znalezienie złotego środka wydaje się tu trudne, ale tak nie jest|7.488
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20667540.mp3|Jeszcze na miejsce jednego powieszonego stawało do walki dziesięciu.|5.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22719680.mp3|"Skręciłem na ścieżkę, prowadzącą do skraju lasu i pobiegłem szybko do starego świerka."|8.448
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695277.mp3|"Ta policyjna książeczka działa skuteczniej niż broń i przejmuje lękiem nawet londyńskich dorożkarzy."|7.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878542.mp3|Nie wolno ci płakać! — zawołała.|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20646334.mp3|Ciekawość to pierwszy stopień do piekła.|4.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21307418.mp3|Gdyby więc… tak!|2.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002264.mp3|Narysowałbym coś, ale weny brak.|4.248
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21535327.mp3|"Stara była sama około pieca..."|4.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26992015.mp3|Każde państwo członkowskie działa na swoją rękę i uruchamia krajowe środki pomocy|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112846.mp3|W tych czasach kryzysu nasi obywatele oczekują wiele od Europy|5.184
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27664491.mp3|Komisja musi uwzględnić różnice, możliwości i środki każdego państwa członkowskiego|9.108
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985337.mp3|Oczywiście debatę tę śledziło z zainteresowaniem bardzo wiele osób, włączając przemysł i organizacje pozarządowe|7.668
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991282.mp3|Szczególnym problemem dotyczącym odpadów promieniotwórczych jest ogromna skala czasowa zagrożenia, jakie powodują|9.252
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185785.mp3|To z kolei wynika z nieuzasadnionej obawy przed islamem|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24455428.mp3|"Na zewnątrz dał się słyszeć hałas."|2.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20919028.mp3|"Była wzmianka, że zginął od wystrzału w głowę."|4.2
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20951337.mp3|Nie wiedziała zaiste, czy ma się całować|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27671991.mp3|Podeszliśmy do tego tematu ze śmiałością i z ostrożnością|6.156
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24991972.mp3|"Czułem, jak cała krew spływa mi się w sercu."|2.916
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390536.mp3|W tak niepewnych czasach należy przede wszystkim zachować ostrożność|5.112
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37040452.mp3|Konkurencja potrzebuje ludzi, którzy mogą i chcą przyjąć na siebie odpowiedzialność|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185958.mp3|Sugeruję, abyśmy byli szczerzy w tej sprawie|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999981.mp3|Szkoda mi cię.|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37632619.mp3|Parlament ma jednak dobrą pamięć|3.996
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20946429.mp3|W grubej garści trzymając jakiś przedmiot wielki|5.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002291.mp3|"nikt cię nie trzyma!"|2.808
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29211504.mp3|Jestem pewien, że zgodzą się z tym koledzy posłowie Zieloni|4.248
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27755460.mp3|Rząd Japonii wydał miliard dolarów na badania nad zastępowaniem i recyklingiem metali ziem rzadkich|7.884
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363226.mp3|Uważam to za zaszczyt i przyjemność, że właśnie my możemy prowadzić ten końcowy dialog|6.3
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30559903.mp3|To dzięki niemu miliony Europejczyków lepiej dbają o swoją kondycję fizyczną i psychiczną|7.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20612033.mp3|A ja widzę, że on będzie siedział do drugiej.|3.672
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37632632.mp3|Potrzebujemy zatem wiążącego celu w obszarze efektywności energetycznej|5.148
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22257995.mp3|"Opowiem wam to ściśle według prawdy."|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22379685.mp3|"Było to zdumiewające."|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22457192.mp3|"Gdy znajdziesz się pan na tym placu, spostrzeżesz w rogu katedrę."|5.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25228576.mp3|"Każde jej pytanie zaspakajał z pełnym wyrozumienia uśmiechem."|6.84
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26153471.mp3|niewłaściwe wykorzystanie funduszy Europejskich, zacofanie i przemoc na ulicach, ksenofobia|8.028
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985583.mp3|To pozwoliło mu zrzucić pęta i rozwijać się w godny podziwu sposób|4.644
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20676621.mp3|— To ja nie mogę.|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26257911.mp3|Drugą rzeczą, o której wspomniał, jest przebudowa infrastruktury|5.364
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20605554.mp3|Było mi gorąco jak cholera, ale koniec końców usnęłam.|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26365221.mp3|Nie możemy bowiem zapominać, iż Stany Zjednoczone są naszym największym partnerem handlowym|6.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21345457.mp3|"Zresztą, czego się mam lękać?"|4.248
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27598306.mp3|Trzeba zatem w wyraźny i przejrzysty sposób określić obszar zastosowania przedmiotowej dyrektywy|7.74
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38655218.mp3|Nie ma na co czekać|2.268
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20608870.mp3|— Gdzie wasza dziewka?|3.024
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22311757.mp3|"Białe, wełniste chmurki przelatywały po błękicie wieczornego nieba."|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147252.mp3|Instytucja ta opowiada się po stronie innych antydemokratycznych imperiów, a nie wolnych narodów|8.568
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363237.mp3|Skoordynujmy się naprawdę i dowiedźmy - podpierając się przykładami - szczerości tych słów|7.668
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20616518.mp3|Łatwo było się domyśleć.|2.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30530752.mp3|Dwie pracujące osoby będą musiały utrzymywać jednego emeryta|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185783.mp3|Niewątpliwie są to sprawy zasadnicze!|3.996
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21277906.mp3|Piękny był balet w kolorach ogni bengalskich i żywe obrazy.|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991450.mp3|Choćby z tego powodu najważniejsze dzisiaj jest udrożnienie tego działu budżetu Unii|5.364
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22911068.mp3|Rozumiał teraz ilość i jakość błędów.|2.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363186.mp3|Tu zaproponowano praktycznie, abyśmy rabowali wykształconą populację innych krajów|5.4
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25448494.mp3|"I temu nie przeczyłem."|2.916
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27246696.mp3|Rzeczywistość mówi sama za siebie, lecz nie zawsze chcemy jej słuchać|4.716
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22765623.mp3|Musiałem wyczyścić dane z telefonu.|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31257935.mp3|"Lecz gdy jesteś mi wzajemną, mogę się uważać za uniewinnionego."|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729632.mp3|Właśnie z tego względu to rozczarowujące|3.996
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20633976.mp3|Takim będzie mój koniec…|3.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21645233.mp3|"Na to wezwanie zjawił się niezwłocznie stary sługa."|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34580657.mp3|Po nich w styczniu nastąpią obszerne konsultacje dotyczące ogólnego zarządzania i systemów kontroli wewnętrznej|8.316
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20873731.mp3|— Aż mi jej żal… chociaż takie to ładne!|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643193.mp3|"Istotnie, ujrzałem generała; prawdopodobnie zobaczył nas, lub usłyszał nasze głosy."|6.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22193940.mp3|"Znowu usłyszałem jęk, teraz już najwyraźniej nad moją głową."|5.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22459634.mp3|"Nie należysz chyba do pospolitaków, którzy dźwigają karabin?"|4.704
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30486323.mp3|Może to zająć chwilę|3.852
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24542598.mp3|"I ten zwyczajny kamyczek jest tylko jeden na świecie."|4.032
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20896967.mp3|Więc dobrze.|2.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24991971.mp3|"Byle tylko była pod ręką!"|2.16
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36988628.mp3|Jako Parlament od dawna walczymy o zwiększenie naszych uprawnień, w szczególności w dziedzinie rolnictwa|6.372
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25103421.mp3|Pendolino dojadę tam w niecałe dwie godziny.|3.96
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24787621.mp3|"Nawet Rzecki zwracał mi na nią uwagę i mówił, że ma śliczne nogi."|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21000398.mp3|Na razie płakała, a potem nie chciała się odezwać ani słowem.|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385240.mp3|"Ale polecono mi widzieć się z panem."|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37109341.mp3|Równie oczywiste jest, że nie stanie się to w jeden dzień|5.724
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31840606.mp3|Czy chcemy zwiększać tę i tak już wielką rzeszę ludzi żyjących na skraju ubóstwa?|8.28
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27683294.mp3|Podkreślę tu jeden z celów|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390776.mp3|Jako Europejczycy powinniśmy zadbać, byśmy nie narażali się na takie oskarżenia|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37109313.mp3|Musimy również zapewnić udział zaawansowanych krajów rozwijających się, takich jak Chiny|8.208
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25157543.mp3|"Na skrzydła uderzyły dwa inne, bratnie pułki."|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38572626.mp3|Wytyczne dla polityki zatrudnienia państw członkowskich|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27400498.mp3|Ktoś wybudowałby, że tak powiem, drogę zapewniającą połączenie sieci z lotniskiem w Monachium|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22379618.mp3|"Czegóż innego się lęka?!"|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27030735.mp3|Jeżeli wprowadzimy dodatkowe zobowiązanie w odniesieniu do biogazu, ryzykujemy, że nie będziemy wystarczająco skoncentrowani|8.208
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30530731.mp3|Zobowiązania finansowe są dobrym krokiem, oczywiście pod warunkiem że zostaną dotrzymane|4.788
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999323.mp3|Oj, żebym ja ci paru rzeczy nie wypomniał.|3.936
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25769832.mp3|"W kilka minut później byliśmy w gabinecie."|3.6
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636186.mp3|"W takich rozmowach całe dwa dni upłynęło."|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24401614.mp3|"Pamiętaj pan!...“ „Zresztą możesz pan sprawić Beli małą przyjemność."|6.3
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37232396.mp3|Handel ludźmi to również jedna z najrentowniejszych form działalności organizacji przestępczych|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26376865.mp3|Drugi powód jest równie ważny jak pierwszy i dotyczy wszystkich Państwa bezpośrednio|5.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21704640.mp3|"Dlaczego miałby się obawiać zasadzki?"|3.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26250535.mp3|Nie ma to nic wspólnego z terminowym działaniem, ukrywaniem czegoś bądź wymawianiem się|6.156
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363241.mp3|Nie możemy pozwolić na to, żeby Rosjanie tę spiralę obaw nakręcali|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21025742.mp3|— Nie, to na nic!|4.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23953889.mp3|"„Na gorącym uczynku go schwytano."|3.552
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36943005.mp3|Wzajemne połączenia pomiędzy sieciami krajowymi to pierwszy krok w stronę jednolitego wewnętrznego rynku energii|7.164
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27962022.mp3|Nie można opisać tego zarzutu innymi słowami niż hańba|4.248
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20733197.mp3|Osoby odpowiedzialne za wychowanie dziecka i kierowanie nim powinny mieć na względzie jego dobro.|8.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24151832.mp3|"Czy był tam jeszcze kto więcej w pokoju?"|3.348
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25701769.mp3|"Sam wyjaśnię ci wszystko."|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27125432.mp3|takiej decyzji nie należy popierać ani ze względu na jej wartość ani na metodę|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28304197.mp3|Poprzez wpływ na proces negocjacyjny posłowie mogą należycie wypełniać mandat poselski|6.588
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25745461.mp3|"Godzinę będzie Maciuś rysował, bo mu to bardzo potrzebne."|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25321446.mp3|Kto pod kim dołki kopie, ten sam w nie wpada.|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27672070.mp3|Istnieje również Międzynarodowa Rada Parlamentarzystów Żydowskich|6.732
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21920096.mp3|"Łyknij porządnie z butelki."|3.72
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087588.mp3|— To rzeczywiście ciekawe.|2.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27683337.mp3|To byłoby zabawne, gdyby sprawa nie była tak poważna|4.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26286048.mp3|Ponieważ wWizja ta dominuje również w komunikacie Komisji, jednakże nie jest to nasza wizja|7.992
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24787627.mp3|"Maciusiowi krew uderzyła do głowy."|3.924
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25448407.mp3|Oprócz mnie nikt tam nie wchodzi.|3.78
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716465.mp3|"Na wschodzie zaczęły się już ukazywać pierwsze promienie światła."|5.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20775706.mp3|Przy nim jest klęcznik.|3.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22910956.mp3|"Nie, nie powinien był mi uciec!"|4.728
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20636655.mp3|W ciemni rozbrzmiewa stada wycie.|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25316948.mp3|"Myśliwi i sfora psów pędziła za czmychającem zwierzęciem."|8.244
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643883.mp3|"Nagle poczułem, że ktoś trzęsie mną i rozpoznałem głos mego ojca."|7.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23953866.mp3|"Zapytuje mnie z kolei co może zrobić dla mnie."|3.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385311.mp3|"Przecież zniżali ją na manufakturę i żelazo."|5.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25245320.mp3|"Wspaniale to szelma robił!"|3.348
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25835978.mp3|Tadeusz jej nie słucha, lecz jebie powoli|3.06
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27664507.mp3|Prawdopodobnie mogą to teraz zrobić łatwiej niż kiedykolwiek wcześniej|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31257905.mp3|"I nadzieja ogarniała go coraz potężniej."|5.004
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20867172.mp3|W polu nad stawkiem bawiło się kilkoro dzieci.|4.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34047707.mp3|Transgraniczne przenoszenie siedziby spółek|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20608175.mp3|Podlasiak usunął jego dłoń natrętną.|4.512
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20973931.mp3|Siadł na swój szybowiec i złapał dudka za nóżki.|3.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38662111.mp3|Chciałbym, aby w niektórych dziedzinach całego projektu osiągnięto większy postęp|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21025838.mp3|— Ona jest wszystkim, co posiadam na ziemi.|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999838.mp3|"W końcu głuchoniemy wyszedł z zadowoloną miną i ruszył precz z tandeciarzem."|6.864
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716285.mp3|"Ale gdzie ją znaleźć?"|3.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31911517.mp3|"Na lekcji musiało być cicho, jak makiem zasiał."|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20951282.mp3|"Czy zauważył pan obraz nad głową profesora?"|4.272
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390574.mp3|Lizbona była nieporozumieniem i Irlandczycy wiedzieli czemu|5.652
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363216.mp3|Musimy zapewnić, aby wspomniane szczepionki trafiły do rąk krajów, które najbardziej ich potrzebują|6.3
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695561.mp3|"Oczarowany stał król przed nią, nie mogąc wymówić ani słowa."|5.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26990735.mp3|Lecz kogo możemy obwiniać za brak postępu w zakresie architektury nadzoru?|7.2
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27125476.mp3|Niestety jednak sytuacja zmieniła się w pewien sposób|3.492
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21496545.mp3|"Przyjmę pańską radę."|2.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26365495.mp3|Przeprowadzone reformy i rozwój sytuacji w Republice Mołdowy|4.572
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20814752.mp3|Że to była dzieweczka z chłopcem nie obyta|3.84
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20632917.mp3|Ach, wszystko jedno!|3.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21644167.mp3|"Momenty jego nie miały nic zajmującego."|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26320363.mp3|Prosiłem o udzielenie głosu zanim ogłoszono sprawozdanie|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23357415.mp3|"Jak pani może pomyśleć coś takiego!"|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27664490.mp3|uprawnienia tej Izby zostały znacznie rozszerzone|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26175637.mp3|Niestety nowoczesne technologie informacyjne i komunikacyjne odgrywają znaczącą rolę w szerzeniu groźby terroryzmu|9.756
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21318744.mp3|"Wzrosła partyzantka na Uralu."|4.032
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25458969.mp3|"Całe życie nie zdejmę żałoby, choć w czarnym kolorze wyglądam jak istne straszydło."|6.372
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643730.mp3|"Czy słyszysz: niezwłocznie, w tej chwili."|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37832178.mp3|Wygląda mi to na polityczną kontrolę redakcyjną treści umieszczanych w Internecie - nowym medium|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23662991.mp3|"Młoda dziewczyna wahała się przez chwilę, sądziła bowiem, że cudzoziemiec żartował z niej."|7.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20873697.mp3|Wesołość moja nie tylko wytrąciła go z równowagi, ale nawet dotknęła.|6.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25596010.mp3|"Wszędzie się to praktykowało."|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34579928.mp3|Dlatego, panie komisarzu, chciałbym uzyskać odpowiedzi na te pytania|5.4
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35174176.mp3|Iran, jak państwo wiedzą, wpływa destabilizująco na sytuację w Libanie|6.804
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497490.mp3|Musimy zerwać z mentalnością "zrywania czereśni"|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21285742.mp3|Czy zresztą sądzisz, że człowiek koniecznie musi być szczęśliwy?|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22160153.mp3|"Pan sam nie wiesz, co czynisz."|3.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185999.mp3|Wiemy dobrze, że w wielu krajach prześladuje się chrześcijan|5.076
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22497771.mp3|"Możecie wierzyć staremu, robaki."|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420503.mp3|Wszędzie na świecie przepływają strumienie uchodźców|4.5
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20628457.mp3|— Musiał być chyba przyjemny, bo przed samym przebudzeniem uśmiechnęłaś się.|6.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26962897.mp3|Jako grupa socjaldemokratów mówimy|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21381431.mp3|"Przesunąłem dłonią po czole."|2.832
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31854612.mp3|Jest to doskonały przykład korzyści płynących z Unii Europejskiej|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636096.mp3|— To ode mnie.|2.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20628686.mp3|Gdzie jest dziewka, którą miałem przed chwilą tu, na kolanach?|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25442040.mp3|"Jakim ja znużony!..."|2.592
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729639.mp3|Europejski Fundusz Dostosowania do Globalizacji jest kontrowersyjnym mechanizmem|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385175.mp3|"Powoli posuwa się czas: wierz, spodziewaj się i czekaj... rewizji."|5.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497752.mp3|Energia odnawialna powinna także przyczynić się do zmniejszenia ubóstwa paliwowego|5.832
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20652993.mp3|Usłuchał pokorny jak baranek.|3.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20615221.mp3|Zresztą sprawia wrażenie gentlemana w całym tego słowa znaczeniu.|6.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942958.mp3|Rynki mają dziś pierwsze i ostatnie słowo i należy zapytać, dlaczego tak jest|5.58
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22379653.mp3|"Wyglądał, jak nowy."|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27419973.mp3|"Dorzucacie" elastyczność, podczas gdy jest to tylko euromowa i oznacza "brak zabezpieczenia"|7.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25245313.mp3|"Widzieliście kiedy Turków?"|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20905766.mp3|"Ale ja lub pan prześlizgnęlibyśmy się przez nie z łatwością."|7.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23357552.mp3|"Powiedziałem mu to w oczy."|2.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20911352.mp3|Możliwość wykorzystania gotowych plików muzycznych|4.032
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22462548.mp3|"Grymas ten uderzał na twarzach tych wszystkich, którzy umarli od trucizny."|5.352
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22752768.mp3|"To były trzy etapy mej wyprawy."|3.936
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25274152.mp3|"Gdyby tak skoczyć po niego i przynieść go tutaj?"|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112935.mp3|Zapewnianie ochrony tego prawa jest tak samo istotne jak sądowe uregulowanie tej sprawy|6.444
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363232.mp3|A to po części za sprawą państw członkowskich|4.716
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636185.mp3|"My zrobimy swoje."|2.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22911183.mp3|Tak po prostu wymyśliłem.|2.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37263076.mp3|Może jednak mogłaby pani odnieść się do tej kwestii w swoich końcowych uwagach?|6.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38244585.mp3|A jednym z najlepszych sposobów jest zachęcanie na skalę światową do tworzenia otwartych rynków|5.58
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31840646.mp3|Nie uczestniczyła pani ani w negocjacjach, ani w sporządzaniu tych umów|5.94
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25821805.mp3|"Pan mię zaraz zrozumie."|2.916
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363215.mp3|Po pierwsze zdecydowana większość tego Parlamentu chce doprowadzić do szybkiego zawieszenia broni|6.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21920109.mp3|"Czy mamy wierzyć w duchy?"|3.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26175604.mp3|Być może wciąż będzie pani miała szansę zaradzenia temu problemowi w najbliższej przyszłości|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30316261.mp3|Musi być siłą napędową demokratyzacji krajów, które powstały wskutek rozpadu byłego Związku Radzieckiego|7.992
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25821831.mp3|Przedtem, dziewicą będąc, tak strasznie się bała|4.788
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21312139.mp3|Projekt czerwonej jaszczurki potrzebuje zdań w żywym języku.|4.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38572655.mp3|Oczywiście mój głos był w znacznym stopniu umotywowany przez niektóre z nich|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363187.mp3|Przede wszystkim dziękuję wszystkim za dzisiejszą szczerą dyskusję|3.96
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27029743.mp3|Mógłby to być kluczowy czynnik otwarcia i oddziaływania na białoruską kulturę|5.688
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20928668.mp3|Wyciągał się i przeginał: dotknął jej jednej rączki i drugiej, potem obu ramion.|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185979.mp3|Złożyliśmy kilka poprawek na mocy wspólnego porozumienia|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370112.mp3|Na szczęście wszystko jest na swoim miejscu|3.312
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22760032.mp3|"Tutaj znajdę z pewnością wszystko, czego mi potrzeba będzie!"|5.376
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27187346.mp3|Wprowadzanie nowych produktów do obrotu jest długim i zawsze kosztownym procesem|7.128
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21269916.mp3|— Z tobą jest bardzo trudno mówić.|4.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23663008.mp3|"Zresztą jest bardzo wesoły i przyjemny."|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002922.mp3|"„Czy pan dobrodziej nie jest jego krewny?"|4.068
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26678173.mp3|Kogo słuchamy na froncie naukowym?|3.276
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25769841.mp3|Trochę mi szkoda chłopaka.|2.916
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23615215.mp3|"Zadziwiające, że pan go nie słyszał!?"|5.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002705.mp3|"To była jedyna myśl, która mi tańczyła w głowie, wypierając wszystkie inne."|7.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497556.mp3|Sposobem postępowania jest likwidacja wszelkich barier handlowych, szczególnie w przypadku gospodarek rozwiniętych i wschodzących|8.028
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22605849.mp3|W tysiąc dziewięcset siedemdziesiątym roku wieżowiec zaprojektował łódzki architekt Aleksander Zwierko.|7.10525
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363192.mp3|Nie będę kontynuował tego tematu, gdyż będę miał wiele okazji, by rozmawiać z Parlamentem|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20951279.mp3|Chowa się w bukiecie.|3.36
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20946345.mp3|Jest godzina osiemnasta zero zero.|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420468.mp3|W ten sposób możemy dać producentom możliwość dowiedzenia się bardziej szczegółowo, co kupują|6.876
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23732770.mp3|"Następnie ze staranną czułością wysuszył papier i z powrotem schował go pod prycze."|7.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636175.mp3|Pełną ręką zaczerpnął, przetłuścił kutasa|3.864
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420559.mp3|Takie podejście zapewni prywatnym podmiotom zdrowe środowisko gospodarcze|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37832268.mp3|To jednak nie koniec|2.448
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_33876504.mp3|Nie ma wolnej prasy|2.916
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20613897.mp3|Jednoręki nic nie powiedział, jeno ukosem spojrzał na spuchniętą od żądeł lewicę.|6.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21463611.mp3|"Śmiech Smoka i wycie zwierząt ścigały ją czas długi."|5.016
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35920145.mp3|Nie zawsze jest on im przyjazny|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32301980.mp3|To dla mnie przyjemność być dzisiaj tutaj z Państwem|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20613292.mp3|Już! Już! — zakrzyknął Podlasiak i wraz z kulawcem zbliżył się do dziwożony.|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22571346.mp3|"Miałeś pan zdarzenie dziwne i wyszedłeś z niego cało."|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20611508.mp3|Nie widzieli, jak ją powstrzymać.|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35130838.mp3|Zadaniem Europejskiej Agencji Bezpieczeństwa Transportu Lotniczego jest oczywiście zapewnienie najwyższego z możliwych poziomu bezpieczeństwa|7.956
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20873717.mp3|Zwie go smokiem lub bucem, i rzecz oczywista|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21077853.mp3|tuląc nos oraz usta w zawisłą piździochę.|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27683320.mp3|Przegląd kandydatów zawsze był elementem procesu przedwyborczego|4.932
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991395.mp3|Przedmiotowe sprawozdanie jest tendencyjne!|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22257658.mp3|"Przesunąłem się obok katedry i wszedłem w ulicę, którą mi opisano."|6.36
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695541.mp3|"Tak będzie lepiej."|2.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_33172859.mp3|"Tymczasem rozedniało zupełnie."|4.212
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37832289.mp3|Wiem o tym bardzo dobrze, bo sam jestem prawnikiem|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21086021.mp3|Czyż mówisz serio?|2.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37240833.mp3|Przespał i przeczekał on dekady presji na innowację|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729583.mp3|To gwarantuje jednocześnie ochronę praw własności intelektualnej związanych z produktami|7.308
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23356935.mp3|"Ażeby zabić wszelką myśl."|2.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25064617.mp3|"Mówię ci z przekonaniem, iż należy mieć nadzieję."|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36810424.mp3|"Nie mógł zasnąć nad morzem, bo wyszedłszy z lasu, zaraz ruszył w drogę."|6.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25229137.mp3|"Taki Napoleon I. kochał się naprawo i nalewo i mimo to trząsł Europą."|8.136
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38655549.mp3|Na koniec, jeżeli chodzi o tabele korelacji, Komisja popiera stanowisko Parlamentu|6.84
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22229306.mp3|"Dłonie przedtem ściśnięte w pięść rozwarły się."|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34580690.mp3|To prowadzi do niewłaściwych decyzji w zakresie zdrowia publicznego|4.716
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23442000.mp3|"Przerzuciłem karty: tak to był on!"|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34356045.mp3|To grudniowe oświadczenie brzmi|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20615958.mp3|— Jedno z podstawowych dzieł starszego okultyzmu.|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20633430.mp3|Pieśni poety były na ustach wszystkich.|4.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20873682.mp3|— Nie pójdziemy zwykłą drogą.|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21658759.mp3|"Starcie stanowczo nie przemawiało za nim."|4.704
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32799654.mp3|Jesteśmy tutaj świadkami ich czystej rządzy władzy|5.796
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21088720.mp3|I to jeszcze na samym brzeżku!|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21077979.mp3|"Miał ją i był przekonany, że ja ją mam również."|4.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38398490.mp3|Przede wszystkim chciałbym pogratulować sprawozdawcy podkreślenia kilku wyzwań, jakie przed nami stoją|6.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497652.mp3|Glukoza i laktoza|2.916
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26678103.mp3|Przejdę teraz do chęci wykluczenia obowiązku ścigania prób popełnienia przestępstwa|6.804
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878843.mp3|"Ale czeka ich ładna praca."|2.7
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25317979.mp3|— Przyszedłem do ciebie w sprawie Ewy.|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22656341.mp3|"Trudno sobie wyobrazić krajobraz spokojniejszy, cichszy i bardziej spokojny."|5.2505
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23629246.mp3|"„Ale teraz, panie Pernat, przechodzę do prośby, którą panu chce przedstawić."|5.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716381.mp3|"Co miała znaczyć ta nocna wyprawa i dlaczego miałem iść uzbrojony?"|5.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26946472.mp3|Ludność musi nabyć zaufania nie tylko do rządu, lecz również do systemu prawnego|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27645692.mp3|Pragnę jednak też powiedzieć, że niezbędna jest współpraca z Serbią|4.932
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21596012.mp3|"Jest tam co napisane na odwrotnej stronie?"|3.864
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32857030.mp3|Ponadto moim zdaniem bardzo ważne jest, że umowa zakazuje praktyk antykonurencyjnych|7.956
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087646.mp3|Nie ważne czy mówią o tobie dobrze czy źle, ważne, że mówią.|4.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25064677.mp3|"Musiałem czem prędzej szukać jakiejś kryjówki, gdyż inaczej byłbym zgubiony."|4.644
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22998866.mp3|"„Będzie musiał pan podnosić rękę przed sądem, gdy rozchodzi się o flaki!"|6.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26406225.mp3|Również kodeks karny Jemenu zakazuje karania śmiercią młodocianych przestępców|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20614724.mp3|Młynarz powędrował powoli za nią.|4.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25317058.mp3|"Godziny ostatnich dni upłynęły mi jak na skrzydłach."|5.22
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731962.mp3|"Spojrzał na mnie, jak nieprzytomny."|3.672
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174943.mp3|Słoń zaś cofnął w tył swoje bajeczne uszy, zwijając i rozwijając na przemian trąbę.|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20898577.mp3|Obudził się w obcej izbie.|3.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35918559.mp3|Po trzecie cały region idzie naprzód|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26365611.mp3|Wszyscy rozumiemy, że takiej krytyki nie przetrwałoby żadne przedsiębiorstwo prywatne|5.328
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20690187.mp3|Ewa zaczęła się śmiać, niehisterycznie.|4.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21307433.mp3|Aż dokuczali, aż żartowali z niego.|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34580598.mp3|Jednym z priorytetów prezydencji szwedzkiej było oczywiście uporanie się z kryzysem gospodarczym i finansowym|6.732
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30530744.mp3|Inicjatywy i programy na rzecz unowocześniania szkolnictwa wyższego|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37277550.mp3|Upewnienie się, że na Bali będziemy podążać właściwą drogą, ma oczywiście podstawowe znaczenie|8.928
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23062572.mp3|"Jak kropelki łez żałoby dźwięki te zapadały w omdleniu."|5.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32274306.mp3|Ufam, że państwa członkowskie zwrócą większą uwagę na zasadne żądania obywateli Unii Europejskiej|8.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942964.mp3|ten Parlament Europejski nie zaakceptuje "zwykłego stanu rzeczy" w europejskiej strategii zatrudnienia|6.912
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21175052.mp3|Na gazie to się gotuje, a nie jeździ?|4.392
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26946316.mp3|Trudności w negocjacjach z Mercosurem nie są błahostką|4.572
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22457327.mp3|"Coś jest w tym człowieku odpychającego, coś ze wstrętnego płazu."|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999936.mp3|"Poczułem w jego mowie jakieś ukryte znaczenie."|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21704626.mp3|Wtedy urwało się coś w nim.|2.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27659139.mp3|Co roku przy sporządzaniu programów prac prowadzimy konsultacje z odpowiednimi zainteresowanymi stronami|7.596
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27960341.mp3|Jesteśmy wspólnotą szanującą prawo jako jeden z fundamentów naszej tożsamości|7.848
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35174158.mp3|Są one bez wątpienia bardzo lukratywne|5.328
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20873710.mp3|Samica wypełzła ostrożnie na szeroka polanę leśną. Długą chwilę stała tam sama.|6.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729574.mp3|W imieniu grupy socjalistycznej proszę pozwolić mi skierować do przewodniczącego Barroso poważne ostrzeżenie|9.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25745537.mp3|Potarła zapałkę i przytknęła ją do pieca.|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36988806.mp3|Osiemdziesiąt sześć procent soi importowanej w postaci pasz dla zwierząt jest obecnie zmodyfikowane genetycznie|7.272
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22998992.mp3|"Pomiędzy niemi przejście na szerokość jednego kroku."|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729676.mp3|Chciałby zacytować po angielsku jednego z kenijskich obserwatorów, który napisał|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31854576.mp3|Weźmy przykład Indii, gdzie praca dzieci jest zabroniona|5.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22998341.mp3|Czy mógłbyś wreszcie zamknąć dziób?|3.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27755506.mp3|Chciałbym podziękować panu za tę debatę|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25108411.mp3|Dokąd idę? Do słońca. To chyba jasne.|4.248
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22911024.mp3|Możemy to puścić w tle.|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21077983.mp3|A więc to dlatego!…|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26286218.mp3|Ich zdrowie i bezpieczeństwo są zagrożone przez pozbawionych skrupułów pracodawców|5.58
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37263071.mp3|Zasady dotyczące swobody przemieszczania się nie zostały ustanowione na korzyść przestępców|7.38
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23796863.mp3|"„Pan podpisał, że się przyznaje?"|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25245326.mp3|"Najokropniejsze są armaty!"|3.276
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20635059.mp3|Istnieję wszędzie i nigdzie, zawsze i nigdy.|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942906.mp3|Musimy mieć możliwość konkurowania|3.492
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37832278.mp3|Przez wszystkie strony zielonej księgi przewija się jeden motyw "niech ludzie starsi pracują"|8.388
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27125430.mp3|Uważam, że powinniśmy kontynuować prace nad kolejnymi ramami budżetowymi, które już poniekąd rozpoczęliśmy|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36988839.mp3|Dzisiaj te uprawnienia nie istnieją, co z kolei wytworzyło bardzo niebezpieczną próżnię|6.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002809.mp3|"Ta uprzejmość, do której nie nawykli warszawiacy, już w przysionku zrobiła wrażenie."|7.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20945998.mp3|Ale co mu z tego?|6.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37109310.mp3|Istnieje jednak dobra wola i powinniśmy się z tego bardzo cieszyć|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30338985.mp3|I to możliwie jak najszybciej|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30559838.mp3|Gratuluję sprawozdawcy i dziękuję mu za tę przyjemną i konstruktywną współpracę|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27961856.mp3|I tu leży problem|3.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34118234.mp3|A przecież jest to kontynent bogaty w zasoby naturalne, z których korzysta cały świat|5.796
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21496562.mp3|"Pobiegła uradowana do komory i poczęła odsuwać worki z mąką."|4.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35918789.mp3|"Oni to właśnie porwali Maciusia i pod obcem nazwiskiem osadzili w najcięższem więzieniu."|8.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27185256.mp3|Witamy w Absurdystanie!|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20774010.mp3|Będzie nam dobrze z sobą.|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21160923.mp3|I ona powinna móc leżeć na powierzchni wód.|4.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27664492.mp3|Liczymy na zaangażowanie i doświadczenie Parlamentu Europejskiego|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20616296.mp3|Wieczorem zajrzę tutaj znowu.|2.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25317978.mp3|"Pod płaszczem miałem lunetę, pistolet, no i naturalnie pałasz."|5.112
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729636.mp3|No cóż, tu się myli|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27002809.mp3|Przyniosło to pozytywne wyniki, zwłaszcza w postaci potwierdzającej rezolucji w sprawie kary śmierci|6.948
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20867158.mp3|— Powrócę do domu męża mego! — odparła.|3.432
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21535379.mp3|"W ten sposób szukam wyjaśnienia, rozumie pan?"|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21160921.mp3|— A to mam szczęście! — lamentował.|3.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643194.mp3|"Pozostaje nam jedynie polecić dusze nasze Bogu Najwyższemu."|4.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147264.mp3|to narody i państwa powinny decydować o swoich priorytetach|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22229493.mp3|"Odpocznę sobie z tydzień po ukończeniu pracy."|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31840707.mp3|Taka koordynacja ma jednak miejsce w ramach przeglądów, które obecnie prowadzimy|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20633571.mp3|Po co myśleć, czy zdrowa, czy się co złego nie stało?|5.352
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497488.mp3|Poprosiliśmy też o natychmiastowe działanie Trybunał Obrachunkowy|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30339015.mp3|Sadzenie drzew pomaga w walce z pustynnieniem|7.092
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25111561.mp3|Zamknięto urząd ministra cyfryzacji.|3.708
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22256858.mp3|"Siedzicie i wytrzeszczacie na mnie oczy, jak stado wystraszonych wieprzów."|5.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20609152.mp3|Olsztyn to nie tylko jeziora.|3.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21157639.mp3|To jest oburzające, po prostu skandal.|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999669.mp3|"„Zgoda“ powiedział, gdy skończyłem."|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22087897.mp3|"Wrodzony instynkt odezwał się we mnie."|5.136
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22911174.mp3|"Oto ona, może ją pan sam przeczyta."|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25218079.mp3|"Czy to ja ciebie namawiałem ażebyś wszedł do pokoju Katarzyny?"|5.688
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22088444.mp3|"Taki prawdziwy, mały mężczyzna."|5.16
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087648.mp3|System detekcji i raportowania anomalii|3.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22462560.mp3|"Przykry swąd spalonych kości i włosów rozchodził się w powietrzu."|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21644031.mp3|"Co mi pan dasz na kolację?"|3.072
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26370980.mp3|Politycy i obywatele muszą reagować na problemy świata|3.96
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21540819.mp3|"Holmes pozieleniał ze wzburzenia i złości."|4.632
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27400470.mp3|Najważniejszą kwestią jest jednak ogólne podejście do inicjatywy obywatelskiej|5.472
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072327.mp3|Musimy sprawdzić, jak rozporządzenie funkcjonowało dotychczas, a następnie je ulepszyć|7.092
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23357509.mp3|"Nie rozumiałem, co chciał przez to powiedzieć i przyjąłem, jak gdybym się przesłyszał."|5.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20871428.mp3|Jest godzina ósma czterdzieści pięć.|4.32
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20780707.mp3|Czymże właściwie było to młode dziewczę dla Brama?|5.376
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32380001.mp3|Wznowienie izraelsko-palestyńskich negocjacji przez większą część roku było uzależnione od kwestii osiedli|7.848
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21025623.mp3|I wjechał kutas w pizdę, jak nóż wjeżdża w masło.|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_33049145.mp3|Jest to więc zatem ogromny problem na terenie całej Wspólnoty Europejskiej|8.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25929834.mp3|Rzadko kiedy taka współpraca była w tak oczywisty sposób korzystna dla całego świata|5.688
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35292179.mp3|Szkoda, że taką właśnie okazję tym raportem utraciliśmy|5.184
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26366098.mp3|Setki tysięcy ludzi demonstrują na ulicach, powiewając sztandarami z hasłem "Domagamy się prawdy"|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20928595.mp3|Teraz wszystko się już wyda!|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174874.mp3|"Co noc obchodził dom dokoła, gdyż bał się ognia."|5.64
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25442048.mp3|o zgrozo! chyba jestem jedyną aktywną dzisiaj osobą|3.96
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23792948.mp3|"Uśmiechnął się z roztargnieniem."|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729590.mp3|Energetyki|3.024
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21089013.mp3|"Była to kartka, na której nabazgrałem zagadkową wiadomość."|6.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27672056.mp3|Nie trzeba dodawać, że owo sprawdzenie zgodności podlega całkowicie władzy rządu afgańskiego|10.728
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731890.mp3|"Jechali truchtem, pomyślałem sobie więc, iż gonią jakiegoś bardzo powolnego lisa."|6.432
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20882483.mp3|warczeć i bacznie obserwować intruza.|4.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174971.mp3|Mój stary jest fanatykiem wędkarstwa.|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24473580.mp3|"Wypadki szybko po sobie następują... jak się też skończy?"|7.596
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185913.mp3|Chciałabym podkreślić, że zwiększenie zaangażowania rządu afgańskiego stanowi jedyne i dyplomatyczne rozwiązanie|7.596
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25233161.mp3|"nie trzeba się tak rumienić."|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26962704.mp3|Na tym zakończono wyjaśnienia dotyczące sposobu głosowania|5.328
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20919031.mp3|Patrz na mnie, Emilko.|3.072
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497750.mp3|Co najważniejsze, potrzebujemy przejrzystości, odpowiedzialności i niezależnego nadzoru|6.732
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985465.mp3|bez regulacji nie uda nam się zbudować przekonania, że zmiana będzie miała trwały skutek|5.832
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27419774.mp3|Regularne ćwiczenia fizyczne nie oznaczają, że trzeba ćwiczyć w każdej wolnej minucie|6.3
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27029807.mp3|Niewątpliwie jednym ze środków jest wzmożenie współpracy z naszymi partnerami handlowymi|5.652
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21175006.mp3|Sara odjęła ręce od twarzy.|4.032
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22453765.mp3|"Prędzej prędzej na wroga..."|4.44
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22473967.mp3|"Usłyszałem jęk, ale żadnej odpowiedzi."|3.792
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21953143.mp3|"Podczas jednej z przerw takich rzuciłem przypadkowo okiem na zwierciadło."|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21000192.mp3|"Lubię taką rozmowę."|3.36
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27419777.mp3|Ta interwencja sprzed dwóch tygodni była bezwzględnie konieczna, ponieważ Unia Europejska wykazywała niezdecydowaną postawę|9.036
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27125416.mp3|Musimy zwiększyć te wysiłki, inaczej jedynie nabieramy siebie samych i te kraje|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21704628.mp3|O, proszę cię, nie umieraj już drugi raz!|3.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087600.mp3|Łabędzie, białe plamy, szły spać.|3.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20616253.mp3|Zaczęła się też walka o suknie i pokój.|3.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26957481.mp3|Lobbing w instytucjach Unii Europejskiej jest problemem złożonym|5.58
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22996999.mp3|"Leżeć w mokrej ziemi i mieć w sobie niestrawione gnijące jedzenie."|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25701773.mp3|"Uproszony kasztelan wyznaczył termin, do którego obiecał powstrzymać wykonanie wyroku."|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23796915.mp3|"Cóż pan tak straszliwego popełnił?"|3.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22160174.mp3|"Wiatr porwał mi gdzieś czapkę, ale nawet tego nie zauważyłem."|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147251.mp3|Musimy rzecz jasna respektować pańskie decyzje, panie przewodniczący, lecz uznałem moje uwagi za konieczne|8.928
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21156075.mp3|Ptak, nie ptak?|2.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34579821.mp3|Tego właśnie oczekujemy!|3.024
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20690141.mp3|— Oczu jej najbardziej mi właśnie potrzeba!|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21467857.mp3|"Postanowiłem śledzić ich i szpiegować i czekać na odpowiednią sposobność."|5.712
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38572643.mp3|Oczywiście migracja jest jednym z największych problemów współczesnej Europy|5.436
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25157536.mp3|"Na nich palą się czerwone latarnie."|4.068
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999448.mp3|"Dziwny niepokój wewnętrzny wzrastał we mnie i doprowadzał mnie do rozpaczy."|6.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22082550.mp3|"Następnie zawarto i zamknięto bramę."|4.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30486450.mp3|kilka lat później biorą rozwód, co zdarza się dość często|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21762368.mp3|Pisał: „Jakie to jest komiczne i wielokrotnie dziwne.|5.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35161569.mp3|W rzeczy samej w przemówieniach ujawniały się czasem zupełnie różne punkty widzenia|6.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32274307.mp3|Są one podstawą każdej poważnej polityki w tym obszarze|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30530737.mp3|Na koniec chciałbym podkreślić, że powodzenie systemów transportowych zależy od udziału obywateli|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32259736.mp3|To jedyny sposób, aby uniknąć coraz większej izolacji Białorusi i jej obywateli|6.372
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26091356.mp3|Oczywiście, zostanie to poprawione|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29112711.mp3|Właśnie dlatego procedura ta powinna być w przyszłości absolutnym wyjątkiem|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21023093.mp3|— Tak? — Tak.|3.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29246183.mp3|Ludzie protestują|3.708
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30529038.mp3|To również pora, by położyć kres utrzymującej się nierówności płacowej pomiędzy mężczyznami a kobietami|7.38
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21596328.mp3|"Powiedziałem, że za chwilę przyjdę do niej na górę."|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25217988.mp3|"Co oni widzieli w tej chudej, czarniawej dziewczynce?"|5.4
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22732638.mp3|Skierowano ją do robót publicznych w porcie.|4.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22298313.mp3|"Nie tak łatwo jednak schwytać mnie, panowie!"|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21000110.mp3|I co ciekawego?|3.312
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002320.mp3|"Straszny krzyk przedarł się do nas z lasu."|4.5
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26593714.mp3|Europa potrzebuje Wspólnej Polityki Rolnej, która zapewni rozwój, a nie stagnację europejskiego rolnictwa|8.676
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26946614.mp3|Wy mieliście jedno i my także|2.952
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37832199.mp3|Najlepiej byłoby, gdyby uzasadnienie podawano w odpowiedzi na skargę|6.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22723163.mp3|"Na dobrym koniu czuję się na miejscu."|3.864
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20775156.mp3|Jestem pracowity jak pszczoła.|2.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21698716.mp3|Co? — zaperzył się ptak.|3.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24401334.mp3|"Teraz dopiero Rzecki przypomniał sobie obowiązek."|5.328
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23662999.mp3|"Zapukał trzy razy."|3.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22229692.mp3|"Pora obiadowa już minęła."|3.864
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22457180.mp3|"Dawno się nie czułem równie znakomicie."|4.248
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370335.mp3|Mimo odrzucenia lepszego wariantu podjęta dzisiaj decyzja to krok naprzód|5.076
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25111337.mp3|"Lepsza sieć, bo nie rani."|3.168
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34579873.mp3|Wyrażając uznanie dla jego pracy, muszę zaznaczyć, że jest to druga modyfikacja regulaminu|6.948
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27659073.mp3|Bezpieczna, stabilna i adekwatna emerytura, która jest właśnie taką gwarancją, jakiej chcą obywatele Europy|9.036
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35918796.mp3|W tej dziedzinie można zdziałać bardzo wiele|5.004
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36988816.mp3|Pani przewodnicząca, panie wiceprzewodniczący|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27030824.mp3|Pomimo różnic, większość krajów sąsiedztwa ma wspólne cechy|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27645636.mp3|Ta robota została przez Komisję bardzo poważnie sknocona|5.112
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878741.mp3|Pokolenia te żyły w ustawicznej wojnie.|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002754.mp3|"Opanowała mnie wściekłość nieprzytomna."|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22453768.mp3|"Byłem najlepszym szermierzem, najdzikszym jeźdźcem bohaterem stu przygód i awantur."|7.368
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30339009.mp3|Na koniec sprawa nie mniej ważna - temat pytań|5.724
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370408.mp3|Wzruszyło mnie to, co jego matka powiedziała wczoraj, w Dniu Matki|4.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20646433.mp3|A ze śniegiem wolno robić, co się chce.|3.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30737871.mp3|Cieszę się|2.484
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942999.mp3|Rodzi się jednak pytanie, jak osiągnąć ten cel?|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21540783.mp3|"Piotr się obudził i spojrzał dokoła zdumionym wzrokiem."|5.112
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35174177.mp3|To byłoby jakieś osiągnięcie|4.428
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26950903.mp3|Sprawców ataków w Hiszpanii także|3.708
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20608757.mp3|Opierała się na jego udach.|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21398025.mp3|"Przystałem na to chętnie i zeszliśmy wszyscy razem."|5.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26365683.mp3|Jedyną rozsądną rzeczą jest wdrożenie programu kastracji|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25362785.mp3|Z życia codziennego celebryty.|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21155618.mp3|Nie wstyd ci to przed ludźmi?|3.36
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27125431.mp3|Polityka spójności nie należy do polityk źródłowych, towarzyszących wspólnocie europejskiej od czasu jej narodzin|6.192
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643703.mp3|"Mój syn tak samo odmawiał modlitwę, gotując się na śmierć."|5.232
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34579822.mp3|Niewątpliwie Afryka nabrała teraz międzynarodowego wymiaru|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20911339.mp3|Poślubił Zofię Radomicką, córkę Kazimierza Władysława Radomickiego, kasztelana kaliskiego.|7.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28058249.mp3|Inicjatyw prezydencji słoweńskiej dotyczących nowego podejścia do polityki sąsiedztwa oraz energetyki|7.488
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28058291.mp3|Treść można pozyskać i przechowywać dla potrzeb dochodzenia za pomocą instrumentu nazywanego przejmowaniem danych|8.568
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21156145.mp3|— Owszem, znajdzie się i dla nas czas.|2.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30559899.mp3|Zadałam bardzo szczegółowe pytanie|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21088771.mp3|Potem znów do okna.|4.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35919678.mp3|W dzisiejszych czasach pracownicy są zdani na częste i ryzykowne zmiany zawodowe|7.992
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20968668.mp3|Pani nauczycielka zapytała, ile to pięć razy sześć.|5.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25328710.mp3|” Widzę, że cię to nudzi, ale przedtem.|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27971074.mp3|Jak powiedziałem wcześniej, ustawa mogła zostać przyjęta|4.644
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22756233.mp3|Ale dlaczego?!|2.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26968746.mp3|Komisja jest zdecydowana wzmacniać wymiar parlamentarny umowy z Kotonu|4.716
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21535325.mp3|"Cóż to za człowiek i gdzie go znajdę?"|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21661330.mp3|"Królem tym jest lis, który posiada szatańskie talenty."|7.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30316248.mp3|Szanowny panie przewodniczący, koleżanki, koledzy|5.94
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695692.mp3|"Stu oczekujących górników stało bez ruchu i bez sił, sparaliżowani."|6.024
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21535289.mp3|"Ożywcze powietrze górskie, balsamiczna woń sosen zastępowały dziewczęciu starania matki."|8.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22996156.mp3|"Pozostali wkrótce umarli, i myślę że ona ich wszystkich przedwcześnie powiodła do grobu."|7.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27664508.mp3|Niektórzy z nich są tu nadal|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20626857.mp3|— Prawdziwie, nie mogę sobie przypomnieć.|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112875.mp3|Dzisiaj jest to islamska opinia publiczna, która znacznie wykracza poza granice państw arabskich|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20894317.mp3|Najlepsze talerze tylko ze Słupska.|3.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643733.mp3|"Odmawia pan, no to jak się panu podoba."|4.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28498468.mp3|Wzrost średniej długości trwania życia to pozytywne zjawisko|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878744.mp3|Stoi tedy i milczy, Tadeusz pomału|3.42
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27960343.mp3|Najpierw pozwolę sobie wyrazić ubolewanie z powodu braku reprezentacji Rady w tej ważnej debacie|8.388
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25745686.mp3|Słyszałem, jak biła dwunasta, gdy jeszcze trzymałem ją w ramionach.|5.22
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878851.mp3|"Życie włościan rosyjskich inną zgoła potoczyło się koleją."|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22379652.mp3|Pańska zapłata to trzynaście tysięcy czterysta pięćdziesiąt siedem dolarów i osiemnaście centów.|6.864
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20622831.mp3|Nie ma ludzi i nikt nie wyciągnie strzały.|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25821829.mp3|Lektury szkolne. Patriotyzm, mesjanizm.|4.212
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999445.mp3|"„Niech pani prosi swego ojca o pomoc“ powiedziałem bezradny z trwogi."|6.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27185211.mp3|Jednocześnie trudno jest mówić o partnerstwie, gdy państwa członkowskie są tak nieufne wobec niej|8.568
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21077348.mp3|„Ten jest dla mnie najbardziej niebezpieczny, dlatego muszę go znać na pamięć.|6.552
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25218115.mp3|"Mieli wyruszyć nazajutrz."|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22605865.mp3|"Moja siostra zrobi tak, jak jej polecę."|4.205625
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38398521.mp3|To pragmatyczne rozwiązanie uwzględnia zróżnicowane potrzeby podmiotów gospodarczych|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37263092.mp3|Myślę, że dzięki temu powstał bardzo dobry projekt sprawozdania|4.716
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497686.mp3|Od wielu lat Parlament Europejski śmiało występował w obronie praw człowieka w Tybecie|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385251.mp3|"Na miłość Boską, co mam czynić?"|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999629.mp3|"To suchotnik: gorączka śmierci mózg jego trawi."|5.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31854505.mp3|W zeszłym tygodniu Niemcy zdecydowały się przeprowadzić szczegółową kontrolę swoich systemów wytwarzania energii jądrowej|9.936
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27422598.mp3|Niemniej linie te obsługują jedynie niewielką liczbę lotów w Irlandii|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26320255.mp3|zwycięstwa dla Chorwacji, Słowenii oraz Unii Europejskiej|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985749.mp3|O to w tym wszystkim chodzi i o tym będziemy odpowiednio debatować|4.32
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26593725.mp3|Przede wszystkim muszę wyznać, że występuję z podwójnie tendencyjnego punktu|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21107091.mp3|Zmiana.|1.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36967644.mp3|Jeżeli ta poprawka nie zostanie przyjęta, należałoby to uwzględnić w wersji pierwotnej tekstu|9.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31854638.mp3|Ogólnie rzecz biorąc, osiągnęliśmy dobry kompromis|4.428
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23410001.mp3|"Nieustannie musiałem myśleć o Rozynie, jak ta nago we fraku tańcowała."|5.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20898666.mp3|Będę się nareszcie śmiał!|3.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31854558.mp3|instytucje polityczne, instytucje służące praworządności, system sądowniczy oraz wolność prasy|8.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21694561.mp3|"Siadł, aż krzesło stęknęło, i oczyma począł sieroty musztrować."|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072288.mp3|Dzieci nie potrafią nieraz zrozumieć powagi i konsekwencji danej sytuacji|5.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_33876503.mp3|Niezależnie od tego, o którym z dwóch błędnych pojęć mówimy, musimy wyzbyć się obu|6.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25837021.mp3|Gdybym był kobietą, to puszczałbym się bardzo i męczyłbym takich mężczyzn, jak ja.|5.832
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27755491.mp3|Ponadto możemy się również cieszyć z likwidacji klauzuli opt-out|5.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20657863.mp3|Pamiętaj o wzięciu kremu do opalania!|3.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26286024.mp3|Ponadto chciałbym podnieść jeszcze jedną kwestię|3.924
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31854713.mp3|Można powiedzieć, że doszło zarówno do pozytywnego, jak i negatywnego rozwoju sytuacji|7.956
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36988754.mp3|Tego właśnie potrzeba|2.988
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21086007.mp3|Gdybyście wiedzieli! — powtarzała sobie w duchu.|4.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20637204.mp3|Prawda, nie miał żadnej broni.|4.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32881436.mp3|Są to najistotniejsze kwestie, do których panie i panowie posłowie wnieśli ważne uwagi|8.82
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385241.mp3|"W ostatnich czasach władze sowieckie poczęły wprowadzać oszczędności kosztem świadczeń socjalnych robotniczych."|7.008
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26250534.mp3|Jest to tragedia, o której trudno jest mówić|4.068
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22997422.mp3|"Życie całe przystało by szukać wzajemnej odpowiedniości."|5.016
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20894275.mp3|Ale pójdźmy dalej, może zobaczymy ich więcej.|3.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147295.mp3|Zakwestionował przy okazji też cyfry, jeżeli chodzi o ilość ofiar holocaustu|6.876
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25245394.mp3|"Jeżeli zaś nie nastąpi i bez niego wytrwam."|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32857014.mp3|Odpady ulegające biodegradacji|3.42
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002265.mp3|"Wówczas zwykle zajmujące rozmowy, wspomnienia miłosne, przyszłe zamiary małżonków, były rozbierane."|8.208
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38567074.mp3|Wszystkie organizacje zajmujące się zwalczaniem chorób jednoznacznie zalecają wprowadzenie programów rozdawania owoców w szkołach|9.54
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22453902.mp3|"Nie wiemy jeszcze kto pan jesteś, skąd przybywasz i czem byłeś?"|5.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002248.mp3|"czy nie wysłucha z uśmiechem skarg dziecięcia?"|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25228504.mp3|"Co by to mogło być?"|3.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497461.mp3|Jeśli Państwo pozwolą, omówię szerzej kilka punktów|5.472
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20871425.mp3|Gdzież to idziesz sama i w tak zawalanym ubraniu?|4.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999270.mp3|"Był to mały człowieczek ze szpakowatą ostrą bródką."|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20610586.mp3|Miała mokre włosy.|3.432
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23792954.mp3|"trzeba dobrze uważać."|3.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26320401.mp3|Ponadto bardzo doceniam pozytywną rolę, jaką Turcja odgrywa na Kaukazie|5.652
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985922.mp3|Wymaga ona określenia priorytetów na przyszłość|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174893.mp3|Uśmiechnęła się do niego po raz pierwszy od chwili porwania.|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22204253.mp3|"Czy prosiliśmy was może, abyście przybyli do Wenecji?"|5.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35918697.mp3|Grupa Ataka głosuje za odrzuceniem sprawozdania z postępów Turcji, ponieważ nie dostrzegamy żadnych postępów|8.568
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147273.mp3|Mówi się nam, że potrzebujemy większych kompetencji europejskich|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112612.mp3|Potrzebujemy otwartości w negocjacjach w sprawie Acta|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390774.mp3|Czy chcemy dać ombudsmana też nielegalnym imigrantom?|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24401585.mp3|"W piwnicy zrobiło się pusto."|3.204
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385205.mp3|"Możesz mi wierzyć, że wkrótce będziesz wolny."|3.648
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22985001.mp3|"Jak długo już ona tu siedzi?"|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26946471.mp3|Kolejny typowy aspekt tego podejścia to propozycja stymulacji przedsiębiorczości kobiet w celu zwiększenia zatrudnienia|8.676
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729581.mp3|Uważam, że będzie to istotną wskazówką dla całego sektora gospodarki|5.652
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37100650.mp3|Ukraina jest dla nas bardzo ważnym krajem|4.248
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25111300.mp3|"Boi się Maciuś, żeby Felek nie odszedł, więc nic już nie mówi."|5.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22791976.mp3|"Ma białą plamę na czole z kwasu."|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20623705.mp3|Nie słuchał jej.|2.52
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23606095.mp3|"Aboż natura jest piękną?"|3.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23797030.mp3|"Fasada była zdjęta całkowicie."|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22605741.mp3|"Treść jest zupełnie jasna."|3.16075
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22911182.mp3|"To było zatem wszystko, co zyskałem po tylu trudach i tak ciężkiej pracy!"|5.16
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21463645.mp3|"Holmes siedział całkiem nieruchomo przy kominku."|3.912
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21582207.mp3|"Człowiek ledwie sam się wyżywi."|3.312
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24979840.mp3|"W miłości nie ma jutra."|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26286043.mp3|W istocie grozi nam strzelanie do własnej bramki|4.5
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25370381.mp3|"Zabicie człowieka stanowiło dla nich coś tak pospolitego, jak zabicie owcy dla rzeźnika."|7.956
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20776721.mp3|Woda jaśniała spokojnie|3.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20618329.mp3|Obronić się przed straszną koalicją wrogów — otóż pierwsza idea.|6.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25363051.mp3|"Tak nie wygląda rojenie senne."|3.708
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23062738.mp3|"Tam połowa pochylonego domu z zapadającym się frontem."|4.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25108430.mp3|W tę czy wew tę, mi to wisi.|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27960353.mp3|Proszę pozwolić mi krótko przypomnieć państwu jedną rzecz|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21082368.mp3|Gdyby mógł dorwać się do strzelby i ładunków.|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28280043.mp3|Państwa będą musiały przyjąć zobowiązania na konferencji w Kopenhadze|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991280.mp3|Kolejnym elementem zwiększenia skuteczności tej agencji jest współpraca międzynarodowa|7.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636118.mp3|"Nawarzyłaś piwa... i na Boga, wypijesz je!"|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36968293.mp3|Apeluję do producentów, aby zareagowali na nasza sugestię|5.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20630688.mp3|Powiedziałem wtedy do siebie: „Każda chwila jest godna Szekspira”.|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20871421.mp3|Pomacał dziurkę ręką, palcami poszerzył|5.184
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087672.mp3|"Pewny, jak skała."|2.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22459048.mp3|"Minęło od tego czasu lat wiele."|3.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23792939.mp3|"Podskoczyłem ze zdumienia."|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32385056.mp3|Ostatnia kwestia - dotycząca bezpieczeństwa|4.572
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23608603.mp3|"„Czy pan nie może być chwilę poważnym, panie Pernat“."|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30529053.mp3|Proszę powiedzieć, że zrzeka się pan immunitetu, a następnie znieważa posłów tego Parlamentu!|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32855462.mp3|"Ich głowa w tem, żeby się nie spotkali."|3.96
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37832249.mp3|Likwidując ten system, znajdziemy rozwiązanie|4.428
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25459118.mp3|Ale nie płacz.|2.592
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24401577.mp3|"Było to omdlenie."|2.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25290657.mp3|"Ale kto może być ta piękność?"|3.708
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20946430.mp3|— Zaraz dostaniesz w skórę, niegrzeczna dziewczyno!|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21762390.mp3|Gapił się tępo w białą ścianę.|2.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21600151.mp3|"Patrz, jak pracuje twój brat, ty zaś jesteś do niczego."|4.704
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985436.mp3|To jedyny sposób, aby wystarczająco szybko ograniczyć emisje i osiągnąć zadowalający rezultat w Kopenhadze|7.236
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31854639.mp3|Mówili o tym przedstawiciele Memoriału kila razy w tej Izbie|6.66
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22571797.mp3|"Co to za radość, kiedy pan stanie u celu!"|4.128
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22719711.mp3|Cezarek wykonał swe postanowienie.|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20624540.mp3|Nie chcę mówić, żeby nie zapeszać.|3.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20611458.mp3|Jednoręki i kulawiec ze czcią na ów sęk teraz spojrzeli.|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21086020.mp3|"Ponieważ jest siódmego stycznia, używamy już nowego almanachu."|5.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28498922.mp3|Każdy podsektor transportu powinien pokrywać koszty, które rzeczywiście powoduje|6.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37040430.mp3|To bardzo dobrze, ponieważ klimat nigdy nie przestał być przedmiotem debaty naukowej|6.84
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26950972.mp3|Kompromisowe porozumienie osiągnięte w sprawie wychwytywania i składowania dwutlenku węgla jest wysoce zadowalające|8.316
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22437856.mp3|"Trzeciego czerwca i my otrzymaliśmy rozkaz wymarszu."|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27659089.mp3|Mimo to biorąc pod uwagę znaczenie dyskutowanego instrumentu będę głosować "za"|6.3
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25290582.mp3|"Kiedyż więc zaczynamy?"|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27067351.mp3|Potrzebujemy zatem projektu prawa umów, wspólnych ram odniesienia|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32806100.mp3|Jednakże jestem do państwa dyspozycji, aby kontynuować dyskusję na ten temat|7.848
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37232397.mp3|Sprawując mandat, w centrum mojej uwagi pozostawały równość płci i prawa kobiet|6.66
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26366000.mp3|Powiem więcej - koszty społeczne osłabienia tego sektora mają znaczenie absolutnie fundamentalne|7.956
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26593712.mp3|Usuwamy obecnie ostrą kategorię toksyczności pięć|5.22
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731945.mp3|"Wśród paproci zachowywałem się bardzo spokojnie."|5.112
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37263094.mp3|"Każdy tak sobie myśli, ale czekają, co powie Maciuś."|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37040437.mp3|Myślę, że nasze obowiązki w tej kwestii dzielą się na trzy rodzaje|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21463641.mp3|"I nie mylili się, jak skutek okazał."|3.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22770496.mp3|"Zaczerwienił się z gniewu, jak indyk i spojrzał na piłę."|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30316228.mp3|To pokazuje, jaką wagę wszyscy przykładamy do zbliżenia narodów Bałkanów Zachodnich do Unii Europejskiej|6.912
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991625.mp3|Mimo wszystko, dziękuję|4.068
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390764.mp3|Poważną barierę stanowią ogromne koszty, z jakimi wiąże się handel transgraniczny|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20653603.mp3|W postać geniusza ruchu.|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26286025.mp3|bezpieczeństwo, ekologiczność i bardziej inteligentne zastosowanie|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25769840.mp3|W jaki sposób?|2.34
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25053630.mp3|Test mikrofonu, raz dwa, raz dwa...|5.076
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31840734.mp3|Stanowczo cena na rynku światowym powoduje wzrost cen|5.436
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22723123.mp3|Niedługo tam jednak pracowała.|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25234721.mp3|"Gadu, gadu, przesiedzieliśmy do pierwszej w nocy."|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22258028.mp3|"Gdy zamykałem dziennik generała, zaczynało już świtać."|6.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112643.mp3|Dlatego jest to podsektor potrzebujący wsparcia i rozsądnej regulacji|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26881273.mp3|Z przyjemnością wysłuchałam pani wystąpienia|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36968292.mp3|Karygodne jest to, że większość tych zbrodni do dziś nie została w pełni wyjaśniona|8.388
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35919059.mp3|Wydano fortunę, a rzeczywisty cel tego systemu nie został osiągnięty|7.236
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27395934.mp3|Spadają ceny, jakie uzyskują rolnicy za swoje produkty, ale nie te, które płacą konsumenci|7.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21109372.mp3|bogini miłości Izyda-Hator karmi piersią króla młodzieńca.|6.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25317980.mp3|"Zdawało się, że w duchu ogląda jakiś obraz."|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27535121.mp3|Osiągnięcie tego celu jest konieczne|6.3
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21088678.mp3|"Była to bardzo ładna kobieta."|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20718607.mp3|Toń wodna migotała spoza nich, jak spoza sztachet chwiejnych i nieustalonych.|7.368
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21156653.mp3|Kup marchewkę, pieczarki i mięso.|4.2
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20946240.mp3|— Czy to prawda, cioteczko — spytał — że ty umarłaś?|8.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21644966.mp3|"Czyż wobec tego wszystkiego rodzinie twej może grozić jakiekolwiek niebezpieczeństwo?"|5.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112702.mp3|Wciąż nie zgadzamy się z niektórymi aspektami zawartymi w sprawozdaniu i jesteśmy im przeciwni|7.632
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087497.mp3|— Więc odejdź pan, doktorze, nie drażnij mnie!|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370407.mp3|Trudne dostosowania, które musi przeprowadzić, będą oczywiście wiązały się z koniecznością poniesienia pewnych kosztów|7.992
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22160195.mp3|"Czegóż po takiej sensacji może się jeszcze spodziewać w życiu dziennikarz?"|4.872
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25701830.mp3|W ciemnościach krążyły dwa lwy.|3.276
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22168549.mp3|"To bardzo przyzwoity chłopiec, nie sądzę, aby mu było można co zarzucić."|6.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32274289.mp3|Chciałbym krótko odnieść się do trzech kwestii|4.284
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37040445.mp3|Jednocześnie wiele osób podniosło kwestię zarządzania kryzysowego|6.912
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942991.mp3|Szczególnie zależało nam, aby działać zgodnie z zasadą, którą znają państwo jako najważniejsze przykazanie|7.704
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636154.mp3|"Światło wśród ciemności."|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32806097.mp3|Jak często bywa, jesteśmy największym donatorem pomocy humanitarnej w Sri Lance|8.28
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20649759.mp3|— Czego tu szukasz? — zapytałem ostro.|6.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20919029.mp3|Prawda, że i chłopcy nieraz dokuczą.|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32380012.mp3|Jest to dziecinne i niegodne dla założycielskiej ojcowskiej europejskiej wizji|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147294.mp3|To wiąże się z przedmiotem badań i innowacji|5.4
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26990746.mp3|U Win Tin jest najstarszym więźniem sumienia w Birmie|6.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22605713.mp3|"Trudno było dojrzeć cośkolwiek przed sobą."|4.623625
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27205598.mp3|To sprawozdanie więcej niż zasługuje na nasze poparcie|5.436
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35585717.mp3|Sprawozdanie jest wyważone, ponieważ jego głównymi punktami są|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38572686.mp3|Cieszę się, że w sprawozdaniu uwzględnione zostały również te fakty|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25064639.mp3|"Czy zdołasz mieć taką stałość, wyznaj, czy czujesz się dość silną?"|5.148
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21511196.mp3|"Lecz oni siedzieli nieruchomo, tak, że ogień dotykał ich odzieży."|5.016
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26377033.mp3|Po trzecie, klimat|2.16
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20999992.mp3|Nie dosłyszałem rozkazu.|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27029765.mp3|Uważam, że wspólnie udało nam się zapoczątkować proces, który zaowocuje oszczędnościami w tej dziedzinie|6.804
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27755490.mp3|Nie można tolerować przemocy seksualnej wobec dziewcząt i kobiet|5.724
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26376907.mp3|Komisja Przemysłu, Badań Naukowych i Energii odpowiada za badania, energię i rozwój społeczeństwa informacyjnego|7.848
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26357379.mp3|Oprócz tego opóźnienia na skutek korków powodują znaczące straty ekonomiczne w sektorze transportu|8.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21345499.mp3|"Było jednak rzeczą pierwszorzędnej wagi abyśmy się przekonali, kto je wrzucił do wody."|7.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636232.mp3|Jednakże Serbowie otrzymali jej zbyt mało, aby przekazać część Rosjanom.|5.376
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25363149.mp3|"Ale ten odwrót nie był taki łatwy."|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25154217.mp3|"Usiadłem przy warsztacie i wyjąłem obcążki i rylce."|4.788
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31854666.mp3|Europa musi zyskać większą zdolność zatrzymywania badaczy i pozyskiwania utalentowanych ludzi z państw trzecich|8.82
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25064831.mp3|"Hartmann stał chwilę zdumiony tem niezwykłem postępowaniem swego mniemanego kolegi."|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21644138.mp3|"Ale Mistrz jest już gotów do wagi."|4.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21175053.mp3|Druga wojna światowa rozpoczęła się pierwszego września tysiąc dziewięćset trzydziestego dziewiątego roku.|8.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21698688.mp3|"Sądziłbym raczej, że przyjechał tu dla zupełnego wypoczynku, aby leczyć się na nerwy."|5.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26320452.mp3|Obywatele Białorusi powinni być w Unii mile widziani|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20928670.mp3|I małą wyrwał z niewoli — i ją ocalił!|3.864
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34579893.mp3|Jak chcemy to osiągnąć?|3.06
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24727193.mp3|"Ależ to żywy Machalski, kiper od Hopfera!..."|3.42
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29112588.mp3|Teraz, kiedy podjął działanie wojskowe w odpowiedzi na prowokację Hamasu, czuje ciężar międzynarodowej dezaprobaty|8.64
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22462531.mp3|"Na stoliku syczała paląca się maszynka naftowa."|4.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20653166.mp3|— To ja będę udawała, że ty nie płaczesz.|4.392
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21540791.mp3|"Ale było to pismo mężczyzny wykształconego."|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35918207.mp3|Serbowie, Chorwaci i Bośniacy będą musieli znaleźć własną drogę|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26175605.mp3|Będzie można wówczas połączyć oba wymogi i skorzysta na tym cały system danego państwa|7.128
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21762400.mp3|"Przeciwnik jego stawał się coraz potężniejszy, wracały mu utracone siły."|5.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24151813.mp3|"Rozłożył list i czytał: „Panie!"|3.348
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878723.mp3|"Może powiecie, że byłem równie zły, jak i wy."|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731781.mp3|"Ale jak tu uciec?"|3.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363182.mp3|Niezbędne są także dalsze działania wspierające prawidłowy rozwój europejskiego rynku usług|6.156
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729686.mp3|Wspieram oczywiście ambicje Wrocławia, który konkuruje o siedzibę Europejskiego Instytutu Technologii|8.352
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22732658.mp3|"Cóż miałem począć w takich okolicznościach?"|3.96
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37040441.mp3|podobnie jak grupa innych posłów podpisałem protest przeciwko wykluczeniu Bośni i Hercegowiny|8.028
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20612590.mp3|Reszta jest prawie napisana.|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25699991.mp3|"Wreszcie podał mi rękę, i uścisnął ją setnie."|3.996
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22087676.mp3|"Nowozaciężni, mieszczanie, dzierżawcy wiejscy, może nawet nie umiejący obchodzić się z bronią!"|10.272
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26962710.mp3|Trudno oszacować straty podatkowe wynikające z oszustw|5.22
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20808300.mp3|Emil — bo wstydził się za Janka; Janek — bo wiedział, co myśli Emil.|6.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729680.mp3|Komisja będzie promować rozwój sieci portów oraz zapewni rozwój dobrych inwestycji towarzyszących|7.632
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112722.mp3|wręcz przeciwnie, czujemy, że znajdujemy się w sercu problemu|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25103554.mp3|"nic się nie stało."|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22998251.mp3|"W całym ghetto nikt nie mieszka, coby mógł się śmiać wesoło."|4.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25835946.mp3|"Proszę spalić szyfrowaną wiadomość, która obecnie nie może mieć dla pana żadnej wartości."|5.436
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174842.mp3|Wszelkie wydatki ponosił rząd egipski.|4.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27970985.mp3|Nie możemy zatwierdzić pakietu o takim zakresie w ramach przyspieszonej procedury|6.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22911118.mp3|Nie byłem wtedy online.|2.64
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21651753.mp3|"Sprzyjająca chwila nadeszła."|4.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26286011.mp3|O to chodzi?|2.412
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28058381.mp3|Niemniej jednak poprzez grupy międzywydziałowe wszyscy uczestniczymy w tym procesie|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390571.mp3|Jak pan widzi, mamy przed sobą długą drogę|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25229507.mp3|"zapomnij co do ciebie powiedziała, i każ jej zapomnieć co jej odrzekłeś."|7.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21156766.mp3|Jest godzina jedenasta dwadzieścia.|3.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23357569.mp3|"Gdy wyciągnąłem rękę, mogłem dosięgnąć dachów."|4.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20607741.mp3|Zobaczyła jego wywrócone oczy i połyskujące białka.|5.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36715448.mp3|Mówiąc prościej, jest to kluczowy sektor dla Europy|5.328
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20675899.mp3|— Dlaczego włóczysz się koło tego domu?|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27002847.mp3|Przez kilka ostatnich godzin rozmawialiśmy na ten temat|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999529.mp3|"Może mam mu ją odnieść?"|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27369891.mp3|Dla pańskiego rządu ten moment minął|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729678.mp3|Musimy zbadać przyczyny i siłę napędową, która przyciąga tych ludzi do Europy|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20646645.mp3|Mój pies dostaje smakołyki za robienie sztuczek.|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20676586.mp3|Poproszę coś na kaszel.|3.936
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731764.mp3|"Musze panu pogratulować."|3.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21698709.mp3|"Sierżant podniósł bilet, który leżał na podłodze obok trupa."|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37487015.mp3|Pożyczyła klubowy komplet czerwonych, aluminiowych zbijaków.|3.708
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942908.mp3|Alternatywnie, zasilą szeregi posłów niezrzeszonych|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27125473.mp3|Powinniśmy byli znacznie głośniej o tym mówić|3.168
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36988730.mp3|Dziękuję za pański wniosek|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716352.mp3|"Ten stary złodziej!"|3.672
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174795.mp3|Czas stał nieruchomo jak ocean podczas ciszy.|5.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22229353.mp3|"Pewnego dnia wieczorem, Estera wyszła odwiedzić chorego dzierżawcę."|6.864
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002706.mp3|"Wtedy dopiero ludzie przyznają, żeś ty szlachcic, równy innym..."|6.804
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25879403.mp3|"Czekam w Miller Hill."|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21694607.mp3|Socrealizm, modernizm, realizm, surrealizm.|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22453937.mp3|— Pan cierpi na artystyczną eiacuiatio praecox.|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30338976.mp3|Obawiam się, że nie|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22379663.mp3|"Nie, gdyż Francuzi podróżują rzadko po świecie."|4.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20662016.mp3|Najpierw udał się do probostwa nie bez pewnej trwogi w sercu.|6.096
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731792.mp3|"Jednak że dziś jest sobota, to utrudnia poważnie sprawę."|4.08
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072290.mp3|W związku z tym głównymi źródłami emisji dwutlenku węgla po ociepleniu są oceany|6.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38567045.mp3|Solidaryzujemy się z klasą pracującą i wszystkimi robotnikami tureckimi|6.084
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29112587.mp3|Złożone mieszanki stanowią tajemnicę handlową będącą efektem prowadzenia wieloletnich badań i prób|7.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21496557.mp3|"Podszedłem z lejkiem do światła i zacząłem go dokładnie oglądać."|3.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390685.mp3|Panie przewodniczący, szanowni posłowie do Parlamentu Europejskiego|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32855595.mp3|Ugrupowanie polityczne, które wprowadziło tę praktykę było tym, któremu przewodził Adolf Hitler|6.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370279.mp3|Jedną z form dyskryminacji jest łamanie praw reprodukcyjnych kobiet|5.148
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36968379.mp3|Jego zakres przekracza aspekty własnościowo-finansowe|5.004
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23357521.mp3|"Ja nie mogę umrzeć, nie mogę!"|3.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32274297.mp3|Nie może do tego dojść|3.6
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25821856.mp3|"I znowu powstał szalony śmiech!"|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21086011.mp3|Powietrze zmieniło się w jedną wielką świetlistą topiel.|5.352
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22275066.mp3|"Inni grali dalej."|2.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23662978.mp3|"Całą noc nie mogłem się uspokoić."|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23732717.mp3|"Jaśnie wielmożny wielki mistrzu pałaców królewskich."|4.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20968667.mp3|Nikomu nie będzie wadził.|5.088
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22246297.mp3|"Mogli zjawić się poto, aby na mojej ukochanej wykonać wyrok."|5.64
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22571835.mp3|"Skinął mi głową i skierował się ku drzwiom mieszkania."|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21775656.mp3|"„Wówczas z każdego wozu, z każdego otworu padły niezliczone strzały."|6.192
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20973952.mp3|- Tak mniej więcej jak stąd do Sycylii - objaśnił pan Tarkowski.|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21046815.mp3|I dziewicze opory zaraz odrzuciła|3.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716444.mp3|"Siadłem na łóżku i czekałem, co mnie za kara spotka."|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32259731.mp3|Ostatnio Komisja opublikowała szóste sprawozdanie na temat poważnych naruszeń zasad wspólnej polityki rybołówstwa|9.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26320256.mp3|Jestem pewien, że wspólnymi siłami zdołamy znaleźć rozwiązanie|5.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28058289.mp3|Padło pytanie, czy konstytucja przewidywała większość czterech piątych, czy też nie|6.84
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22571427.mp3|"Czy zechcesz mię pan przedstawić pani i tej młodej damie?"|5.16
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25459143.mp3|Czyż mnie nie poznajesz?|3.132
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985527.mp3|Jeden z nich dotyczy konkurencyjności, o której mowa w wielu różnych miejscach sprawozdania|5.652
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22911020.mp3|"Stąd możemy przejść prosto na drugą stronę."|3.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26365336.mp3|W stu procentach opowiadamy się za konkurencyjnymi stosunkami między publicznymi i prywatnymi podmiotami nadawczymi|8.136
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22723040.mp3|"Ogier jakby się wściekł."|3.312
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25064619.mp3|"Panna Izabela kręciła głową."|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20618969.mp3|Część krytyków zaznacza jednak, że wielbiciele kina artystycznego będą mieli czym nacieszyć oczy.|7.272
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21582153.mp3|"To prosta droga do grzechu."|3.072
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25274166.mp3|"Pytać musieli wszyscy dlaczego tak daleko wędrował za chlebem."|4.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643798.mp3|"Generał był zdumiony."|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27622579.mp3|Dostępność i bezpieczeństwo tych szlaków transportowych jest zatem kwestią największej wagi|5.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32380016.mp3|Na zakończenie zacytuję słowa poety|3.276
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38566999.mp3|Bez zadowolonych i zabezpieczonych konsumentów nie osiągniemy dobrze prosperującego rynku wewnętrznego|7.272
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942983.mp3|Chciałabym podziękować Trybunałowi Obrachunkowemu, ale chciałabym też powiedzieć, że jestem rozczarowana tym rocznym sprawozdaniem|8.532
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37277666.mp3|Nie sprawdza się po prostu jego strategia komunikacyjna|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22997681.mp3|"Aby mi czas płynął prędzej, wziąłem ze stosu książek starożytną grę w taroka."|6.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20619430.mp3|— Panie skrzydlaty, uważaj na przeciąg!|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27659137.mp3|Nie możemy dopuścić do podobnej sytuacji tutaj|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22494258.mp3|"Cały ruch uliczny jest wstrzymany."|3.672
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20608778.mp3|Teraz, gdy już wszystko wiadomo… — zaczął uroczyście Podlasiak.|5.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38569288.mp3|Pierwszą rzeczą, którą moim zdaniem musimy zrobić, jest nawiązanie dialogu|5.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35918338.mp3|Celem irańskiej polityki zagranicznej jest zdobycie dominującej pozycji regionalnej na Bliskim Wschodzie|6.948
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25154216.mp3|"Gdy powrócę z życiem, do mego wieńca wawrzynowego przybędzie znowu jeden listek."|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24401559.mp3|"Zrobisz to, moja droga?"|3.6
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38572673.mp3|Niezakłócona współpraca między Unią Europejską a Radą Europy jest niezwykle ważna dla powodzenia Agencji|7.452
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37232398.mp3|Wspomniał pan o swojej matce|2.916
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21307426.mp3|Wycieczki.|1.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643785.mp3|"To właśnie najniebezpieczniejsze miejsce."|4.008
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23732656.mp3|"Gdybym był malarzem, nie potrzebowałbym mieć ją przed oczyma, by zrobić jej portret."|9.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28058153.mp3|Tworzą oni getta i nierzadko kończą jako członkowie grup terrorystycznych|6.66
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25744805.mp3|"Opis straconego dnia."|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27960300.mp3|Dysponujemy Centrum Technicznym i Naukowym, które prowadzi analizy i klasyfikację nowo wybitych sfałszowanych monet|8.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112665.mp3|W imieniu mojej grupy pragnę przedstawić poprawkę ustną do omawianego punktu|6.912
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21109381.mp3|— Chodźmy do niej.|2.184
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25317977.mp3|"W dwóch skokach był przy niej."|3.168
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21312137.mp3|Gdy wyszła z domu, znalazła wystawę, aby obejrzeć swoją twarz.|4.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38655579.mp3|Oczekuję, że zostanie dokonana poniższa ocena|3.996
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20792293.mp3|To nie są moje marzenia|2.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21088812.mp3|Jeden tylko pokutnik odprawiał spowiedź przed opatem i właśnie odchodził rozgrzeszony.|8.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22311627.mp3|"To małe drogie uszko, które tyle razy całowałem!"|5.184
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27029744.mp3|Omawiany złożony pakiet to wynik dwuletnich wspólnych wysiłków|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21467856.mp3|"Zrozumieliśmy, że nikt nic nie słyszał i że my jedni byliśmy panami tajemnicy."|6.36
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20612352.mp3|Zaczęła się nienormalnie szorować, i to jej zostało.|6.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25218101.mp3|"O mój Boże!"|2.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25229157.mp3|"Udało mu się wreszcie papieża przekonać."|4.5
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643196.mp3|"Złe zrośnięcie się nogi spowodowało zgubne skutki w ciągu jego następnych sukcesów."|6.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31255678.mp3|"Jest spokojny i chyba szczęśliwy."|4.788
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22246293.mp3|"Jemu masz to pani do zawdzięczenia, ja nie ponoszę tutaj żadnej winy."|6.0
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28498921.mp3|Sprawa w dużym stopniu dotyczy zestawu narzędzi, które skutecznie odstraszałyby od stosowania antykonkurencyjnych praktyk|10.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20607943.mp3|Wydawało mu się, że gdy ją straci, umrze.|5.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985502.mp3|Pierwszym krokiem musi być zwolnienie wszystkich więźniów politycznych|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24455393.mp3|"„To trzymajże język za zębami!"|2.412
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25157594.mp3|"Pan Ignacy otworzył i czytał: „Człowieku głupi, czy nikczemny!"|5.688
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25321444.mp3|"co za myśl!"|2.376
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27112894.mp3|Pan prezydent Klaus musi przyjąć tę historyczną odpowiedzialność i podpisać traktat|5.832
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20781541.mp3|Lubię bardzo obserwować go w godzinach porannych.|4.704
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35174160.mp3|To wyzwanie, z którym w reformie wspólnej polityki rybołówstwa musi się zmierzyć komisarz|7.488
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24719941.mp3|"czy wzięłyście ładne chusteczki do nosa?"|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38655595.mp3|Rozumiem znaczenie|2.196
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643787.mp3|"Stronnicy Wilsona wyli poprostu z zachwytu."|5.808
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35586071.mp3|Przewodniczący w imieniu Parlamentu przekaże ofiarom oraz dotkniętej tragedią społeczności wyrazy solidarności oraz kondolencje|8.388
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27185257.mp3|Tak, Panie i Panowie|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25442138.mp3|"Nie, nie spieszyła się, nie zdawała się szczególnie wzruszoną."|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22257864.mp3|"Ale kołysała się bez przerwy."|4.2
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35174126.mp3|Metoda ta nie opóźniała ani nie narażała na ryzyko osiągnięcia celów Europejskiego Funduszu Społecznego|8.46
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26091010.mp3|Kto jest za, zechce podnieść rękę|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28269754.mp3|Mówiąc innymi słowy, dobrowolne i nieodpłatne dawstwo ma bezwzględnie istotne znaczenie|7.2
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21645249.mp3|"Łowczy, którego koń unosił kopyta, jak ciężary, pozostał w tyle."|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25064632.mp3|"„Czyżby i on mnie posądzał i śledził?..."|3.492
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27664510.mp3|Stwierdziliśmy to na forum Komisji, Rada to stwierdziła i stwierdzono to podczas spotkania waszyngtońskiego|8.46
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25053947.mp3|"tem gorzej dla niej; czekałem ja także przeszłej niedzieli, dziś na nią kolej."|7.308
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20775518.mp3|Nie śmiała się teraz wcale.|5.016
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32857003.mp3|Oba te kryteria stawiają kobiety w niekorzystnym położeniu|5.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731971.mp3|"Teraz już mi więcej nie było potrzeba, wolność miałem zapewnioną."|5.808
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22605735.mp3|"Twarze zwrócone mieli ku nam."|3.9705
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22723150.mp3|"Wyłupił na mnie oczy."|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30510553.mp3|My, szwedzcy socjaldemokraci w Parlamencie Europejskim, głosowaliśmy za przyjęciem przedmiotowego sprawozdania|7.74
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25745627.mp3|"Nagle usłyszałem kroki."|2.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390686.mp3|czynnika demograficznego i czynnika religijnego|3.924
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185947.mp3|konsumenci o najniższych dochodach, konsumenci z grup najsłabszych|4.86
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20615101.mp3|Usiadła, otworzyła oczy i popatrzyła na niego po raz pierwszy.|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420137.mp3|W sprawozdaniu podkreślono, że zawarcie umowy o wolnym handlu jest jednym z priorytetów|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27622638.mp3|Według szacunków wszystkie państwa członkowskie odnotują w tym roku ujemny wzrost|5.328
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35747300.mp3|I tu nie chodzi jedynie o nazwę, którą przybrała sama koalicja|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26320254.mp3|Na początku pragnę pogratulować Komisji Europejskiej znakomitego sprawozdania|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21582158.mp3|"Cierpi na tym braku sił fachowych produkcja."|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34118116.mp3|Zdecydowanie popieram ten projekt|3.636
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991333.mp3|Parlament ten wykazuje się w tej kwestii rażącą hipokryzją|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20603168.mp3|Jednoręki potwierdzająco kiwnął dłonią, lecz słowem się nadal nie ozwał.|6.936
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23357423.mp3|"Punkt błyszczący, jak oko!"|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21157339.mp3|Rok przestępny ma długość trzysta sześćdziesiąt sześć dni.|5.688
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37813442.mp3|Na to zgody być nie może|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363236.mp3|Decyzje podejmowaliśmy szybko - niektóre może zbyt szybko|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174860.mp3|Jak spo tykamy się, mogłabyś przynajmniej nie ciągnąć za sobą tego stworzenia, Ewy.|7.92
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716355.mp3|"Jeden z nich zauważył mnie przy blasku lampy, powstał i zawołał na mnie."|6.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21086009.mp3|— Tak, to prawdziwa pustelnia! — odezwała się do siebie.|5.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22996837.mp3|Ja tam za bardzo nie narzekam.|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21077879.mp3|Czy wydarzyło się coś nowego od owej chwili?|4.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24455404.mp3|"„No, mieszka właśnie tam."|2.844
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26250514.mp3|W związku z tym byłabym zainteresowana pani poglądami na te kwestie|5.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28498943.mp3|Należy dołożyć wszelkich starań, by współpraca sądowa między państwami członkowskimi była jak najbardziej efektywna|9.648
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20659252.mp3|Trupy leżą na drodze, która mnie od nich dzieli, jak progi kolejowe.|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26593721.mp3|Są nim wolne wybory na Białorusi|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26881367.mp3|To zła wiadomość|3.528
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147292.mp3|Uważam, że jest to naprawdę potrzebne|4.428
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20896970.mp3|Powiem ci wszystko.|2.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942967.mp3|Największa tragedia Chińczyków wiąże się jednak z katastrofami politycznymi|5.4
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22379620.mp3|"Czy przyrzekasz uczynić to samo?"|3.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28498959.mp3|Moim zdaniem to nie ma sensu, ale właśnie w takim kierunku zmierzamy|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25154222.mp3|"Baron się uśmiechnął."|2.376
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25064686.mp3|"Słuchaj, jak mruczy!"|2.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25234686.mp3|"Unikaj zatem samic innego niż twój gatunku...“ Wokulski ocknął się i rozejrzał."|6.948
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20642863.mp3|Nad Wisłą standardowo tłumy.|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27205575.mp3|Data ratyfikacji konwencji leży w gestii posłów do czeskiego parlamentu i czeskich senatorów|8.028
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21154634.mp3|Jednocześnie poczuła ból w piersiach i skurcz w gardle.|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390572.mp3|Druga to przestrzeganie reguł dyscypliny budżetowej i należyte zarządzanie finansami ustanowione w porozumieniu międzyinstytucjonalnym|9.432
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25442128.mp3|Co się stało, wiesz sam.|2.412
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30737872.mp3|Nie mamy prawa nakazywać, ale mamy prawo promować|4.572
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25053632.mp3|"Pan Tomasz aż poruszył się na krześle."|5.94
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20613477.mp3|— Na osobności, tylko na osobności!|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25103425.mp3|"„Pieniądze ma się rozumieć, przyjąłem.“ Zakręciło mi się w głowie!"|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20614536.mp3|Kulawiec wręczył mu dziwożonę, a sam skocznie pomknął do Podlasiaka.|8.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32259763.mp3|Dyskusja na forum publicznym zbyt często skupia się na niepożądanych skutkach globalizacji|7.02
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26357386.mp3|Chcę różnorodnej Europy, w której każdy obywatel uzyskuje ochronę|6.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32259756.mp3|Jeżeli wyjadą do innego kraju, będą mogły uzyskać lepiej ukierunkowaną opiekę o lepszej jakości|7.632
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38572671.mp3|Niemniej jednak pozwolę sobie dodać trzy komentarze|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385253.mp3|"Czy słyszałeś coś o Loży w tych stronach?"|3.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21269958.mp3|Żołnierze egipscy zajmują dotychczas rozmaite miejscowości pobrzeżne w Nubii.|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24422919.mp3|Czy wiesz, kim on jest?|2.556
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942919.mp3|Moja ostatnia uwaga będzie bardzo krótka|3.888
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22229354.mp3|"Ale zaraz spojrzał na mnie stary prezydent, jak tygrys na swój łup."|6.552
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20813207.mp3|Kasztany stały wyprostowane, nadsłuchujące.|5.448
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25229138.mp3|Jedynym usprawiedliwieniem dzieł nieużytecznych jest wywołana nimi potęga zachwytu.|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27671122.mp3|Dziękuję za znakomitą odpowiedź|4.716
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22911152.mp3|"Powiedz marszałkowi, że uczyniłem wszystko, co było w mej mocy."|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20626081.mp3|Ja nie muszę im w tym pomagać.|4.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21694516.mp3|"Przed bramami ustawili się robotnicy i ich żony."|4.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636194.mp3|"Mówi, że chce się z panem widzieć w tej chwili."|3.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35585793.mp3|Teraz obydwoje kandydaci przedstawią się zwięźle|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695628.mp3|Pozwól mi czuwać… dobrze?|3.024
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729650.mp3|Chciałbym dowiedzieć się, co ma zamiar zrobić prezydencja w tej kwestii?|5.652
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25596105.mp3|"To okropne i nie do uwierzenia!"|3.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26357370.mp3|Nie możemy powiedzieć z całą pewnością, że każda ich część została zaprojektowana bez zarzutu|7.704
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35918610.mp3|Co więcej, proponuje się, by Trybunał wypełniał wspomniane zadanie przewidziane w traktacie|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22732687.mp3|"Zauważył mię także i krzyknął czym nie ranny."|5.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002794.mp3|"wszystko mi jedno w rezultacie, gdzie osiedli się ten młody człowiek."|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36968364.mp3|Proponujemy naszą współpracę w celu możliwie jak największego uproszczenia procedur|6.876
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27187373.mp3|Jutro będziemy głosowali też nad istotną regulacją, która umożliwi Komisji dalsze działania|7.488
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27645635.mp3|Moje ugrupowanie przedstawiło w związku z tym ośmiostronicowy tekst wyjaśniający szczegółowo nasze alternatywne podejście|8.28
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22192589.mp3|"Cała moja egzystencja zależy może od tego."|4.08
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363193.mp3|Jest to istotny argument, wart przywołania w aktualnej sytuacji|5.148
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25111301.mp3|"co tam mówi twoja matka w niebie?"|3.276
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22996629.mp3|"Angelina plotła tak, jak wodospad, ja zaś byłem oczarowany."|6.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23632857.mp3|"on wszędzie węszy zdradę i nienawiść."|5.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25459142.mp3|Jest godzina siedemnasta zero zero.|3.636
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27175921.mp3|Tym niemniej, odpowiem jej bezpośrednio|3.78
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29112644.mp3|Popełniliśmy spektakularny błąd|3.348
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23864798.mp3|"I dwaj przyjaciele po raz ostatni uścisnąwszy dłonie, rozłączyli się."|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20605236.mp3|Czy ten tam — to twój ojciec?|3.84
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002745.mp3|"Na przodzie nic nie znalazłem."|4.428
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27030521.mp3|Proszę pozwolić, że zacytuję uwagi agencji pomocy, która dziś się ze mną skontaktowała|6.948
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36967828.mp3|do demokracji|2.988
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32380030.mp3|Sektor finansowy nie ma możliwości powrotu do czasów sprzed kryzysu|5.148
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35919710.mp3|Wierzę, iż to się dzieje teraz|5.004
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23392491.mp3|"Skinął na mnie, abym milczał."|3.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26090916.mp3|Powinniśmy jeszcze bardziej zaangażować się w prowadzenie prac w tym kierunku|6.012
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27535124.mp3|Dlatego też przepisy prawa międzynarodowego są w tym wypadku jedynym właściwym rozwiązaniem|7.236
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22723191.mp3|"Skoczył do mnie, jak dzikie zwierzę."|3.432
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21704644.mp3|"Pismo to poszło przez umyślnego posłańca do Wólki."|4.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22260746.mp3|"Wszystko to bowiem zapomni się z czasem."|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25700086.mp3|Przewrócił się quadem na rżysku i poharatał sobie dłonie.|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25370387.mp3|W takim razie czas na rewanż.|3.6
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36988847.mp3|jakie doświadczenia mieli ludzie z dzierżawą załogową ?|5.184
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21025672.mp3|ściągnął na dół majteczki, śliczne, koronkowe|4.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385269.mp3|"Chwycił go jedną ręką za gardło i rzucił na beczkę."|3.48
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25458888.mp3|"Więc cóż z tego wyniknie?"|3.924
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26954331.mp3|Postulat Parlamentu Europejskiego w sprawie kapitału wysokiego ryzyka musi jednak zasadniczo zostać odrzucony|8.388
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27400517.mp3|To wykorzystywanie jest wspierane nawet przez zasoby wspólnotowe - czyli z pieniędzy obywateli|5.724
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30530718.mp3|Będzie to prawdziwe wyzwanie dla przyszłości europejskiej konkurencyjności|4.428
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_33876505.mp3|Naprawdę potrzebujemy większej obecności Europy|3.708
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27030732.mp3|Polityka spójności ma swoich zwolenników, ale ma też i krytyków|4.968
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34579897.mp3|Czy sytuacja ta spowodowała przyspieszenie prac nad projektem Rail Baltica?|5.4
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_35918211.mp3|Dlatego te sprawy trzeba wziąć pod uwagę w przyszłości|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21775693.mp3|"Obcoplemieńcy zawładnęli ich krajem i byli nieugięci w swym ogromie."|5.28
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21089015.mp3|Możesz pójść na rynek, gdzie kupcy rozkładają swoje za pasy.|6.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20633405.mp3|Upiór dębowy połapał się od razu w swym nowym na ziemi stanowisku.|5.496
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20641061.mp3|— Cóż ja teraz zrobię?|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25459068.mp3|"Wiemy wszystko o Mistrzu."|3.348
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30559837.mp3|Jaki wymiar finansowy przybierze partnerstwo|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25321419.mp3|"Ale pani Wąsowska nie zachwycała się."|4.392
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25701828.mp3|"Nie myśl, że będę mówił o tobie źle."|3.348
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20633084.mp3|— Dziękuję! — odkrzyknął oddalając się wybrzeżem ku miastu.|5.472
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26091350.mp3|Jak wiemy, połączenie świata biznesu i uczelni wyższych jest już od pewnego czasu faktem|6.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22684292.mp3|Spełniają pewną rolę, kiedy język w ruchu.|3.186875
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25229012.mp3|"Wąwóz, który spadzisto prowadził na dół?"|5.04
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21175167.mp3|"Musicie panowie wiedzieć jeszcze jedno."|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24983293.mp3|"Dwa małe, niby zęby szczura wysuwały się z poza dolnej wargi."|6.48
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23953871.mp3|"Ze zdumienia zasyczał mi w uszy."|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26376931.mp3|To sprawa najważniejsza!|1.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985838.mp3|Przewidywał ją regulamin węgierskiego parlamentu, ale zlikwidowano ją na wniosek partii Fidesz|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21535294.mp3|"Przed naszym domem zatrzymał się elegancki powóz, zaprzężony w dwa rasowe, rwące rumaki."|8.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22257871.mp3|"Nie było jednak żadnej rady."|3.576
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25448495.mp3|Słodziak z ciebie, wiesz o tym?|5.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643882.mp3|"Dopóki ona nie nadejdzie, nie mamy powodu obawiać się napaści."|6.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21582218.mp3|"To pańska rzecz decydować, czy to słuszne, czy nie słuszne."|5.16
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636200.mp3|— E, to są grymasy — śmieje się mama.|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636215.mp3|"Cóż on może o nas wiedzieć?"|2.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21695606.mp3|Izrael, Palestyna, Iran, Arabia Saudyjska, Jemen.|6.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21600133.mp3|"Po tym toaście, jak wiecie, winny zniknąć wszelkie wzajemne urazy."|5.736
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20608945.mp3|Zgoda! — zawołał z ponownym wybuchem radości Podlasiak.|5.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25745531.mp3|"Spróbujmy jeszcze raz."|2.628
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385174.mp3|"W oka mgnieniu człowiek jest spętany."|3.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22571348.mp3|"Rozejrzał się podejrzliwie po wagonie."|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23629228.mp3|"Dziwne, jak ten starzec był do nich podobny."|4.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20621940.mp3|Chowali go, chronili, by nie wpadł we wrogie ręce.|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25002918.mp3|"Właśnie chodzi mi o to."|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30530723.mp3|Nie każcie nam ich przekraczać"|2.7
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20616641.mp3|Nie moge powiedzieć, że nie mam na nich ochoty.|4.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32831766.mp3|Europa promuje tolerancję, dlatego nie chcemy głosicieli nienawiści, potępiających inne religie|8.676
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20625061.mp3|Uwielbiam czarną kawę o poranku.|3.288
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27622437.mp3|Pojęcia takie jak "granica ubóstwa" i "współczynnik zagrożenia ubóstwem" przekraczają moje słabe możliwości zrozumienia|7.92
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24401426.mp3|"Jednakże mama miała słuszność; może ten koń wart cztery albo pięć tysięcy franków..."|8.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729696.mp3|Jednak, czy nie jest tak, że załamanie jest lepsze niż alternatywa?|5.436
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22457285.mp3|Czy to nie dowód jeśli zniknął artykuł i cała teczka Surretta?|5.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24991652.mp3|Bardziej niż umrzeć, chciałem tylko jednego: żyć.|3.348
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22999840.mp3|"Czułem to lecz nie mogłem się zobaczyć."|3.744
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21511125.mp3|"Zdawało się jakby dopiero teraz dopatrzyli się że była piękną, roztropną i miłą."|6.672
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21636199.mp3|"W Charkowie zaburzenia robotnicze."|2.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37147274.mp3|Co ono oznacza?|3.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28776300.mp3|Kontrola i monitorowanie to zadania państwa członkowskiego|6.912
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22997979.mp3|"Zwak otulił mnie siłą w palto i zawołał: „Mistrzu Pernat!"|6.456
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27622546.mp3|Pierwszą z nich jest komunikacja z pasażerami|3.636
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26967414.mp3|Pragnę podziękować za tę, moim zdaniem, niezwykle ważną i pogłębioną debatę|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21180837.mp3|"Bądź co bądź jednak ślady te są niezbyt wyraźne."|4.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21345453.mp3|"Ludzie przyszli punktualnie w oznaczonym czasie."|5.808
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25154215.mp3|"Oczy podoficera policji kryminalnej zawisły jak zaklęte na powolnie stąpających czarnych lakierowanych bucikach."|7.236
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878650.mp3|Długo nie może zasnąć.|2.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20612340.mp3|Instytucja oświatowa i organizacja pozarządowa posiadająca status organizacji pożytku publicznego.|8.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23062568.mp3|"Komuż mam teraz wierzyć?"|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23357407.mp3|"Siłą zmusiłem się do myślenia, co mam aby znów wrócić do swego mieszkania!"|7.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087638.mp3|A grymasom nie ma końca.|2.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31840604.mp3|Potrzebujemy realistycznych decyzji|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25878745.mp3|"Nic zaś innego nie pozostawało, jak wejść do pałacu."|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37832258.mp3|O jakie interesy panu chodzi?|2.88
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26950973.mp3|Obecnie sytuacja na świecie wygląda trochę lepiej|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942896.mp3|Tylko jeden kandydat europejski podjął odpowiednią kampanię, nawiązując kontakty z różnymi państwami członkowskimi|7.92
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26990738.mp3|Dwa państwa, stanowiące jedną trzecią światowej populacji, podpisują porozumienie o współpracy!|8.244
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36968347.mp3|Nie zapominajmy, że jeżeli czegoś nie wyprodukujemy tu w Europie, będziemy to importować|6.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991328.mp3|Jest to tak naprawdę jedyny sposób na zakończenie drugiego etapu tworzenia rynku wewnętrznego|7.236
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20951354.mp3|Między szklanym, jakby obumarłym niebem a bezmiarem pomarszczonych piasków nie było śladu żywej istoty.|8.544
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20775812.mp3|Lekka nieobecność samego siebie w świecie.|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36943007.mp3|Dane statystyczne dotyczące połowów i działalności rybackiej na północno-zachodnim Atlantyku|6.804
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25363112.mp3|"Młody student chociaż świeżo przybyły do Oxfordu nie był już nowicjuszem w medycynie."|7.2
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20905759.mp3|"Chociaż nie, trzeba przyznać, nie tak znowu dobrze."|4.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25836161.mp3|Machnął ręką i zrzucił kasztany ze stołu na podłogę.|3.78
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27391201.mp3|Pozwolę sobie skorzystać z okazji i pogratulować pięciu państwom członkowskim, które już tego dokonały|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23796841.mp3|"Cała na pergaminie."|3.552
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28304277.mp3|Ubolewam, że w związku z konfliktem Grecja rozważa obecnie użycie weta wobec członkowstwa Macedonii|7.308
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20658882.mp3|Kulawiec nieznacznie poprawił się na swym miejscu.|4.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38572598.mp3|Obecnie moje największe obawy budzi zakres bieżących informacji przekazywanych tej Izbie, a dotyczących rokowań|8.928
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370131.mp3|Już samo to rozwiąże problemy Jemenu|3.492
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420228.mp3|Niech mi będzie zatem wolno życzyć pani wszelkich sukcesów w pracy i bon courage|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26961469.mp3|Jednakże pod tym względem jesteśmy krytyczni|4.428
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370284.mp3|Ludzie ci zostają ekstremistami, ponieważ nie mają nic do stracenia i czują się upokorzeni|5.436
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985909.mp3|Proszę mi wybaczyć, ale muszę zakłócić tę cudowną jednomyślność, jaka panuje w tej Izbie|5.688
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072253.mp3|Niemniej jednak stanowią one jedynie część europejskiej reakcji na kryzys|5.472
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22722998.mp3|"Cóż to mogło być ostatecznie?"|3.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23632853.mp3|"„Wiesz pan, że Golem znów się ukazał."|4.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22985005.mp3|"Starałem się wywołać w pamięci jego zjawę, lecz mi się nie udało."|6.552
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385230.mp3|"Urzędnik, człowiek o bladej nieruchomej twarzy, spełniał obowiązki swoje obojętnie, machinalnie."|5.928
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25459067.mp3|Staś, lubo bez porównania silniejszy, z największym trudem utrzymywał się na nogach.|6.084
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31983471.mp3|Wielu posłów podniosło kwestię partycypacji|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38244566.mp3|Nie chcę w tej chwili omawiać kwestii zasług|3.996
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34356041.mp3|Ich liczba jest dość znaczna|4.536
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20896968.mp3|Nie zabolało go.|3.024
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21596014.mp3|"Ogarnęła go ponownie żądza wódki i kazał mi stanąć przed szynkiem."|5.208
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20604223.mp3|Chciałem to włączyć, ale było już włączone.|5.136
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22571528.mp3|"Poza kępą drzew płomienie objęły dymiący niedawno dom."|6.24
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370404.mp3|Europejska solidarność szwankuje - zarówno wobec nowych państw członkowskich jak i Grecji|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22716284.mp3|Chyba mi się wydaje, ale coś z tym gościem jest nie tak.|4.824
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32855597.mp3|Następnym punktem porządku obrad są korekty do głosowania i zamiary głosowania|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24983344.mp3|"Bronił się, jak dziki kot, ale co zdziałać mógł swą krótką bronią?"|6.876
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38572534.mp3|To jest nie do zaakceptowania|4.068
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25745629.mp3|"Jeżeli oni dadzą ognia, Watsonie, to nie wahaj się i pal do nich."|7.56
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21086024.mp3|Zresztą nawet nie próbowała jej uciszać.|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27755514.mp3|Z tych powodów, wnioskowane rozporządzenie musi jak najszybciej wejść w życie|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21645250.mp3|"Mistrz potoczył się do swego kąta, podobny do rozjuszonego niedźwiedzia."|6.216
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31915215.mp3|Szczególnie popieramy kampanię "Owoce w szkole"|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25701859.mp3|"Gdyby był odkrył kopalnię złota, oblicze jego nie mogłoby być rozpromienione większą radością."|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30530716.mp3|Inspektorzy powiedzieli, że musi on być w pewnym miejscu, które wskazał system|5.148
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37277551.mp3|Zarówno Komisja, jak i Rada dostrzegają, jak ważny jest udział Parlamentu w tej procedurze|7.668
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_29072223.mp3|To przesłanie najczęściej dociera do nas w postaci znanego sloganu, że "sport to zdrowie"|7.632
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21511199.mp3|"Córka, chorowita, była przy matce."|4.296
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26286010.mp3|Potrzebne mi będzie wyjaśnienie od przewodniczącej właściwej komisji|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985462.mp3|Rzeczywiście jesteśmy zaniepokojeni brakiem zaufania konsumentów do wewnętrznego rynku usług|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23732714.mp3|"Śmiało więc niech pan patrzy w przyszłość i niech pan nie wątpi."|5.424
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985784.mp3|Z drugiej strony, nie możemy ignorować wkładu rolnictwa w możliwość redukcji emisji dwutlenku węgla|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22229435.mp3|"Przez chwilę zastanawiałem się nad oporem."|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34185911.mp3|Polityka praw człowieka jest przecież, w perspektywie Parlamentu Europejskiego, znakiem rozpoznawczym polityki europejskiej|9.18
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22379621.mp3|"Potem zaś słuchałem niestworzonych bredni z zapartym prawie oddechem, cały w pobożnem skupieniu."|7.032
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420366.mp3|Ale to również wcale nie musi prowadzić do deficytu|4.5
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_33049146.mp3|Następnym punktem posiedzenia jest debata w sprawie|5.76
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21175029.mp3|Ale ty uwiodłaś go dla satysfakcji.|4.128
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22998440.mp3|"Przed chwilą, ta dama to była „ona“?"|4.656
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22998778.mp3|"Jak gdyby dzisiaj dopiero zamieniła się dla mnie w rzeczywistość."|4.944
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27400499.mp3|Chciałabym jednak powiedzieć również parę słów na temat tortur|4.212
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20771853.mp3|Był mile zdziwiony.|2.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20645861.mp3|Społeczeństwo i władze państwowe powinny otaczać szczególną opieką dzieci niemające rodziny.|7.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25240206.mp3|"Stuknąłem w szybę."|3.06
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23357425.mp3|"Nie mogłem sobie przypomnieć."|2.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23797065.mp3|"„Właśnie stamtąd przychodzę."|3.336
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21087610.mp3|Wielce się w używaniu sztuki onej wprawił|3.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25245392.mp3|"„Tak jest, głuchoniemy."|2.988
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30559902.mp3|Szwedzka prezydencja przedstawiła ambitny plan działania, który obejmuje wniosek dotyczący większej przejrzystości|9.0
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26946466.mp3|Jest to odzwierciedlenie nowej sytuacji w Unii oraz potrzeb językowych naszych obywateli|6.228
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390727.mp3|Drogie Koleżanki, Drodzy Koledzy|3.168
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24542572.mp3|"Czy mogę odprowadzić panie do powozu?"|3.384
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497614.mp3|W takim przypadku Komisja powinna zebrać odpowiednie dane|4.104
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174994.mp3|— Jak tak mówią, to opinia zobowiązuje.|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_31985881.mp3|czy tylko lepiej poinformowane, zasobne grupy społeczne, czy wszyscy potrzebujący|5.472
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420038.mp3|Z tego względu uważam, że realizacja tego projektu wymaga wsparcia Unii|5.976
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36942885.mp3|Chodzi głównie o telekomunikację, ochronę środowiska, transport, finanse i usługi prawnicze|8.1
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21000190.mp3|I chcąc naukę poprzeć stosownym przykładem|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25053649.mp3|"Niechby siedziała w morzu."|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20661025.mp3|Gdzie znajdę jakieś fajne knajpki?|3.696
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26958304.mp3|Komisja podziela pogląd sprawozdawcy, że istotna jest kontynuacja naszych wysiłków|6.768
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27755470.mp3|Były również setki tysięcy ofiar|4.284
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21085992.mp3|Programy o otwartych źródłach z reguły są darmowe.|5.112
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30559944.mp3|W wielu krajach sytuacja w zakresie demokracji i praw człowieka jest niepewna|7.056
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_33172928.mp3|Razem natomiast powinniśmy mieć możliwość ochrony przed toksycznością|5.292
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27185242.mp3|Ale pozostałe państwa członkowskie Unii Europejskiej powinny uważać na co wyrażają zgodę|8.28
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20775182.mp3|Musisz się przygotować na daleką drogę.|3.144
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20625337.mp3|— Albo zacznę płakać tak, że nikt mnie uspokoić nie zdoła!|4.776
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27419704.mp3|Ma to również znaczenie dla Europy - pomyślmy na przykład o Białorusi|5.436
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23629223.mp3|"Był to dla mnie okres czasu nieskończony."|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25363072.mp3|"Bierze go i idzie przez bramę główną."|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21596331.mp3|"Reszta pójdzie ze mną."|2.904
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22996909.mp3|"Ogłuszony, pół uchem nadsłuchiwałem, co mi plótł zadyszany od wzburzenia Zwak."|7.584
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20639249.mp3|Czy w dobrem zdrowiu?|3.504
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24787637.mp3|"Kto nas pozna, gdy będziemy unikali dzielnicy żydowskiej."|4.68
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643608.mp3|"Przed walką nie dowie się w każdym razie o niczem."|5.184
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23409997.mp3|"Pan mnie zrozumie."|2.616
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37257952.mp3|Ja sobie dłuższej perspektywy w tej sytuacji nie wyobrażam|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27187342.mp3|Czeka nas jednak jeszcze daleka droga|4.32
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21000814.mp3|Byłeś wtenczas jeszcze mały i może nic o tym nie słyszałeś.|5.136
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497554.mp3|Taka strategia powinna obejmować pomoc rozwojową i dialog polityczny z tymczasowym rządem federalnym|6.876
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22705138.mp3|"Ból głowy, drgawki nerwowe, otumanienie, bicie w skroniach, słowem, wszystkie objawy poprzednie."|6.68725
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26286045.mp3|Powinniśmy się zastanowić, czy przypadkiem problem nie został wyolbrzymiony|5.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30510595.mp3|Oczekuję bardzo rozważnej opinii ze strony Komisji|4.608
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24401496.mp3|"Maciuś czyta płynnie."|3.348
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25442119.mp3|"To wszystko stanęło mi w jednej chwili przed oczyma."|3.204
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27370405.mp3|Drugą słabością przedstawionej koncepcji jest brak konsekwencji w podejściu do praw obywateli europejskich|7.38
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22760068.mp3|"Nie sprzeciwiaj mu się pan."|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20928592.mp3|Daj mi kącik w twym domu i weź za swoją niewolnicę.|4.464
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28304234.mp3|Nie można odłożyć celów strategii lizbońskiej na okres późniejszy|4.752
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27755504.mp3|Pora, abyśmy porzucili retoryczne rozważania i przeszli do sedna sprawy|5.868
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27671099.mp3|Potrzebne są nam nowe środki finansowe na nowe pomysły|5.796
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38567041.mp3|Z tego względu nie można pominąć energii jądrowej jako technologii niskoemisyjnej|5.508
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21644279.mp3|"Piersi i ręce miał poprostu zastraszające; szedł, nieznacznie utykając."|7.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34579819.mp3|Izraelska napaść w Strefie Gazy stanowi zbrodnię wojenną i zbrodnię przeciwko ludzkości|6.084
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26153436.mp3|Nie na tym polega demokracja!|3.168
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20619840.mp3|Dostęp ze wszystkich stron odcięty.|4.176
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32884039.mp3|Takie równe zasady gry rynkowej powinny być ściśle monitorowane przez Komisję Europejską|6.732
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20691268.mp3|Panika pierwsza spada na sklepy i knajpy.|3.624
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27672072.mp3|W rzeczywistości pana komunikat stawia nieobecność Rady w jeszcze gorszym świetle|6.516
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_23062986.mp3|Weź się uspokój, dobra?|2.784
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_28280044.mp3|Nadszedł czas, by przywódcy polityczni zastanowili się nad tym, co się dzieje|5.112
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36968321.mp3|Mogę oczywiście podać państwu wiele danych liczbowych, jeśli to konieczne|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22705159.mp3|Gdybym to wiedział, nie potrzebowałbym was, co?|3.57875
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_38567012.mp3|Jak możemy za sprawą tego funduszu uporać się z coraz drastyczniejszymi sytuacjami wyjątkowymi?|7.524
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30729681.mp3|Poziom ambicji i precyzji tych pierwotnych zobowiązań jest jednak nierówny|6.012
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22462530.mp3|"Cóż, kiedy ma wspanialej rozwinięte bicepsy, niż fałdy i zwoje mózgowe."|5.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21174973.mp3|Czego chcesz, mały?|2.856
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991844.mp3|Traktat lizboński ponownie sprawił, że Europa jest gotowa na nową erę|6.984
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37257988.mp3|Czy Rada przygotowana jest na ocenę tego na podstawie naukowych dowodów?|5.688
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25357671.mp3|"dodatek jednak przemilczając."|4.788
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26991849.mp3|Stanowi ona, że ziemia jest integralną częścią polityki dotyczącej klimatu|7.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390728.mp3|Na wypadek gdyby wystąpiły problemy ze słyszalnością lub łącznością|4.896
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32259766.mp3|dalszego wykorzystywania energii odnawialnych i poprawy wydajności energetycznej|6.408
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36968322.mp3|Jako jeden z konsumentów chciałbym być pewien, że żywność, którą kupuję, jest bezpieczna|7.344
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21642748.mp3|"Czy słyszał pan, że w naszej zatoce, rozbił się okręt?"|5.304
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20662063.mp3|Tyle się od razu dowiedział.|2.832
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27755501.mp3|Dlatego - moim zdaniem - odniesienia historyczne nie stanowią kryteriów sprawiedliwych, przejrzystych czy obiektywnych|8.604
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27683307.mp3|W przedmiotowej dyrektywie tworzy się wstępne warunki dla Europy bez granic w dziedzinie medycyny|7.092
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_24422915.mp3|"Ale wnet odpędził to nieusprawiedliwione podejrzenie."|4.14
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30497573.mp3|Będzie to początek kompromisu|3.024
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27683322.mp3|Ingerowanie w treści informacyjne przez właścicieli stacji telewizyjnych i radiowych narusza standardy demokracji|8.532
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_34580597.mp3|To oznacza, że przepisy wykonawcze, które zostały przyjęte będą musiały zostać odpowiednio zmienione|6.264
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25442039.mp3|"I Felek został u Maciusia."|2.628
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20615094.mp3|Czekałam na ciebie!|2.664
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_36943000.mp3|Obecnie nie istnieje jednak kompleksowa strategia, a przecież musimy działać bezzwłocznie|6.048
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25928011.mp3|Po miesiącach negocjacji osiągnięto ostatecznie porozumienie w tej kluczowej dla konsumentów europejskich, sprawie|8.064
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32363233.mp3|Chciałbym żebyśmy rozważyli trzy sprawy|4.356
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_32857015.mp3|Musimy zatem zintensyfikować nasze wysiłki w zakresie europejskiej koordynacji i zarządzania|7.416
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21651757.mp3|"Zaczęło się starcie dziewiąte."|4.224
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22257959.mp3|"Kiwnął mi głową i oddalił się, kulejąc mocno."|5.712
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21643975.mp3|"Ale i górnik również nie liczył na opór i dlatego nie uniknął uderzenia."|6.672
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27390551.mp3|Niestety, powszechne prawo do opieki zdrowotnej cały czas bardzo odbiega od rzeczywistości|6.732
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_37109325.mp3|Polityka spójności jest najlepszym dowodem na solidarność, jaka istnieje w Unii Europejskiej|8.388
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_25701879.mp3|"Same nowe domy."|2.7
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27672014.mp3|Ukraina jest europejskim państwem, które musi mieć prawo do podejmowania decyzji w sprawie Europy|6.12
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21694454.mp3|Jego zahamowana fantazja ruszyła naprzód, jak koń rusza z kopyta.|5.016
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_20867146.mp3|Uśmiechnął się — domyślił.|3.288
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27185182.mp3|Wywołuje to również międzyinstytucjonalną nieufność i ta sytuacja wzbudza w nas wszystkich niepokój|8.64
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_30486387.mp3|Musimy uważniej wsłuchiwać się w głosy obywateli Europy i nie powinniśmy się tego bać|7.236
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26091159.mp3|ustąp, skończ z rozlewem krwi, stań przed wymiarem sprawiedliwości|6.192
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_27420225.mp3|Zaczyna się także deportować ludzi z Austrii, Belgii, Węgier i Francji|6.876
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26596012.mp3|W tym dynamicznym miejscu|3.816
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_21385225.mp3|"Co to za plamy?"|2.256
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_22731804.mp3|Przestań tak ostro skręcać, aż żygać mi się chce!|4.008
+/home/ashankwi/commonVoiceData/pl/clips//common_voice_pl_26357385.mp3|Uważam, że jest to podstawowa metoda|4.752
