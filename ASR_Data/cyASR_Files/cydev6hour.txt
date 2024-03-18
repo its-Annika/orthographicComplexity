@@ -70,7 +70,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21310806.mp3|Ffermwr ydoedd fy nhad|3.336
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20854621.mp3|Treuliodd Nelson Mandela saith mlynedd ar hugain yn y carchar|5.808
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20463331.mp3|Mae angen tafod rhai pynciau mewn mwy o ddyfnder|4.896
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_30347792.mp3|“Ond nid wyf yn deall” dywedodd hi yn yddfol|5.616
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_30347792.mp3|Ond nid wyf yn deall dywedodd hi yn yddfol|5.616
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20043961.mp3|Yn ystod y tymor diwethaf cynorthwyais yn y clwb gwyddoniaeth bob wythnos|5.664
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_19307591.mp3|Sud mar tywydd|2.28
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21654800.mp3|Maen amser i ti agor dy lygaid|2.904
@@ -417,7 +417,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23972264.mp3|Mi oedd na damp ar hyd waliaur tŷ|6.608875
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24002733.mp3|Maen dda cael geiriau penodol am bethau penodol|5.868
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_33482357.mp3|Roedd y llythyren w hefyd yn dechrau ymddangos|5.328
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_29388177.mp3|“Gellir ehangur restr hon o gofnodion or dudalen sgwrs”|5.76
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_29388177.mp3|Gellir ehangur restr hon o gofnodion or dudalen sgwrs|5.76
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23033686.mp3|Mae antipasti yn cael eu gweini cyn pasta neu gawl|4.776
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24385191.mp3|Adroddir hanes pedwar yn cydfyw mewn bloc o fflatiau mewn dinas fyrlymus|7.128
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23838653.mp3|Maen hedfan yn y nos a chaiff ei ddenu at olau|5.856
@@ -1671,7 +1671,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20698910.mp3|Fe brynais ei gasgliad cyfan lynedd ac rwyn mwynhau pob cân|7.128
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24268383.mp3|Meddyliwch am feini prawf llwyddiant ir gwaith|5.616
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_29808661.mp3|Profodd Anthony sawl awr o banig acíwt a dychrynllyd|5.976
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_30477132.mp3|Dywedon ni “Bobl bach beth all fod”|4.752
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_30477132.mp3|Dywedon ni Bobl bach beth all fod|4.752
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_33784553.mp3|Fedra i ddim ysgrifennun amrwd fel yna|3.96
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23383555.mp3|Dw i di gweld hyn yn ardal Wrecsam hefyd|4.344
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20854497.mp3|Mae gennyf brofiad eang yn paratoi ar gyfer anghenion unigolion|6.144
@@ -2190,7 +2190,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21883809.mp3|Bu hefyd yn athro rhan amser ym Mhrifysgol Aberystwyth|4.824
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24982005.mp3|Gallai weld brig rhyw goed uwchben y wal|5.076
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_22499392.mp3|Yr oedd y lle yn berffaith ddistaw|3.024
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_33450588.mp3|Gellid cyfeirio at y tyllau fel “pantiau” “pyllau” neu “dai”|7.056
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_33450588.mp3|Gellid cyfeirio at y tyllau fel pantiau pyllau neu dai|7.056
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23838631.mp3|Maer gair cadair yn Gymraeg hefyd yn golygu mynydd er enghraifft Cadair Idris|8.328
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23981546.mp3|Dymunasai fod yn fochyn ond clywodd fod fy nghyfaill weithiau yn bwyta bacwn|5.88
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20813627.mp3|Rwy wedi gweld y sioe gerdd Oliver yn Llundain|5.016
@@ -3007,7 +3007,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_26237761.mp3|Bu farw Rowe yn ei gartref yn Cobourg Ontario|6.228
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_19559830.mp3|Dipyn oddi wrth y lan yr oedd caeau gwastad fel bwrdd dan wenith tonnog|7.32
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24195586.mp3|Dyma ffordd newydd o gryfhau cymunedau o rannu ac o gofnodi|7.056
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_31911235.mp3|Maer “consertina Seisnig” ar “consertina deuawd” yn debyg o ran eu hanes au hadeiladwaith|8.892
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_31911235.mp3|Maer consertina Seisnig ar consertina deuawd yn debyg o ran eu hanes au hadeiladwaith|8.892
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23094557.mp3|Yn ogystal mae hi wedi ysgrifennu a chyfieithu barddoniaeth|6.096
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_19839014.mp3|Byddaf yn gorfod arfer cyfrwystra mawr i guddio fy anwybodaeth|8.4
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21653059.mp3|Stopiodd grio o dipyn i beth a distewi|4.056
@@ -3323,7 +3323,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_19562287.mp3|Nid oes angen rhoi addysg uchel i blant tlodion|6.168
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21365039.mp3|Dechreuasom siarad geiriau Cymraeg|3.096
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23364401.mp3|Maen gastell i Iarll Powys a bellach ym meddiant yr Ymddiriedolaeth Genedlaethol|7.296
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_25888191.mp3|Gwnaed parodi or fideo cerddoriaeth gan Family Guy ar yr episod “Scammed Yankees”|6.876
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_25888191.mp3|Gwnaed parodi or fideo cerddoriaeth gan Family Guy ar yr episod Scammed Yankees|6.876
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24084489.mp3|Trowch ir dudalen nesaf yn eich llyfrau gwaith|5.148
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21341504.mp3|Llwyddais or diwedd|2.616
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_33450750.mp3|Caiff y crebachiad yma ei symbylu gan botensialau gweithred yn yr acson mawr|7.74
@@ -3631,7 +3631,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24426094.mp3|Gall cyflwr epileptig effeithio ar y sawl sydd â hanes o fyw efo epilepsi|8.856
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24300725.mp3|Y mae gorchuddlenni gwyn ar holl ffenestri Llydaw|5.688
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24421736.mp3|Wedi cael cyw iâr a paprica gyda rhyw fath o nŵdls|5.94
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_32193414.mp3|“Gad inni edrych arno” meddai gan igian eto|3.852
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_32193414.mp3|Gad inni edrych arno meddai gan igian eto|3.852
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24188351.mp3|Cerddair orymdaith yn araf gan gario baneri|5.688
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21630930.mp3|Dyna ffŵl oeddwn i|3.336
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23364428.mp3|Maen debyg bod bwriad cael gwared âr coed gafodd eu plannu ganddo|6.504
@@ -3896,7 +3896,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24397136.mp3|Tuar adeg yma y rhoed yr enw Nantclwyd ar y lle|4.788
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21365037.mp3|Rhedasant yn gynt na chyffredin ar ci yn cyfarth ei hochr hi|5.136
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_19562344.mp3|Nid oes manylion pellach am gyflwr y menywod|5.016
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_26237731.mp3|Mae cymeriad “South Park” Token Black yn cyfeiriad at hyn|6.444
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_26237731.mp3|Mae cymeriad South Park Token Black yn cyfeiriad at hyn|6.444
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24255803.mp3|Basil oedd yr un feddyliodd amdano gyntaf|4.644
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21240289.mp3|Un o ffilmiau gorau America oedd One Flew Over the Cuckoos Nest|7.176
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24422043.mp3|Casgliad o straeon y Mabinogi wedi eu haddasun arbennig ar gyfer plant|6.408

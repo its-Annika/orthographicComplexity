@@ -17,7 +17,7 @@ transcriptDict = {}
 #read in path,transcription from tsv file
 with open(dataFile) as d:
 	for line in d:
-		transcriptDict[line.split("\t")[1]] = re.sub("[.!?\-\"\',;:]","",line.split("\t")[2])
+		transcriptDict[line.split("\t")[1]] =  re.sub("[\„\“\”.!?\-\"\',;:¿¡]","",line.split("\t")[2])
 
 storage = []
 hourChunk = []

@@ -3441,7 +3441,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_20739393.mp3|O menino achou uma pergunta estranha|3.84
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_19665293.mp3|Você pode me encontrar o álbum Quando Conheci Tudo|4.848
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_36100321.mp3|Cedral|2.52
-/home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_25579543.mp3|Que líder mundial ficou conhecida como “Dama de Ferro”|3.96
+/home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_25579543.mp3|Que líder mundial ficou conhecida como Dama de Ferro|3.96
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_25392984.mp3|Qual é a porcentagem de estudantes que não passaram no vestibular|5.364
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_30605426.mp3|Monteirópolis|2.196
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_19515475.mp3|Ajudar as pessoas com dificuldades|4.896
@@ -6984,7 +6984,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_32436668.mp3|Com uns pés de sardinheiras ficava bem bonito|4.572
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_24683934.mp3|Angélica Hugo Luciene Natanael e Bernardo|5.076
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_31845686.mp3|Venha entre|3.24
-/home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_22119180.mp3|Na origem a heroína deveria ser o “substituto nãoviciante da morfina”|7.296
+/home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_22119180.mp3|Na origem a heroína deveria ser o substituto nãoviciante da morfina|7.296
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_24912478.mp3|Qual foi o preço de venda|2.7
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_19372052.mp3|É o selo mais valioso do mundo|4.536
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_19479765.mp3|Vamos comer|2.664

@@ -337,7 +337,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25682302.mp3|เพื่อที่จะวัดประสิทธิภาพอย่างแม่นยำเราจึงต้องการตัวชี้วัด|6.228
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25891279.mp3|ฉันขอโทษสำหรับมัน|3.348
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25919851.mp3|งานแรกของฉันคือให้สู้ต่อไปอีกสามสัปดาห์|5.436
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25907001.mp3|“เขาเปลี่ยนไปแล้ว เขากลับมาแล้ว จับมือเขาสิ”|5.22
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25907001.mp3|เขาเปลี่ยนไปแล้ว เขากลับมาแล้ว จับมือเขาสิ|5.22
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25671229.mp3|เมืองนี้ข้าวปลาอาหารอุดมสมบูรณ์|4.356
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25891738.mp3|คนหกพันคนติดเชื้อนับตั้งแต่มีการระบาดของไวรัส|5.796
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26162524.mp3|ชี้นกบนปลายไม้|2.376
@@ -2775,7 +2775,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25886349.mp3|อนิตาหมดสติไปในระหว่างการกายกรรม และเธอก็ฟื้นกลับมาอย่างรวดเร็ว|6.336
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25701936.mp3|พวกเราเจอกันครั้งแรกที่ใต้หอไอเฟล ดั่งมีเวทมนตร์|7.02
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26402233.mp3|งานนี้ค่าแรงดี แต่เสี่ยง|4.14
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25729361.mp3|“เด็กทารกก็มาจากเว็บอเมซอนไงล่ะ” เขาพูดหน้าตาเฉย|5.868
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25729361.mp3|เด็กทารกก็มาจากเว็บอเมซอนไงล่ะ เขาพูดหน้าตาเฉย|5.868
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25661272.mp3|ทำมันด้วยแท่งไม้|3.528
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25676484.mp3|เธอพูดแบบนั้นหรอ|3.78
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25687631.mp3|โตขึ้นมาหนูอยากเป็นคุณหมอ|3.672
@@ -2866,7 +2866,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26443397.mp3|งานวิจัยอย่างมีประสิทธิภาพ|3.456
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25963301.mp3|มันคือความผิดพลาด เขากล่าว|5.076
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25710131.mp3|วันนั้นกูไม่น่าเลย|2.916
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25899544.mp3|“เขาควรดูในตู้เซฟนั่นนะ” เธอกล่าว|5.22
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25899544.mp3|เขาควรดูในตู้เซฟนั่นนะ เธอกล่าว|5.22
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_28320880.mp3|ปู่กับหลานได้เดินทางไกลผ่านมายังทุ่งกุลาร้องไห้นี้|6.336
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25778911.mp3|จิงโจ้ชอบกินอะไร |3.708
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25688924.mp3|กิจการของพ่อค้าขายของเก่ากำลังเจริญรุ่งเรือง|5.508
@@ -4376,7 +4376,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25662720.mp3|เขาพูดว่า เอาหมากฝรั่งมาแปะที่ฉันเร็ว ๆ|4.68
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_23662469.mp3|ท่อทั้งหมดเชื่อมต่อกับฮับที่ชำรุด|5.304
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25666365.mp3|เขาพูดระริกระรี้ด้วยความตื่นเต้น|3.96
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25701536.mp3|คุณทำงานอะไรในโรดีเซียคุณฮันนี่  ” เขาถาม|7.56
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25701536.mp3|คุณทำงานอะไรในโรดีเซียคุณฮันนี่   เขาถาม|7.56
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_27749073.mp3|ที่ออกแบบอุปกรณ์สุขภาพ|3.348
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_28958169.mp3|สำหรับสิ่งที่นักลงทุนต้องระวังหากจะเข้ามาขุดบิตคอยน์ก็อย่างเช่น|4.968
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_30462418.mp3|เจ้าของบทบาท ลาวทอง|4.176
@@ -4922,7 +4922,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25682086.mp3|แล้วห้องนี่ล่ะ  มันว่างเปล่าด้วยไหม|5.148
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25673024.mp3|มีลมพัดผ่านชายฝั่งที่แรงอยู่เสมอ|4.32
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25661196.mp3|มีอนุสาวรีย์สง่างามอยู่ด้านนอกนั่น|5.868
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25662884.mp3|มันเป็นอย่างที่เธอพูดไว้ว่า “ฉันจะมาช่วยคุณ”|5.976
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25662884.mp3|มันเป็นอย่างที่เธอพูดไว้ว่า ฉันจะมาช่วยคุณ|5.976
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25656404.mp3|ใครเป็นคนไปเอาเบียร์|2.88
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26093749.mp3|ผ่านสกายไลท์ คุณหมายถึงเขากำลังนั่งอยู่บนหลังคาเหรอ|6.372
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25686080.mp3|เม่นมีเสน่ห์|3.348
@@ -5017,7 +5017,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26018931.mp3|ฉันจะให้เขาตัดสินใจทุกอย่าง|3.744
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_24562951.mp3|ยังไม่ได้คิดว่ะ|2.88
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25681973.mp3|เพื่อนคือเหตุผลที่ตามรถไฟคันนี้มา|4.356
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25665756.mp3|ริชาร์ด ฉันพูดอย่างร้อนใจว่า “มันไม่สิ้นหวังขนาดนั้นงั้นหรอ  ”|7.524
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25665756.mp3|ริชาร์ด ฉันพูดอย่างร้อนใจว่า มันไม่สิ้นหวังขนาดนั้นงั้นหรอ  |7.524
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26346579.mp3|ยุคทมิฬ และเรื่องสั้นอื่นอื่น ของ อิศรา อมันตกุล|8.856
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25660940.mp3|กาแฟสดดีกว่าของแช่แข็งมาก|2.808
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25675141.mp3|เกมอะไรที่คุณอยากเล่น|5.436
@@ -5075,7 +5075,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25670090.mp3|นักวิทยาศาสตร์สหรัฐได้เปิดเผยวิธีกำจัดยุงแบบใหม่|6.192
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25656256.mp3|กลิ่นของพืชพรรณแปลก ๆ ระเบิดออกมาจากดินแดนเขตร้อน|7.308
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25672866.mp3|เขาทำมันไปเพื่ออะไร |2.88
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25683011.mp3|คุณทราบเรื่องนี้จากที่ไหน  ” ฉันถาม|5.364
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25683011.mp3|คุณทราบเรื่องนี้จากที่ไหน   ฉันถาม|5.364
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25891919.mp3|ทรัพย์สินทางปัญญารวมถึงเครื่องหมายการค้าและการออกแบบสิทธิบัตร|6.66
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25727527.mp3|ฉันถามเขาในขณะที่ฉันพึมพำมันอย่างเงียบ ๆ มาตลอด|5.076
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26583402.mp3|สังเกตว่าน้ำปลาญี่ปุ่น มีเข้ามาในสยาม ตั้งแต่ต้นรัตนโกสินทร์|6.444
@@ -6109,7 +6109,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25672336.mp3|มันมีเงื่อนไขอีกอันที่เราโอเค|4.464
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25669691.mp3|ทำตามที่คุณจะทำได้|4.248
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25684361.mp3|ฉันจะเพิ่มส่วนย่อยแยกต่างหากซึ่งเกี่ยวข้องกับด้านนี้|4.86
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25674848.mp3|“เขาจะรับข่าวได้อย่างไร” ริคาร์โดกล่าวอย่างงุนงง|6.336
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25674848.mp3|เขาจะรับข่าวได้อย่างไร ริคาร์โดกล่าวอย่างงุนงง|6.336
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26843464.mp3|สามีของฉันซื้อไส้กรอกมาไหม|3.456
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_24562917.mp3|แฮร์ริสันยังเป็นคนขับรถให้ฉันอยู่|6.336
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26058741.mp3|ที่มีค่าที่สุด|2.772

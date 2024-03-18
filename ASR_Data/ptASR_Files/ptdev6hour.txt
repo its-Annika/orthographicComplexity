@@ -3441,7 +3441,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_20739393.mp3|O menino achou uma pergunta estranha|3.84
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_19665293.mp3|Você pode me encontrar o álbum Quando Conheci Tudo|4.848
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_36100321.mp3|Cedral|2.52
-/home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_25579543.mp3|Que líder mundial ficou conhecida como “Dama de Ferro”|3.96
+/home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_25579543.mp3|Que líder mundial ficou conhecida como Dama de Ferro|3.96
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_25392984.mp3|Qual é a porcentagem de estudantes que não passaram no vestibular|5.364
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_30605426.mp3|Monteirópolis|2.196
 /home/ashankwi/commonVoiceData/pt/clips//common_voice_pt_19515475.mp3|Ajudar as pessoas com dificuldades|4.896

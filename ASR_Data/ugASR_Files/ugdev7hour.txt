@@ -3390,7 +3390,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ug/clips//common_voice_ug_38217301.mp3|ئۇ مەن ئۈچۈن ئاجايىپ جان كۆيدۈرۈپ ئىشلەپ بەردى|3.78
 /home/ashankwi/commonVoiceData/ug/clips//common_voice_ug_37806156.mp3|نۇرغۇن شېئىرلىرى چەت ئەل تىللىرىغا تەرجىمە قىلىنغان|4.752
 /home/ashankwi/commonVoiceData/ug/clips//common_voice_ug_38593076.mp3|ھازىرقى ياشلاردا بۇنداق گەپلەر مودا|3.708
-/home/ashankwi/commonVoiceData/ug/clips//common_voice_ug_38626424.mp3|“مېنىڭ توغرا” دىگەن كۆپنى كۆرمەس|3.996
+/home/ashankwi/commonVoiceData/ug/clips//common_voice_ug_38626424.mp3|مېنىڭ توغرا دىگەن كۆپنى كۆرمەس|3.996
 /home/ashankwi/commonVoiceData/ug/clips//common_voice_ug_34429570.mp3|بوۋاي بىر چەتكىرەك سۈرۈلۈپ، ئۇنىڭغا ئورۇن بوشىتىپ بەردى|4.428
 /home/ashankwi/commonVoiceData/ug/clips//common_voice_ug_26301560.mp3|بۇنىڭدىن كېيىن يەر ماڭا ئۆتتى، ئەمدى يەرنىڭ دەنپەنلىرى مېنىڭ گەدىنىمدە|6.912
 /home/ashankwi/commonVoiceData/ug/clips//common_voice_ug_38313214.mp3|ئەمدى ئارامخۇدا ئولتۇرۇپ دەم ئالاي دېسەم، تەتىل توشۇپ قالدىيا|6.408

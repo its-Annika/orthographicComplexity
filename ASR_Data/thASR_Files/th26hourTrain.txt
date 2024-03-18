@@ -9425,7 +9425,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26408956.mp3|กลายเป็นคนล้มละลายไร้ที่นา|2.736
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26295682.mp3|วิทยุติดตามตัว|2.988
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_28576908.mp3|เพราะมีเป้าหมายให้งานเสร็จเร็วที่สุด|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25929477.mp3|“ฉันคิดว่าห้องหล่อนอยู่ด้านบนนะ” เขาพูด|5.688
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25929477.mp3|ฉันคิดว่าห้องหล่อนอยู่ด้านบนนะ เขาพูด|5.688
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26579195.mp3|สำนักพิมพ์คัมออน|2.916
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_28727088.mp3|ภาษาอังกฤษวันละคำ|3.168
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26246969.mp3|นี่เป็นเรื่องสุดท้ายสำหรับการประชุม|3.096
@@ -13834,7 +13834,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27301867.mp3|ยังมีปัญหาการเงินอยู่พอสมควร|4.536
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27444057.mp3|มัวแต่ทวีตต่างหาก|4.14
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27668819.mp3|และเริ่มจำหน่ายบัตรเวลา|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25929769.mp3|ฉันพูดว่า”หล่อนเป็นคนที่ไม่มีมารยาท”|6.768
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25929769.mp3|ฉันพูดว่าหล่อนเป็นคนที่ไม่มีมารยาท|6.768
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_32080099.mp3|ยศช้างขุนนางพระ|2.988
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26459995.mp3|แพทย์แผนไทย|2.196
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_28647139.mp3|อำเภอโนนศิลา จังหวัดขอนแก่น|2.376
@@ -15985,7 +15985,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26295661.mp3|ท่าอากาศยานน่านนคร|3.708
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26429682.mp3|ห้ากิโลแคลอรี|2.88
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26151810.mp3|วิสาร ทองอยู่|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25989263.mp3|“ไปเลยมาเดอโมแซล” เขากล่าว|3.996
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25989263.mp3|ไปเลยมาเดอโมแซล เขากล่าว|3.996
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26533137.mp3|ขึ้นพลับพลาใน|2.16
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26701644.mp3|เพราะถ้าเขาทำผิด|2.664
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27299407.mp3|เข้าใจเรื่อง|2.376
@@ -17127,7 +17127,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25888698.mp3|การสื่อสารอวัจนภาษาบางครั้งก็มีความหมายมากกว่าคำพูด|4.5
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26071346.mp3|บนพื้นฐานของหลักการการไว้เนื้อเชื่อใจกัน|5.148
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27706473.mp3|ทรงพระนามว่า|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25886071.mp3|นอกจากนี้เขายังกล่าวเสริมอีกว่า“ ฉันจะทำให้พวกเขาอับอาย”|7.236
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25886071.mp3|นอกจากนี้เขายังกล่าวเสริมอีกว่า ฉันจะทำให้พวกเขาอับอาย|7.236
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26103851.mp3|คาถาถูกเขียนขึ้นมาเป็นตัวเอียง|3.636
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27700323.mp3|ทำไมจะมีโรงพยาบาลเป็นของตัวเองไม่ได้|3.456
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_28911935.mp3|กำหนดว่า การอนุญาตให้ใช้คลื่นความถี่ และ การประกอบกิจการ|7.56
@@ -20975,7 +20975,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26151795.mp3|ร้านไก่ทอดร้านนี้อร่อยมาก|3.096
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26554657.mp3|ศูนย์การประชุมแห่งชาติสิริกิติ์|3.996
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26070125.mp3|เงินยังไม่เข้าบัญชี ยังไปซื้อวอนไม่ได้ อุตส่าห์เหลือแค่|6.228
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25897950.mp3|“เขาดูเหมือนคนยังไม่ได้นอน” เขากล่าว|4.644
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25897950.mp3|เขาดูเหมือนคนยังไม่ได้นอน เขากล่าว|4.644
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27551410.mp3|ปิดปรับปรุงซ่อมบำรุงทำสวนทุกครั้งที่จะมีชุมนุมทางการเมือง|7.488
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26702508.mp3|รถฉุกเฉินวิ่งไปตามถนนพร้อมกับเสียงไซเรนที่ก้องดัง|4.932
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26340930.mp3|พระบรมราโชบาย|3.024
@@ -22443,7 +22443,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26167248.mp3|ความในอย่านำออก ความนอกอย่านำเข้า|4.968
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27512778.mp3|เข้าใจหัวอกคนไม่ดูบอล ก็ตอนมีเรยานี่แหละว่ะ|6.48
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27551689.mp3|ป้ายโหวตโนของพันธมิตรนี่นับว่ายังเกรงใจประชาธิปัตย์อยู่|8.208
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25632084.mp3|คุณยังเด็กที่จะเป็นผู้ดูแลโรงแรม” ฉันพูด|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25632084.mp3|คุณยังเด็กที่จะเป็นผู้ดูแลโรงแรม ฉันพูด|5.796
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_30395723.mp3|แต่ถ้าเราไม่จ่ายภาษี|2.808
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_30492754.mp3|ต้องรีบหา|1.8
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27433385.mp3|หนึ่งพันหนึ่งร้อยห้าสิบห้า บาท มีอะดรีโนไวรัสเป็นพาหะ สอง โดส ห่างกัน|8.676

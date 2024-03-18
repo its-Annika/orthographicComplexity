@@ -82,7 +82,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23641922.mp3|Mae ganddyn nhwr arian|3.744
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23845766.mp3|Maer testun ar ffurf mydr ac odl|4.536
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_28702299.mp3|Ond yn ei ffordd ei hun ar raddfa fach ffilm fwy o lawer|7.2
-/home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_30606596.mp3|Maer term “idu” yn cael ei ddefnyddio mewn dwy ffordd|6.84
+/home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_30606596.mp3|Maer term idu yn cael ei ddefnyddio mewn dwy ffordd|6.84
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_20666190.mp3|Mae gwirydd sillafu Microsoft i gael yn Gymraeg|3.888
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_22258935.mp3|Ychwanegwyd ystafelloedd gwisgo hefyd|4.704
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23732199.mp3|Y trydydd llyfr syn dilyn helyntion Maw y gath fach sinsir|4.728125
@@ -682,7 +682,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_21355330.mp3|Aethant ymlaen tuar hen bentref|6.264
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_21299710.mp3|Teifl pawb yr hyn nad oes arno ei eisiau ir heol|8.544
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23977587.mp3|Maen IsReithor Prifysgol yr Haf Catalwnia|4.704
-/home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_28009067.mp3|Maer enwn fyr am “goncrit syn trawsyrru golau”|4.536
+/home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_28009067.mp3|Maer enwn fyr am goncrit syn trawsyrru golau|4.536
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23054608.mp3|Darluniau duagwyn doniol|3.168
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23733294.mp3|Mae nwylo in oer|2.0375
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_30021896.mp3|Roedd hin hyfryd gyda mi|3.78
@@ -695,7 +695,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23895175.mp3|Ni chred chwaith fod rhediad amser yn troi eiddo lladrad yn eiddo cyfreithlon|6.744
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_20561817.mp3|Heddiw rydw i am siarad hefo chi am fy nheulu|4.032
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23886358.mp3|Mae wedii leoli ir de o Foel Famau a Moel Fenlli|5.784
-/home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_30127588.mp3|Daeth y term “trawsgroesi” ir amlwg fel offeryn marchnata|5.04
+/home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_30127588.mp3|Daeth y term trawsgroesi ir amlwg fel offeryn marchnata|5.04
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23768985.mp3|Bun aelod o Gymdeithas Frenhinol Canada am rai blynyddoedd|6.504
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_21523967.mp3|Y noswaith honno cafwyd hyd iddo ar y traeth|5.016
 /home/ashankwi/commonVoiceData/cy/trainFiles//common_voice_cy_23704122.mp3|Adargraffiad or clasur o hiwmor Cymreig|4.464

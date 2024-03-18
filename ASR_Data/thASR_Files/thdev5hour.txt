@@ -337,7 +337,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25682302.mp3|เพื่อที่จะวัดประสิทธิภาพอย่างแม่นยำเราจึงต้องการตัวชี้วัด|6.228
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25891279.mp3|ฉันขอโทษสำหรับมัน|3.348
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25919851.mp3|งานแรกของฉันคือให้สู้ต่อไปอีกสามสัปดาห์|5.436
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25907001.mp3|“เขาเปลี่ยนไปแล้ว เขากลับมาแล้ว จับมือเขาสิ”|5.22
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25907001.mp3|เขาเปลี่ยนไปแล้ว เขากลับมาแล้ว จับมือเขาสิ|5.22
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25671229.mp3|เมืองนี้ข้าวปลาอาหารอุดมสมบูรณ์|4.356
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25891738.mp3|คนหกพันคนติดเชื้อนับตั้งแต่มีการระบาดของไวรัส|5.796
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26162524.mp3|ชี้นกบนปลายไม้|2.376
@@ -2775,7 +2775,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25886349.mp3|อนิตาหมดสติไปในระหว่างการกายกรรม และเธอก็ฟื้นกลับมาอย่างรวดเร็ว|6.336
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25701936.mp3|พวกเราเจอกันครั้งแรกที่ใต้หอไอเฟล ดั่งมีเวทมนตร์|7.02
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26402233.mp3|งานนี้ค่าแรงดี แต่เสี่ยง|4.14
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25729361.mp3|“เด็กทารกก็มาจากเว็บอเมซอนไงล่ะ” เขาพูดหน้าตาเฉย|5.868
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25729361.mp3|เด็กทารกก็มาจากเว็บอเมซอนไงล่ะ เขาพูดหน้าตาเฉย|5.868
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25661272.mp3|ทำมันด้วยแท่งไม้|3.528
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25676484.mp3|เธอพูดแบบนั้นหรอ|3.78
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25687631.mp3|โตขึ้นมาหนูอยากเป็นคุณหมอ|3.672
@@ -2866,7 +2866,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_26443397.mp3|งานวิจัยอย่างมีประสิทธิภาพ|3.456
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25963301.mp3|มันคือความผิดพลาด เขากล่าว|5.076
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25710131.mp3|วันนั้นกูไม่น่าเลย|2.916
-/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25899544.mp3|“เขาควรดูในตู้เซฟนั่นนะ” เธอกล่าว|5.22
+/home/ashankwi/commonVoiceData/th/clips//common_voice_th_25899544.mp3|เขาควรดูในตู้เซฟนั่นนะ เธอกล่าว|5.22
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_28320880.mp3|ปู่กับหลานได้เดินทางไกลผ่านมายังทุ่งกุลาร้องไห้นี้|6.336
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25778911.mp3|จิงโจ้ชอบกินอะไร |3.708
 /home/ashankwi/commonVoiceData/th/clips//common_voice_th_25688924.mp3|กิจการของพ่อค้าขายของเก่ากำลังเจริญรุ่งเรือง|5.508

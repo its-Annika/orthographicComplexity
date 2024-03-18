@@ -577,7 +577,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22077318.mp3|友達の自転車のうしろに乗りました。|4.08
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_30480958.mp3|大見得を切ると盛大にこけるフラグだよ|4.248
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25897608.mp3|ティベリウス・アレクサンダー家の別の著名なメンバーは彼の叔父、哲学者フィロでした。|6.66
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26142068.mp3|“People’s World”で、MillerはHarrison ジョージに情報を渡し始めた。|5.004
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26142068.mp3|People’s Worldで、MillerはHarrison ジョージに情報を渡し始めた。|5.004
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26008783.mp3|荊軻（けいか）は王を突き刺そうとして追跡しましたが、逃しました。|4.32
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_37660648.mp3|その上シモン王の銃や大砲とそっくり、同じものを作り、なお空を飛んで爆弾を投げ下す方法まで考えつきました。|7.632
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26228436.mp3|二人の金髪の女性が噴水の近くに座っている。|4.896
@@ -914,7 +914,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36292494.mp3|痛みを感じない。|2.448
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_38831552.mp3|悪意と慎重さとのまじったシュワルツァーの話のしかたは、いわば外交的な儀礼を身につけているといった感じを彼に与えたが、|9.0
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36328081.mp3|夏休みに限らず、土日に五百円玉が置かれていれば、いつも同じものを買っていた。|7.632
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990563.mp3|彼らは新たなシステムを”Cellular One”と名付け、ローミング料金の概念を導入した。|5.508
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25990563.mp3|彼らは新たなシステムをCellular Oneと名付け、ローミング料金の概念を導入した。|5.508
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_30487752.mp3|倫理的実体たる社会の個人として創造的なるかぎり、我々の行為が道徳的であり、|7.848
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36338510.mp3|タイマー機能は使わない|3.24
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26141864.mp3|ゲームは肯定的なレビューを受けました。|3.816
@@ -4041,7 +4041,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36300092.mp3|リプレイ映像で確認する|3.24
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26000947.mp3|党の立ち位置はカナダの社会信用党に近いものでした。|4.068
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26028118.mp3|このアルバムには、インストゥルメンタル曲「End Of A Dream」も含まれています。|6.156
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26015548.mp3|イアン・マクドナルドが”a dark sidestep”と表現したあなたを私は愛している。|5.58
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26015548.mp3|イアン・マクドナルドがa dark sidestepと表現したあなたを私は愛している。|5.58
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26239852.mp3|必要なのは、イタリアンエスプレッソとフレンチクロワッサンだけです。|4.464
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25986444.mp3|薬によっては、腎毒性やその他の潜在的に有害な副作用がある場合もあります。|6.336
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_35913081.mp3|合理性もなにもない|2.988
@@ -7659,7 +7659,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_24976894.mp3|毎朝走っているので、少し細くなりました。|3.78
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26068199.mp3|オプティマイズはディスク圧縮ソフトウェアをサポートしています。|4.176
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26026093.mp3|そのプロジェクトの完了と同時に協会は解散した。|4.968
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26007468.mp3|より簡単な種には、“Nalata”，“Nventricosa”，“ N。khasiana”および“ N sanguinea”が含まれます。|7.056
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26007468.mp3|より簡単な種には、Nalata，Nventricosa， N。khasianaおよび N sanguineaが含まれます。|7.056
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_27153737.mp3|この認証システム、通す気ないだろ|3.6
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36335877.mp3|なんも思い入れなかった|2.772
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26253331.mp3|これは、Very Reverend Boak Jobbinsの学部長の下、達成された。|5.328
@@ -8859,7 +8859,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26095313.mp3|彼はヒューストンのユングセンターで講義もしています。|4.644
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26084128.mp3|沈黙は悪い答えよりも害が少ない。|4.428
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36319907.mp3|昼寝したので眠くない|2.16
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905110.mp3|最初にリリースされたシングル曲はワウからの”オーロコ”である。|7.2
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25905110.mp3|最初にリリースされたシングル曲はワウからのオーロコである。|7.2
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_36310478.mp3|と、お母さんは溜息をついて言うのでした。|2.808
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25986320.mp3|バックアップ・プレゼンターには、Simon Shepherd、Tom McRae、Melissa Daviesが含まれます。|6.516
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25986232.mp3|モニターケーブルが映像信号を伝えるので、それはあまり遠くまで広げることができません。|5.328

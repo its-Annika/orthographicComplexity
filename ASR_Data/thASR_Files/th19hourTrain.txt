@@ -9425,7 +9425,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26408956.mp3|กลายเป็นคนล้มละลายไร้ที่นา|2.736
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26295682.mp3|วิทยุติดตามตัว|2.988
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_28576908.mp3|เพราะมีเป้าหมายให้งานเสร็จเร็วที่สุด|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25929477.mp3|“ฉันคิดว่าห้องหล่อนอยู่ด้านบนนะ” เขาพูด|5.688
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25929477.mp3|ฉันคิดว่าห้องหล่อนอยู่ด้านบนนะ เขาพูด|5.688
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26579195.mp3|สำนักพิมพ์คัมออน|2.916
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_28727088.mp3|ภาษาอังกฤษวันละคำ|3.168
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26246969.mp3|นี่เป็นเรื่องสุดท้ายสำหรับการประชุม|3.096
@@ -13834,7 +13834,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27301867.mp3|ยังมีปัญหาการเงินอยู่พอสมควร|4.536
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27444057.mp3|มัวแต่ทวีตต่างหาก|4.14
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27668819.mp3|และเริ่มจำหน่ายบัตรเวลา|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25929769.mp3|ฉันพูดว่า”หล่อนเป็นคนที่ไม่มีมารยาท”|6.768
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25929769.mp3|ฉันพูดว่าหล่อนเป็นคนที่ไม่มีมารยาท|6.768
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_32080099.mp3|ยศช้างขุนนางพระ|2.988
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26459995.mp3|แพทย์แผนไทย|2.196
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_28647139.mp3|อำเภอโนนศิลา จังหวัดขอนแก่น|2.376
@@ -15985,7 +15985,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26295661.mp3|ท่าอากาศยานน่านนคร|3.708
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26429682.mp3|ห้ากิโลแคลอรี|2.88
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26151810.mp3|วิสาร ทองอยู่|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25989263.mp3|“ไปเลยมาเดอโมแซล” เขากล่าว|3.996
+/home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_25989263.mp3|ไปเลยมาเดอโมแซล เขากล่าว|3.996
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26533137.mp3|ขึ้นพลับพลาใน|2.16
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_26701644.mp3|เพราะถ้าเขาทำผิด|2.664
 /home/ashankwi/commonVoiceData/th/trainFiles//common_voice_th_27299407.mp3|เข้าใจเรื่อง|2.376

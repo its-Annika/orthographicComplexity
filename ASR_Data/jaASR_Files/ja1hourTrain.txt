@@ -577,7 +577,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_22077318.mp3|友達の自転車のうしろに乗りました。|4.08
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_30480958.mp3|大見得を切ると盛大にこけるフラグだよ|4.248
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_25897608.mp3|ティベリウス・アレクサンダー家の別の著名なメンバーは彼の叔父、哲学者フィロでした。|6.66
-/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26142068.mp3|“People’s World”で、MillerはHarrison ジョージに情報を渡し始めた。|5.004
+/home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26142068.mp3|People’s Worldで、MillerはHarrison ジョージに情報を渡し始めた。|5.004
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26008783.mp3|荊軻（けいか）は王を突き刺そうとして追跡しましたが、逃しました。|4.32
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_37660648.mp3|その上シモン王の銃や大砲とそっくり、同じものを作り、なお空を飛んで爆弾を投げ下す方法まで考えつきました。|7.632
 /home/ashankwi/commonVoiceData/ja/trainFiles//common_voice_ja_26228436.mp3|二人の金髪の女性が噴水の近くに座っている。|4.896

@@ -1099,7 +1099,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_27294674.mp3|Os poucos que vejo crescer nas runas de casas de campo abandonadas|5.94
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_21537273.mp3|As ruas são estreitas e cheias de curvas fechadas|4.776
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_35947973.mp3|Eu não tenho muito tempo|2.34
-/home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_30149192.mp3|É um código” disse a garota bem satisfeita|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_30149192.mp3|É um código disse a garota bem satisfeita|4.176
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_32837544.mp3|Botuverá|2.736
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_33745090.mp3|Loreto|2.088
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_27908097.mp3|Eu eu não conheço tua avó|3.348
@@ -4316,7 +4316,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_30619863.mp3|Ituverava|2.16
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_19818349.mp3|Um homem em uma jaqueta branca tocando uma guitarra|5.016
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_19360522.mp3|Você será Jane Doe|3.24
-/home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_35904546.mp3|Anteontem o delegado colombiano falou “da órbita|4.248
+/home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_35904546.mp3|Anteontem o delegado colombiano falou da órbita|4.248
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_21971379.mp3|Qual é a massa do sol|2.64
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_20496799.mp3|Ele saiu sem se despedir do comerciante de cristal|4.584
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_23646482.mp3|Notícias estão sempre soprando|3.576
@@ -6955,7 +6955,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_24639531.mp3|Arlete Silva dos Santos|3.312
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_20669380.mp3|Ele queria dizer isso para o alquimista mas ele estava com medo do homem|8.256
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_37046753.mp3|data venia de facto de jure|2.7
-/home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_24149575.mp3|Contudo o senhor disse que a física está “próxima do fim”|7.056
+/home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_24149575.mp3|Contudo o senhor disse que a física está próxima do fim|7.056
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_20602304.mp3|Proposta para processamento em uma única leitura|5.352
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_35202169.mp3|A apatia é pior que o ódio|2.988
 /home/ashankwi/commonVoiceData/pt/trainFiles//common_voice_pt_24951334.mp3|Experiências validadas pelo comitê consultivo que será explicado em profundidade por seus autores|8.208

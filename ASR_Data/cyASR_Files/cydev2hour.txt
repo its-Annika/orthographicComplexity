@@ -70,7 +70,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21310806.mp3|Ffermwr ydoedd fy nhad|3.336
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20854621.mp3|Treuliodd Nelson Mandela saith mlynedd ar hugain yn y carchar|5.808
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20463331.mp3|Mae angen tafod rhai pynciau mewn mwy o ddyfnder|4.896
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_30347792.mp3|“Ond nid wyf yn deall” dywedodd hi yn yddfol|5.616
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_30347792.mp3|Ond nid wyf yn deall dywedodd hi yn yddfol|5.616
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_20043961.mp3|Yn ystod y tymor diwethaf cynorthwyais yn y clwb gwyddoniaeth bob wythnos|5.664
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_19307591.mp3|Sud mar tywydd|2.28
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_21654800.mp3|Maen amser i ti agor dy lygaid|2.904
@@ -417,7 +417,7 @@ path|transcript|duration
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23972264.mp3|Mi oedd na damp ar hyd waliaur tŷ|6.608875
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24002733.mp3|Maen dda cael geiriau penodol am bethau penodol|5.868
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_33482357.mp3|Roedd y llythyren w hefyd yn dechrau ymddangos|5.328
-/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_29388177.mp3|“Gellir ehangur restr hon o gofnodion or dudalen sgwrs”|5.76
+/home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_29388177.mp3|Gellir ehangur restr hon o gofnodion or dudalen sgwrs|5.76
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23033686.mp3|Mae antipasti yn cael eu gweini cyn pasta neu gawl|4.776
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_24385191.mp3|Adroddir hanes pedwar yn cydfyw mewn bloc o fflatiau mewn dinas fyrlymus|7.128
 /home/ashankwi/commonVoiceData/cy/clips//common_voice_cy_23838653.mp3|Maen hedfan yn y nos a chaiff ei ddenu at olau|5.856
