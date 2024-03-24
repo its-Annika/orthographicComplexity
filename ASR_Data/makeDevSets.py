@@ -3,7 +3,7 @@ python3 makeDevSets.py path/to/clips/folder path/to/dev/file languageCode
 
 '''
 
-from mutagen.mp3 import MP3
+from mutagen.wave import WAVE
 import os
 import sys
 import re
@@ -17,8 +17,8 @@ transcriptDict = {}
 #read in path,transcription from tsv file
 with open(dataFile) as d:
 	for line in d:
-		transcriptDict[line.split("\t")[1]] = re.sub("[\„\“\”.!\—\?\-\"\',;:¿¡]","",line.split("\t")[2])
-
+		path = line.split("\t")[1]
+		transcriptDict[re.sub(".mp3",".wav",path)] =  re.sub("[\„\“\”.\—!?\-\"\',;:¿¡]","",line.split("\t")[2])	
 storage = []
 hourChunk = []
 
@@ -30,7 +30,7 @@ time = 0
 
 for file in os.listdir(dataFolder):
 	if file in transcriptDict:
-		audio = MP3(dataFolder+"/"+file)
+		audio = WAVE(dataFolder+"/"+file)
 		hourChunk.append((dataFolder+"/"+file, transcriptDict[file], audio.info.length))
 		time += audio.info.length
 
@@ -38,6 +38,7 @@ for file in os.listdir(dataFolder):
 			storage.append(hourChunk)
 			hourChunk = []
 			time = 0
+
 
 totalHours = len(storage)
 

@@ -3,7 +3,7 @@ python3 makeTraingSets.py path/to/data/folder path/to/data/file languageCode
 
 '''
 
-from mutagen.mp3 import MP3
+from mutagen.wave import WAVE
 import os
 import sys
 import re
@@ -17,8 +17,8 @@ transcriptDict = {}
 #read in path,transcription from tsv file
 with open(dataFile) as d:
 	for line in d:
-		transcriptDict[line.split("\t")[1]] =  re.sub("[\„\“\”.\—!?\-\"\',;:¿¡]","",line.split("\t")[2])
-
+		path = line.split("\t")[1]
+		transcriptDict[re.sub(".mp3",".wav",path)] =  re.sub("[\„\“\”.\—!?\-\"\',;:¿¡]","",line.split("\t")[2])	
 storage = []
 hourChunk = []
 
@@ -29,7 +29,7 @@ time = 0
 #storage them in 1 hour chunks
 
 for file in os.listdir(dataFolder):
-	audio = MP3(dataFolder+"/"+file)
+	audio = WAVE(dataFolder+"/"+file)
 	hourChunk.append((dataFolder+"/"+file, transcriptDict[file], audio.info.length))
 	time += audio.info.length
 
