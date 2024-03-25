@@ -60,7 +60,7 @@ ROOT_DIR = os.getcwd()
 
 # These other configuration parameters will not be tuned
 def extend_config(config): 
-    config['languages'] = [ 'tur']
+    config['languages'] = [ 'jpn']
     config['n_test'] = 1000 
     config['do_finetune'] = False 
     config['n_samples'] = config['n_train'] + config['n_test']
@@ -227,6 +227,7 @@ class CharDataset(Dataset):
         if debug:
             print('data has %d characters, %d unique.' % (data_size, vocab_size))
         
+        #chars.append("w")
         self.stoi = { ch:i for i,ch in enumerate(chars) }
         self.itos = { i:ch for i,ch in enumerate(chars) }
         self.block_size = block_size
@@ -239,7 +240,8 @@ class CharDataset(Dataset):
     def __getitem__(self, idx):
         # grab a chunk of (block_size + 1) characters from the data
         chunk = self.data[idx:idx + self.block_size + 1]
-        # encode every character to an integer
+	
+	# encode every character to an integer
         dix = [self.stoi[s] for s in chunk]
         """
         arrange data and targets so that the first i elements of x
