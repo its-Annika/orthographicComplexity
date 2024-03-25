@@ -3,7 +3,7 @@ python3 makeDevSets.py path/to/clips/folder path/to/dev/file languageCode
 
 '''
 
-from mutagen.wave import WAVE
+from mutagen.mp3 import MP3
 import os
 import sys
 import re
@@ -18,7 +18,7 @@ transcriptDict = {}
 with open(dataFile) as d:
 	for line in d:
 		path = line.split("\t")[1]
-		transcriptDict[re.sub(".mp3",".wav",path)] =  re.sub("[\„\“\”.\—!?\-\"\',;:¿¡]","",line.split("\t")[2])	
+		transcriptDict[path] =  re.sub("[\„\“\”.\—!?\-\"\',;:¿¡]","",line.split("\t")[2])	
 storage = []
 hourChunk = []
 
@@ -30,8 +30,8 @@ time = 0
 
 for file in os.listdir(dataFolder):
 	if file in transcriptDict:
-		audio = WAVE(dataFolder+"/"+file)
-		hourChunk.append((dataFolder+"/"+file, transcriptDict[file], audio.info.length))
+		audio = MP3(dataFolder+file)
+		hourChunk.append((dataFolder+file, transcriptDict[file], audio.info.length))
 		time += audio.info.length
 
 		if time >= 3600:
