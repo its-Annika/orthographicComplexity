@@ -1,0 +1,713 @@
+path|transcript|duration
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21109560.mp3|Lecz bandy arabskie zapuszczały się coraz dalej|5.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20636467.mp3|Zróbmy tak niech każdy doprowadzi do porządku fabrykę|5.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26818890.mp3|Powiem Panu że musimy być bardzo ostrożni|5.58
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20671631.mp3|Cóż ty takiego wyrabiasz|3.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20654907.mp3| Co też pan mówi|2.856
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26673980.mp3|To nieomal oznacza likwidację postępu osiągniętego w związku z oceną funkcjonalności|9.108
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30643131.mp3|Musieli mu Krzyżacy pół woza pieniędzy za nich nasypać|6.12
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30605667.mp3|Ja studiowałbym na przykład astronomię inni mogliby studiować fizykę lub geografię|6.12
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609579.mp3|Po co ja się z nim w ogólę zadaję|3.84
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20646120.mp3|Kiedy mówił o widmowej twarzy oczy Hanny rozszerzyły się przerażeniem|7.248
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20647546.mp3|nie mam na to czasu|8.472
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_31228613.mp3|Problem jest tym dotkliwszy jeśli przedsiębiorcom pomagają rządy broniące ich interesów|6.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_39204059.mp3|Grecja nie prosi o pieniądze|3.276
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20633856.mp3|A za oknem coraz wyższe słońce|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27427515.mp3|Czemu musimy o tym mówić  nie tylko historycy ale także politycy|4.86
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21561267.mp3|Zresztą rozpatrzmy się w całej tej sprawie|4.608
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775127.mp3|Nigdy więcej|3.096
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20777735.mp3|Zaprosiliśmy go na lunch w pobliskiej knajpie|4.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38754325.mp3|W moim regionie mamy w Bracknell światowej sławy średniego zasięgu centrum prognozowania pogody|7.452
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21866565.mp3|Postać jego chociaż nie zupełnie wyraźnie odbiła się w wodzie|6.792
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23444212.mp3|Również istoty czerwonawego koła|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21373330.mp3|Po powrocie przywitamy was serdecznie|4.848
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610282.mp3|Była tylko w koszuli|3.192
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20658586.mp3| Depesza|3.0
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24919660.mp3|Pochyliłem się i podałem mu go|3.276
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20691209.mp3|Jej to też zatyka od dech że nie można żyć wielu żywotami naraz|5.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30049191.mp3|Chciałbym wrócić do sprawy New Flame|3.852
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20630835.mp3|Chodzili do jednego gimnazjum do różnych oddziałów tej samej klasy|5.424
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774918.mp3|Lecz uśmiech zgubił go|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612944.mp3|Są zdaje się w jednym wie ku|4.896
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614234.mp3|Zapach łajna jest zapachem życia|4.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24808227.mp3|Nie dokuczaj ty Stefanowi|2.52
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775044.mp3| Daj odprawę i zbądź kłopotu|5.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21606369.mp3|Przyszedł i sołtys|4.392
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27439946.mp3|Uczestniczymy w tworzeniu prawodawstwa dla krajów europejskich i ich obywateli|7.236
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21154973.mp3|Przecie spokojniejsze od chłopców i więcej staranne|5.208
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608071.mp3|Nadeszła ciemność bezwładu…|6.624
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_31219209.mp3|To był czas kiedy jedni ludzie działali w imieniu innych ponieważ pragnęli wolności|9.72
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622796.mp3|Tam o jutrzni we mgłach odpływają małe statki rybackie…|6.648
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612015.mp3|Pomóc ci|2.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20650518.mp3|Uszczelniliśmy je gałęziami umocowawszy kamieniami i przysypawszy grubą warstwą śniegu|9.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28544809.mp3|Umożliwi mu to sprawowanie ściślejszego nadzoru nad działaniami agencji ratingowych w całej Unii|8.82
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21160303.mp3| Za tę łaskę że dałam ci dom i opiekę rodzinną|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20639735.mp3|To było nieoczekiwane|3.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617311.mp3|Ja mam inne rzeczy naukę pisanie|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619139.mp3|Milczeli obaj|4.224
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_31210431.mp3|Powinien tu być czytelny podział|3.06
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20770608.mp3|Pozorną lub prawdziwą|3.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774672.mp3|Ile razy przychodziłem do niej matka jej głaskała mnie po głowie|4.944
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30661257.mp3|Po pierwsze należy zapewnić istnienie drugiej szansy|3.492
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25278417.mp3|Ale on ma generałów pułkowników i w wojsku jest porządek|4.14
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20646599.mp3|To jest kurze jajko|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20647306.mp3|Była blada|2.616
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619205.mp3|Strach przed światłem|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622915.mp3|Ona pytała  Skąd się tu bierzesz  i nie mogła tego zrozumieć|5.424
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_35343381.mp3|Parlament sam nie może zmienić Statutu posła|4.32
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610564.mp3|A miała ta przejażdżka pomiędzy kamienicami szczególny urok|7.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622927.mp3|Żądam jego zwrotu|2.376
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25064344.mp3|Zaiste to była freudowska pomyłka|5.76
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20643153.mp3| Coś tak długo siedział|4.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22795871.mp3|Normalnie reklama po reklamie na tym kanale|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20788756.mp3|Piękny i młodzieńczy jak ten letni poranek|5.112
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26331635.mp3|Przede wszystkim jeżeli mamy wprowadzić medyczne eusługi musimy wprowadzić uznawanie kwalifikacji|7.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32808045.mp3|Potrzebujemy europejskiego regulatora a w stosownym czasie przyda się europejski prokurator|8.352
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20877432.mp3|Była zdziwiona nie znajdując w niej żadnych zmian|6.096
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604201.mp3|Nie odpowiadała czas dłuższy utkwiwszy przerażone oczy w drzwi|5.184
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612390.mp3|Zresztą lepiej się myśli w drodze|5.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21641262.mp3|Rozległy się bardziej groźne wymysły|3.624
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20667555.mp3|Cały świat się zbroi|2.952
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603627.mp3|Emil płynie powoli po własnych zdaniach|5.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20848947.mp3|Zresztą gdzież są ludzie którzy mają spalić jej ciało|5.376
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26346537.mp3|Sprawa jest prosta|4.428
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21160179.mp3|Co robili i dlaczego natychmiast nie wezwali służby|4.392
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37508394.mp3|To budzi moją nieufność i powoduje pewien sceptycyzm|9.18
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20773619.mp3|Wydaje się że dzieje ludzkości coraz to bardziej przypominają historię ucznia czarnoksięskiego|7.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22707874.mp3|Matko jedyna co żeście porozrabiali|4.296
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28810705.mp3|Wszyscy oczekujemy zintegrowanego wniosku Komisji|5.148
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20639668.mp3|Co za dużo to niezdrowo|3.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20669086.mp3|Sprawiało im przyjemność ryzyko że zostaną zobaczeni|6.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617525.mp3|Do wieczora obrazi się jeszcze dziesięć razy albo i więcej|7.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30492250.mp3|Zabito go bo chciano powstrzymać normalizację demokratyzację i europeizację Serbii|7.668
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30750382.mp3|Przedmiotowe sprawozdanie na temat budżetu Parlamentu odzwierciedla sprzeczności dotyczące większości reprezentowanych tu sił politycznych|8.28
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38383801.mp3|Biegał po ogródku wesoło podskakując|4.608
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605498.mp3|Wrócił do pensjonatu który nazywał się Złocień|6.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605819.mp3| Tak nie kocham go lecz nie chcę z nim zrywać|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608797.mp3|Uważałem to podniecenie za zdenerwowanie wskutek oczekiwania mających nadejść wizji|6.816
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20611108.mp3|Chociaż bardzo lubiła leżeć w łóżku wstawała od razu i buch do łazienki|5.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20634775.mp3|Mów czego żądasz a wszystko damy|4.176
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32183776.mp3|Musimy mieć to na uwadze w trakcie procesu legislacyjnego|4.356
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20773298.mp3|Blada jak płótno obsunęła się bez pamięci w moje ramiona|5.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20613174.mp3|Na świecie trwało jeszcze ciemne rano|4.896
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20650342.mp3|Potem wyjął watę|2.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20651424.mp3| Napatrzysz się jeszcze niejednego zanim odbędziesz całą przeprawę|5.856
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25038846.mp3|Tylko lis biegł jeszcze przede mną|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25321399.mp3|Z kim że więc pan chcesz mówić|3.564
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20656451.mp3| Kto to mógł być  spytałem zdumiony swego przyjaciela|5.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20631778.mp3|Uderzyły nań wary|4.224
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37414189.mp3|Kolejna istotna idea zawarta w rezolucji to zdolność do integracji|6.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20681165.mp3|Musisz mieć sen zdrowy panie naczelniku|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20641174.mp3|Stosunek z nim nie sprawia mi ani połowy takiej przy jemności jak z P|7.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20624620.mp3|Obecnie sprawdza się ona|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25189491.mp3|Czy kto pójdzie po chirurga|3.528
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20633793.mp3|Gdy przygotowuję się do wykładu to bardzo niewiele mogę wykorzystać|5.424
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616692.mp3|To wystarczyło aby się Emil nią zainteresował|9.192
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616414.mp3|To było powiedziane głosem który nie powstał w krtani głosem brzuchomówcy|6.432
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614645.mp3|Gdy wziął pocisk do ręki wydał mu się on strasznie ciężki|4.896
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20790697.mp3|Zgadza się pan|3.6
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20625251.mp3|Co znaczy ogień błyskający z pośród tamtych sosen|5.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621736.mp3| Aha  rzekła Marta z radością|4.44
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607140.mp3|Łaskawie przyjął ich spojrzenia i wyprostował się uroczyście|5.784
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775108.mp3|Co robiła w tej chwili Hela|3.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617597.mp3|W jednej z tych ścian przez otwór sączyło się światło|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20894098.mp3|Tym czego ślepy kutas nie zobaczy|3.552
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20649578.mp3|Jestem szczęśliwy|3.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621735.mp3|Przypomniał sobie dwa nazwiska Ludwig Klages i Theodor Lessing|6.84
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24621966.mp3|Co chwila boję się zdradzić|5.04
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25198379.mp3|Wokulski włożył lekki paltot i opuścił mieszkanie|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609746.mp3| A jak ty się nie przeprosisz  To trudno|3.864
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603891.mp3|Palto miał rzeczywiście krzywo zapięte|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617803.mp3|I słusznie|2.448
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24432305.mp3|muszę mieć nerwy dobrze rozbite|3.996
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24990154.mp3|Potem nagle poskoczył naprzód uścisnął mi rękę i serdecznie mi pogratulował powodzenia|8.316
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_35154294.mp3|Kobiety stanowią doskonałą siłę roboczą|3.42
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20671634.mp3|Czterdzieści dni i czterdzieści nocy siedziałem w niej zamknięty|5.688
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20717035.mp3| Czy seniora ma gości  zapytałem go niechętnie|5.448
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20623156.mp3|Tutaj wyjaśniono sprawę w oka mgnieniu|3.864
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20640127.mp3|Dalszy pościg był bezcelowy|3.816
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619257.mp3|Ona ma to okresowo|2.544
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622650.mp3|Fredek umiał się dobrze bawić ale był godny pogardy|5.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615124.mp3|Wcierać lekko na noc|3.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774778.mp3|Obawy jej zaczynają przybierać formy bardziej określone|6.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22919266.mp3|Zerwałem się jak oparzony|2.481625
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32421189.mp3|Chciałbym zwrócić uwagę na przynajmniej trzy kwestie|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20618559.mp3| Czy nie mógłbyś i ty chodzić do szkoły|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21098294.mp3|Dla zbója córki nie mam  krzyknął Konrad tracąc cierpliwość|9.24
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605566.mp3|Siedzieli milcząc zanurzeni w zapachu kobiety która stąd odeszła|6.552
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614071.mp3| Jakie jeszcze Wykrztusiła w końcu  Poziomkowe|6.264
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30530409.mp3|Chodzi o zmniejszenie kosztów energii|4.572
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27246481.mp3|Tak być nie może|3.888
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775049.mp3|Powinien sobie dobrze poradzić|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21663078.mp3|Inspektor spojrzał zdziwiony i trochę zgorszony|3.936
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26193580.mp3|Obecnie toczą się dyskusje w sprawie rozwiązania dwustopniowego|6.588
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20625511.mp3|Na bok reszta  krzyknął Podlasiak podniecony otrzymanym uśmiechem|6.264
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20611697.mp3|Przed oczyma jadących zaczęły rozwijać się pierwsze akordy gór|6.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25233718.mp3|Widok tego lisa wprawił mnie we wściekłość|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609720.mp3|A więc byłem aresztowany…|3.264
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617454.mp3|Skończył i pokój był przesycony zapachem kasztana|5.592
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20624228.mp3|Bracia  zawołał nagle Podlasiak tkliwym spojrzeniem obdarzając obydwu przyjaciół|6.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20613879.mp3|Mój współlokator i jego gość grają w karty|4.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_35772643.mp3|Teraz nadszedł czas by wreszcie to uczynić|3.348
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26996216.mp3|Pragnę powiedzieć kilka słów na temat procesu i kontekstu|5.112
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20643819.mp3|Nie zbędę…  odparła rumieniąc się dziwożona|4.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28973995.mp3|Dlaczego powinniśmy zmniejszać możliwości naszych jednostek do poziomu naszej kwoty|5.868
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24751278.mp3|W znikającym mroku biegłem naprzód i ufałem ślepo memu szczęściu|6.408
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21074490.mp3| Będzie bal jutro w szkole|3.312
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22234839.mp3|pięć|3.864
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24773002.mp3|Czy kocham rodziców czy nie|3.06
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37263068.mp3|Może jedynie koordynować a istnieje zasadnicza różnica pomiędzy koordynowaniem a wywieraniem wpływu|8.568
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25189479.mp3|Przyprowadź ją tutaj|2.916
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25755433.mp3|Zaprzeczy pan temu Hrabia milczał i dopiero po chwili odezwał się|6.156
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27100225.mp3|Brakuje nam czasu|3.276
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20648796.mp3|Jedyny motyw dla malarza|3.096
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20885115.mp3|Ale wakacje jego zaczynały się dopiero za kilka dni|5.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20618909.mp3|Kiedy W niedzielę|6.072
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20650639.mp3|Tak ale na drodze do wolności stało siedem dzikich bestii|5.088
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610314.mp3|Never more|3.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603506.mp3|Może to jaka mistyfikacja|4.224
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25323265.mp3| Józia tu jest Przecież Józia ma dziś wychodne|4.464
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26950736.mp3|Zakończyło się ono fiaskiem|3.636
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20628432.mp3|Ale co to|2.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21158605.mp3| Nie zbraknie nie zbraknie|4.968
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20652070.mp3| Emil  Nosisz dzisiaj wstrętne pantofle|4.056
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22795623.mp3|Podczas gdy biegłem na północ szukano mnie na południu|5.376
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20649832.mp3|Dzień dobry wszyscy umrzemy|4.296
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_36637775.mp3|Pan komisarz podkreśla że w pewnym zakresie tak się już teraz dzieje|6.588
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28159872.mp3|Bieżące wydarzenia są niepowodzeniem dla tych którzy wierzą w niepohamowane siły wolnego rynku|9.288
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25233702.mp3|Na opowiadaniach tych upłynął czas do wieczora|3.996
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20620324.mp3|W strachu i wściekłości bełkotał  Tylko ja|4.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_34903455.mp3|Dzisiaj najgorsze może być już za nami|3.816
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32459951.mp3|Bez wątpienia jest to istotny pierwszy krok ale rozwiązanie musi mieć skalę globalną|6.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21075463.mp3|Wiedział że burze podzwrotnikowe im bardziej szaleją tym trwają krócej|5.688
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616535.mp3|Dni rozłąki jakże gorzkie jakie złe są|5.376
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20637047.mp3|Jeden się wymawiał że śpiący i woli się rano myć|6.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20653436.mp3| A tak oczywiście  przyznałem  oba są zabudowane zwłaszcza ten we Florencji|7.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20627980.mp3| Ależ naturalnie że mi zależy nawet bardzo bardzo zależy  zapewnił gorąco|8.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20868490.mp3|Suknia na twarz rzucona zasłoniła lice|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25110201.mp3|Patrzałem przez lunetę na księżyc|3.564
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20656027.mp3|Żelazne wrota blokowały im przejście|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20628349.mp3|Pociąg który go wiózł wyjechał wczoraj nad ranem z Paryża|5.424
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28023794.mp3|Na tym etapie fundamentalne pytanie to|3.492
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20632104.mp3|Postanowili iść do domu|3.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614750.mp3|I już cały drętwieję|3.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20772456.mp3| Co ja mam z twojego już niech będzie Najpierw robisz głupstwa|7.176
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23636330.mp3|Zszedłem na dół|2.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38599767.mp3|W związku z obecnym kryzysem gospodarczym jest to najważniejsze wyzwanie dla nas wszystkich|7.2
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37800333.mp3|Nad tym również należy się na przyszłość zastanowić|5.4
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608715.mp3|Brunatny księżyc pełzał po zboczu|4.296
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609961.mp3|Koło drugiej nad ranem wyczerpana usnęła mi na piersi|4.632
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619714.mp3|Przez szyby dojrzałem wkrótce białe czoło brwi ciemne wiśniowe usta…|7.848
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619657.mp3|Dziwożona z rozpaczą załamała dłonie|6.792
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_36947944.mp3|Elektryczność ma pierwszorzędne znaczenie i powinna być dostępna dla wszystkich|7.056
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20659085.mp3|Dzbanek stojący w drugim kącie pokoju ożył|5.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27129920.mp3|Nie ma lekarstwa na wewnętrzny konflikt między kapitalistami który będzie stopniowo się pogłębiał|7.308
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20661181.mp3|Każde pismo istnieje w pewnym celu|4.464
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21866564.mp3|Za chwilę ktoś zbiegał po schodach i pędził prosto do mojej celi|5.592
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609297.mp3|Wreszcie słońce zsunęło się nisko|3.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25133706.mp3|Znowu podała mu rękę którą Wokulski ze czcią ucałował|4.356
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614049.mp3|Sara z wolna zaczęła uspokajać się w płaczu|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27639371.mp3|Ustępstwo to powinno było stanowić absolutny wyjątek i dotyczyć wyłącznie Papui Nowej Gwinei|8.748
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21877539.mp3|To było pożegnanie|2.544
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_36996482.mp3|Jest pan uznawany za gorącego orędownika ochrony środowiska i gratuluję panu tego|9.036
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604996.mp3|Zawahała się zakołysała na miejscu nie mogąc iść dalej|6.096
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20811374.mp3| Nieprzytomny jak bela…|3.504
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38051256.mp3|To dobry dzień dla Parlamentu i pokazuje co możemy osiągnąć dzięki współpracy|6.876
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37066713.mp3|Funkcjonują tu dwa systemy|3.636
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27129888.mp3|Relacje handlowe odgrywają dzisiaj olbrzymią rolę|5.58
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605843.mp3|Zaznaczę tylko wizje nie wdając się w szczegółowe opisy|5.04
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20620374.mp3|To trudno nie jestem tak delikatny jak ty|5.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24789376.mp3|Dalibóg dobry koncept|2.916
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20625306.mp3|Wszyscy trzej radosnym kiwnięciem głowy stwierdzili w milczeniu obecność w dębie dziwożony|6.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20663211.mp3|Szkoda|2.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607704.mp3|Wiecie co jest najsmutniejsze w tej całej sytuacji|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606844.mp3|Okresy kiedy się leży na samym dnie|6.48
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612245.mp3| Ja go słyszałem bardzo dawno tak dawno|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621619.mp3|Dać mu za żonę najpiękniejszą pannę|3.816
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610857.mp3|Anna odchodzi do Emila który ma osiemnaście lat|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607871.mp3|Pchał go sanitariusz|2.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32493730.mp3|Diana Wallis|3.24
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21604054.mp3|No teraz kochana żono dowiedziałem się co to jest strach|5.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20868489.mp3|Tak też było i w tej chwili|4.464
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27759074.mp3|Z wielkim zainteresowaniem oczekuję zakończenia procesu ratyfikacji i niecierpliwie czekam na rozpoczęcie jego wdrażania|10.188
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26590429.mp3|Także ci którzy wypowiadali się dwa miesiące temu mieli mniejsze szanse|6.408
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20624223.mp3| No na przykład  Jędrek|2.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20657072.mp3|A i te były za duże|4.176
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605574.mp3| Wyjaśnię ci kiedyś później|3.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20841122.mp3|Staś struchlał na chwilę i zapomniał o strzelbie|4.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25064342.mp3|Największy mój błąd że byłem dumny|3.168
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20639732.mp3|Zanadto może szkoła pędzi jakby kto poganiał|5.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20771980.mp3|Tak samo powie jak nad jarem i nad strumieniem  gardłował kulawiec podrygując niecałą nogą|7.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38066136.mp3|nie potrafimy bowiem zareagować na to poczucie nierówności niesprawiedliwości i braku bezpieczeństwa|6.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20655893.mp3|Zerka co chwilę na elegancki zegarek|4.128
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21097364.mp3|Zresztą opowiadania jego i żony świadczyły jasno że część życia spędził w Ameryce|7.488
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603076.mp3|Pamiętaj o tym|2.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23338626.mp3|Traciły grunt pod nogami jak mówiły|4.896
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25109830.mp3|Jak to się robi wynalazki|3.24
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28468925.mp3|Oczekujemy przestrzegania podstawowych zasad|4.176
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615018.mp3|Nie popsuła  spytał kulawiec|5.736
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20653438.mp3|Ile  myślisz  mogłabym zarabiać jako prostytutka Żeby zarobić na podróż dokądkolwiek|7.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621472.mp3|Dlatego większość kobiet które mają mało przyjaciół jest niemożliwie ograniczona|8.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24989052.mp3|Chłopak przywiązał też konia i wszedł do domu|6.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621780.mp3|Był to strach|2.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20649790.mp3|Już jest prawie jasno|2.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24784174.mp3|Inny świat inny świat|4.068
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20652233.mp3|Setki komunikatorów obejmują cały nasz świat|5.544
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20691251.mp3|Ty robisz zresztą to samo|3.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20611026.mp3|I nagle zaczęła mówić szybko i gorączkowo|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20649044.mp3|Korytarze są puste kroki rezonują jakby szło dziesięciu łudzi|6.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20773618.mp3|Zaczęła się bardzo dobrze uczyć i to uczyć całymi wie czorami|4.944
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612776.mp3|To tylko jedno co śpiewał poeta było prawdą czystą|5.424
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617181.mp3| I od mojego przyjazdu nie odgadujesz więcej|5.4
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38400580.mp3|Regularnie poświęcamy wiele uwagi sytuacji i rozwojowi wydarzeń w regionie Południowego Kaukazu|8.712
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20672561.mp3|W istocie kroki czyjeś zbliżyły się do drzwi biblioteki|5.544
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20926340.mp3| Nie wiem czemu by miała być wygłodzona|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20618790.mp3|Ten człowiek wciąż jeszcze stoi na korytarzu|3.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774947.mp3|Pola złapała Emila za rękę  Coś ci muszę powiedzieć|5.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604043.mp3|Dziwożona łasa jest na miód i pszczołom go stale wyjada|5.544
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23727284.mp3|Przeciw jego piekielnej chytrości nic nie był w stanie uczynić Aron|5.4
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25238964.mp3|Słowa te jeszcze dzwonią mi w uszach|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619159.mp3| Prawda że się chce wymiotować Emil poruszył głową w nieokreślonym kierunku|6.024
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27999476.mp3|Wszystkie dzisiejsze propozycje Komisji atakują albo system płac albo system emerytalny|6.876
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20770424.mp3| Więc czemuż się ich obawiać|4.968
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27332494.mp3|Pan Jezus miłosierny|2.16
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_35965709.mp3|Niezbędne jest uwzględnienie sieci lotnisk i zgadzam się na to|4.968
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616810.mp3| Poeto mój przyszłam do ciebie|4.392
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20624367.mp3|Król odbywa dalekie wycieczki łodzią|3.864
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28197077.mp3|Wyjście ze skomplikowanego kryzysu gospodarczego i finansowego nie było tak skuteczne jak się spodziewaliśmy|8.172
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775455.mp3| I dlatego spóźniłeś się wtedy Janek patrzył niebieskimi niewinnymi oczami|7.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20741607.mp3|Ten idiota myślał że to skrzep i próbował operować|4.848
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_33760560.mp3|Przecież to nieprawda|3.6
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604509.mp3| Dlaczego  Bo ty nie leżysz na dnie morza|5.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20766248.mp3|Odkąd ich w ogóle zauważyła zaczęła popiół i śmiecie zrzucać im na głowę|6.912
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21318471.mp3|Pytanie padło tak nagle że dobrze iż odpowiedź była z góry przygotowaną|8.376
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21021484.mp3|Czy nie moglibyśmy poprosić na chwilę piwniczego|4.392
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20618384.mp3|Leżał w półmroku bo bał się ciemności|5.184
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22707840.mp3|Nie no znowu reklamy|3.312
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20820317.mp3|Jednakże ta ciężarna nieszczęściem chmura miała też swe srebrne obramowanie|6.312
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607615.mp3|Przybył tutaj jako zbieg|5.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603763.mp3|Przebył pan szczęśliwie nader poważną chorobę wszelkie wzruszenia mogłyby panu zaszkodzić|9.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20626404.mp3|Te wiersze miałem kiedyś czytać ludziom którzy wierzyli w przetrwanie|6.096
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20648910.mp3|Przeszedł dwie ulice  znów to samo|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21358280.mp3|To bezinteresowne wyznanie nieprawdaż|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20685748.mp3|Poszedł do łazienki i mył się zbyt długo|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24748155.mp3|Czyby to nie było przyjemne|3.96
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37006657.mp3|Wspólne stanowisko bierze także pod uwagę liczne poprawki zgłoszone w Parlamencie podczas pierwszego czytania|7.164
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609150.mp3|Nasyciwszy oczy widokiem własnej krasy zaczęła z powrotem ubierać się|6.888
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21650603.mp3|Życiorys atlety zajmował całą kolumnę pośrodku zaś była zamieszczona jego podobizna|7.32
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_36639506.mp3|Ogromnym wyzwaniem pozostaje zapewnienie właściwej realizacji polityk strukturalnych|7.272
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20660149.mp3|To wnętrzności boga|5.856
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614768.mp3|Chciałem tylko stwierdzić prawdziwość swoich domysłów|4.896
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621968.mp3| Przecież sama uparłaś się że z nim pójdziesz|3.552
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20656453.mp3| Boże bądź miłościw…|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614254.mp3|Pogoda była chyba jeszcze gorsza niż w dniu poprzednim|6.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20639590.mp3|Doktor przechadzał się zamyślony po celi|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27266147.mp3|Jest to bardzo ważna rzecz|3.168
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21082071.mp3|  Uwaga Pola zaczyna myśleć|4.248
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20771984.mp3| Chciałbym z tobą trochę pogawędzić|5.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21724454.mp3|Że mi też to wcześniej na myśl nie przyszło  zawołała|4.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21318508.mp3|Rządy terroru w okręgu węglowym i żelaznym|9.624
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20630010.mp3|Pomagał jej zapiąć biustonosz|3.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20626114.mp3|Piotr został przy drzwiach ukłonił się i z nieufnością oglądał starca|6.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619562.mp3|Jedna stanęła nad jego łóżkiem i pochyliła się|5.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27434103.mp3|Teraz jednak trzeba podjąć więcej kroków kroków które prawdopodobnie będą ważniejsze|8.748
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21158601.mp3|Ach na Boga|4.392
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28805608.mp3|Nawet przedłużył pobyt o jeden dzień co jest rzadkością w takich relacjach|6.48
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20618392.mp3|Lecz sen nie spływał na powieki od jego pieśni monotonnej|6.504
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609316.mp3| To nie urągaj|4.056
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38861108.mp3|To co jest przedmiotem dzisiejszej debaty to jedynie smutne pozostałości po tych działaniach|8.748
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622376.mp3|Trzeba szukać nowej gospody póki jeszcze brzuszek pełen|5.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615869.mp3|Pójdę do nich|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603528.mp3|Przecie przyjemnie się wypróbować albo pokazać że się nie boję|6.024
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25269050.mp3|Cezary nie zadawał sobie takich pytań|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20625652.mp3|Lepiej sprawdź to w słowniku|5.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20624019.mp3| Gdzie  pyta się|3.264
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20644828.mp3|Nie wiem co się dzieje|3.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_31479549.mp3|Prawo do azylu jest jednym z najważniejszych praw człowieka|5.004
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20638629.mp3|Albo ja to źle zrobiłem albo ona jest nieco dziwna|4.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20735976.mp3|Miał zamknięte oczy widziała długie drgające rzęsy|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20651278.mp3|Ładny był dziewczak  rzekł wreszcie kulawiec i spojrzał na przyjaciela|5.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20640013.mp3|On by chciał żebyśmy czekali tysiąc lat|4.608
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619989.mp3| Więc nie chcesz obiecać że mu nie będziesz dokuczał|6.12
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21079900.mp3|Słyszałam że ma być śliczna|4.944
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21109609.mp3| To nic niewielka strata|3.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614344.mp3|Nie mógł się pożegnać|2.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24453742.mp3|Rozweselona ich figlem zaczęła klaskać w ręce śmiejąc się serdecznie|8.352
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_34938117.mp3|Parlament Europejski jest głęboko wstrząśnięty i zasmucony tym zdarzeniem|5.688
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20637867.mp3|Wszystko zależy od nastawienia z góry|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20772072.mp3| Każdy musi robić to co mnie się podoba  rzekł obojętnie|5.856
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25154911.mp3|Czy wymyślą jeszcze coś lepszego|3.6
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20687550.mp3|Zegarka nie nakręcisz to stanie|5.784
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20689111.mp3|Cicho… on śpi|2.52
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20646017.mp3|W tym właśnie sęk  zawołał Podlasiak wstydliwie obmacując wybitną pozostałość|6.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25233700.mp3|Rozsiedli się na meblach i zagarnęli wszystko co było w mieszkaniu|5.4
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606219.mp3|Wojna nie będzie trwała długo|2.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20764146.mp3|Czy pokroić wędlinę|2.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27661275.mp3|Zanim przejdziemy do głosowania nad kalendarzem chciałbym powiedzieć coś o zaplanowanym na jutro strajku|8.172
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608701.mp3|Komary latały dookoła nich|3.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614581.mp3|Przecie ja jestem od niego…|3.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20687708.mp3|Miałem i mam nadzieję że medytacja coś pomoże|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22723318.mp3|Spadaj|3.048
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21445313.mp3|Żądza sławy i panowania pożerała go całego|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25231768.mp3|Rysy jej straciły trochę z dawnej surowości|4.68
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20842432.mp3|Powidła pyszna rzecz|3.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20666996.mp3|Szukali innej planety|2.856
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20671478.mp3|Ale tylko tyle możemy zrobić w zamian za nową broń|4.056
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30530795.mp3|Chciałbym zadać Komisji kilka dodatkowych pytań|5.22
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20820968.mp3|Pewność tę okazywało wyraźnie całe stado Składało się z dobrych dwudziestu sztuk|9.576
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20623161.mp3|Jestem wielkim przeciwnikiem rozwydrzenia sportowego które się w ostatnich latach rozwinęło|9.624
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21158943.mp3|Liza chwyciła go i wzięła na rękę|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604879.mp3|Weź szczotkę i mydło i wyszoruj ręce jak należy  mówi mama|6.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25321402.mp3|Jego ojciec gorący patriota dbał o to wielce by chłopiec znał mowę ojczystą|6.66
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612247.mp3|Kulawiec zawczasu nachylił się ku dziwożonie|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20618523.mp3|Z nicości wszystko powstaje|5.208
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_34903453.mp3|Pójdźmy za tym przykładem|3.168
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20772434.mp3|Uśmiechnął się i zawrócił|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604971.mp3| He he he  zarechotało coś w drugim kącie przedziału|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21770488.mp3|Daj mu rękę człowieku|4.224
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21160645.mp3|Nikt nawet tata nie wiedział jak szła na operację|5.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610727.mp3|Powodów przecież nigdy nie braknie|3.864
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23636329.mp3|Ani chwili nie tracić|3.072
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23558333.mp3|Przestań aż serce boli jak widzę ile tego marnujesz|5.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27502845.mp3|Prawa pracowników do informacji i konsultacji to istotne składniki społecznej gospodarki rynkowej|5.868
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614476.mp3|Spałem do dwunastej|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24753841.mp3|Co do drugiego za chwilę dowiemy się kto on był|7.848
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_35646755.mp3|Rada oczekuje że zajmiemy się tą delikatną i drażliwą kwestią|6.408
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603636.mp3| Ty tu  zapytał mistrz zdumiony|5.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616480.mp3|Kobieta uśmiecha się i patrzy na mnie w szczególny sposób|4.896
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38400581.mp3|Odnośnie do polityki azylowej sprawozdanie podąża w szlachetnym kierunku|6.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603905.mp3|Co jest dla ciebie w życiu najważniejsze|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27434096.mp3|Doceniamy osiągnięte ostatnio postępy|4.788
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20635967.mp3|Sami sieją waśń między rodzeństwem i dlatego nie może być zgody|5.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20990088.mp3| Więc dotychczas nie gniewałaś się naprawdę|4.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24493702.mp3|W kościołach przez cały dzień panował tłok jak w czasie odpustu|4.788
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607623.mp3|W weekend majowy pojechałem w góry|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617863.mp3|Posłuchała z ociąganiem się i ostrożnie wyjrzała|6.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20656804.mp3|Tam skierowaliśmy z Halszką swe kroki|4.2
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20820329.mp3|Proszę się położyć spać|3.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20628694.mp3|W wolnym czasie uwielbiam chodzić z przyjaciółmi na spacery|5.472
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20656681.mp3|Pieniądze szczęścia nie dają|4.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607731.mp3|Lecz niedługo trwały chwile ukojenia|3.024
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20625598.mp3|Zaczęliśmy mówić o tresowanych zwierzętach co kto widział|4.056
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614881.mp3| Chodźmy już|2.856
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22257236.mp3|Jak przypuszczałem wychodziła ta szeroka ulica na główny plac który mi opisał generał|7.92
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26940810.mp3|Ponadto musimy wesprzeć ochronę statków i ludzi którzy się na nich znajdują|5.328
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619543.mp3|Marzyłam że razem z nim opuszczę wyspę|4.752
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21084409.mp3|Wypił łyk kawy i skrzywił się mimo woli|5.928
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21885473.mp3|Przynajmniej wiem teraz gdzie jestem|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619971.mp3|Jednoręki z widoczną troską o wniosek a kulawiec z niedowierzaniem pogrążyli się w zadumie|7.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20632142.mp3|Reszta jeźdźców rozproszyła się w różne strony|5.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614526.mp3|Tylko na tematy teoretyczne|3.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775210.mp3|Ciągłe szycie cięcie mierzenie i znowu szycie|6.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616487.mp3|Spotkali się na korytarzu Krystyna uśmiechnęła się przedstawiła go narzeczonemu i powiedziała|7.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616141.mp3|Przerwał i oczyma wzniesionymi ku sklepieniu śledził ruch dymów…|7.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612807.mp3|Oczywiście im wiek późniejszy tym bardziej charakter komórek jest inny|6.864
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25431298.mp3|Powtórzyłem owe dziwne słowa zdawało się pozbawione jakiegokolwiek znaczenia|7.956
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774817.mp3| Pora wracać do domu|2.472
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20672657.mp3|W parę minut później pożegnaliśmy się|3.96
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775629.mp3|Z początku niby nic|3.024
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21074510.mp3|Zdawało mi się…|2.856
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604826.mp3|Nie wiedziała co teraz się z nim stanie|5.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20620011.mp3|Lecz Andrzej nie dowierzał|5.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615895.mp3| To jest stanowczo ktoś inny  uspokoił ją wchodząc do wnętrza|5.184
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37832980.mp3|W toku negocjacji projektów poprawek osiągnięto kompromis który uzyskał poparcie całego spektrum politycznego|10.008
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606257.mp3|Jakże mu było na imię  spytał ciekawie jednoręki|5.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775215.mp3|Potarł ręką rozpalone czoło nowy dreszcz go przeleciał|5.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23558348.mp3|Czyż miałem wejść|2.784
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608997.mp3|Po chwili furtka już była otwarta na oścież|5.712
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20705852.mp3|I teraz stała się rzecz najsmutniejsza|4.008
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774933.mp3|Tam ja jechać nie mogę widzicie bo był taki wypadek…|5.184
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20625548.mp3|Jano krzyknął  Marysiu Otwarła oczy zanurzone w śnie|5.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20877197.mp3|Ojciec wróci z roboty|3.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32139955.mp3|Miejmy nadzieję że nigdy do tego nie dojdzie|3.672
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604205.mp3|On doznał wrażenia że stopy jego puszczają korzonki że jest wrośnięty w ziemię|7.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20623502.mp3|Słyszałem tylko o tym dziwnym człowieku|3.408
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20781634.mp3| Pan uległ zapewne pomyłce|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21079899.mp3| Nie potrzebuję twojej stalówki|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21770489.mp3|Czy pani wie jak daleko z Medinet do Chartumu|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37048961.mp3|Obejmuje to ściśle określony zakres uprawnień i wsparcie finansowe dla nadawców publicznych|7.308
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20637365.mp3|Czarna burza stoi na zachodzie|4.224
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621606.mp3|Pamiętaj o oznaczeniu odpowiednich elementów|3.936
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20641360.mp3|Stałem długo jak wryty nie mogąc uczynić kroku naprzód|5.856
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606579.mp3|Ale biada temu kto da się przeważyć|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20812383.mp3|Próba może jeno dać pojęcie należyte o człowieku|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20627967.mp3|To się zdarzało bardzo rzadko i dlatego była niespokojna|6.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23423792.mp3|Alboż pan biednym też nie daje|4.752
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606615.mp3|Żyjący jest umarłym|3.504
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20625479.mp3|Czy nie można z tobą mówić po ludzku|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24768564.mp3|Używa podstępu w miejsce rycerstwa pióra w miejsce szpady to wstyd|7.596
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30530787.mp3|Panie i Panowie w tej dziedzinie nadal pozostaje bardzo wiele do zrobienia|6.48
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20679186.mp3|Ale co powie Ewie Musi jej wszystko wytłumaczyć|5.352
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20990087.mp3|Nie zaszkodzi wykonać podwójną minetę|3.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21162385.mp3|Cewka rezystor opornik tranzystor kondensator w układach elektronicznych|6.792
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27211288.mp3|Przetrwaliśmy te cierpkie uwagi które padły w tej Izbie|5.04
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619271.mp3| I na cóż potrzebna wam była woda  pytano Nowaka|5.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20672574.mp3|I wtedy przyszedł mi w pomoc szczęśliwy przypadek|4.896
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20625871.mp3|Ruchome masy gadów porcelanowych|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616195.mp3|I stało się|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20770445.mp3|Słyszałam że jak już tam wejdziesz to wychodzisz spłukany|5.76
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38066115.mp3|Efektywność energetyczna jest środkiem numer jeden|5.292
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_29792418.mp3|To jest powodem naszej debaty|3.636
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26778798.mp3|Będę mówić bardzo krótko|5.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20611381.mp3|To naprawdę było przyjemne|3.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605577.mp3|Toteż nie zrozumiałem ani słówka z tego co mi mówiła|5.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27433529.mp3|Te elementy są niezmiernie ważne dla zapewnienia konkretnego charakteru i jakości samego znaku|7.488
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24784171.mp3|Nie jest Maciuś królem bo nie chce ale za rok może znów zechce|5.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25068230.mp3|Jakto dla Boga to brzmi głucho powiedział podnosząc oczy z zadziwieniem|6.768
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20611694.mp3| Dziękuję  odparł pokrywając zdumienie wymuszonym uśmiechem|5.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20837071.mp3|Brytyjczycy zrobili schizmę a może rozwód z Unią Europejską|5.4
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32493823.mp3|Te wyrazy zagłuszone zostały żarcikami i dobrym humorem króla oraz całego dworu|7.02
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20631031.mp3|Tak mu się przynajmniej zdawało…|3.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21487325.mp3|Straszny czarny mężczyzna podszedł do kobiety i zaczął związywać jej ręce|6.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605582.mp3| Zobaczyłem jakąś lalkę która miała być poprzednio moją mamą|5.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20639955.mp3|Szkoda i pożytek|3.72
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20654529.mp3|Co kraj to obyczaj|2.784
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617945.mp3|Nie mogę być inna|2.736
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603641.mp3|Kulawiec był posiadaczem torby kusej i płytkiej ale upchanej dostatnio i pękatej jak kobza|7.464
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20877208.mp3| Słuchaj to jest głupia historia|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20631920.mp3|Choć on niby stary lecz jary|6.888
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24796242.mp3|Panna Izabela wstrząsnęła się|3.528
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610132.mp3| Gdzieś w pobliżu przejechał w tej chwili baron…|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22767407.mp3|I dwie armaty stanęły twarz w twarz w straszliwej niczem niezmąconej ciszy|8.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605038.mp3| Lecz wszystko ma swój koniec|3.0
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20626399.mp3| Zdaje się że się uderzył|4.176
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22760693.mp3|Ale z niej słodziak|3.792
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616695.mp3|A zakotłowało się w głowie|4.368
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622963.mp3|Wstydziłam się|3.504
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20659033.mp3|Zresztą nie chciał uciekać|3.288
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606958.mp3|Miała dużo koleżanek nie miała przyjaciółek|4.296
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20633741.mp3| Służę panu  odpowiedział grzecznie strzepując popiół z cygara|5.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28230997.mp3|W przypadku przyjęcia tego rozwiązania udałoby się także obejść rozbieżności zdań pomiędzy głównymi graczami|2.592
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20638798.mp3|Najlepiej jest przestać palić od samego rana|4.872
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20618386.mp3|Kto się boi jest bity|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606987.mp3|Jednoręki nie wypuszczał ze zbolałej lewicy krwawo zdobytego skarbu|5.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20613456.mp3|Powoli przerzuca swoją przeszłość swoje rozmowy z dziećmi|5.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609049.mp3|Jestem w nędzy…|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21318473.mp3|Ludzie rozzuchwalili się w tych stronach|6.192
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604828.mp3|Dziś  musiałem cię zamienić wprost w piosenkę…|5.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20772875.mp3| Dokąd płyniemy  rzuciłem odruchowo pytanie|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38383821.mp3|Kontroli Chorób|3.96
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20786723.mp3|Kosz spadając w koziołkach wysypał całą swą zawartość|5.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20632647.mp3|Jak sobie pościelesz tak się wyśpisz|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27332518.mp3|Powiedziałem wówczas że w imieniu mojej grupy zdecydowanie popieram cele polityki w obszarze środowiska|6.948
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_33115926.mp3|Dyskutowana dziś umowa nie jest być może idealna|6.552
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20638465.mp3|Dziecka nie wolno przyjmować do pracy zarobkowej przed osiągnięciem odpowiedniego minimalnego wieku|9.576
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622375.mp3|Niech Bóg ma pana w swej opiece|3.504
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20629453.mp3|Bram mając do pomocy swoje dzikie bestie był pewny zwycięstwa|5.016
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20650515.mp3|Kupiłam wczoraj kilka bułek|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609118.mp3|Wyrzekłem się jej dobrowolnie|3.624
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621794.mp3|Czy to koń młynarza|4.2
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23651461.mp3|Zapomniałem że takie zwierzęta są na ziemi|5.88
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26950911.mp3|Jeśli dobrze widzę ma pani złamaną rękę  życzę szybkiego powrotu do zdrowia|6.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23357192.mp3|Czy on wiedział co się teraz stało|2.832
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21445311.mp3|Szewca ani słychu|3.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614397.mp3|Po chwili do pokoju weszła jakaś Chinka|3.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614546.mp3|Z podniesioną do strzału bronią wszedłem|3.096
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20623524.mp3|Może to i dobrze że tam nie pojechaliśmy|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38248162.mp3|Uważam że to właściwa droga|3.06
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26985720.mp3|Ostatecznie to konsumenci zadecydują czy zechcą kupować produkty z fok|5.616
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25965307.mp3|Stanowisko Komisji wydaje mi się dość mało ambitne pod tym względem|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775255.mp3|Muszę wiedzieć to czego nie mogę wiedzieć|4.872
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20678949.mp3|Widzę to widzę to  powtarzałem sobie w myśli|5.784
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604888.mp3|Ostatnie minuty przed wschodem słońca to najzimniejszy moment w ciągu doby|6.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_36869210.mp3|Przede wszystkim wymienia fundusze spójności|4.248
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621457.mp3|Poszedł do domu|2.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20852176.mp3| Ziewnął w końcu|3.048
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20659082.mp3| Czy mogę dowiedzieć się bliższych szczegółów|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24363188.mp3|Ach siedm kufli piwa Czyżbym naprawdę|5.472
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26961122.mp3|Jestem szczęśliwy mogąc poinformować że poprosiłem obie strony o dalszą współpracę w tej sprawie|7.596
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20638796.mp3|Mówi się że prawdziwe rozumienie wiedzy jest wtedy gdy umie się ją przekazywać|8.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607403.mp3|Zeszłoroczna zbiórka poszła naprawdę kiepsko|3.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612561.mp3|Nie mam określonego tytułu|5.616
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30708566.mp3|Oznacza to ogromne ryzyko|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615931.mp3|Nie była nieświadoma tego na co się naraża|4.224
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27638702.mp3|Musimy jednak wywierać maksymalną presję|5.508
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774534.mp3|Ileś pisał Hannibalu|3.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22354083.mp3|Hej|1.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20787055.mp3|Jestem zły|3.576
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20832591.mp3|  Ja też nie wiem|4.08
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25830187.mp3|Jak ten grubas był zdjęty nabożnym strachem|3.96
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22790545.mp3|Zrób jak ci rozkazałem|4.152
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21189446.mp3|Zdumiał się tedy młodzian i zwyczajnie zdębiał|7.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603688.mp3| Jak gdyby nigdy nic|3.936
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25068192.mp3|Na kilka lat przynajmniej wyzwoli ją to od trosk życia codziennego|6.12
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774806.mp3|A teraz mówią o skrzydłach dla ludzkości|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20640293.mp3|Alkohol był jedną z przyczyn kolizji|3.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622515.mp3|Ot zamiast tych głupich żartów przyślijcie mi ją tutaj na noc|6.816
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614196.mp3|Mężczyźni krążyli koło prostytutek jak tokujące gołębie śmieszne|6.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603278.mp3| Znamienne połączenie wizerunków|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27627116.mp3|Na przykład w polskim prawie nie istnieje definicja która pozwoliłaby wyszczególnić cechy leku podrobionego|7.272
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32434376.mp3|Uważam że jesteśmy w trakcie procesu współdecyzji konwergencji i dochodzenia do konsensusu|9.432
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20640711.mp3|Dość|2.784
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616096.mp3|Unikam wszelkich poprawek i przeróbek  odpowiedział pośpiesznie i niespokojnie Podlasiak|8.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622352.mp3|Lecz tamten jakby nie słysząc naciskał już sprężynę|6.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22790643.mp3|I dla najdzielniejszych z nas stało się jasnem że nastała chwila odwrotu|7.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616675.mp3|Zanim się zdecyduję dam ci jedną dobrą radę|3.504
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775194.mp3|Część zginęła w boju część siedzi w obozie dla jeńców|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20981468.mp3|Przejechał na wozie niejedną ulicę ale jakoś nic|6.36
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21650601.mp3|Ostatnie lata upłynęły na troskach i ciężkiej prący musiał więc sport zupełnie zarzucić|7.056
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603509.mp3| Więc baron miał poniekąd rację przychodząc do ciebie ze słowem przebaczenia|7.056
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22790642.mp3|Znajdowałem się w winnicy tyki sterczały wprawdzie jeszcze ale liści już nie było|8.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32671290.mp3|Wcale nie myślimy o przyłączeniu Turcji|4.608
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37328994.mp3|Współpracy pomiędzy Organami Regulacji Energetyki|4.032
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37409817.mp3|na piśmie  To czwarty pakiet dotyczący ochrony praw pasażerów|4.788
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20658802.mp3| He he he|3.024
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615022.mp3| Idę do domu możesz mnie odprowadzić|5.28
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619564.mp3| Czyżby coś podobnego było możliwym|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22795626.mp3|Widzę że wszystko ma się tak jak być powinno|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20618880.mp3|I Bartek coraz gwałtowniej coraz silniej tęsknił za głosem ludzkim|6.96
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20788754.mp3|Usiadł|2.832
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20619566.mp3|Już nie rozmawialiśmy więcej|3.624
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26940808.mp3|przeglądu europejskiej polityki sąsiedztwa  wymiar południowy|5.688
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20638213.mp3| To licho małe jak igła|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27759143.mp3|Życzymy panom udanego pobytu i owocnych dyskusji z przedstawicielami Parlamentu Europejskiego Komisji i Rady|10.26
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20644528.mp3|Była zagrożona snem|3.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22803189.mp3|Przyszła potem jego siódemka pikowa|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_39331233.mp3|Czy ma czytać fantastyczne książki|4.32
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30216313.mp3|Musimy uczynić wszystko co konieczne aby zagwarantować przezwyciężenie obecnego kryzysu finansowego i przywrócenie zaufania|9.0
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27627117.mp3|Jednak cena rynkowa energii stanowi tylko jeden aspekt problemu|5.364
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774977.mp3|Zaczął poruszać się niespokojnie na łóżku|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_39331187.mp3|Nie mam do niej urazy|2.772
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20641155.mp3|Pani pozwala na bójki podczas lekcji|4.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22707834.mp3|Moje myśli przeniosły się także i na inny przedmiot|4.992
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20653435.mp3| No zbliża się czas by pomyśleć o powrocie|5.424
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27740910.mp3|W wojnie tej nie jesteśmy zakładnikami ale żołnierzami|5.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28204515.mp3|Czyli komunikat jest następujący|3.78
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20656454.mp3|Król sam oniemiał z podziwu|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21650604.mp3|Mimo to jednak był on w wielu razach niebezpiecznym przeciwnikiem|5.112
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608531.mp3|Ujął go pod ramię i potrząsnął|4.824
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20632692.mp3|Zwariowałaś|2.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21768421.mp3|Tadeusz rad jej więcej rozkoszy użyczyć|4.464
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32671287.mp3|Bezpieczeństwo naszych społeczeństw jest niepodważalną wartością którą musimy pielęgnować z pełnym przekonaniem|7.668
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609357.mp3| Co to za napój|2.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37832978.mp3|Usłyszeliśmy tu jednak wypowiedź której nie można zaakceptować|6.516
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20624003.mp3|Nad jej oczami zwisały pojedyncze kłosy trawy|4.944
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20626553.mp3|Spotykam ją czasami|3.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21082045.mp3|Nie każda morda pasuje do forda|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30859642.mp3|W obu przypadkach konieczne jest jednakowe traktowanie wszystkich języków|4.788
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22929363.mp3|Co było począć|2.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610330.mp3|Zwłaszcza że tak długo mówił Emilowi prawdę|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605671.mp3|Upiór  poprawił go niewczesny kulawiec|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37409818.mp3|Trzeba przyznać że te praktyki po prostu nie spełniają unijnych standardów bezpieczeństwa żywności|6.3
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21097349.mp3|Jest to widocznie książka wydana w jakiejś określonej formie|5.952
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21923556.mp3|Oto list który przeczytałem redaktorowi naszej Gazety|5.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26818893.mp3|Musimy działać już teraz|3.42
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603492.mp3|Milcząc pobiegli we wskazanym kierunku|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21075464.mp3|Skończył się piękny sen|2.88
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603398.mp3|Zamknięte są bramy domów i zgaszone światła|5.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615857.mp3|Lecz spróbuję je sparaliżować choć w części|5.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607619.mp3|Jutro będę u was znowu|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23822096.mp3|Dokoła nich kipiały śmiech i radość|3.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608886.mp3|Odmy w prawym płucu doc|5.616
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20656874.mp3| Próbowałaś kiedyś malować wewnętrzną stronę skrzydełek nosowych  Jesteś matoł|5.976
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23818908.mp3|Blanka rzuciła się w jego objęcia|3.864
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617601.mp3|Ojciec nieraz mi wyjaśniał wszystko a ja wam to zaraz powtórzę|6.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20607650.mp3|Wszyscy chodzili uśmiechnięci|3.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615920.mp3|Może nareszcie pozostawi nas w spokoju|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603889.mp3| Przepraszam pana  proszę o bilet|5.184
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20648496.mp3|Dzieci są lekkomyślne i niedoświadczone…|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616395.mp3|To chyba nie jest sodomia|2.376
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20616794.mp3|Leczenie atropina|6.168
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20627504.mp3|Nasze reakcje są oczywiste i nie wynikają tylko z tego że boimy się zmian|6.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20628985.mp3|Nad płonącym ogniem stała pochylona sylwetka jakiegoś mężczyzny|5.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22708686.mp3|Otóż i ono|3.312
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606221.mp3|I jak to proroctwo się sprawdziło|4.704
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24599520.mp3|Usta jej dotykały twarzy chłopca który się wstawił jak żądała|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25064340.mp3|Myśl i język są dla artysty narzędziami sztuki|5.22
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20814299.mp3|Znasz przecie kobiety|2.616
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21160983.mp3|Jest godzina dwudziesta druga dwadzieścia|5.304
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_33230730.mp3|Pozwolę sobie zadać następujące pytanie|3.888
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617390.mp3|Dostał powideł i wrócił do rysowania|3.744
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20772639.mp3| Skądże mogę to wiedzieć|3.024
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_35772703.mp3|Pierwsza poprawka przyjęta przez Komisję Przemysłu Badań Naukowych i Energii dotyczy podstawy prawnej|8.208
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608468.mp3|Ogień natychmiast zaczął szybko posuwać się wzdłuż kanału pomiędzy klocami|8.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32309630.mp3|Taka jest strategia tej organizacji|4.32
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20773202.mp3|O musiało być ludziom wtedy gorąco|5.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20612391.mp3|Ktoś goni po przedpokoju|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20774932.mp3|Niech rozniesie to wszystko mnie też|3.144
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26961359.mp3|Dlatego rozporządzenie proponowane przez Komisję i zmienione przez Parlament szybko wejdzie w życie|7.128
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37006649.mp3|Mówię tu o szpitalach z których każdy kosztuje dziesięć milionów dolarów|5.688
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20649661.mp3|Podlasiak nachylił się ku niej|4.464
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20630374.mp3|A gdy nie kochamy doznajemy spokoju i możemy grzać się w słońcu|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604461.mp3|I Ewa była zazdrosna że nie płakał|3.984
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_37409780.mp3|Mówią oni że już obiecali zapewnić dostawy gazu pięciu innym stronom|7.956
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21867048.mp3|Tracąc głowę zawył wówczas na pomoc pospieszyło mu dwóch przechodniów|7.056
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20812488.mp3|Trzymali się blisko Nilu i często nocami skręcali do rzeki by napoić zwierzęta|5.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_28246458.mp3|Uważam też za cenną inicjatywę dyskutowania o sprawach jednolitego rynku podczas corocznego forum|8.064
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32493802.mp3|Zacznę od Chorwacji|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20605714.mp3|Przecież tego nie wyrzucę|2.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26945251.mp3|Sprawiedliwość dla kobiet do towarzystwa|4.32
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26676158.mp3|Nie wystarczy jeśli konsumenci są dobrze chronieni w jednym kraju|5.4
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606352.mp3|Pójdę sobie w świat|3.216
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608485.mp3|Dla zaprzestania palenia trzeba wybrać odpowiednią chwilę|6.096
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20623217.mp3|To była jedyna rzecz oprócz Ewy na którą zwrócił uwagę|5.616
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20626487.mp3|Emil stał za dużą palmą i oglądał księcia|4.92
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_31061667.mp3|Wiem że Rada uważa że być może jest to krok idący za daleko|6.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775419.mp3|Wiedzą o tym ci którzy zaczęli go choćby z lekka nadużywać|5.616
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617157.mp3|Nie popsuła  odparł jednoręki|7.68
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615921.mp3|Ale ja mówię o czymś zupełnie innym|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20641179.mp3|Gdy kochamy kobiety jest to dobre|3.624
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20885230.mp3| Nie rób tego|2.424
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20633117.mp3| Król popełnił wobec ciebie niesprawiedliwość|5.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32434378.mp3|W swoim sprawozdaniu postaram się uwydatnić potencjał biogazu|6.3
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603197.mp3|Dzisiaj jem na kolację sałatkę jarzynową|4.08
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20813339.mp3|Jako najbliżsi jego dostojnej osoby uważali się za coś lepszego od innych|7.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23365565.mp3|Zaparło mi oddech|3.576
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27705214.mp3|Głosuję za odrzuceniem tego tekstu i kategorycznie go potępiam|5.364
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604504.mp3|Co cię nie zabije to cię wzmocni|4.344
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_32493824.mp3|Jednak państwom europejskim też nie udało się poradzić sobie z wysoką zachorowalnością na gruźlicę|6.66
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25803682.mp3|Co tu robisz|2.52
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608333.mp3| Jeżeli będę mógł to ja się też będę starał|3.336
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20622224.mp3| Boisz się siebie samej  Tak|6.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_38066114.mp3|Przez Chorwację przewozi się nielegalne substancje z krajów produkujących je do krajów będących konsumentami|9.648
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604861.mp3|Dawno nie jadłem czegoś tak smacznego|2.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21061124.mp3|Będziesz pamiętała na przyszłość|3.096
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20680833.mp3|Łaskawy pan kpi sobie ze mnie|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_23537895.mp3|Nagle powstało ogólne zdumienie|3.576
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20613591.mp3|Zadaje mi niemal fizyczny ból|3.384
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21097367.mp3| Ależ… to tyś się zmieniła  zawołała|5.28
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21071686.mp3|O cóż wam tedy chodzi|6.264
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26980674.mp3|Niskie wymagania depozytowe na rynku oznaczają iż rynek ten jest otwarty na manipulacje|9.432
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20640712.mp3|Lecz jestem już u siebie|3.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20885512.mp3| Śpi Nel  śpi  mówił sobie|5.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22707876.mp3|W rzeczy samej był to malowniczy widok|4.44
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20648665.mp3|Młynarz jednak siedział nieruchomo|3.264
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24773004.mp3|Jestem tylko rycerzem ale nie dworakiem|3.708
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20773533.mp3|Ale straszne było przebudzenie z upojeń|5.664
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20621074.mp3|Pompuje się wodę robi się studnie podziemne|6.576
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_26959099.mp3|Wskaźnik rozwoju społecznego Mołdawii jest jednym z najniższych w regionie|6.12
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21151978.mp3|I w drodze do leśniczówki cichutko się przemknąłeś|4.224
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20885995.mp3| Pierwszy raz słyszę od ciebie że psy nie są mądre|6.456
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610283.mp3|Jak powinien wyglądać świat|3.408
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_27127986.mp3|Skąd pochodzi ten produkt|4.032
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20604324.mp3|Spotkałem ją raz|3.024
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20623065.mp3|Nie myślałem nawet czy są naprawdę|3.84
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24746389.mp3|Ale ja nie jestem obłąkany|3.492
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20613847.mp3| Pójdziesz się bawić|2.904
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775058.mp3|I śpiewać się nie wstydzi i pierwsza powiedziała że będzie tańczyła|6.504
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20617935.mp3|Czasem stawia na przemian  raz duży raz mały krok|4.656
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21426620.mp3|Utwory te staną się kamieniem węgielnym dla naszej nauki|5.736
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_30651233.mp3|Mutatis mutandis coś podobnego dzieje się dzisiaj|6.228
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20603532.mp3|Żebym miał pieniądze tobym mu mleka kupił|8.136
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20610568.mp3|Nalał eteru na chustkę i wdychał go powoli|4.776
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20551625.mp3| Byle tylko jechać|4.392
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21160244.mp3|Czuła iż pozwoliła sobie na czyn karygodny…|5.496
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20633506.mp3|Więc on się koło mnie położył i leżał|4.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20608653.mp3|Potem  Przepraszam cię|3.792
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20606369.mp3|Ocucił nas dopiero jęk cichy przeciągły|4.584
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20609318.mp3|Mając lat siedem czuł już jak należy postępować z lekarzami|7.104
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20623962.mp3| Pomyliłeś się bratku|3.696
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25321398.mp3|muszę nawet prawdę powiedzieć że trudno by było znaleźć lepsze miejsce|6.084
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_22919268.mp3|Służbę pełniliśmy na zmianę dzień po dniu|3.944375
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20626223.mp3|Nie dziwię się wcale że wywołuje taki popłoch wśród dzieci|4.536
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_25830189.mp3|Ale o tem mogli się dowiedzieć tylko od niego samego|4.86
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_24753493.mp3|Blanka zaś była przy krosnach i pracowała nad krzyżową robotą|7.164
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614524.mp3|Nie bardzo go to obchodziło ale można było na ten temat rozprawiać długo|8.256
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20614903.mp3|A teraz  ty sam zginiesz a ja razem z tobą|5.52
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_29015085.mp3|Moglibyśmy promować czystą przyszłość dla nas wszystkich|4.392
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_35965707.mp3|Witamy studentów z Europejskiego Uniwersytetu w Rzymie którzy są obecni na balkonie|6.948
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20886033.mp3|To będzie pierwsza i ostatnia rzecz która będzie nią|5.424
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20615127.mp3|Potem ubrał się i wyszedł|4.296
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_21074511.mp3|Nie płacz nie płacz proszę|3.12
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20775491.mp3| Naturalnie jak w ogóle przy każdym choćby tylko częściowym rozszczepieniu jaźni|7.416
+/home/ashankwi/commonVoiceData/pl/testFiles/common_voice_pl_20613846.mp3|Szereg komnat które zmieniają się w cyrk podziemny|5.136
