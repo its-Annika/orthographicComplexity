@@ -1,0 +1,626 @@
+path|transcript|duration
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37303744.mp3|პოეტური შემოქმედების გარდა დაკავებული იყო მთარგმნელობითი საქმიანობით რედაქტორობით აქტიურად მუშაობდა საბავშვო პოეზიაში|10.476
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37309070.mp3|მიეკუთვნება სენტრუამაზონენსის მეზორეგიონს|4.968
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37365519.mp3|წვერიანი კოლი ადვილად ეგუება ქალაქის პირობებს და სიცივეს ძნელად იწვრთნება|7.164
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37351234.mp3|ჩრდილოეთი კალთები დამრეცია და შეიცავს რიგ გასწვრივ ხეობას|7.668
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36516558.mp3|ნენსის სიკვდილის გარშემო წარმოიშვა მრავალი თეორია|5.976
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37535184.mp3|კვლევა კანადის კიბოს საზოგადოებამ და ალბერტას უნივერსიტეტის კიბოს ფონდმა დააფინანსა|7.74
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37381228.mp3|ხდება ამ ტიტულის მატარებელი ყველაზე ახალგაზრდა ადამიანი|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34269767.mp3|ჰელბრუნის სასახლე ცნობილია თავისი შადრევნებით|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37550904.mp3|ამბოხება ჩაახშეს საღვთო კავშირისა და საფრანგეთის არმიის დახმარებით|5.94
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37341648.mp3|აღმოსავლეთით ნახევარწრიულ აფსიდში ერთი სარკმელია ხოლო მის ჩრდილოეთით ერთი ვიწრო ნიში|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36659180.mp3|დღემდე გამართულ თხუთმეტ ტურნირში შვიდმა ერევნული ქვეყნის ნაკრებმა შეძლო თასის მოპოვება|5.724
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37828428.mp3|ამასთან ერთად იყო შავი ზღვის ეკონომიკური პარტნიორობის საპარლამენტო ასამბლეის ვიცეპრეზიდენტი|6.552
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37302080.mp3|ამას ჩვეულებრივ ავტობუსის მწარმოებლები აკეთებენ|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356105.mp3|ყველაფერი ჩვეულებრივად მიდიოდა მაგრამ მოულოდნელად ალექსანდრე ავად გახდა|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36518992.mp3|ამჟამად კლუბი საქართველოს ჩემპიონატის უმაღლეს ლიგაში ასპარეზობს|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_24890567.mp3|ჩრდილოეთ კარის ზედა ნაწილი დანგრეულია და მისი გადახურვის ფორმის დადგენა არ ხერხდება|6.336
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37407917.mp3|ნაყოფის წვენს სუსტი მჟავიანობა ახასიათებს|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359698.mp3|მდებარეობს კირენაიკის ტერიტორიაზე ელვახატის რაიონში|5.436
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37379335.mp3|ის მრავალ წერილს სწერდა ევროპელ და აზიელ მონარქებს ოსმალთა წინააღმდეგ კოალიციის შესაქმნელად|7.956
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492318.mp3|ინტერიერში შემორჩენილია მოხატულობის კვალი|3.708
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37303245.mp3|მისი სახე მკაცრი და ძლიერია|3.78
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37526313.mp3|მძიმე შემთხვევებში შესაძლოა ღვიძლის გადანერგვა გახდეს საჭირო|5.472
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37602779.mp3|მუშაობდა ირიგაციის მინისტრის მოადგილედ ჩანდრიკა კუმარატუნგას მთავრობაში|5.832
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37363687.mp3|კამერუნის დემოგრაფიული პროფილი საკმაოდ რთულია|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37564466.mp3|სექციის შესაბამისი ქანები წარმოიქმნება გეოლოგიური ეპოქის განმავლობაში|6.192
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36480702.mp3|ესენი იყვნენ ედუარ მანე კლოდ მონე ოგიუსტ რენუარი ედგარ დეგა|7.236
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_25676037.mp3|ასეთი კონცენტრაციის დროს წყლის ხარისხზე ზემოქმედება უმნიშვნელოა|6.12
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36501994.mp3|ბალკანეთის პირველი ომის დროს მელნიკი საბოლოოდ გაათავისუფლეს და კვლავ გახდა ბულგარეთის ნაწილი|7.2
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37330282.mp3|ჯეფრის ბევრი ადრინდელი შემოქმედების თანაავტორია მისი მეუღლე ჰილარი ჰემინგუეი რომელიც ერნესტ ჰემინგუეის ნათესავად ეკუთვნის|9.828
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37574539.mp3|სათავსი გეგმით სწორკუთხაა|3.024
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36551284.mp3|აქ დგას მისი საწერი მაგიდა თავისი სავარძლით როიალი რბილი ავეჯი|7.128
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37392116.mp3|ფოტოსფეროს ზემოთ მზის ხილული შუქი თავისუფლად ვრცელდება კოსმოსში და მისი ენერგია მთლიანად უსხლტება მზეს|9.18
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37243935.mp3|აშენებენ დეკორატიულ მცენარედ|4.248
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391433.mp3|მდებარეობს მდინარე ქსნის ხეობის მარცხენა მხარეს|3.852
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_27711082.mp3|მეორე ნაწილში ასახულია სპეციფიკური ამოცანები კულტურის სხვადასხვა დარგის მიხედვით|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_25529966.mp3|გამოიყენება როგორც წყალსაცავი ამიტომ მისი დონე ხელოვნურადაა აწეული|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37535211.mp3|მანისა ითვლებოდა საუფლისწულო დომენად და ის ვინც იქ მსახურობდა იყო ოსმალეთის იმპერიის ტახტის მემკვიდრე|7.704
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_24890644.mp3|სარკმლის ორივე მხარეს თითო სწორკუთხა ნიშაა|3.996
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367193.mp3|კანტონის კანონმდებლობით ვენახები დაცულია ყოველგვარი თანამედროვე განვითარებისგან|6.024
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37543763.mp3|კონსტრუქციული სამუშაოები ძირითადად ადგილობრივმა მოსახლეობამ დააფინანსა|6.66
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37333725.mp3|აღწერა არაერთი სახეობის განამარხებული მცენარე და ცხოველი|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347593.mp3|სასახლე მოგვიანებით სამეფო ოჯახმა შეიძინა და სტოკჰოლმის საგრაფოს გუბერნატორის საცხოვრისად გამოიყენებოდა ხოლმე|7.488
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38181886.mp3|თავდაპირველად შესრულდა როგორც რიტუალური ცეკვა რომელიც ბრძოლის წინ ჯარისკაცების საბრძოლო ხასიათს აამაღლებდა|7.56
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268330.mp3|აღმოსავლეთ კედელში სარკმლის მხოლოდ ქვედა ნახევარია შემორჩენილი|5.4
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37426635.mp3|ხალხის გამოსახულება გამოსახულია სქემატურად|5.616
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37352792.mp3|სათავე აქვს ციხისჯვრის ქედის ჩრდილოეთ კალთაზე|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34232078.mp3|მუშაობდა რუსთავის მეტალურგიულ ქარხანაში პოლიტექნიკურ ინსტიტუტში|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37309029.mp3|კულტივირებულია სუბტროპიკულ ზონაში|3.528
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34670230.mp3|ტყეები მდიდარია ტყის ხილით ვაშლი მსხალი ზღმარტლი ჟოლო მოცვი ასკილი კუნელი|7.956
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37526390.mp3|ევროპელებს აქვთ დიდი ძლიერი ციხესიმაგრეები უდაბნოს მიწებზე|5.688
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37353029.mp3|ის პირველი საერთაშორისო მუსიკოსი გახდა რომელიც ამ ინსტრუმენტზე უკრავს|6.516
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36516592.mp3|წინამძღვრიანთკარში დაარსებული სასოფლოსამეურნეო სკოლა|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367252.mp3|გრამატიკა არის სიმბოლოთა გარდაქმნის წესთა ერთობლიობა|4.344
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356354.mp3|შემდეგ წელს გაიხსნა სტუდია ლოსანჯელესში|4.968
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356881.mp3|მათ ნაწარმოები ჯგუფები ეწოდება|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36521013.mp3|კედლის მხატვრობა შედგება ორი ნაწილისაგან რომელიც მდებარეობს ჰაილის რეგიონის უდაბნოში|7.56
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37457767.mp3|ტერიტორიაზე ამოსულია მცენარეები|3.204
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21356913.mp3|არის საფეიქრო და კვების მრეწველობის საწარმოები|5.784
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175255.mp3|უნდა აღინიშნოს რომ იუპიტერი ამ ორივე პლანეტაზე მასიურია|5.256
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37390214.mp3|აღმომჩენმა მას მაკინტოშის წითელი დაარქვა რაც დღესაც ვაშლის ამ ჯიშის ოფიციალური სახელია|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21381169.mp3|იგი იმედოვნებდა რომ ევროპა ჩაერეოდა ორთაბრძოლაში და დაიცავდა უდანაშაულო ბურების უფლებებს|7.056
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37402993.mp3|ამზადებდნენ ხისა და ძვლის იარაღსაც|3.564
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38124071.mp3|სალსკში ანალოგიური საკულტო ნაგებობა არ არსებობს|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268109.mp3|შეთქმულება გამოაშკარავდა და ალექსანდრემ ფილოტა მოაკვლევინა|5.22
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34298908.mp3|მდებარეობს ბავარიის მხარის ბერხტესგადენის რაიონში|6.048
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36499825.mp3|იგი ხის სახლისა და სათავგადასავლო ბილიკის მახლობლად მდებარეობს|6.516
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347229.mp3|ცხოვრობენ დასავლეთ დაღესტანში ბოთლიხის რაიონის სამხრეთ ნაწილში|5.148
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37269014.mp3|იზრდება ჩრდილოეთ ნახევარსფეროს სუბარქტიკულ და ზომიერ სარტყლებში ბაღებსა და დანაგვიანებულ ადგილებში|6.552
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37338852.mp3|მონარქიის დამხობის შემდეგ იუსტიციის მინისტრის პოსტი დაიკავა|6.516
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37402452.mp3|ტურნირის გამარჯვებული გახდა ლონდონის ჩელსი რომელმაც ტიტული მეოთხედ მოიგო|7.236
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391571.mp3|მშენებლობა მიმდინარეობდა არქიტექტორ კონსტანტინ ტონის პროექტის მიხედვით|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37512149.mp3|ფასადს რუხი ქვის გიგანტური სადა პილასტრები ანაწევრებს|4.248
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356462.mp3|ჰოლივუდში მოხვედრაზე ოცნებობდა|3.6
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33824679.mp3|ამრიგად იგი გახდა პირველი ქალი სენატორი ტეხასის შტატიდან|4.32
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33824776.mp3|მოძრაობის თანადამფუძნებლები არიან ლევან იოსელიანი და ვატო სურგულაძე|5.508
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359827.mp3|მილოში სოფლის რკინიგზის სადგურზე მუშაობს გერმანული ოკუპაციის დროს|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37338867.mp3|ადმინისტრაციული ცენტრია ქალაქი სანტაელენა|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37379422.mp3|აგებულია ძირითადად ფიქლებით კირქვებითა და ქვიშაქვებით|5.436
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37390179.mp3|გავრცელებულია ჩრდილოეთ ნახევარსფეროს ზომიერ და ცივ სარტყელში|4.68
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21361321.mp3|ბოლო დროს გაიხსნა სავაჭრო ცენტრები და დიდი მაღაზიები|5.496
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342498.mp3|ქალაქში მოქმედებდა საბაგირო გზა რომელიც ცენტრალურ პარკში ადიოდა ამჟამად უმოქმედოა ინფრასტრუქტურა შენარჩუნებულია|9.18
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36501495.mp3|დრამატული ნაწარმოების დიალოგის ელემენტი მოქმედი პირის პასუხი|4.968
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33985097.mp3|აღმოსავლეთ ნაწილში ორი შეისრულთაღოვანი ნიშაა|5.4
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37380213.mp3|ამასთან ის იყო ებრაელთა გენოციდის და უნგრეთის საშინაო საქმეებში გერმანიის ჩარევის მოწინააღმდეგე|7.596
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490466.mp3|მთლიანობაში განფენილია ეკვატორული გვინეის გაბონის კონგოს დემოკრატიული რესპუბლიკის კონგოს რესპუბლიკისა და ანგოლის ტერიტორიებზე|8.352
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342140.mp3|ძეგლის ცოკოლი შესრულებული იყო ნაცრისფერი გრანიტით|5.436
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37594661.mp3|სავარაუდოდ სწორედ ეს შუა საძინებელი უნდა ყოფილიყო ჯონის|5.004
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492832.mp3|ბრძანების შინაარსი განისაზღვრება პროგრამის მიხედვით|3.528
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37303330.mp3|სპერმატოზოიდები ქალის სხეულში სქესობრივი კავშირის დროს გადადის|5.58
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37564642.mp3|ამჟამად ცხოვრობს და მოღვაწეობს ვენაში|3.456
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34232051.mp3|ექვემდებარება ტრაპანის პროვინციის ადმინისტრაციას|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37400405.mp3|აცტეკები ასევე აღწერდნენ ტოლტეკების ისტორიას მათ მმართველებს და საგმირო საქმეებს|6.624
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21356672.mp3|ჩინეთსა და ჩრდილოეთ კორეაში მიჩნეულია წმინდა მთად|4.824
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37534871.mp3|ამჟამად საფეხბურთო კლუბ ვიტ ჯორჯიას ფეხბურთელი|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37318672.mp3|საქართველოს ფსიქოლოგიური საზოგადოების წევრი|5.22
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359735.mp3|ფიქრობენ რომ წმინდა დიდმოწამე გიორგი წმინდა ზაბულონის დისშვილი იყო|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36510946.mp3|გაცვლა გუნდისთვის სარფიანი გამოდგა|4.968
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356905.mp3|სარკმლის ორივე მხარეს თითო მცირე ნიში|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37297383.mp3|რის გამოც კოშკს რამდენჯერმე ჩაუტარდა სარესტავრაციო სამუშაოები|5.256
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37543716.mp3|შედის ეკონომიკურსტატისტიკურ მიკრორეგიონ ტრესრიუსის შემადგენლობაში|7.596
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391872.mp3|აღმოსავლეთ ნახევარწრიული აფსიდის ღერძზე თაღოვანი სარკმელია|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36555385.mp3|ეკონომისტმა ანისა მახლუფი აღწერა როგორც მრისხანე ფიგურა ალასადის ოჯახსა და სირიის რეჟიმს შორის|8.496
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356426.mp3|მალე კირილე და მემნონი გაათავისუფლეს და სხდომები გაგრძელდა|6.516
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37340718.mp3|აღსანიშნავია რომ დედის მხრიდან მას ასევე ორი ნახევარდა ჰყავდა მისი პირველი ქორწინებიდან|6.156
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36499851.mp3|ფართო სატრაპეზო იყოფა სამ ნაწილად ცენტრალური კვადრატული და ორი კუთხის ოვალური|8.208
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37402900.mp3|გამარჯობა მეგობრებო მე დღეს წარსულ პროექტებზე სასაუბროდ მოვედი|6.012
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36673178.mp3|შედგება ორი თანაბარი ჰორიზონტალური ზედა თეთრი და ქვედა წითელი ზოლისგან|6.048
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37526480.mp3|დროშის ფერები დაკავშირებულია ქვეყნის ისტორიასთან|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21356319.mp3|პროვინციის ადმინისტრაციული ცენტრია ქალაქი სეროდეპასკო|5.424
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_35111658.mp3|სიუჟეტი ვითარდება შვედეთის პატარა წყნარ სოფელში|5.256
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37516542.mp3|მათ ერთდ გადაკვეთეს ფინიშის ხაზი|4.14
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37347135.mp3|საზღვრების მასშტაბური შეცვლა მოხდა პირველი მსოფლიო ომის შედეგად ავსტრიაუნგრეთისა და რუსეთის იმპერიების დაშლის შემდეგ|8.136
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356531.mp3|ზღვის ფრინველებია მთელ დროს გარდა გამრავლების პერიოდისა ღია ზღვაში ატარებენ|7.02
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36477779.mp3|იგი ალჟირში ებრაულ ოჯახში დაიბადა|3.924
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356357.mp3|ამერიკის ხმისჩამწერი კომპანიების ასოციაციის მიერ სიმღერა სერტიფიცირებული იქნა პლატინით|8.676
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36501992.mp3|სომხეთს არ აქვს ორმხრივი დაბეგვრის ხელშეკრულება შეერთებულ შტატებთან|5.508
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37297192.mp3|კერძის მომზადებით დაკავებული იყვნენ ქალები|3.708
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37309052.mp3|ის არის მნიშვნელოვანი სატრანსპორტო და სამრეწველო ცენტრი|3.6
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36516016.mp3|ფრთები ჭრელია კაშკაშა ზედა და ქვედა მხარე სხვადასხვა ფერისა|6.516
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37345695.mp3|მიეკუთვნება ტუტსის ეთნიკურ ჯგუფს|4.212
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37344879.mp3|თანამედროვე გაერთიანებულ სამეფოში ის ერთერთი ყველაზე პოპულარული ჯიშია|7.128
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37382915.mp3|სინგლის გამოცემას მუსიკალური ვიდეო არ მოჰყოლია თუმცა მუსიკალური ტელეარხები ეთერში აჩვენებდნენ მის საკონცერტო ვერსიას|7.812
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21381415.mp3|ითვლება რომ სწორედ დედის რომანტიკულმა ბუნებამ იქონია უდიდესი ზეგავლენა ახალგაზრდა მოდილიანის მსოფლმხედველობაზე|8.304
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_24890707.mp3|ალბომის ბრიტანულ გამოცემაში სიმღერების თანმიმდევრობა განსხვავდებოდა|5.508
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348410.mp3|თმის საფარველი მოკლეა|2.916
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37457797.mp3|ტერიტორია ოკუპირებულია რუსეთის მიერ რის გამოც ტაძრის შესწავლა და შესაბამისი სამუშაოების ჩატარება შეუძლებელია|8.244
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348824.mp3|ამის მიზეზი გულის შეტევა და პარკინსონის დაავადება გახდა|5.868
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38083204.mp3|მდებარეობს წყნარი ოკეანის სანაპიროზე|3.708
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37502444.mp3|განასხვავებენ პრიმიტიულ კულტურულ და გარდამავალ ჯიშებს|5.688
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347441.mp3|არის რეზერვის მაიორი|2.808
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36501202.mp3|დანარჩენი კედლები დანგრეულია|2.988
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359257.mp3|აღსანიშნავია რომ ამგვარი ტენდენცია მჭიდროდ უკავშირდება ევროპული რაციონალიზმის განვითარებას|7.416
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37463682.mp3|მოურავი ასრულებდა სამეურნეო ადმინისტრაციულ და სასამართლო ფუნქციებს|5.688
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36516490.mp3|ნაპირები სუსტად არის შეჭრილშემოჭრილი|3.96
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37498223.mp3|სიგანით მეორე ხიდია სანქტპეტერბურგში ლურჯი ხიდის შემდეგ|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36553538.mp3|შემდეგ შემოდის ვოკალი და ბასგიტარა რომელსაც ფონად მოჰყვება სიმებიანი საკრავები|7.776
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36498649.mp3|წყალქვეშა ფერდის რელიეფი გართულებულია ჭოროხის დღევანდელ შესართავთან და ბათუმის კონცხთან|7.02
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_35111206.mp3|ადმინისტრაციული ცენტრია ქალაქი ონი|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348740.mp3|სამხრეთიდან ესაზღვრება ბოლივია|4.176
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359700.mp3|მიხეილ ჩაჩავა დაჯილდოვებული იყო შრომის წითელი დროშისა და საპატიო ნიშნის ორდენებითა და მედლებით|7.128
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367444.mp3|რიგის ერთერთი უძველესი ნაგებობა|3.336
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38142242.mp3|ნაპირებზე ბევრია წყლის ფრინველთა საბუდარი|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_35111523.mp3|მდებარეობს მდინარე დასავლეთ ფრონის მარცხენა მხარეს|4.788
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36502394.mp3|მუხუდო სინათლისა და სითბოს მოყვარულია უძლებს გვალვას|4.788
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37428442.mp3|თითქმის ყველა ევროპულ გრანდს სურდა პეპეს გადაბირება მაგრამ წარმოშობით ბრაზილიელმა მცველმა მაინც რეალი აირჩია|9.612
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348464.mp3|მისი ავტორი და შემსრულებელია დეივიდ გილმორი|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34227108.mp3|კონსტანტინე ერისთავის ქუჩიდან მარტყოფის ქუჩამდე|4.284
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359132.mp3|ნახევარწრიულ აფსიდში ერთი სარკმელია|4.14
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37303087.mp3|ამავე კედელშია გაჭრილი შესასვლელები|4.176
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37352769.mp3|მისი სამშობლოა ავსტრალია|3.78
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347167.mp3|ჩემბერლენი იყო გამორჩეული მოთამაშე ფილადელფიის სკოლის გუნდში|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36645640.mp3|მაუნაკეას ობსერვატორია ოპტიკური დაკვირვებებისათვის არის მსოფლიოში ერთერთი საუკეთესო ადგილი|8.46
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37347352.mp3|მონაწილეობდა აჭარაში საბჭოთა ხელისუფლების დამყარებისათვის ბრძოლაში|5.94
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36511803.mp3|ვერტმფრენი იდეალურად შეეფერება რუსული მოთხოვნების ექსპლუატაციას|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37357138.mp3|აფსიდი გადახურულია დადაბლებული არაწესიერი ფორმის კონქით|5.976
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36551377.mp3|ადმინისტრაციული აკადემია პედაგოგიური და პოლიტექნიკური ინსტიტუტები|6.66
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36658743.mp3|მასში კვლავ ერთმანეთს ერწყმის პროგრესული მძიმე და არტროკი და აღმოსავლეთ ევროპის მუსიკის ელემენტები|7.056
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37302982.mp3|ამ პერიოდში ის მუშაობდა სკოლაში მასწავლებლად|4.896
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37522084.mp3|სიმღერა იწყება ჯაჭვის და კარიბჭის ხმებით|3.636
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37360050.mp3|უნივერსიტეტის პროფესორი და დირექტორია|3.816
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342170.mp3|მისი დამფუძნებელია პროფესიით ჟურნალისტი და მთარგმნელი თინათინ დიდებულიძე|6.876
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21361362.mp3|სამედიცინო ჩვენება სუნთქვის ორგანოთა დაავადებანი განსაკუთრებით ბავშვთა ასაკში|7.104
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37326925.mp3|საფლანგო ხომალდი ალამს ატარებს რომელიც მოცემული შენაერთის მეთაურს აქვს მინიჭებული|7.74
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36490358.mp3|სწორედ მსგავს ფორმირებებზე მოდიოდა სამხედრო დანაშაულების ლომის წილი|7.02
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38026952.mp3|ბელგიასა და თანამედროვე ინგლისს შორის საფეხმავლო კავშირი არსებობდა თუმცა ჩრდილოეთის ტერიტორიები საცხოვრებლად გამოუსადეგარი იყო|8.388
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37457782.mp3|ასწლიანი ომი იყოფა სამ პერიოდად|3.672
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38318048.mp3|არის ევროპის კავშირისა და ცენტრალური ბანკების ევროპული სისტემის წევრი|5.976
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37341662.mp3|ფარს აგვირგვინებს ოქროსფერი ჩაფხუტი თავზე ოქროს გვირგვინით|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348745.mp3|კუნძული როდოსი ევროპის ახლო აღმოსავლეთისა და აფრიკის გზაჯვარედინზე მდებარეობს|6.516
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36882143.mp3|ქალაქში არის დავით გურამიშვილის ლიტერატურულმემორიალური მუზეუმი|5.868
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36977323.mp3|ბაჰჩელი თურქეთის დედაქალაქ ანკარაში ცხოვრობს|4.356
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492289.mp3|დასაწყისი ძმები კაკაბაძეების ქუჩიდან|3.492
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_24890568.mp3|კანე კორსო მსოფლიოში ერთერთი საუკეთესო სასამსახურო ძაღლია|5.94
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37243967.mp3|მას შემდეგ რაც იგი ნორვეგიის მეფესთან ალიანსში შევიდა ბევრი დიდებული განუდგა|7.74
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37300717.mp3|მთავარ ნავს შესასვლელი აქვს დასავლეთიდან ხოლო სამხრეთ ნავს გრძივი კედლიდან|6.3
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33985523.mp3|იმხანად ჩვენში იწყება ქალაქების პირველი გენერალური პროექტების შედგენა|6.12
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34227133.mp3|აქ გვაქვს ოთხი კვადრატი შევსებული|3.528
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175308.mp3|ალპური მთიულა მოიპოვება მრავალ ადგილას როგორც მობინადრე ფრინველი|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36532922.mp3|მსახურობდა რუსეთის არმიაში|2.556
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37522130.mp3|შედის მურეშის ჟუდეცის შემადგენლობაში|3.42
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36525800.mp3|თუ რამ გამოიწვია მისი ეს ნაბიჯი უცნობია|3.816
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37755876.mp3|ერთერთი სიმაგრის იერიშის დროს ფეხში დაიჭრა|3.96
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37243873.mp3|ფილმმა მსოფლიო კრიტიკოსთა უმაღლესი შეფასება მიიღო და მონტანის პოპულარობა მნიშვნელოვნად გაზარდა|8.928
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348561.mp3|დაამუშავა საჭმლის მომნელებელი სისტემის ფუნქციების შესწავლის მეთოდები შეისწავლა ამ სისტემის ნერვული სარეგულაციო მექანიზმები|9.288
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21356318.mp3|აქ აგრეთვე მისდევენ მეცხოველეობას|5.304
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36498651.mp3|შესასვლელი სამხრეთიდან ჰქონდა|3.24
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490809.mp3|გვიანდელ პერიოდზე კი ჯუდი|2.7
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38024598.mp3|შეიძლება აგრეთვე გასწორებული ან მოძრავი ენის საშოში შეყვანა|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36520295.mp3|იკვებებიან მცირე უხერხემლოებითა და მცენარეთა თესლებით|4.788
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36490379.mp3|დიდი ზარალი მიადგა ინფრასტრუქტურასა და სოფლის მეურნეობას|5.256
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21356855.mp3|აქვეა ადრინდელი შუა საუკუნეების სატრაპეზო გალავანი და სხვა ნაგებობანი|7.416
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21356371.mp3|ნაწილობრივ მიეკუთვნება კუნძულ მაგდალენას ეროვნულ პარკს|4.824
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36516567.mp3|ეს სისტემა საუკეთესოდ იქნა მიჩნეული მნახველთა ნაკადების სამართავად|6.696
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37564492.mp3|ნარკოტიკული მცენარეები ძირითადად გავრცელებულია სამხრეთ ამერიკის ჩრდილოეთ ამერიკისა და ცენტრალური აზიის ტროპიკებში|7.956
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268150.mp3|ისინი არ არიან პოლიტიკურად დაკავშირებული რომელიმე პოლიტიკურ ძალასთან არიან საზოგადოების წევრები|8.208
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37403045.mp3|ქალაქის არქიტექტურაში იგრძნობა ფრანგული გავლენა|4.32
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37556086.mp3|მთის წვერზე ნაქალაქევის გვერდით ნასოფლარის კვალი ჩანს რომლის ბოლოში პატარა ნიშია|7.236
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356460.mp3|მისი ცენტრალური ნაწილი აქცენტირებულია სამივე სართულზე პილასტრებით რომლებიც ისევეა დამუშავებული როგორც ფასადის დანარჩენი ნაწილი|9.756
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37574537.mp3|ხეები და ბუჩქებია|3.636
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268295.mp3|ერთადერთ ნებადართულ რელიგიად გამოცხადდა კათოლიკობა|5.4
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37355854.mp3|იონიზაცია რომელიც განიხილება კლასიკური ფიზიკის ფარგლებში|4.428
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36519011.mp3|მრავლდება თესლითა და ამონაყარით|3.42
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37521938.mp3|მისი წინადადება უარყვეს|2.88
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37508748.mp3|მდებარეობს ქვეყნის სამხრეთაღმოსავლეთში|4.896
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37550969.mp3|პოპარტის საბჭოთა ანალოგი იყო სოცარტი|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36499729.mp3|ქალაქს საფუძველი ჩაეყარა მდინარე კრიშნას სამხრეთ ნაპირსა და ჩრდილოეთ ნაპირის ბორცვებზე|7.668
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356907.mp3|ფილმმა მიიღო უარყოფითი შეფასებები კინოკრიტიკოსებისგან|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492800.mp3|მის შემუშავებაში მონაწილეობა მსოფლიოს რამდენიმე სხვა დიდი ბიბლიოთეკაც|5.436
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36673223.mp3|მაგრამ ჩვენ გვკითხეს სულ რამდენი გამოიყენა ამიტომ შევკრიბეთ რიცხვები|6.12
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37503073.mp3|ქიოვათა აგრეთვე ცნობილია როგორც ბაჰარდენის მიწისქვეშა ტბა და ბაჰარდენის ტბა|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36520081.mp3|მოგვიანებით იგი სოფელში ჩამოუტანიათ|4.176
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37341946.mp3|მას შემდეგ გამოვიდა უამრავი ხელახალი გამოცემა|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175318.mp3|მრავლდება თესლით და ჩითილით|3.24
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37345665.mp3|ალბომი ითვლება ერთერთ ყველაზე გავლენიან ჩანაწერად|4.5
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_24890703.mp3|ბუტკო სხვადასხვა ფორმისაა|3.24
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36477777.mp3|შესასვლელები სამია სამხრეთიდან დასავლეთიდან და ჩრდილოეთიდან სამივე კარი თაღოვანია|9.036
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37301095.mp3|სპარსეთის ყურის ქვეყნებში განსაკუთრებით დიდია ემიგრანტების რიცხვი|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36480765.mp3|შედგება კუნძულების ორი ჯგუფისაგან|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492255.mp3|გოლდბერგის შესრულების მანერა უყურადღებოდ არ დარჩენილა|3.78
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37269017.mp3|ეკლესიაში შესასვლელი ჩრდილოეთ კედლის დასავლეთ კიდეშია|4.824
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37298376.mp3|პირველ სეზონთან დაკავშირებული მოვლენების ნაწილი მასში არის აღწერილი|5.22
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38026957.mp3|როლის თამაში კი სხვა მსახიობს მოუხდა|3.42
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34299030.mp3|რამდენიმე კონცერტი გამართა საქართველოს ტერიტორიაზე|3.78
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36502268.mp3|ეს ამბავი კი იმით დამთავრდა რომ ქორწინებიდან ოთხი თვის შემდეგ ჯოვანა ქმარს დაშორდა|5.868
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356102.mp3|იყენებენ სარწყავად წყალმომარაგებისა და ენერგეტიკული მიზნით ხეტყის დასაცურებლად|7.776
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36555452.mp3|სუნთქვისა და სისხლის მიმოქცევის ორგანოები არა აქვთ|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33986404.mp3|ინდის მსხვილი შენაკადი|3.42
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37523914.mp3|ნოსტრადამუსი მსოფლიოში ერთერთ ყველაზე ცნობილ და პოპულარულ წინასწარმეტყველად ითვლება|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37326913.mp3|მისი დაძმა ჯეიკ და ელენა სტოუნები ორივენი მუსიკოსები არიან|6.156
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37347059.mp3|მეორე მსოფლიო ომის დროს აშენებული აეროპორტის გვერდით მოქმედებს მეტეოროლოგიური ობსერვატორია|9.108
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37309123.mp3|ამასთან ის აკავშირებს გოგირდს რაც აუმჯობესებს ფოლადების თვისებებს|5.076
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342872.mp3|მდებარეობს მდინარე კოდორის მარჯვენა მხარეს|3.96
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37333257.mp3|ემყარებოდა რეალისტური ასახვის პრინციპებს და გამოხატავდა ეროვნული თვითშეგნების აღმავლობას ხალხთან ყოფის თავისებურებას|8.82
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36555551.mp3|მოსახლეობის ძირითადი საქმიანობა იყო მიწათმოქმედება და მესაქონლეობა|4.68
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37302992.mp3|მოიპოვებოდა და მუშავდებოდა სპილენძი რკინა ვერცხლი|6.048
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36673209.mp3|ეკლესია ასევე დაიცვეს კიდევ ერთი ანტირელიგიური კამპანიის დროს ნიკიტა ხრუშჩოვის მმართველობის პერიოდში|7.38
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37358587.mp3|დელ ტოროს მეგობრები არიან მექსიკელი რეჟისორები ალფონსო კუარონი და ალეხანდრო გონსალეს ინიარიტუ|7.848
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367172.mp3|არის რუსეთის საზოგადოებრივი პალატის მეექვსე მოწვევის წევრი|4.896
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37352342.mp3|საბჭოთა ხანაში ამ შენობაში განთავსებული იყო მაჰსეთი განჯევის სახელობის კიროვაბადის პედაგოგიური სკოლა|9.288
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37303307.mp3|ჰყავს ერთი ძმა|2.988
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34226778.mp3|უილიამ მორის დეივისის შეხედულებამ გეოგრაფიულ ციკლთა შესახებ დიდი როლი ითამაშა გეომორფოლოგიის განვითარებაში|8.64
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37380104.mp3|ბუდეს იკეთებენ მიწაზე|3.42
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37333408.mp3|მდებარეობს არაგაწოტნის პროვინციაში არაგაწის მთის მახლობლად|5.976
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37301333.mp3|აქ მცხოვრები ებრაული მოსახლეობა უმძიმეს მდგომარეობაში აღმოჩნდა|6.3
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492784.mp3|შედეგად ხორციელდება წინასწარ განსაზღვრული წესების შესაბამისად გამარჯვებულის გამოვლენა და მასთან ხელშეკრულების გაფორმება|7.596
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37556113.mp3|ასევე ცნობილია რომ მის გამოსვლებზე დასასწრებად ყოველთვის უამრავი ადამიანი მიდიოდა|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348770.mp3|ნაკაუმი ერთმანეთთან აკავშირებს სინჯის ტბასა და იაპონიის ზღვას|5.94
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37461613.mp3|მდებარეობს რაიონის სამხრეთ ნაწილში იჟორის მაღლობზე|4.752
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356436.mp3|უეცრად ლოკს ცხოვრების თვიდან დაწყების შანსი ეძლევა დაივიწყოს თავის ცხოვრება და დამქანცველი სამუშაო|7.596
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37386000.mp3|ალბომმა შეძლო ორჯერ პლატინური სტატუსის მიღება|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36882455.mp3|ლავური პლატოები გავრცელებულია საქართველოშიც|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21363543.mp3|მიმდებარე ტერიტორიაზე აღმოჩენილია ნაკვეთი აგურები|4.896
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34670171.mp3|თითოეული რამდენიმე მეტრის სისქისაა|3.348
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36882549.mp3|უმეტეს შემთხვევაში ხანგრძლივი სიცილი გულის მწვავე უკმარისობის მიზეზად იქცევა|7.02
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359904.mp3|სციპიონის კონსულად არჩევის შემდეგ ეტრურიაში საომრად წასვლა მოუწია|6.696
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36494872.mp3|ცნობილია მისი ნაშრომები ორგანული ქიმიის განვითარება ამინომჟავა და ცილა და სხვა|8.928
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37380167.mp3|მონაწილეობდა ერევნის ალყაში|3.528
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34670197.mp3|სოლოლაკის ერთერთი უძველესი ქუჩა|3.708
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38318121.mp3|კომპანიის სათავო ოფისი მოსკოვში რუსეთში მდებარეობს|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37328026.mp3|აქ მდებარეობს ბერლინის საოპერო დასი და სახელმწიფო ბალეტი|5.868
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21362186.mp3|პირველი ქალი ინდონეზიაში რომელსაც სამართლის მაგისტრის ხარისხი მიენიჭა და ასევე პირველი ქალი მინისტრი|6.864
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367270.mp3|ბონაპარტმა თავის ჯარებს მდინარე მინჩოს დასავლეთით მოუყარა თავი|5.304
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367397.mp3|მან დააფუძნა ქორწინება და შესთავაზა ღია ცის ქვეშ პირველი მსხვერპლი ზეცას|5.496
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347405.mp3|ნაბიჯი წარმატებული აღმოჩნდა|2.556
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37412126.mp3|აღმასრულებელი ხელისუფლებისა და მთავრობის ხელმძღვანელია პრემიერმინისტრი|5.148
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356412.mp3|მდებარეობს მიჩიგანის ტბის სამხრეთდასავლეთ ნაპირზე|5.328
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36519444.mp3|პავლეს კათედრალთან აერთებს|2.88
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34231980.mp3|ისინი თავის რიგებში მხოლოდ ძლიერ და ნიჭიერ ვამპირებს იღებდნენ რომლებიც გამორჩეული ნიჭით იყვნენ დაჯილდოებულნი|7.668
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37390882.mp3|საკუთარ თავს უწოდებს მონადირეს რომელიც მწერლად მუშაობს|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348492.mp3|ლოთარინგია და ელზასი მეორე მსოფლიო ომის დასრულებამდე ამ ორ სახელმწიფოს შორის დავის საგანს წარმოადგენდა|8.208
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37309068.mp3|ტაძარს აქვს ლათინური ჯვრის ფორმა ასევე გააჩნია გუმბათი და სამრეკლოები|5.58
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_25533219.mp3|სურათები შესრულებულია წითელი ყვითელი მწვანე და შავი ფერის საღებავებით|6.48
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492229.mp3|იკვებება თევზითა და უხერხემლო ცხოველებით|3.816
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37574718.mp3|საკურთხეველში შემორჩენილია შირიმის ბუნის ქვა|3.996
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37303406.mp3|პირველი ლოცვა აღევლინა ავარიული ეკლესიის ახლოს|5.652
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359324.mp3|საკურთხეველი დარბაზისგან გამოყოფილია მარტივი პილასტრების წყვილით რომელთა გარდა გრძივ კედლებზე კიდევ ორორი პილასტრია|9.36
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_25687949.mp3|ბლეკი დაიბადა საფრანგეთის ქალაქ ბორდოში|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37352819.mp3|ამ ჩანაწერის პროდიუსერია ტრევორ ჰორნი|4.32
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37564624.mp3|სალადინმა კი დიდი დანაკარგებით იერუსალიმისკენ დაიხია|4.788
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391667.mp3|ის ყველაზე წყალუხვია გაზაფხულზე როცა მთებში თოვლი დნება|5.076
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38318047.mp3|ფრანგული ელექტრონული მუსიკის მიმდევარმა დუეტმა ოთხი გრემი მოიპოვა|6.3
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37503355.mp3|პირველი სართული ნახევრამდე ამოვსებულია მიწით|4.32
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268306.mp3|საქართველოდან თემურლენგის წასვლის შემდეგ გიორგი მეფე აღმოსავლეთ საქართველოში გადმოვიდა და შინაური საქმეების მოწესრიგებას შეუდგა|10.332
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37297194.mp3|ჰოვარდ ბილის შოუ იქცა ყველაზე პოპულარულ საინფორმაციო შოუდ|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_24890620.mp3|მილოშ ფორმანმა მის შესახებ გადაიღო ფილმი ხალხი ლარი ფლინტის წინააღმდეგ|5.94
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37385914.mp3|სამხრეთული ბულბული მობუდარი გადამფრენი ფრინველია|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37301937.mp3|დაიბადა და გაიზარდა ნანსში|3.456
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34269659.mp3|ტრავმა იმდენად სერიოზული იყო რომ ჰქონდა ინტენსიური თავის ტკივილები|5.22
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37394601.mp3|ახალი მასტერინგის ავტორია ჯეიმზ გათრი|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37535193.mp3|ამ ყველაფერს გააჩნდა უარყოფითი გავლენა ვაჭრობისთვის|4.176
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33985522.mp3|ოთხმოცდაათიან წლებში ბიშოპი მრავალჯერ გამოჩნდა იქსადამიანების ანიმაციურ სერიებში|7.38
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37371132.mp3|მათ აღმართეს ნორვეგიის დროშა და კუნძული გამოაცხადეს ნორვეგიის საკუთრებად|6.084
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37548656.mp3|სასახლეში იმართებოდა კონცერტები რომელსაც სხვადასხვა დროს ესწრებოდნენ ანტონ ჩეხოვი პეტრე ჩაიკოვსკი ტაგანროგში სტუმრობისას|8.64
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175337.mp3|ემბრიოლოგიის განვითარების ისტორიის განხილვისას აუცილებელია აღინიშნოს კარლ ბერის შრომები|9.108
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175375.mp3|სერიალში ასახულია ფინეთის ექიმების სამედიცინო ეთიკა|5.22
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37526360.mp3|აქტიური იყო საბჭოთა ერაში|3.348
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37330293.mp3|ახალმა კონსტიტუციამ პირველი კონსული თითქმის შეუზღუდავი ძალაუფლებით აღჭურვა|6.336
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34299072.mp3|ალბომი ჰოლანდიურ ჩარტებში მერვე ადგილს იკავებს|3.816
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36673199.mp3|ღვთისმშობლის კვართის ტაძარში ღვთისმსახურება აღსდგა მეორე მსოფლიო ომის შემდეგ|6.048
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490861.mp3|სეზონის დასრულების შემდეგ დაბრუნდა საქართველოში სადაც ცხინვალში დაიწყო ვარჯიში|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490758.mp3|კუნძულის იმ ნაწილში სადაც შედარებით ყინულის საფარი მცირეა გავრცელებულია პოლარული ტუნდრა|5.724
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36515887.mp3|იგი დაკრძალეს ქმრის გვერდით სტოკჰოლმის სამეფო სასაფლაოზე|7.056
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348597.mp3|არის ოტელები მუზეუმები და სხვა|4.176
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37602818.mp3|იყო ქართული დადა მანიფესტის ავტორი|3.276
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342557.mp3|სამრეწველო საწარმოებიდან უმნიშვნელოვანესია ზესტაფონის ფეროშენადნობთა ქარხანა|6.876
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38551565.mp3|აღმოსავლეთის და დასავლეთის კედლებზე აქცენტს მხოლოდ სარკმლის მორთულობა ქმნის|7.2
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348860.mp3|იყო ანა ბოშის უმცროსი ძმა|3.276
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37325995.mp3|კუნძულებზე ოჯახების იზოლირების შემდეგ ბავშვები შიმშილით დაიხოცა|7.488
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348821.mp3|იკვებებიან მცირე ზომის ცხოველებით ფრინველის კვერცხებით|5.256
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37381227.mp3|სამარხის სამხრეთაღმოსავლეთ ნაწილში გამოვლინდა ორი კიდურებმოხრილი მიცვალებულის ჩონჩხი|8.388
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36882123.mp3|პლანტაგენეტების დინასტიის წარმომადგენელი|4.248
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175345.mp3|ბიგლი კარგად უძლებს სიცივეს და სიცხეს კარგად ეგუება სხვა ძაღლებს|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34670433.mp3|მარია ამალიამ სიცოცხლის უკანასკნელი წლები შვილებთან გაატარა|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38118666.mp3|პულასკი საკმაოდ ტრადიციული ექიმია|3.528
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359828.mp3|ეკლესია სხვადასხვა ზომის დამუშავებული ქვითაა ნაგები|5.076
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37299697.mp3|აქ არსებობდა ეპარქია მოგვიანებით რომაულ ხანაში|5.976
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_24890585.mp3|მეორე მსოფლიო ომის დროს გუმბათი ნაცრისფრად შეიღება მტრის ბომბდამშენებისგან დასაცავად|8.28
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37475260.mp3|ბონდის ბევრი სერიისგან განსხვავებით ეს ფილმი არ ეფუძნება მწერალ იენ ფლემინგის რომელიმე წიგნს|9.18
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36490411.mp3|ამ რაიონში სპილენძის და კობალტის ნედლეულის რაოდენობამ ხელი შეუწყო ქალაქის ირგვლივ ბევრი შახტის აშენებას|9.9
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38024554.mp3|სულთანმა დაიჯერა რომ მის სიცოცხლეს საფრთხე ემუქრებოდა და მაჰმუდის სიკვდილით დასჯის ბრძანება გასცა|9.396
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490838.mp3|დაბომბვის შედეგად სოფელი მთლიანად განადგურდა|3.384
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37358618.mp3|მეტერლინკის პერსონაჟი უმთავრესად აბსტრაქტული არსებაა რომელსაც არ აქვს კონკრეტული ყოფა ბიოგრაფია ეროვნება|8.208
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36477803.mp3|ბავშვებისათვის მამა შრომისმოყვარეობის მაგალითი იყო რომელმაც მათ შრომის პატივისცემა ასწავლა|8.496
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37330608.mp3|დააარსა ანარქიის სახლი არაერთხელ იქნა დაკავებული ანტი საბჭოთა საქმიანობისთვის|7.128
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37363786.mp3|ტრინიდადი ცნობილია როგორც მოტოციკლების ქალაქი რადგან ეს ტრანსპორტი აქ გადაადგილების ყველაზე გავრცელებულ საშუალებას წარმოადგენს|9.72
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36477815.mp3|სწორედ კემბრიჯის უნივერსიტეტში შედგა კოენის დებიუტი სცენაზე|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36551376.mp3|სტატიაში მწერალი მდინარე ვერეს ხეობაში ბავშვთა ქალაქის მშენებლობაზე ოცნებობდა|7.02
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37293992.mp3|ეს არის ჯგუფის ერთერთი ორი ალბომიდან რომლებიც ჩაიწერა დრამერ კენი ჯოუნსის მონაწილეობით|8.28
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37556084.mp3|ტაურ მატან რუაკი დაინიშნა შტაბის უფროსად|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490734.mp3|დამოწმებულია შუშანიკის მარტვილობაში|2.628
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37408021.mp3|ცნობილია მისი ბალადების ემოციური ჟღერადობით|4.32
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37358622.mp3|მაგრამ იგი მეფობისათვის შეუფერებელი გამოდგა|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367468.mp3|წარმოშობით იყო თრაკიელი|3.504
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391563.mp3|მათ სავარაუდო სამშობლოდ მდინარე ჭოროხის ტიგროსისა და ევფრატის სათავეები მიიჩნევა|6.876
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37385962.mp3|წარმოშობით იყო ებრაელი|3.42
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37300569.mp3|შედის ეკონომიკურსტატისტიკურ მიკრორეგიონ პირაპორის შემადგენლობაში|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37340728.mp3|მაშინ როდესაც კეროლი მოზარდი იყო მისი მშობლები გაშორდნენ და იგი საცხოვრებლად ბებიასთან გადავიდა|6.948
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36472541.mp3|კარი გაჭრილია დასავლეთით მეორე სართულის დონეზე|4.824
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175271.mp3|იგი ავტორია რამდენიმე წიგნისა ქართულ და რუსულ ენებზე|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37269052.mp3|მისი გაცურვის დრო იყო ახალი ამერიკული რეკორდი|5.112
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37302897.mp3|ზოგიერთი ადამიანისთვის ეს მოულოდნელი აღმოჩენა გახლდათ|5.076
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175459.mp3|სამხრეთით მდებარე სახელოსნო ველზე იყო გამართული|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37339484.mp3|დაახლოებით იმავე დროს კუნძულზე შეიქმნა ქოქოსის პალმის პლანტაციები|5.22
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367323.mp3|ჯარს ჰყავდა ერთიანი სარდლობა იყო უაღრესად დისციპლინირებული და კარგად შეიარაღებული|6.624
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34298906.mp3|რომის იმპერატორ ნერონის დროს დაიწყო ქრისტიანთა მასიური დევნა|4.896
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37299750.mp3|კოდექსში გამოხატულია საერო და საეკლესიო ფეოდალების პრივილეგიები|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37303801.mp3|ცნობილია ფილმით კრავთა დუმილი რომლისთვისაც მიიღო ოსკარის ჯილდო|6.876
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36515989.mp3|რეინკარნაციის კონცეფცია გულისხმობს რომ სულს დაბადებისთანავე ავიწყდება წინა ცხოვრებების შესახებ|8.82
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36532877.mp3|სარედაქციო კომისიის მდივანი განათლების სამანდატო სარედაქციო და საფინანსო კომისიების წევრი|7.056
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36477760.mp3|განიცადა სიმბოლიზმის გავლენა|3.744
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37534863.mp3|ბენ ბერტი მუშაობდა ორიგინალური ფილმის ეფექტებზე|4.032
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37574708.mp3|მდებარეობს არაგვის ხეობაში მთიულეთის სამხრეთით|4.392
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37300767.mp3|მოქმედი იყო მხოლოდ პეტრე და პავლე მოციქულთა ეკლესია რომელიც ლიტვის ეპისკოპოსს ექვემდებარებოდა|7.308
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38142132.mp3|გოგა ხაინდრავას ცნობილ ნამუშევარის აქამდე ერთადერთი ორიგინალი საფრანგეთში ინახებოდა|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391458.mp3|ნაკრების კონტროლს და ხელმძღვანელობას ახორციელებს მონტენეგროს ფეხბურთის ფედერაცია|6.84
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37402464.mp3|თვითმხილველების მიხედვით ზეცაში აფეთქება მოხდა|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_24890706.mp3|ამ ყველაფერმა შედეგი გამოიღო და ლაციომ საკმაოდ ადვილად მოახერხა გასავარდნი ზონიდან თავის დაღწევა|6.516
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359284.mp3|მიიღო საბრძოლო ჭრილობა|3.276
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348626.mp3|არის მინერალური წყაროებიც რომლებსაც იყენებენ სხვადასხვა დაავადებების სამკურნალოდ|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37294473.mp3|მეცნიერები ასევე ვარაუდობენ რომ შესაძლოა ტეოტიუაკანი მულტიეთნიკური სახელმწიფო იყო|6.84
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37468327.mp3|კრასნისულინის რაიონისა და კრასნისულინის საქალაქო დასახლების ადმინისტრაციული ცენტრი|7.056
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21381179.mp3|კურსორის გამოყენება განსაკუთრებით გრაფიკულ ინფორმაციასთან მუშაობისას მოუხერხებელია|6.216
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367386.mp3|ევთანაზია შეიძლება სხვადასხვა გზით განხორციელდეს რომელიც ექიმის ან ახლობლების კომპეტენციაა|6.984
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37544383.mp3|შედიოდა ქსოვრისის საკრებულოში|4.428
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37526338.mp3|დაგეგმილი შეტევა დაგვიანდა და ამჯერადაც ხელიდან გაუშვეს უპირატესობის მოპოვების შესაძლებლობა|7.632
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37523773.mp3|გაერთიანების ამ მცდელობის შედეგად სქიზმა არა თუ აღმოიფხვრა არამედ უფრო მეტადაც გამწვავდა|7.236
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33986425.mp3|შეისწავლა და აღწერა ადგილობრივი სამკურნალო მცენარეები|4.248
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37299715.mp3|ზამთარში ფართოდ მომთაბარეობენ გუნდებად ბუდობის ადგილებიდან სამხრეთით საკმაოდ შორს ინაცვლებენ|8.856
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37535246.mp3|გაშენებულია ბოტნიის ყურის ერთერთ უბესთან|4.032
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36464708.mp3|დიდი ვაკეების ფარგლებში არის ნავთობის ქვანახშირის მურა ნახშირის ბუნებრივი აირის სუფრის მარილის საბადოები|9.792
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37534405.mp3|იოსებ ოცხელი სილოვან ხუნდაძე და სხვა პედაგოგები აქტიურად იბრძოდნენ მოსწავლეებში ეროვნული იდეალების დამკვიდრებისთვის|9.36
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367470.mp3|პორტუგალიის ახალმა მთავრობამ ყველა თავის კოლონიას დამოუკიდებლობა მიანიჭა|5.424
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36477865.mp3|მიედინება ფართო ხეობაში|2.664
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36494922.mp3|დრაიზერმა მთავარი მოქმედი პერსონაჟი გოგონა საზოგადოებაში გაბატონებულ ნორმებს დაუპირისპირა|8.136
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21382345.mp3|იწყება ქალაქ ცხინვალის სამხრეთით მდინარე დიდი ლიახვის მარცხენა ნაპირზე|6.096
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36658896.mp3|ქმრის გარდაცვალებიდან სულ რამდენიმე წელში ჟანა მეორედ გათხოვდა|4.32
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38024563.mp3|ჰუმანიზმი როგორც სისტემური მიმდინარეობა წარმოიშვა რენესანსის ეპოქაში და წამყვან მსოფლმხედველობრივ და კულტურულ ნაკადად იქცა|10.296
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36523514.mp3|ამის შემდეგ მან ოქსფორდის უნივერსიტეტში განაგრძო სწავლა საერთაშორისო ურთიერთობების განხრით რაც მამამისის გავლენით მოხდა|10.116
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37330441.mp3|ჰობიტმა მოურავს მსახურობა შესთავაზა და ციტადელის გუშაგი გახდა|5.868
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37326918.mp3|მისი ძირითადი მიზანი არის ქვეყანაში ფასების სტაბილურობის შენარჩუნება|5.688
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37353136.mp3|ესაზღვრება კიროვის მოსკოვის პეტროდვორცოვის ლომონოსოვისა და გატჩინის რაიონები|8.136
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37574548.mp3|ზურგიანი კოშკი ფლეთილი ქვითაა ნაგები|4.212
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268129.mp3|ცნობით უზბეკეთის შეიარაღებული ძალები ცენტრალურ აზიაში უდიდესი და უძლიერესია|7.308
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37347085.mp3|პროვინციაში არსებობს მთის ქედები ვრცელი ტყეები ხუთი მდინარის სისტემა და ნაყოფიერი სასოფლო სამეურნეო მიწები|8.136
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37355192.mp3|სინამდვილეში ეს ჩანაწერი თავდაპირველად ხმის ინჟინერის ჰანტერ მაკდონალდის პირადი არქივებიდან იქნა აღებული|8.82
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347220.mp3|გადასახლებაში ყოფნის დროს ეწეოდა მეცნიერულ მუშაობას|4.428
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342185.mp3|ალაგალაგ შემორჩა ორი სართულის სიმაღლეზე|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359064.mp3|საბჭოტა ხელისუფლების დამყარების შემდეგ ეკლესია გამოიყენებოდა როგორც ხორბლის საცავი საწყობი|8.1
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33986434.mp3|ქალაქში იყო საკონსერვო ქარხანა რომელიც აღარ მუშაობს|4.5
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34226662.mp3|იგი არის ჯო და ბობ ამელის ვაჟი|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33824775.mp3|სეზონმა კრიტიკოსებისაგან შერეული შეფასებები მიიღო|4.392
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37512142.mp3|წარმოადგენს პოლტავის ოლქის ადმინისტრაციულ ცენტრს|3.78
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36882077.mp3|იკვებება მწერებით რომელსაც ჰაერში იჭერს|3.996
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36882470.mp3|სავარაუდოა რომ ეკლესია მოსახლეობამ ააგო ნაეკლესიარზე|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37376757.mp3|დაიბადა ებრაულ ოჯახში|3.168
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37347076.mp3|ამგვარად ამ მოწყობილობამ გამოავლინა შემთხვევის დრო და მიწის მოძრაობის შედარებით ინტენსივობა და ხანგრძლივობა|7.74
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38118770.mp3|ეკლესია დარბაზულია ნაგებია საშუალო ზომის რიყის ქვითა და კირის დაღუბით|4.824
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37365506.mp3|თუმცა სევილიაში იგი მხოლოდ ერთ წელიწადს გაჩერდა|4.248
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33985499.mp3|სამხრეთ კედელში ორი სათოფურია დასავლეთ კედელში კი ერთი სათოფური და მცირე ზომის თაღოვანი სარკმელი|9.216
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175474.mp3|აქ სტუდენტებს საშუალება აქვთ მიიღონ პირველი სამედიცინო დახმარება|5.58
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36536302.mp3|ცხრილში ობიექტები შეტანილია საცდელ სიაში მათი შეტანის თარიღის მიხედვით|7.056
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492304.mp3|პერსეპოლისის ძეგლთა კომპლექსი აქემენიდური ხელოვნების და არქიტექტურის გვიანდელ სტილს ასახავს|6.588
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36516017.mp3|განსაკუთრებული ყურადღებით გამოიკვლია კუნთები|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391376.mp3|მისი ოფიციალური სახელია კულტურის მუნიციპალური ავტონომიური დაწესებულება გამარჯვების პარკი|7.416
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33986430.mp3|ამ დროს გაჩნდა უამრავი ახალი ბუდისტური მოძრაობა გაიზარდა წერაკითხვის მცოდნეთა რიცხვი|7.38
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37363884.mp3|ჩამოყალიბდა მეორე მსოფლიო ომის დასრულებისას და გაუქმდა გერმანიის გაერთიანების შემდეგ|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36521016.mp3|მონეტა დაცულია ბრიტანეთის მუზეუმში|3.6
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37523859.mp3|დანდიში ჩატარებული რამდენიმე მშვენიერი სეზონის შემდეგ გადავიდა შოტლანდიური ფეხბურთის ყველაზე ტიტულოვან კლუბ რეინჯერსში|9.144
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492438.mp3|კბილის ჰორიზონტალურ კვეთში დენტინის შრე ლაბირინთის მსგავსად იყო დანაოჭებული|5.832
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36519926.mp3|იმავე პერიოდში ძალადობა პირიქით შემცირდა ზოგიერთ ფილმში|4.68
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_35111642.mp3|სანაოსნოა ქალაქ დელის ქვემოთ|3.096
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359280.mp3|ჰყავს უფროსი ძმა ბრუკი|3.456
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37297500.mp3|შემორჩენილია სამხრეთისა და აღმოსავლეთის კედლები ორი სართულის დონეზე|5.58
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37377231.mp3|ტაძარი შედგებოდა კიბის მრავალი საფეხურისაგან და ტრაპეციის ფორმის ოთახებისაგან|7.308
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268303.mp3|ბუდეს იკეთებენ მიწაზე ან ბუჩქებზე|3.744
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34269732.mp3|დარბაზის ჩრდილოეთ კედელზე ორსაფეხურიანი პილასტრია|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37345680.mp3|დარბაზის სამხრეთის და დასავლეთის კედლებში თითო სარკმელია|5.22
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490719.mp3|იმ დროს როდესაც ტაილერი პრეზიდენტი გახდა მისი ცოლი ლეტიცია ავად იყო|4.824
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37351205.mp3|მდებარეობს რაჭის კავკასიონზე მდინარე რიონის სათავეებში|4.356
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36882514.mp3|სამხრეთი სანაპიროსთვის დამახასიათებელია გრილი ზამთარი და რბილი ნოტიო ზაფხული|5.94
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37408057.mp3|მისი მიზანია წლიური საწარმო ანგარიშები საერთაშორისო მასშტაბებით ურთიერთ შედარებითი გახადოს|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21362601.mp3|ტბაში გვხვდება მარინკა და გოჭალა|3.384
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37508905.mp3|პროვინციის მთავარი ღირსშესანიშნაობაა იგუასუს ჩანჩქერი რომელიც ასევე შეტანილია მსოფლიო მემკვიდრეობის სიაში|8.388
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37387661.mp3|ლისტს დიდი ღვაწლი მიუძღვის უნგრეთის საკომპოზიტორო და საშემსრულებლო სკოლების დაარსებასა და განვითარებაში|7.74
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38118692.mp3|ქორწინების შემდეგ წყვილი ინგლისში ცხოვრობდა|3.492
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37531483.mp3|იგრძნობა სახელმწიფო იდეოლოგიური გავლენა|4.14
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37309050.mp3|პრინცი ედუარდი დედასთან ერთად იყო ენოში სადაც მისი საცოლე გაიცნო|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37426683.mp3|აქვთ დიდი პრიალა თვალები რომლებიც კეფაზე ერთმანეთს ეხება|5.58
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37594513.mp3|მენეჯმენტისა და მართვის ინსტიტუტის ყოფილი დეკანი|4.104
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37259638.mp3|თოთხმეტ ეროვნულ პარკს მსოფლიო მემკვიდრეობის სტატუსი აქვს|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37574771.mp3|ტენიანობა და თბილი ტემპერატურა ტროპიკული წვიმიანი ტყეების მდიდარი ეკოსისტემის განვითარებისთვის შესაბამის პირობებს უზრუნველყოფს|8.424
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359799.mp3|ლეოს შემოქმედებით ცხოვრებაში დიდი როლი დედამ ითამაშა|4.32
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37468342.mp3|თამაშობდა ჩეხოსლოვაკიის მოგვიანებით კი სლოვაკეთის ეროვნულ ნაკრებში|4.896
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490848.mp3|ნეტარი ევლალია მხურვალედ ევედრებოდა უფალს მიეღო მისი სული და ამ ლოცვაში აღესრულა კიდეც|5.58
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359276.mp3|გვხვდება შერეულ და ფოთლოვან ტყეებში კორომებში ბაღებში პარკებსა და სხვა|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37250689.mp3|ადგილობრივი მმართველობის რაიონები ხელსაყრელი მართვის პირობების შესაქმნელად ჯგუფდება რამდენიმე რეგიონად|8.316
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37328033.mp3|ტაძრის საკურთხევლის გარეთ მდებარეობს მოსკოვის დამსახურებული მღვდლების განსასვენებელი|7.164
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37376866.mp3|დარბაზული სახლი დიდი ოჯახის საცხოვრებელი იყო|4.068
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37298465.mp3|ყიფშიძის ნაშრომებისათვის დამახასიათებელია ცალკეული ისტორიული მოვლენებისა და ფაქტების საერთო ისტორიის ფონზე განხილვა|8.64
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36645690.mp3|დამახასიათებელია ალპური ტიპის რელიეფი მყინვარული მთებითა და ციცაბო კლდოვანი მწვერვალებით|7.344
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37574790.mp3|უნივერსიტეტი უშვებს გაზეთ აუდიტორიას და ბაშკირეთის პედაგოგიურ ჟურნალს|6.48
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356413.mp3|ანალოგიური გაიმეორეს ამავე საუკუნის ბოლოს|4.896
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37330414.mp3|ამავე ქარხანაში ლუდოვიკ შარლემანის ნახატების მიხედვით დაამზადეს ლომების კვარცხლბეკები|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36553470.mp3|მდებარეობს თრიალეთის ქედის ჩრდილოეთ კალთაზე მდინარე ძამის სათავეებში|7.956
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38118582.mp3|ეს უკანასკნელი ერთერთი ყველაზე სასურველი ადგილია ტურისტებისათვის|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36555355.mp3|ხეობის ნაპირები ტყის ბუჩქნარითაა დაფარული|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36553452.mp3|თბილისში არსებობს მისი სახელობის ქუჩა და გასასვლელი|5.94
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36482749.mp3|ამზადებენ ასევე ბელარუსში უკრაინასა და ყაზახეთში|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348845.mp3|საძირკვლის მიხედვით შეგვიძლია აღვადგინოთ კოშკის მთლიანი გეგმა|5.4
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36555566.mp3|იმავე წლის მაისში ხორკინა ბირმინგემში დიდ ბრიტანეთში გამართულ ევროპის ჩემპიონატზე გამოვიდა|7.848
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37298413.mp3|მისი სამხრეთი ნახევარი სწორკუთხაა ჩრდილოეთი კი ნახევარწრიული|5.58
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348672.mp3|ნაგებობა შიგნიდან ამოვსებულია ნანგრევებით|3.816
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34238784.mp3|თამაშობდა შემტევი ნახევარმცველის და თავდამსხმელის პოზიციაზე|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37347336.mp3|ბერძნული რელიგიის განვითარებასთან დაკავშირებით აპოლონმა შთანთქა ჰელიოსის კულტიც|7.74
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34231860.mp3|შენობა ნაგებია ქვის თარაზული წყობით|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37347887.mp3|ასეთ მოლეკულებში ცენტრალურ ატომს უკავშირდება ხუთი ატომი|6.948
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36882040.mp3|ბაზალტური ქანები საქართველოში ფართოდაა გავრცელებული|4.896
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359330.mp3|გავრცელებულია შავ ზღვაშიც|3.528
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37602759.mp3|ოსმალეთის იმპერიის შემადგენლობაშია|3.132
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367195.mp3|სერიალში მოთხრობილია ცნობილი ფეხბურთელების ცხოვრებისეულ პრობლემებზე მათ ბრძოლაზე ტირანიის უსამართლობის და ჩაგვრის წინააღმდეგ|9.216
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37548711.mp3|ფართოდაა გავრცელებული ბევრ ქვეყანაში როგორც საოჯახო საყარაულო ძაღლი|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21356394.mp3|იყო ჰიურემ სულთნის მომხრე და სავარაუდოდ დიდი წვლილი მიუძღვის მუსტაფას სიკვდილით დასჯის საქმეში|7.584
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34231835.mp3|სულ მალე გახდა კემბრიჯის უნივერსიტეტის პროფესორის ასისტენტი|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37328035.mp3|გერბის ფარი წარმოადგენს ლაჟვარდის ველს რომელსაც მარჯვნიდან კვეთს ცხრა შემცირებული ვერცხლის ყაბიწი|8.712
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37309106.mp3|გავრცელებულია ფართოდ უმრავლესობა ბინადრობს ტროპიკებში|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37457783.mp3|ცალ მხარეს სახლს ძველი ალაყაფის კარი აქვს ინტერიერი ხალვათია|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36677090.mp3|ინვაზიის გამომწვევი გადააქვს დაავადებულ ფუტკარს|5.184
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268278.mp3|ეს ინციდენტი უკანასკნელი წვეთი აღმოჩნდა ქრისტიანი იმპერატორისთვის რომელმაც გლადიატორთა ბრძოლა აკრძალა|10.512
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34298910.mp3|დავითაშვილი ეკუთვნოდა ქართველ მსახიობთა იმ თაობას რომელმაც საფუძველი ჩაუყარა რუსთაველის სახელობის თეატრს|8.748
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37302126.mp3|ნუსხურში იგი მარჯვნივაა გადახრილი|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21361390.mp3|წიგნების ნაწილი ოსმალეთში მოღვაწე ელჩებს საჩუქრად გადასცეს დარჩენილი ნაწილი კი მთელ მსოფლიოში გაიფანტა|9.144
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37502757.mp3|მანდატურთუხუცეს შანშე მხარგრძელის ძე|3.6
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37602820.mp3|რეჩ პოსპოლიტას დაყოფის შემდეგ რუსეთის ხელისუფლებამ სასახლეში მოაწყო საავადმყოფო და ყაზარმები|6.516
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359916.mp3|ძირითადად მტკნარწყლოვან წყალსატევებს ეტანება|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36673167.mp3|ოჯახის შვიდი შვილიდან ტოსიკო მეექვსე იყო|5.688
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37523764.mp3|მისი უფროსი ძმა ადრეულ ასაკში გარდაიცვალა|4.284
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37353150.mp3|ცენტრალური მაშონალენდის პროვინცია მდებარეობს ზიმბაბვეს ჩრდილოაღმოსავლეთ ნაწილში|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391378.mp3|ლაითურში მოქმედებდა სასოფლოსამეურნეო ტექნიკუმი|4.068
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37538070.mp3|პრემიერა დევენპორტის თეატრში გაიმართა|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37360064.mp3|ხრიდოლი როგორც საბრძოლო ხელოვნება ძველ საქართველოში არ არსებობდა|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37299094.mp3|გარეკანის დიზაინის ავტორია ჯანი ვერსაჩე|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348560.mp3|თავდაპირველი გამოცემა წარმოადგენდა დიდ ყუთს ჯექსონის თვალებით|5.4
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37352675.mp3|ჩრდილოეთით მდინარე დუნაიზე გადის ბულგარეთრუმინეთის ოფიციალური საზღვარი|5.436
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391916.mp3|მდებარეობს დასავლეთ და ცენტრალური კალიმანტანის პროვინციების საზღვარზე|4.68
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37363583.mp3|დაკრძალულია რომის საპატრიარქო წმინდა პეტრეს სახელობის ტაძარში|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36550126.mp3|აღნიშნულ ხიდთან და ეგვიპტის ხიდთან ერთად ქმნის ერთგვარ ანსამბლს|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37544476.mp3|ეს უკანასკნელი მდიდარია მარმარილოს საბადოებით საიდანაც მომდინარეობს ზღვის სახელი|7.452
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37355857.mp3|მოგვიგებს კითხვებზე როგორ|2.88
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34299097.mp3|თუმცა ცხადია ხელისუფლების მაღალ ეშელონებში ვერ ეგუებიან ასეთ მდგომარეობას|7.416
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37381190.mp3|უკანა ფონზე ჩანს სოფლის გამოსახულება|4.248
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37363780.mp3|არაგვის ხეობაზე უძველესი დროიდან გადიოდა ჩრდილოეთ კავკასიის დამაკავშირებელი გზა ამიერკავკასიასა და მახლობელ აღმოსავლეთთან|10.188
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359303.mp3|ტაძრის მშენებლობა სწრაფად მიმდინარეობდა|3.816
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38024560.mp3|სანაპიროებზე მოწყობილია პლაჟები|3.6
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37358597.mp3|ესაზღვრება მდინარეები პარაგვაი სალადო და სანფრანსისკო|5.328
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37400403.mp3|მათგან დიდ ნაწილს თავად კატერინა კარნახობდა კარნახობდა სანამ წერას ისწავლიდა|5.652
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37347421.mp3|დიდი ხნის განმავლობაში მასზე პრეტენზიას აცხადებდა მალი|7.2
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492271.mp3|ღირსების ორდენის კავალერი|2.52
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37358983.mp3|დროის განმავლობაში დაემატა განახლებები რომლებშიც შედიოდა ცხოველები ნადირობა ხელობა და აბჯარი|7.416
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37602668.mp3|ამით მან უფრო დიდი გამოცდილება მიიღო|2.988
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37543710.mp3|მუნიციპალიტეტის ტერიტორიაზე არსებული ბუნების ძეგლებიდან აღსანიშნავია ოკაცეს კანიონი სოფელ ზედა გორდის მიდამოებში|10.188
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356683.mp3|ქართული ზმნა რთული მეტყველების ნაწილია|3.996
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37490864.mp3|მაღალხარისხიანი საღვინე ვაზის ჯიშია|3.204
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37463679.mp3|გვაინტერესებდა რომელშია ნაკლები|3.708
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37303293.mp3|ამავე წლიდან ფოთის თეატრი საქართველოს რეგიონალური თეატრების თავმჯდომარეა|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37355842.mp3|გათხრილია ფიქლის ორი ქვაყუთი|4.572
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_25676546.mp3|ის არის ექიმი მწერალი გამომგონებელი და კონსულტანტი|5.508
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37951990.mp3|ნალისებრ აფსიდში ვიწრო სწორკუთხა სარკმელი და ორი ასეთივე ნიშია|5.688
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21362425.mp3|სრულდებოდა ახალი წლის პირველ დღეს|3.624
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37412127.mp3|დაამთავრა ვენის უნივერსიტეტის ქიმიის ფაკულტეტი|4.248
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359304.mp3|იმავე ჰუნებთან ომში გაიარა მისმა მთელმა მეფობამ|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37297666.mp3|ალიანსი შეადგენდა შვიდი პოლიტიკური ორგანიზაციის გაერთიანებას რომელთა საერთო მიზანი იყო ავღანეთის ისლამური რესპუბლიკის შექმნა|8.856
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356659.mp3|თავად პლანეტა კაცობრიობის ერთერთი გრანდიოზული აღმოჩენაა|3.96
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356339.mp3|ოჩაკოვის რაიონის ადმინისტრაციული ცენტრია ქალაქი ოჩაკოვი|7.02
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36516341.mp3|მისი მამა ფრედ ფერი იყო ფერმერი და უვლიდა პონებს|6.048
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36553536.mp3|ეს იყო ჯგუფის პირველი სიმღერა რომელიც ბრიტანულ ათეულში მოხვდა|6.336
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492083.mp3|სიმღერაში საუბარია ბავშვთა ჯვაროსნული ლაშქრობის მოვლენებზე|4.5
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37355804.mp3|სოფლის ცენტრში დგას მიწისძვრის მსხვერპლთა მემორიალი|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37522087.mp3|პროვინცია მდებარეობს ქვეყნის აღმოსავლეთში|3.276
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37345662.mp3|აქ მრავლად ცხოვრობს იშვიათი ჯიშის ფრინველები|4.644
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37461605.mp3|მესის უნივერსიტეტის დასრულების შემდეგ სწავლა განაგრძო დედოფალ ვიქტორიას უნივერსიტეტში|7.2
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37502410.mp3|გამომწვევი მიზეზები მრავალგვარია ერთერთი მიზეზი შიძლება იყოს ინტოქსიკაცია|6.66
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36658816.mp3|იყო სამხედრო ატაშე რომში ბერლინში და სტოკჰოლმში|4.464
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34231791.mp3|შედის ეკონომიკურსტატისტიკურ მიკრორეგიონ სერადისანტანას შემადგენლობაში|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342658.mp3|მან დაფინანსებისთვის ბრაზილიის პრინცესას იზაბელს მიმართა თუმცა იზაბელი დიდად არ დაინტერესებულა მისი იდეით|8.64
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367460.mp3|კუნძულის უკიდურეს ჩრდილოეთში მდებარეობს კოლუმბიის კონცხი|4.704
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348491.mp3|იგი აშენდა ჰიდროელექტროსადგურების შესაქმნელად და სარწყავი წყლის უზრუნველსაყოფად|7.128
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37301694.mp3|სიმღერის თემატიკა ეთმობა ვიღაცის აკვიატებულ აზრს ბრძოლით გახდეს სხვაზე უკეთესი|7.2
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347093.mp3|მისი მწვერვალი აღმართულია ბანის ხეობაში|3.6
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38083382.mp3|მთის წვერზე შენობა გეგმით ოთხკუთხაა მასიური|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37297210.mp3|სკვითური ენის მემკვიდრეა თანამედროვე ოსური ენა|4.14
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36555665.mp3|არქეოლოგიური თვალსაზრისით იგი ნაქალაქარის ერთერთ ყველაზე საინტერესო და პერსპექტიულ უბანს წარმოადგენს|7.416
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37301093.mp3|ამას ახლდა გიტარების უფრო დამძიმებული ჟღერადობაც|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33824597.mp3|ტყვეობიდან თავის დასაღწევად კონსტანსიამ ვენაში გაქცევა მოისურვა|4.968
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347318.mp3|აბდურაჰმანი ზრუნავდა ქვეყნის ეკონომიკური ძლიერებისათვის ებრძოდა ფეოდალურ სეპარატიზმს შემოიღო ერთიანი სამონეტო სისტემა|9.72
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34670228.mp3|იგი მოუთხრობს ინდიელთა ლეგენდებს ვამპირებზე და მათზე ვინც ცხოველთა სისხლით იკვებება|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37351235.mp3|ტიერი ანრიმ გაათანაბრა მეორე ტაიმში|5.616
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37259450.mp3|მისმა ამგვარმა გადაწყვეტილებამ მისი მაზლი გლოსტერის ჰერცოგი ჰამფრეი პლანტაგენეტი საშინლად განარისხა|9.0
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348554.mp3|წარმოადგენს ერთერთს რვა რეგიონალური ცენტრიდან რომლებიც ქმნიან ინგლისის ქალაქების ძირითად ჯგუფს|8.028
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36555309.mp3|იგი დატოვეს უნივერსიტეტში სამეცნიეროპედაგოგიური წვრთნის გასავლელად|5.94
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21362055.mp3|ამჟამად ლავინი არა მხოლოდ მუსიკოსია|4.176
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_33985235.mp3|შემდეგ მოგვიანებით ააშენეს სახლები და დასახლება ნელნელა გადაიქცა სოფლად|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37544400.mp3|ამიტომ ჰერმესმა ციური ქნარი აჩუქა|3.852
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36499756.mp3|ეპიგრაფიკა შეისწავლის წარწერათა როგორც გარეგნულ მხარეს ისე მათ შინაარსს|6.66
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37402909.mp3|კონსტანტინე გამსახურდია მისი ვაჟის ნათლია გახდა ხოლო გრიგოლ რობაქიძე პირველს მას უკითხავდა თავის ნაწარმოებებს|9.0
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37300897.mp3|პაშა ბანკი საქართველო მხარს უჭერს და აქტიურად მონაწილეობს კორპორატიულ სოციალურ პასუხისმგებლობასთან დაკავშირებულ სხვადასხვა პროექტში|9.108
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37498224.mp3|მოსახლეობის ძირითადი ენაა ტაგალური ფართოდ არის გავრცელებული ასევე ინგლისური ენაც|7.596
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342455.mp3|აქედან საფუძველი ეყრება ტრაკაის სათავადოს რომელიც მომდევნო ათწლეულებში ვითარდება|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37386102.mp3|მას სახელი მამიდის ვენდომის ჰერცოგინია მარი ანა დე ბურბონის პატივსაცემად დაარქვეს|6.948
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37250669.mp3|სადაც არის იქაც დიდი დავისა და განხილვის საგანია|5.148
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37778794.mp3|ვულკანური აქტივობები ტბის სანაპიროს სიახლოვეს არ შეინიშნება|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37502692.mp3|ამის შემდეგ ვილჰელმი დიდებულთა უმეტესობამ მეფედ სცნო|5.148
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36477860.mp3|ცენტრალურ ლაგუნაში შესასვლელი სამხრეთაღმოსავლეთი მიმართულებითაა|5.724
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37508843.mp3|მიეკუთვნება კოიმბრას ჯგუფს და არის თიურინგიის ოთხიდან ერთი უნივერსიტეტი|6.408
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268408.mp3|კაშკაშად შეფერილი ფოთლები მოფენილია ჯირკვლებით საიდანაც გამოიყოფა ნექტარი|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37365763.mp3|მდებარეობს რაჭის ქედის სამხრეთ კალთაზე მდინარე ყვირილის მარჯვენა მხარეს|5.076
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34347218.mp3|ფილმი არის ტელესერიალის წინარეისტორია|3.528
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359706.mp3|განვითარებულია ალპინიზმი სამთო სათხილამურო სპორტი|4.68
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356635.mp3|ფედერაციის სუბიექტებს აქვთ ტერიტორია რაც არ შეიძლება შეიცვალოს ამ სუბიექტის თანხმობის გარეშე|8.028
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342135.mp3|ბიძია იყო ცნობისმოყვარე პიროვნება უყვარდა ლიტერატურა და თვითონაც კი წერდა ლექსებს|6.876
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37602615.mp3|სათავეს იღებს ალპებში შვეიცარიაიტალიის სახელმწიფო საზღვრის სიახლოვეს|5.112
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37351061.mp3|ტიტუს ლივიუსმა ახალი დიდი ნაბიჯი გადადგა რომაულ ისტორიოგრაფიაში|7.848
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359282.mp3|საფლავში ნაპოვნი იქნა პაპის ბეჭედი რომლითაც ის წერილებს ბეჭდავდა|5.22
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37363755.mp3|ჩერქეს მეჰმედფაშას დაევალა აბაზას აჯანყების ჩახშობა|5.04
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37359954.mp3|ამ კვლევების წყალობით დამუშავებულია ნარდის სათამაშო პროგრამები რომელთაც მსოფლიო კლასის მოთამაშე ადამიანების დამარცხება შეუძლიათ|8.568
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37391856.mp3|ამის შემდეგ წყვილი ერთად დასახლდა ნიუიორკში|4.356
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492248.mp3|იმავე წლის ოქტომბრის ბოლოს შეიწყალეს|3.816
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34262900.mp3|აბსურდული გამონათქვამი კი გააზრებულია და საკუთარი წინააღმდეგობის ძალით სიცრუე გამოდის|7.848
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37351159.mp3|სამშენებლო მასალად გამოყენებულია უხეშად დამუშავებული სხვადასხვა ზომისა და ფორმის დიდი ქვები|6.228
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21361197.mp3|ეს იყო დამოუკიდებლობის აღდგენამდე გამართული ერთადერთი მატჩი|6.096
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37301737.mp3|მას ასევე ძალიან უყვარდა ხელოვნების ყველა დარგი და ყველანაირად ხელს უწყობდა მათ განვითარებას|7.38
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37348423.mp3|გურული ხალხური სიმღერების შემსრულებელი|4.176
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37377262.mp3|მას შემდეგ რაც აჯანყებულებს ლიტვა და პოლონეთი მიემხრნენ ომი ტევტონების წინააღმდეგ დაიწყო|8.028
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37354030.mp3|აფსიდის კონქი სატრიუმფო თაღი და დარბაზის კამარა არაწესიერი ფორმისაა|7.236
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37357207.mp3|ბიბლიოთეკა აგებულია ალექსანდრიის ბიბლიოთეკის ადგილზე რომელიც წარსულში განადგურდა|7.02
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36511809.mp3|ეს არის მისი ერთადერთი კლიპი რომელშიც ვინს კლარკი მონაწილეობს|6.696
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37301693.mp3|ქვემო ბარღები ახლანდ|2.988
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37268114.mp3|იზრდებიან ტენიან ადგილებში მდინარისპირა მდელოებსა და ჭაობებში|5.796
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37301433.mp3|იკვებებიან ფრენის დროს დაჭერილი მწერებით|4.716
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37543755.mp3|გირჩები ცილინდრისებური ფორმისაა ფერით ღია ყავისფერია|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37344132.mp3|ბრილიანტები ისრაელის ერთერთი წამყვანი საექსპორტო პროდუქტია|5.328
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37297957.mp3|საჰარის ორიქსი ძველ ეგვიპტეში მოშინაურებული იქნა|4.428
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37254980.mp3|მდებარეობს ჩერნიგოვის ოლქის ჩერნიგოვის რაიონში|5.508
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36481453.mp3|ამ ორი სართულის ინტერიერში კუთხეები მომრგვალებულია|5.868
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37358992.mp3|ამ დროიდან პორტუგალია აღარ ითვლება კასტილიის ფეოდალურ ნაწილად და ხდება დამოუკიდებელი სახელმწიფო|7.056
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37574715.mp3|გუბერნატორი ზედიზედ არ შეიძლება არჩეულ იქნას|3.924
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21363504.mp3|ზედა ნაწილში შემორჩენილია დარბაზის ორი კოშკისა და გალავნის ნანგრევები|6.936
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37341886.mp3|ქვემო დინებაში მრავლადაა პატარპატარა სამდინარო კუნძულები|5.256
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37386091.mp3|ამ პერიოდის განმავლობაში ახალი ტექნოლოგიების გამოყენება დაიწყო მეურნეობის სფეროში|5.76
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37492096.mp3|აგრეთვე დაუყონებლივ ითარგმნა იგი სხვა ევროპულ ენებზე|4.608
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37302872.mp3|ტახტზე ავიდა თურქული გვარდიის მიერ მამამისის მკვლელობის შემდეგ|5.868
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37403058.mp3|თანხმობისა და სიჩუმის სანაცვლოდ კი კარიერის მოწყობასა და წარმატების მიღწევაში დახმარებას სთავაზობდა|8.532
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37408060.mp3|სოფლის მეურნეობისა და ხელოსნობის განვითარებამ გამოიწვია ფეოდალური ურთიერთობების განვითარება ვაჭრობის გაფართოება ქალაქების დაარსება|8.46
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37349088.mp3|ზურმუხტის მნიშვნელოვანი საბადოებია კოლუმბიაში სამხრეთ აფრიკის რესპუბლიკასა და რუსეთში|7.128
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37254997.mp3|სიმღერას ასრულებს იმპროვიზაცია გიტარაზე|5.076
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37402520.mp3|ცნობილი იყო სენდვიჩის კუნძულების სახელით|3.996
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37403003.mp3|მდებარეობს მდინარე აღმოსავლეთი ფრონის მარცხენა მხარეს|4.536
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36480722.mp3|სუნთქავენ სხეულის ზედაპირით|4.32
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356807.mp3|მისი ადმინისტრაციული ცენტრია როვნო|3.528
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37516605.mp3|მორგოთის მიერ ურიცხვი ცრემლის ბრძოლაში დატყვევების შემდეგ დაწყევლილი იქნა ისევე როგორც მთელი მისი მოდგმა|8.388
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367298.mp3|შიგნით ეკლესია შელესილია და შეთეთრებულია|4.416
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21356128.mp3|კარი გადახურულია შეისრული თაღით რომელიც მოქცეულია აგურით გამოყვანილ ოთხკუთხა არეში|8.784
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356408.mp3|ისინი საეჭვო პაემანზე მიდიან|3.996
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36516614.mp3|მეტწილად ცნობილია თრილერის ჟანრის ფილმებით|4.86
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37358132.mp3|საშუალო დონეზე ფლობს იტალიურ ენას|4.176
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37342317.mp3|მთლიანი გეგმა არ იკითხება|3.276
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36520649.mp3|ქსნის ერისთავთა შთამომავალი|3.06
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37526342.mp3|აკაურთის თემის შემადგენლობაში|4.032
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38118735.mp3|ადათის თანახმად მოღალატე ცოლს საქვეყნოდ დასჯიან|3.456
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37330598.mp3|ვახუშტი ბატონიშვილი ამ წყალს სადმელის ხევს უწოდებს|6.48
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356616.mp3|ქორწინებამდე იგი ტაილანდის სამეფო არმიაში მსახურობდა და გენერლის წოდებაც ჰქონდა|6.588
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37543722.mp3|გავრცელებულია არალის ზღვის აუზში|4.968
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_21367453.mp3|გავრცელებულია აზიაში აფრიკაში ევროპაში კავკასიაში|5.064
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37175342.mp3|ნაგებობა გეგმით სწორკუთხა მოხაზულობისაა აღმოსავლეთით ასიმეტრიული ფორმის აბსიდით რომლის ცენტრში გაჭრილია სარკმელი|9.54
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37356417.mp3|დაიბადა ბულგარეთის ცნობილ პოლიტიკურ ოჯახში|4.248
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37254991.mp3|არის არქიტექტურის ძეგლი|3.96
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37382902.mp3|ბევრ ენაში სახელი სრულიად სხვანაირად გამოითქმის|3.888
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37386008.mp3|მდებარეობს გუდისის ქედის სამხრეთ კალთაზე|3.96
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_34231788.mp3|დღეს საკი როგორც საცხობი მოწყობილობა რესტორნებში მთელი ბალკანეთის მაშტაბით აქტიურად გამოიყენება|6.3
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37341841.mp3|საქართველოში იგი გვხვდება კოლხეთის დაბლობზე აგრეთვე მტკვრის ალაზნისა და ივრის ქვემო წელის ჭალებში|7.74
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37355141.mp3|ფასადზე განთავსებულია რამდენიმე წრიული ფანჯარა|4.14
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37508866.mp3|სებასტიან კაბოტი ინგლისისა და ესპანეთისათვის ეძებდა აზიისაკენ მიმავალ საზღვაო გზას|6.48
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_38024607.mp3|ამჟამად ზაკი აგრძელებს აქტიურ მოღვაწეობას|4.068
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_25530048.mp3|გუნდებმა შეთანხმებას მიაღწიეს და ანდრე იჯარის წესით გადავიდა ესპანურ გუნდში|6.768
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_36677039.mp3|ბალახები იშვიათად ბუჩქები ან ხეები ზოგჯერ ლიანები|4.68
+/home/ashankwi/commonVoiceData/ka/clips/common_voice_ka_37299699.mp3|ტბაში ბინადრობს თევზი|3.78
