@@ -1,0 +1,614 @@
+path|transcript|duration
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25217216.mp3|The book received no reviews and its reception was a slight disappointment for Lewis|9.36
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37872291.mp3|It is the largest cable company in Iowa and second largest in Illinois|7.452
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_689575.mp3|Come out of there|5.088
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32653567.mp3|Fiji qualified two swimmers in two events|4.536
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_175186.mp3|or a man into the wind|3.768
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19673779.mp3|They favored observing the world drawing from life and creating visual essays|8.784
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27554178.mp3|For technical reasons the payload was launched upside down|4.716
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_158508.mp3|Congressman Aaron is here to see you|2.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20659776.mp3|McDull tries very hard to fulfill his mothers wishes but always fails|5.784
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26347326.mp3|This building is home to the Economics department Upward Bound and The Solution Center|7.308
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18814347.mp3|The Ambrose Swasey Library also served the Saint Bernards Institute|6.912
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18981412.mp3|It is unknown whether Mahirs website existed prior to the broadcast of these sketches|6.288
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_76897.mp3|The winds curiosity was aroused something that had never happened before|5.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20199793.mp3|Because of the economic downturn peoples lives changed drastically|5.136
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_193221.mp3|A group of hikers are climbing up a snowy mountain|6.792
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27523645.mp3|She thereby ruins the relationship due to her paranoia|4.716
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17285835.mp3|Be right there boss|3.048
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23786783.mp3|Below it is the second tier of leagues covering north and south Wales|6.696
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18489379.mp3|Several people are awaiting trial including John|4.776
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_176527.mp3|To be continued|2.856
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21021466.mp3|He died in Toronto two years later|4.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23417349.mp3|Behind the main dome there is a smaller dome|5.592
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20038776.mp3|It is also the home of the lines Carriage and Wagon department|6.84
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_673730.mp3|A basketball player in blue is attempting to block a player in white during a game|5.976
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31560476.mp3|The two main exhibitions are called The Age of Agriculture and Before Machines|6.876
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_621646.mp3|The case was puzzling to the old and wise|5.136
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37422019.mp3|Hence C naturally prefers to invoke the jurisdiction of State Ys courts|6.264
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20253691.mp3|Its boundaries are coextensive with the administrative division of Upper River|7.248
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32729065.mp3|His death went unreported for several days|4.392
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36932651.mp3|The archbishop resolved to beard the monster in his den|6.84
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25092648.mp3|The Band continued to record on their own for Capitol Records|5.292
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_34292817.mp3|He never managed to fulfil it|4.32
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28418017.mp3|He also helped establish the WorkerCommunist Party of Iraq|5.976
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35363318.mp3|Since then Brazil has had six constitutions three dictatorships and three democratic periods|9.36
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21862111.mp3|In Italy was developed the doubleentry bookkeeping that made such complicated financial transactions possible|9.528
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_22984936.mp3|Stoddart is an American citizen|3.576
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_34891886.mp3|The other phase is mostly silica which is insoluble|5.22
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32682192.mp3|Fortin actively participated in the release of Reverend Hyeon Soo Lim|7.596
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26349015.mp3|The family wrote the name as Delalande|6.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27637962.mp3|In the monohydrate form it is highly hygroscopic and deliquescent|6.12
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25268156.mp3|They also published the Australian short storywriter Geoffrey Deans seventh collection The Literary Lunch|8.64
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32672264.mp3|He enjoyed playing golf at his leisure time|4.5
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_152343.mp3|The don and his guests were talking for almost half an hour now|5.784
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20257405.mp3|When it was founded Luzerne County occupied a large portion of Northeastern Pennsylvania|8.352
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_479673.mp3|You dont call this a convenience|4.656
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19721198.mp3|His collection of English medieval floor tiles is without a rival in the world|6.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_180279.mp3|I wouldnt live in it as a ghost|3.432
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31712940.mp3|He was also elected from this constituency in the Seventh Jatiya Sangsad Election|6.48
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_30576052.mp3|The demonstrations included an animation to bring to life the Roman Baths|6.3
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_191039.mp3|The primary coil has fifty turns|6.264
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36518859.mp3|Even more it is necessary to annihilate it to pass to a mechanical state|6.444
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_473868.mp3|A six comes up more often than a ten|4.56
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_314327.mp3|Two plus seven is less than ten|3.864
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23770452.mp3|MercedesBenz until well after the production of Haflinger ceased|6.024
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25829583.mp3|It is characterized by its prominent central ridge|4.032
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_2329889.mp3|Abigail is a highly regarded scientist|3.72
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20481613.mp3|Pupils or followers of Squarcione include Francesco Verla Pietro Calzetta and Andrea Bellunello|10.176
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37073531.mp3|Sunday was the only day when all sat down to meals together|5.436
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33781565.mp3|Nicholson sent them back to London to see Sir Robert Cecil|8.1
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32941606.mp3|Spanish exports to Mozambique remain at very low levels|5.688
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_15733265.mp3|We found out this switch is a dummy|3.792
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28332869.mp3|These are Saint Pauls Gracemere Gracemere State School and Waraburra State School|5.436
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_195629.mp3|In my opinion you went too far with your satire poem|7.728
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_490774.mp3|Save that for the Tribune|4.224
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_141246.mp3|Turn out the lantern which gives us light|3.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19664675.mp3|It is undistributed because neither of its uses applies to all backpack carriers|8.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_30636016.mp3|The remaining regions are called pockets|3.348
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_34684447.mp3|Pakington and Walter were both associated with the professional company the Greater London Players|7.92
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_168730.mp3|A man is sorting and identifying trees in a wood|8.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19533399.mp3|During the Secret Invasion storyline Lawfers rejoined the Society|6.192
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25962263.mp3|Twelve Sauli volume eleven page two hundred sixteen|5.4
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17288377.mp3|We expect this stay relevant until twentytwentynine|9.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27517444.mp3|Davis first appeared in the first Our Gang short Young Sherlocks|7.848
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19738725.mp3|Livy records that the two forces dumped their baggage and fought where they met|7.752
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31628695.mp3|It has lanceolate leaves that reach up to long by wide|6.552
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31684252.mp3|She received acting training from the Budapest School of Dramatic Arts|5.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25558954.mp3|Alter Bridge kept going at the tours conclusion|5.328
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35701798.mp3|Currently the area is known throughout Beijing as a shopping area|4.32
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32662715.mp3|It also featured early screen appearances by Arletty and Madeleine Robinson|9.18
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21305920.mp3|Some baleen whales will deliberately rub themselves on substrate to dislodge parasites|8.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19739769.mp3|The activities offered on campus are little to no cost for students|6.048
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_139411.mp3|Please get me Edgemont soundtrack|3.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25263325.mp3|There are seventeen surviving medieval manuscripts containing all or part of Ancrene Wisse|7.416
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_116603.mp3|He felt invisible among all those young people|8.904
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27500692.mp3|Sequential writing and syncopated rhythms are characteristic of his music|6.588
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28187318.mp3|Both trucks featured sport modifications to the standard suspensions|5.868
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26957248.mp3|The original code is now used for the Joo Koon station|4.176
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19329797.mp3|Each transportation mode has a network|3.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19597672.mp3|The word itself is a portmanteau derived from a combination of vector and pixel|7.632
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27456518.mp3|The inscription is interpreted to refer to Charumati a daughter of emperor Ashoka|6.264
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32694183.mp3|Teams play every other team once (either assigned at home or away)|5.976
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_613020.mp3|Wheres Mrs Lukes box of capsules|4.416
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28967813.mp3|The primary disadvantage of a plantigrade foot is speed|5.148
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37387313.mp3|The mine buildings on Botallack Cliffs are protected by the National Trust|6.696
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19090.mp3|A man in a black wetsuit is surfing in the ocean|4.296
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_210355.mp3|We had to rush down the minute it happened|4.536
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17969258.mp3|Where did they come from|1.2
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32770875.mp3|A bone which may be the ischium is straight and flat|4.176
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21443659.mp3|On all other days the Union Flag flies from the mast|4.824
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37626229.mp3|Country music star Blake Shelton and Pitbull would perform Get Ready and introduce drivers|5.94
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32645534.mp3|Mainly it is very comorbid with Insomnia and Hypersomnia|8.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18429150.mp3|I was able to speak What|4.536
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23965484.mp3|Credits adapted from the liner notes of Deep Cuts|5.424
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_8815128.mp3|She is seven months pregnant|3.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21775240.mp3|The Guardian calls it the only childrens book award winner selected by peers|8.304
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25181090.mp3|During the war the king was deported by command of Adolf Hitler to Hirschstein|8.424
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_307109.mp3|under the Inquisition|6.288
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_682979.mp3|And get me a pen|3.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_39352302.mp3|Opponents to the measure described it as statesponsored segregation|7.488
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_121134.mp3|He wanted your money he said|2.88
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33118523.mp3|It is adapted from the novel of the same title by Maha Harada|6.516
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37178269.mp3|When emptying the drum the direction of rotation is reversed|5.976
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26942142.mp3|The poprosal is currently at consultation stage and remains unconfirmed|7.344
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19762179.mp3|The film returns to the present five years after the events in the flashback|10.224
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26870709.mp3|They later played a set with full band on the main stage|6.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19003228.mp3|The result is a much more efficient smaller and lighter device|6.672
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20283357.mp3|Lung cancer and tobacco smoking are increasing worldwide especially in China|6.264
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31601173.mp3|After five months|3.816
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18567602.mp3|And tomorrow night they will come into my possession|6.264
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_680692.mp3|As is the gardener so is the garden|4.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18326254.mp3|Another word for zucchini is courgette|4.056
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20296648.mp3|Gwen commits herself to restoring her relationship with her sister|8.808
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18917868.mp3|After three days of fighting against the Shahs imperial guard Khomeini seized control|9.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31948408.mp3|Some of the flats were developed by the Company itself|6.408
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19674814.mp3|However there is no river Bungo|4.152
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31925025.mp3|The structure housing the post has since been demolished|4.428
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17267938.mp3|Without understanding the actual physics some animals exploit total internal reflection for catching fish|7.584
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27397411.mp3|Raising Friant Dam would likely produce similar increases in the cost of irrigation water|6.192
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19668333.mp3|The eight finalists all receive scholarships for postsecondary schooling|7.824
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31621272.mp3|The defending Pan American Games champion is the team from Canada|6.156
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28791129.mp3|Major industries to the region include agriculture government and transportation|7.344
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36492352.mp3|The women carry swords for the purpose of frightening the evil spirits|6.336
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_554363.mp3|No no thanks just looking|4.128
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_651435.mp3|It helped me to trust in people the Englishman answered|5.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31955734.mp3|John Joe Doherty took his place in the team|4.644
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_608435.mp3|All new generations of GPUs support tesselation in hardware|6.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_24861849.mp3|The city has been the home of several filming locations|9.9
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_619522.mp3|Because now he knew where his treasure was|2.952
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_121163.mp3|We must be good|3.216
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_153198.mp3|Gray paint stretched for miles around|3.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28685960.mp3|Krukow played college baseball for the Cal Poly Mustangs in San Luis Obispo California|9.18
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18707269.mp3|It was named for exSurveyor General Fessenden who had surveyed the county|5.664
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25675110.mp3|Her computer and television are also in her head shape|4.284
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_38272855.mp3|The old womans baby is supposed to grow up at a great pace|5.04
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36485326.mp3|It has a small church of the same name built upon it|4.608
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32321272.mp3|The Nakhchivan Agreement signed for founding the Turkic Council|6.912
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_24582566.mp3|The entire boulevard is some wide and may be perceived as an urban esplanade|7.74
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18979368.mp3|He also wrote songs including Why Not Now|6.192
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23840225.mp3|The developed approaches regulate exploitation of the region forests|8.304
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_15903553.mp3|The allies lost another airborne division during the raid|5.208
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35624848.mp3|The band is featured at the end playing the schools fighting song|5.148
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_675334.mp3|But I didnt kill anybody|7.68
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_205384.mp3|Just the ant colony of the neighborhood|2.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_430122.mp3|They were playing pingpong to the rhythm of punk rock|5.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18855448.mp3|Since it has eight faces it is an octahedron|5.304
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_640038.mp3|The peace league met to discuss their plans|4.536
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19711340.mp3|A stretched version of this booster will be used on the upcoming Vulcan rocket|7.56
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_694557.mp3|Its up to you|3.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25697276.mp3|The Sonora location was not rebuilt|4.68
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_87035.mp3|There is a way out|3.0
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19954849.mp3|The Chancellor had the custody of the Kings Seal|6.888
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_42191.mp3|Our merchants bought that man and brought him to Egypt|5.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19542643.mp3|He is buried at the Laurens City Cemetery|6.48
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21798993.mp3|The name can be a variant of the surname Holme|6.696
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25433145.mp3|He was born in Ronco sopra Ascona Switzerland|4.896
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_196854.mp3|Three firemen are walking up a ladder|4.464
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_63885.mp3|Love and hate are human feelings|5.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_74203.mp3|He placed the DVD into the player|4.896
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18568920.mp3|Adriana spoke Portuguese fluently|5.376
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17705425.mp3|I must speak to my lawyer|2.328
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32311201.mp3|She is president of the Society for Historians of American Foreign Relations|5.22
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_22853673.mp3|Later the issue was risk of invasions by warlike peoples east of Italy|7.464
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32676686.mp3|An additional difficulty is determining the material of the columns and the reliefs|6.912
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28324997.mp3|They also were significantly influenced by the preIncan Cajamarca and Wari cultures|6.948
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20237845.mp3|The Amity Post Office was soon after relocated to this area|8.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_207583.mp3|Can you do your stuff|3.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_6377264.mp3|That is a lot for such a small task|8.472
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_191042.mp3|I dont know why I came here in the first place|5.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32665995.mp3|The situation is more unclear for the Channel Islands|5.796
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36403045.mp3|It is the second single from their third studio album Brothers|7.848
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_488507.mp3|Hes not a failure|2.856
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_29769104.mp3|Gonsoulin played college football at Baylor University|5.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19201080.mp3|However they are all destroyed during the chase|5.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32710695.mp3|The springs are located at the western bank of the Verde River|5.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37178291.mp3|The gantry crane has two threeton auxiliary cranes|4.788
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_24736528.mp3|Ben and Angie have a party while Nick and Sara are on a date|6.48
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_568950.mp3|His old Ferrari has been compacted to a small cube of metal at the junkyard|4.704
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_30695978.mp3|David Rowan and Co of Glasgow built her engines|6.336
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21290968.mp3|In retirement from playing Heffernan became involved in coaching and team management|6.672
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_680851.mp3|I want to hear Eddi Reader from the twenties|3.528
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19652974.mp3|His election program had classic communist content|5.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32656565.mp3|Which allowed him to develop further insight into the practicalities of economic life|9.18
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18855451.mp3|Whitmore attended Saint James High School in Montego Bay Jamaica|6.024
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19105498.mp3|Plenty of lakes rivers and ponds|3.744
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_82466.mp3|I want to book Meriton Grand Hotel Tallinn in New Jersey for four people|9.696
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37365969.mp3|His son John Brewin also served in the Canadian House of Commons|8.028
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_15733680.mp3|The girl wore glossy pantyhose|4.824
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_377029.mp3|A short sonata|9.648
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19809782.mp3|He was educated at Felsted|3.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27431419.mp3|This ore had been already included in stated reserves|6.12
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19595429.mp3|The court ruled that allowing such suits jeopardize the protection of state secrets|8.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35613.mp3|The model can be initialized with sparse coding|7.128
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_29440892.mp3|Bentley who proposed the name|4.932
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_505089.mp3|They rented a boat and went down the river|4.128
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18090440.mp3|The merit of their paper is to alleviate the extraction of isolines and isosurfaces|7.584
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37543489.mp3|Amateur champion who went on to play the Champions Tour|5.436
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26938810.mp3|Competitors wear gloves a helmet and flippers|4.428
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26965037.mp3|The Bolgarchay Misharchay Injachay Goytapachay and other rivers flow through the rayon|10.296
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_91469.mp3|You mean you and me|1.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_109967.mp3|You already know all you need to know|3.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_579855.mp3|The brass tube circled the high wall|3.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27164056.mp3|The next day President of Russia Boris Yeltsin awarded Chesnokov with Order of Courage|10.188
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_533567.mp3|People are protesting against coal|5.112
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26958991.mp3|The scientific name of the species honours the botanist Frederick Manson Bailey|6.3
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19844534.mp3|The Nuxalk Nation traditionally has spoken the Nuxalk language|7.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19769278.mp3|The top two teams in each group advanced to the final stage|9.888
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19026470.mp3|Irregular galaxies may contain abundant amounts of gas and dust|7.224
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_479965.mp3|Memory is the treasure of the mind|2.64
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_590702.mp3|Earlier this year we found a really nice place near my office and we moved in together|5.016
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17890301.mp3|A steep trail is painful for our feet|7.536
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20357363.mp3|His departure makes Flynn the only remaining original member|6.336
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19597523.mp3|He has a memorial stone in Saint Pauls Cathedral in London|7.776
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25086422.mp3|The tongue is flicked out of the mouth regularly to sample the chemical environment|5.94
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32650356.mp3|She has played college soccer for Diablo Valley College and San Jose State Spartans|9.756
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18454699.mp3|The Tale of Two Cities is on the landing|5.496
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_34479083.mp3|The plot moves in fits and starts|5.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35809700.mp3|Water is an essential of life|3.78
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_9645475.mp3|Did he say anything|4.776
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20287037.mp3|The village is just to the west of Nuneaton and near Arley and Astley|6.312
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_606946.mp3|Man in red shirt watches dog on an agility course|4.416
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18515272.mp3|Nearly all toxicologists agree on that|4.776
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35401820.mp3|Ultimately Alvarez Station was called Cleveland Station|6.264
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21307719.mp3|Quaker Oats also sells Quisp directly to the public through an online store|7.176
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25915141.mp3|He died as a result of the injury a few days before the end of the war|6.768
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32402055.mp3|An oxbow lake called Stara Mura is popular destination for anglers|7.38
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27389634.mp3|It is sold in formulations under brands including Basta Rely Finale Challenge and Liberty|8.1
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19688609.mp3|Farnsworth made the charge against elements of John B|5.784
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20735342.mp3|Performance was modest because of its light engine|4.896
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25189667.mp3|He began his involvement with the art scene based in the East Village|4.788
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21814410.mp3|Inspired by her parents activism she was arrested multiple times during her early adulthood|8.88
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20036541.mp3|Distributive constructions apply a single idea to multiple members of a group|9.0
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18756254.mp3|It was here that she first attracted notice from critics and theatergoers alike|9.216
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_640391.mp3|A group of people sitting in chairs watching something|3.408
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_651656.mp3|Where are you bound asked the young Arab|5.472
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27942928.mp3|Resistance and Decolonization|5.508
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19719383.mp3|It can be considered the intersection of medicine and terminal ballistics|7.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32168741.mp3|Most streets in Sham Shui Po are named after Chinese cities|4.68
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25755768.mp3|Although it gained a slightly updated appearance it still retained both engines|8.928
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_12600344.mp3|A country estate|4.344
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28824100.mp3|This portion represents the agricultural and mineral wealth of Colombian soil|5.796
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_38272405.mp3|You’re doing the exact thing this post is about|2.916
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20284945.mp3|The neighborhood also has a park with a community center|4.272
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_55972.mp3|Get a load of this|3.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33584909.mp3|And it stuck|2.844
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26948653.mp3|They were neither accurate nor fair|4.428
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32921017.mp3|The castle was once the home of Viscounts of Dax|8.1
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20005720.mp3|North of Gurnee it is called Riverside Drive|5.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_678757.mp3|Your age fits you|2.736
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26951136.mp3|Shannons wife and seven children came by land with a drive of forty cattle|6.768
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26941248.mp3|He went to school in his hometown and later dedicated to farming|4.968
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32243694.mp3|Van den Eynde married twice|3.636
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18598431.mp3|And you are to go down at twelve|6.288
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19952583.mp3|Payments by credit card if permitted and cash payments take immediate effect|4.536
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21490658.mp3|Eldamar is Elvenhome the coastal region of Aman settled by the Elves wrote Tolkien|7.752
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26947691.mp3|After it was disbanded he received a commission in the regiment of Dillon|10.368
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19893410.mp3|Cropston Cricket Club hold regular fixtures at their Waterfield Road cricket field|8.856
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_590953.mp3|And the nightgown had changed into a beautiful wedding gown|4.56
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20232923.mp3|The Forchbahn narrowgauge railway connects to both Waltikon and Zumikon|6.048
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19737934.mp3|The massacre site was later visited by the Interior Minister Mostefa Bensamour|8.688
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31565724.mp3|Her elder sister Soe Myat Thuzar is also an actress|5.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36937607.mp3|The fallen branches were allowed to rot in heaps on the ground|5.508
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19634254.mp3|Most of the water used in Nyala is ground water|5.112
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_22766998.mp3|Each programme consisted of an interview with one celebrity guest|7.224
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_203976.mp3|Weve got something a whole lot bigger than that|6.096
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20297404.mp3|In publicly traded companies these plans typically amount to allocation of shares to employees|6.6
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_24871034.mp3|It was a time of rest and recovery for the weary family|9.288
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20208953.mp3|The price was close to a premium pack of traditional cigarettes|6.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32690860.mp3|It was named in tribute to Yolanda Ortiz|10.26
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20310336.mp3|She was subsequently allowed to rejoin Starfleet because of her exceptional linguistic skills|5.976
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35112.mp3|You have no identity|3.456
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27305675.mp3|Gray Davis a Democrat and elected Republican Arnold Schwarzenegger|7.452
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_536846.mp3|It was papa that sends you flowers every day|5.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_623655.mp3|You didnt vote for me the last time|12.576
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_16025135.mp3|There is mildew on the facade|3.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32349734.mp3|It is known for its fortified cherry wine|4.356
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26950490.mp3|Philip sees through Michaels disguise and orders his arrest|6.084
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26978080.mp3|The stem has a basal bulb|3.564
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32067412.mp3|His parents did not survive the war|3.348
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18789029.mp3|Mathmos won two Queens Awards for Export and a number of other business awards|7.272
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27305586.mp3|It is owned by GateHouse Media|2.556
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23711140.mp3|It was written by Alan Grant and John Wagner with photography by Gary Compton|7.296
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_16665451.mp3|Henry is sitting in the bathtub|7.104
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37617996.mp3|Tickets that elected at least one councillor are highlighted in the relevant colour|7.74
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19200692.mp3|It is also the bestselling album by a foreign artist in Finland|7.392
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26950493.mp3|Set in the same world as the Mercy Thompson series|5.796
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_622014.mp3|A crowd in which some masked men are holding an apparent protest|5.736
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20276692.mp3|The town is serviced by FayaLargeau Airport with a paved runway|9.12
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36815683.mp3|This is stored in a climatecontrolled environment to prevent deviations|7.56
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_516195.mp3|Firefox is probably the easiest to get started with although I prefer Chrome|6.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19610980.mp3|Lloyd Kaufman Merle Allin and Ami James have nonspeaking cameos in the film|9.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19720847.mp3|At that time Colorado City became part of Arizona City|5.232
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36635243.mp3|They spend the last day of his Hong Kong trip romantically|6.336
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25112594.mp3|He was educated at the High School in Edinburgh then studied at Edinburgh University|6.66
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32803659.mp3|The highway travels northwest along Chicot Street passing various businesses|9.36
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18999823.mp3|At the time Harrer was a reporter with a rightwing newspaper|9.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_697971.mp3|Why didnt you tell me|3.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26981168.mp3|They have three children and several grandchilden|3.888
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19958141.mp3|The city of Kingsland borders Saint Marys to the west|5.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32796826.mp3|Already in Berlin he was interested in the history of chemistry|5.256
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17257492.mp3|Sorry for interrupting your lecture sir Edward|5.496
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21773156.mp3|Upgrades and extension tickets are available as supplements|5.376
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20040953.mp3|The sixth generation of the country continued the crossover between country and pop music|7.536
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_30449406.mp3|Babaninka is the nearest rural locality|5.04
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20859177.mp3|Kill houses are designed to mimic residential commercial and industrial spaces|8.016
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19718906.mp3|Palamidi is located on a hill north of the old town|7.056
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27334983.mp3|Demonstrators clashed violently with the Hong Kong Police Force|5.688
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32794952.mp3|Triterpenoids are complex oils that may have interesting pharmacological activity|8.316
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_79830.mp3|A costumes woman applies makeup while looking in a mirror|4.368
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26323098.mp3|Velvet Revolver has been on hiatus since Weilands departure|5.868
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20688863.mp3|There are two major urban areas|3.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_606126.mp3|Im sure this gate was locked the last time I checked|3.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_34997014.mp3|It includes the Faculty of Engineering and the Faculty of Architecture and Planning|5.76
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_92678.mp3|Two men in red pants do acrobatics with a ladder|5.376
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_484169.mp3|Whats in that desk|3.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18404202.mp3|Please register for a postal vote before the election|5.232
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18053976.mp3|Farmers came in to thresh the oat crop|5.112
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26101197.mp3|Choo is a double star|3.528
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20357364.mp3|It is the capital district of the Karaman Province|5.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21621232.mp3|The members of the order were celibate|3.024
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_178429.mp3|The Linux version of Chrome binds these shortcuts by default but not the Windows version|6.456
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_200150.mp3|Towering buildings form the quintessential skyline|4.68
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23360539.mp3|The bands fifth studio album Wavering Radiant was released shortly afterwards by Ipecac|8.04
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23843312.mp3|Today it is owned by the National Trust and fully open to the public|7.416
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37469769.mp3|Clearly that means something|3.204
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19024316.mp3|Speakers from the floor may be members or guests|7.344
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_24551527.mp3|Locals sold supplies and food to the hospital while hospital staff patronized local businesses|8.316
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23348534.mp3|Electives include such courses as the Bible speech and political geography|6.816
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20778857.mp3|Lundy was married twice|3.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19544394.mp3|He was also capped three times at senior level for the England team|7.272
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27997769.mp3|He bats and throws lefthanded|4.788
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20974131.mp3|Hiram Americus Tuttle signed an act accepting the conditions of Thompsons will|6.072
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_160841.mp3|The area was swirling in dust so intense that it hid the moon from view|5.304
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21814412.mp3|They then moved to Detroit|5.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_66703.mp3|Whats the matter|2.856
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33446509.mp3|All compositions by Wallace Roney except where noted|6.3
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18718200.mp3|The attempt failed|3.072
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26949239.mp3|Why his nose is as pink as paint|4.788
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21352021.mp3|Roy is bilingual and can speak English and French|5.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31180089.mp3|We want people to know that we are not harmful or ‘bad people’|6.012
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23801890.mp3|However it is more dangerous when ingested|6.870125
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25549390.mp3|Once he went back after being spotted|4.716
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_29841120.mp3|Labels twins|3.888
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_7407696.mp3|Thats whats the matter|4.104
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_29934053.mp3|She studied at the High Courses for Scriptwriters and Film Directors|7.416
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_690937.mp3|The whole thing seemed depressingly futile|7.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20346536.mp3|The impounded reservoir is called Blowering Reservoir|5.04
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19704895.mp3|There is a Babylonian Gemara on only Niddah|5.208
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32924028.mp3|He has committed to play tennis at the University of Southern California|7.02
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32935460.mp3|All music is arranged by Princess Princess|3.816
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33452647.mp3|Doctor Michael Mulhall (Canada)|2.628
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_180752.mp3|You wont have any trouble reading it|9.864
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17281845.mp3|What can you do|1.8
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25259058.mp3|Hes the moving picture man|3.42
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_518809.mp3|When hes an old man hes going to spend a month in Africa|4.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_107821.mp3|The wind screamed with delight and blew harder than ever|4.416
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_512703.mp3|Dont wait till the game is called on account of darkness|3.864
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_219933.mp3|How come you speak Spanish he asked|3.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_613756.mp3|The store walls were lined with colored frocks|5.88
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25487115.mp3|The couple has three children|3.636
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17281704.mp3|Its a move I learnt from you|4.464
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19758562.mp3|The election was won by the Progressive Party|3.864
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21743575.mp3|There are no crossovers or crossunders to allow free transfers between directions|6.672
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20561592.mp3|Lee was rushed to Queen Elizabeth Hospital where he was pronounced dead on arrival|6.84
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_56142.mp3|The Panama Canal connects the Pacific Ocean with the Atlantic Ocean|5.28
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25242072.mp3|I wasnt a radical at all|2.988
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27166210.mp3|Traditionally Chinese men did not wear rings and were expected to have several concubines|6.084
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17252459.mp3|If anything can go wrong it will|6.0
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32639478.mp3|He worked as an instructor in the School of Infantry and Tactics|6.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_663033.mp3|Young people practice some form of martial arts|3.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20943369.mp3|The President of Nigeria is also the commanderinchief of the Nigerian Armed Forces|6.024
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_22714087.mp3|Plesiosauroids evolved from earlier similar forms such as pistosaurs|6.6
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17245888.mp3|The dune rose from the edge of the water|4.776
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32651340.mp3|He played college football at Kansas State and Mississippi State|6.948
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31172844.mp3|List of Australian plant species authored by Ferdinand von Mueller|6.804
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19686523.mp3|This was a common compensation for recording rights in that market|6.36
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26605683.mp3|The ruins are Grade One listed|3.636
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18810257.mp3|The episodes are Dr Mangles Lab The Hidden Lab and Master Cain|7.368
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19934187.mp3|Munteanu was seen as the primary factor for this success|9.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33532304.mp3|Other colonial figures who had similar experiences include William Buckley and Narcisse Pelletier|8.82
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19645165.mp3|Garrett founded and led the House Constitution Caucus|5.136
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27074273.mp3|The urban center was called the Integral Urban House|3.78
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_504286.mp3|The Merry Christmas wreath for the window|4.848
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21414843.mp3|He was and is a sadistic and evil man|5.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28518070.mp3|Shortly after daylight the heavy bombardment group began shelling shore installations on the island|7.776
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33458442.mp3|It is not known if she had issue from these marriages|6.012
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19699616.mp3|Following the plantations however noblemen from Great Britain were given the post|8.76
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_111011.mp3|He burnt out his tires after the drag race|5.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25488.mp3|I need some coffee|6.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_22984933.mp3|A bill of attainder was then passed|3.864
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_44167.mp3|Now Im beginning what I could have started ten years ago|6.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25021571.mp3|The manuscript is in good condition and musical pieces are complete|6.516
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35853528.mp3|Nicknamed The Undertaker he drives a hearse and wears in all dark black clothing|7.56
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_1511082.mp3|Both elephants and monkeys have a capable memory|5.496
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20304627.mp3|Oh yes  if one could but go to Brighton|4.824
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20933115.mp3|Fort Reno was decommissioned with the surrender of the Confederate armies|5.712
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19775389.mp3|The previously unsteady Otto then remained true to the Emperor|4.392
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_24143.mp3|Spencer of the Chronicle|2.784
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19680292.mp3|This occurs mainly in North American sports|3.888
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19992888.mp3|The completion date is unknown|3.312
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36825702.mp3|Two to three eggs are laid directly on the ground|3.924
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37329318.mp3|The follicular phase lasts from the beginning of menstruation to the start of ovulation|5.328
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19210733.mp3|Detention must not have taken place in any country other than Chile|7.056
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25321394.mp3|It has a good reputation for sports|4.392
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27095983.mp3|Warrimoo is an Aboriginal word meaning place of the eagle|7.344
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20965503.mp3|With more than one table the result set will be every combination of rows|5.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_507148.mp3|Two men put their arms and legs out to the side|4.32
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35462421.mp3|Slow Creek flows through the eastcentral part of Balkan Township|4.968
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_30722277.mp3|There will be seven events taking place over twelve classifications|7.02
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19534867.mp3|McCartney stated that he and Harrison usually shared a bedroom while touring|6.648
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27322949.mp3|He was subsequently signed by the Miami Dolphins but was released again in October|6.84
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20278354.mp3|It derives its name from the nearby Indravati River|6.408
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19771745.mp3|The current Member of Parliament is Kate Green of the Labour Party|7.8
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_22661.mp3|But he still couldnt flee|3.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18437674.mp3|I know that you are in charge there and Jeanne knows|5.52
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25010019.mp3|When the guards find him Jackson turns into golden sand|5.328
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37570405.mp3|Some of the original workers cottages can still be seen in the area|6.444
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_603066.mp3|Two people one of them blurred from motion are preparing drinks in cups|6.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18327813.mp3|Every organization has a Harassment policy|4.896
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_480275.mp3|Tangier is not like the rest of Africa|3.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18761535.mp3|The Mamikonians were notoriously proRoman|3.168
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23444147.mp3|Since varieties are closed under arbitrary direct products all nontrivial varieties contain infinite algebras|10.224
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20561559.mp3|From the recording sessions they produced a twotrack vinyl record to sell at concerts|8.136
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_201670.mp3|Hell be ready on time|3.72
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33695694.mp3|The local Comet Line helpers decided to rescue him|5.256
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19329703.mp3|He immigrated to the United States first moving to Virginia City and later Eureka|8.424
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23097096.mp3|It also hosts trade shows sporting events entertainment events meetings and community events|9.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18983108.mp3|Jon discovers that he can see auras as well|4.896
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25361763.mp3|Its a total mess|3.708
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_267494.mp3|There are too many typos in that letter|4.632
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26966211.mp3|Regular cricket matches on the ground did not eventuate|6.552
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_53481.mp3|It must be some kind of a gag|3.528
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26955549.mp3|The Tbit must be cleared and the Jbit set|7.416
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36523982.mp3|Juniata Township is located in southwestern Blair County along the Cambria County line|6.552
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20105804.mp3|Madison County formed from Oglethorpe Clarke Jackson Franklin and Elbert counties|7.848
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_497584.mp3|The golden land|6.888
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32753212.mp3|De Jager was the first transgender person to host the contest|7.2
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32642591.mp3|The crash is the deadliest aviation disaster in both Basque Country and Iberia history|7.956
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19636954.mp3|She continued drawing the lace with slow dignified movements|6.0
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_34937457.mp3|Hodgson was born in London England|5.76
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_599713.mp3|A woman with her black hair in a chignon is wearing a black dress and dancing with a man in a charcoal gray suit|8.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28198301.mp3|Janet is an only child|5.58
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32285275.mp3|The complaint avers that Texas enacted the law in open defiance of the Constitution|6.444
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_536848.mp3|I also recommend binding the shortcuts that let you quickly open a bookmark|6.696
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32656602.mp3|The trick lies in its deft fusion of old and new|6.084
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37394948.mp3|It is the states second largest spa town after Karlovy Vary|5.508
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32859682.mp3|These outfits would be used in the Ukrainian film Zakhar Berkut|6.12
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_680644.mp3|Did you get him|17.952
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32699279.mp3|Twelve teams participated|5.364
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19962575.mp3|In the end this was not deemed necessary|4.2
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23735124.mp3|Important economic industries include forestry wood working large scale wood shipping and tractor repair|8.016
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_22791503.mp3|During this period the local authority may apply for a care order|8.256
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19300616.mp3|All tracks written and performed by Bonobo|5.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37469569.mp3|On the other hand partners can access intangible resources which are not directly exploitable|9.072
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25209529.mp3|Their design includes some stealth features|4.176
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_29563519.mp3|The denominator of t is the standard error of the difference between two means|7.884
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32764049.mp3|All of the previous Indian banks had European directors and founders|5.688
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20237850.mp3|The Homecoming Game begins with Snoopy as the referee and Charlie Brown as kicker|8.784
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25282946.mp3|The character Tracey resembles the dancer Jeni LeGon who performs in the movie|9.0
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32267025.mp3|He was one of the first commercial growers of avocados in the State|7.128
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31201680.mp3|Biden reacted with similar approval to most comedic portrayals of himself|7.668
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32641442.mp3|It won two After Dark Awards for Outstanding Production and Outstanding Ensemble|8.532
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_37805776.mp3|It did not matter Vukovich had perished instantly|5.76
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19740128.mp3|Both serve at different positions within the family group of companies|6.792
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17770858.mp3|If the cap fit wear it|2.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_520340.mp3|A quarter of a million dollars|8.016
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18608802.mp3|Neither of the three served or saved me|6.624
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36324241.mp3|They continue to run Dischord together|4.824
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_137426.mp3|We could get to the Pyramids by tomorrow said the other taking the money|4.824
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23716998.mp3|He has been quoted or his work featured in numerous outlets around the world|5.856
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32699547.mp3|He was later dismissed from the factory for refusing to join the Kuomintang|10.44
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_483803.mp3|Two men sitting at a counter looking into magnifying glasses at the same time|5.496
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21768533.mp3|Another site Sto|3.936
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19668949.mp3|Its name comes directly from a French piece of furniture the chiffoniere|8.904
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_199114.mp3|Wheres that airlines bag|4.224
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19601949.mp3|Most programming languages support various types of data for example real integer or Boolean|7.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_605673.mp3|My daughter doesnt realize it but she skips when shes happy|4.608
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17569299.mp3|By all means its just down the hallway|8.472
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18619698.mp3|Ive been granted an honorary degree|5.712
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_489172.mp3|An alchemist said the alchemist|3.552
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_31529689.mp3|The song had been composed by songwriters Margaret Lewis and Myra Smith|6.408
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_38306441.mp3|The corn spirit is personified in double form as male and female|7.236
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18773872.mp3|He is currently serving as the first president of Red Sox Nation|8.544
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_184987.mp3|Shall we tell her what she looks like|2.904
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_552153.mp3|You used to be able to pitch better than that|4.176
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_30478302.mp3|An unbuilt corner of the district is located in Stockholm Municipality|5.148
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_512254.mp3|He put a sign on the door and they went to a small cafe nearby|5.856
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25257210.mp3|It is one of the most religious places of Nepal|5.508
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_572203.mp3|By tomorrow theyll be calling me Bruce Baldwin|4.128
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35151167.mp3|Lan is an elected member of the American Law Institute|5.868
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_43233.mp3|Yeah you could have said so|4.176
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20634958.mp3|It was nominally under indirect political or religious influence of Khalifs or Shahs|6.744
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19132505.mp3|Only SansomHallowes survived the war|4.536
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35439505.mp3|There are two contexts which have been identified to affect preferences|6.192
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_623093.mp3|There was a murmur from the crowd|2.856
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33761802.mp3|Its native range is Southeastern China|4.356
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_34182.mp3|Your office telephoned me to hold him|5.16
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32687695.mp3|This chapter deals with suffering and sin|5.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26941689.mp3|The battle as such was over neither side sustaining serious damage or gaining advantage|10.152
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17245867.mp3|Please tell me the corresponding longitude and latitude|4.344
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32977386.mp3|Its compositions were informed by soundtrack and electronic dance music|7.56
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32120397.mp3|The election was the last before universal suffrage was introduced the following year|8.928
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32286919.mp3|The lengthening also added an additional hold and six more hatches to Reserve|6.408
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32759340.mp3|The power station produced an income for the corporation|5.976
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_15754798.mp3|We had a lot of hurricanes this year|3.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_574233.mp3|Persuasion is better than force|3.456
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_100764.mp3|You should evaluate it in a perceptual experiment|4.584
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19077213.mp3|The name is sometimes spelt Aughrabies|5.76
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19198486.mp3|Early in his career Van Doorn was not very popular|6.216
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_15734661.mp3|Silence gives consent|5.52
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_159557.mp3|We speak of them only to children|3.024
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_664815.mp3|You can keep her on|2.088
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27646808.mp3|A substation was located in Marienfelde converted the direct current into alternating current|8.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19755929.mp3|Kenmare at once denied that he had authorised the delivery of such a message|6.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19757364.mp3|There are various types of tongs available in market|5.424
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18776108.mp3|Mission maps are based on fictional locations|7.632
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19260417.mp3|The eldest son is also known as the Master of Lauderdale|5.616
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19681271.mp3|The concept applies only to the Zigzag projection|6.336
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26971775.mp3|The company still sponsors the team but not as a shirtsponsor|5.292
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26659481.mp3|There is a junction of the narrow gauge Eyre Peninsula Railway within the town|10.476
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_549482.mp3|There was absolutely no reason for her to announce it to the entire company|6.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_572204.mp3|Weve got to do something|2.784
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27377993.mp3|He spoke the words Columbia Houston|4.14
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_35193018.mp3|Speed dating is for singles|3.888
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18662154.mp3|As for Harry he made no reply|5.832
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21521882.mp3|It has further offices in Europe and across Asia|4.8
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_38800070.mp3|He was born in Truro Cornwall|3.816
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18313935.mp3|The creative joy I murmured|3.528
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26996673.mp3|Lee County High School is the sole high school of the district|7.956
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_15733396.mp3|The police insisted on confiscating even the printer for forensic analysis|7.752
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_30560271.mp3|It is within the Education Authority (North Eastern) region|5.004
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_24397578.mp3|The Center for Workforce Development addresses the everchanging needs of the Springfield workforce|7.02
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17970625.mp3|The gods help them that help themselves|8.592
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25307867.mp3|He took over at Aston Villa four months later|4.896
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19664394.mp3|He is interred in Chesterfield Cemetery in his home town of Centreville|7.608
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_68010.mp3|How about a little service|4.944
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_507884.mp3|With all of it|2.496
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19028297.mp3|Henrys army was organized into three groups|4.104
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18680317.mp3|His Glass Boogie is one of the most inventive boogiewoogie piano solos ever recorded|9.168
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_486177.mp3|I aint gonna squeal|2.016
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27506505.mp3|It has a tall waterfront between beach and many hotels|4.788
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_552170.mp3|The brown dog is jumping a hurdle over a yellow and black pole|4.248
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33532305.mp3|This species is the first bowerbird described by naturalists|6.408
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_490796.mp3|Hedge apples may stain your hands green|5.496
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_493767.mp3|Dots of light betrayed the black cat|5.352
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21674660.mp3|The album received positive reviews from music critics|5.664
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19681362.mp3|Operations started in that year|4.752
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19962703.mp3|Conversely Presence shows the availability state before a conversation is initiated|8.256
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18318554.mp3|Our national debt amounts to several trillion pounds|3.84
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19659541.mp3|However most of the elected opposition candidates refused to take their seats|5.64
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27469490.mp3|Brown where he only works fulltime during the spring and fall|4.788
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_208767.mp3|While youre still champion|2.448
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17779777.mp3|Will you breakfast with me|3.696
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_36927502.mp3|In the middle of the cavern there is a shaft|4.356
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_622812.mp3|Hes on the way|4.104
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18789331.mp3|The phone was never produced in black|3.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32366352.mp3|I leave the child with you|3.384
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_484878.mp3|Shes the best parkour runner I know|4.152
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_8587.mp3|A very happy looking young woman preparing a snack|4.656
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_192655.mp3|Two children are running down a sidewalk in front of a building|5.184
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19809778.mp3|Olivia became a producer of a Canadian movie|5.016
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26963804.mp3|These were good years for the Nandi|5.796
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20024506.mp3|While Chekov is distracted Irina manages to gain access to the ships navigation computer|7.416
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32756016.mp3|His preferred sculpting material was sandstone and his works were generally realistic in nature|8.748
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28546568.mp3|But it is the power which renders visible or invisible at will|8.316
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26964818.mp3|It has a station on the railway and its post town is Hinckley|6.372
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20966246.mp3|Industry trade groups might also advertise directly to consumers|7.32
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26932423.mp3|She is the first official Bond girl|3.78
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32744346.mp3|Marcos had declared Martial Law|4.032
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_542826.mp3|Every location onscreen is at a particular line and column|7.32
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18498099.mp3|Supposing we take a little rest here|3.504
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_648365.mp3|She apparently didnt listen|3.456
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_24718086.mp3|It is a MoselFrankish dialect like the dialects in Germany bordering Luxembourg|10.26
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25725707.mp3|The station provides a ticket office waiting room and toilets|5.292
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_22815195.mp3|This is the point where Newsons private life collides with his murder investigation|8.136
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_29761985.mp3|Emperor Hostilian was his younger brother|4.32
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_133232.mp3|May I go in and see him|2.784
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27431415.mp3|One notable user interface element that was introduced was the information bar|8.388
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25161175.mp3|He played a major role in transforming the South African justice system|6.12
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28274684.mp3|He joined former Hearts player Gary Mackay on the coaching staff at Tynecastle|9.144
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17742846.mp3|A filing case is now hard to buy|3.984
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18880189.mp3|The mountain is a major summer resort in North Korea attracting many domestic tourists|6.288
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18475043.mp3|Shortly after he left your room sir|4.104
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_25092286.mp3|She has written many of their plays|4.896
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_653280.mp3|Why should I be in any danger|3.936
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27628314.mp3|The game mechanics are quite simple and focuses on beats|7.596
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_23936395.mp3|Stanton was known as the Little White City when everyones house was white|6.648
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26215384.mp3|I welcome the delegates to the program who are present here today|5.976
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_156033.mp3|Follow the instructions here|4.464
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28506751.mp3|Dixie Evans appears in Leslie Zemeckis documentary Behind the Burly Q|6.696
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_27649918.mp3|Edinburgh was readily distinguished by her distinctively different forecastle|8.676
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_220652.mp3|Can you please find me Season of Glass|4.008
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_30587486.mp3|He and his wife Virginia had five children|5.868
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_20679868.mp3|Wait till you get a load of Little Sister|4.344
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32638795.mp3|She defeated five other candidates over three rounds of voting|8.208
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_18981411.mp3|Severn is the oldest private school in Anne Arundel County|5.064
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_33075616.mp3|Competitors can never use their hands and dropped balls are frowned upon|6.768
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_32651090.mp3|The principal land use in grazing on native vegetation|6.516
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_26287636.mp3|I was one of the three cheerleader in the Brown game|4.788
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_21415298.mp3|He also performed drums and percussion on the album and its tour|5.304
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_616410.mp3|I usually like to eat flying tomato salad|4.584
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_17816899.mp3|Wood is best for making toys and blocks|3.336
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_28506752.mp3|Formerly Inman was also a municipality but gave up its charter years ago|7.128
+/home/ashankwi/commonVoiceData/en/clips/common_voice_en_19756579.mp3|This portion of the community became known as the Town site or Mount Sheer|6.936
