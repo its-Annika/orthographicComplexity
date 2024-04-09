@@ -1,0 +1,746 @@
+path|transcript|duration
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21928409.mp3|Daardoor moesten dieren over zeer grote afstanden naar slachthuizen worden vervoerd|5.016
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28388451.mp3|Soms komt zo’n verbetering voort uit onderzoek naar een bestaande stof|6.408
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24040318.mp3|Hij heeft een uitstekend verslag afgeleverd|4.032
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24664175.mp3|Als we investeren in verslechtering van het klimaat welnu dan doen we als tevoren|7.308
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25243118.mp3|Hij heeft dat tot nu toe geweigerd|3.096
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30608668.mp3|Wij willen een overeenkomst waardoor iedereen kan meedoen maar niet tot elke prijs|7.776
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715819.mp3|We moeten echter wel onder ogen zien wat deze zware metalen eigenlijk zijn|4.248
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24692155.mp3|Ethiopië moet gerichte steun ontvangen bij het oplossen van fundamentele problemen|5.508
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24664198.mp3|Wat dat betreft moeten we de zaken duidelijk stellen|5.22
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21263311.mp3|Alle leerlingen scoorden goed op de toets|3.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18463266.mp3|Babys hebben veel zorg nodig|3.864
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28316340.mp3|Moskeeën worden in brand gestoken|2.808
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25949966.mp3|In die context moeten de uitzendfrequenties heel zorgvuldig worden behandeld|5.328
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30476334.mp3|De burger die het goed voor heeft met deze samenleving mist immers het overzicht|5.724
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22979762.mp3|Wij zullen proberen om daarvoor te zorgen|3.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25360829.mp3|Doha is overigens een agenda voor handel maar ook voor ontwikkeling|4.932
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37896360.mp3|Ik doe dat alleen als daar aanleiding voor is|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24740794.mp3|Hiervoor bestaan geen goede redenen|3.42
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24692044.mp3|Ik zou hem willen vragen hoeveel dit jaar juist beschikbaar is|5.148
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580464.mp3|Het is een zeer belangrijk stuk werk|3.528
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22934045.mp3|Dat geldt voor minerale oliën voor tabak en ook voor alcohol|4.944
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19261907.mp3|Toen ze klein was was ze veel rustiger|3.336
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37896588.mp3|Alle havens moeten uitgerust worden met voorzieningen waarin het scheepsafval verwerkt kan worden|7.848
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24702427.mp3|Deze koppeling is essentieel en mag niet verloren gaan|5.22
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367611.mp3|Anderzijds is er een lange lijst van omissies van gemiste kansen|5.112
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21928407.mp3|De meningen daarover lopen nogal uiteen|3.84
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23439029.mp3|Dit betekent dat hier geen mededingingsregels dienen te gelden|4.584
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23812864.mp3|Atjeh was een grote zeevaartnatie|3.432
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23746534.mp3|Dat is echter niet de enige contradictie|3.213
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25024013.mp3|We hopen nog steeds dat we later kunnen terugkomen op deze zaak|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25243109.mp3|Mijnheer de commissaris er zijn inmiddels heel belangrijke studies beschikbaar|4.5
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25023733.mp3|Al bij al is dit verslag niet eens zo slecht|3.78
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832941.mp3|We zullen een klimaat van geloof en vertrouwen opnieuw moeten opbouwen|3.944375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17727225.mp3|Er is een groot verschil tussen hockey en ijshockey|3.384
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31128292.mp3|Ze zullen stelen zichzelf prostitueren of moorden om aan hun dagelijkse dosis te komen|8.496
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28316491.mp3|Daarmee worden hun rechten aanzienlijk uitgebreid|3.06
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22694861.mp3|Ik kom graag terug op de vraag die u in eerste instantie stelde|2.95175
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25002883.mp3|Daarenboven zijn zij in politiek opzicht contraproductief|4.212
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23339075.mp3|Dat is alleen maar zo bij oppervlakkige beschouwing|4.8
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24684491.mp3|Daarom hebben de maatregelen die op dit gebied worden genomen verstrekkende gevolgen|6.444
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25949916.mp3|Velen onder ons hebben met een bezwaard gemoed ingestemd met het huidige compromis|6.12
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32247784.mp3|Dat was allemaal niet de bedoeling|2.988
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36941891.mp3|Uiteindelijk moeten we echter de aandacht verleggen van producenten naar consumenten|6.156
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_35075040.mp3|Dit moet allemaal grondig worden bestudeerd|3.888
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25185672.mp3|In een amendement wordt een regeling voor deze kwestie voorgesteld|5.22
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36940659.mp3|Het derde aspect is de test|3.276
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367563.mp3|Hij stelt de streefcijfers niet ter discussie evenmin als de samenwerkingsmechanismen|6.36
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25236689.mp3|Alleen dan kan hij resultaat opleveren en alleen zo krijgt hij ook een hart|4.716
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33488393.mp3|Menig zwaargewicht van vandaag wordt een lichtgewicht van morgen|6.084
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705765.mp3|Maar er is veel meer nodig|3.888
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28490735.mp3|Ook dat zou een cruciale stap in de goede richting zijn|5.976
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22728700.mp3|Ik heb zowel voor de commissie als de plenaire vergadering amendementen ingediend|6.288
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24722979.mp3|Wat is de oplossing hiervoor|3.42
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32213613.mp3|Wij zullen ervoor zorgen dat hier de hand aan wordt gehouden|2.916
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30521916.mp3|Ik ben zeker voorstander van liberalisering|4.032
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24053851.mp3|Er zijn nog steeds een aantal barrières handelsbarrières wel te verstaan|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36168042.mp3|Hier wordt duidelijk een behendige truc uitgehaald|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28722645.mp3|Bij een compromis moeten de verschillende partijen steeds geven en nemen|6.336
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22750119.mp3|Dit is zonder twijfel een kwestie waarvoor we ons met vereende krachten moeten inzetten|6.024
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27191330.mp3|Wij hebben de indruk dat dit besluit niet op een rechtsgrond berust|4.752
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30544190.mp3|Het onderhavige ontwerpverslag over sociale insluiting dient te worden toegejuicht|6.12
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25185755.mp3|Misschien heb ik u verkeerd begrepen maar dan zult u dat zeker willen rechtzetten|5.04
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25024118.mp3|Op bepaalde punten deel ik de mening van de rapporteur echter niet|4.248
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23834407.mp3|Dergelijke verbale ontsporingen komen helaas vaak voor en wij moeten dit niet toestaan|6.060375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24633522.mp3|Zo zou men het ruwweg kunnen formuleren|4.068
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25433311.mp3|U hebt protectionisme op bewonderenswaardige wijze afgewend|4.032
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343918.mp3|Het lijkt ons dat deze voorzorgsmaatregelen geenszins overbodig zijn|5.256
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23748241.mp3|Dat vergt een supranationale bevoegdheid|2.8995
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467463.mp3|Wij voelen niet veel voor dat voorstel|3.096
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892119.mp3|De zaken waarover men het eens is geworden zijn moeilijke zaken|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28388640.mp3|Ze willen liever steun voor het opbouwen van hun plaatselijke scheepswerven en vissersvloten|7.128
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23496432.mp3|Dat gaat dan vooral om die hoofdstukken waarbij opening benchmarks zijn vastgesteld|7.104
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27177839.mp3|Ik zeg niet dat het vrije verkeer van goederen er niet toe doet|7.164
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832963.mp3|Dit alles zou ons er toe moeten brengen tegen uw kandidatuur te stemmen|3.57875
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25308813.mp3|Het grote probleem bij papieren bewijzen zal fraude zijn|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27710567.mp3|Tot slot wijs ik nog op een recente ontwikkeling op belastinggebied|4.716
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36941985.mp3|Ik geloof dat het ontwikkelingsbeleid hiertoe een aanzet biedt|5.004
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467572.mp3|We moeten daarvoor oppassen|2.736
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37938956.mp3|Er zijn echter twee fasen|3.312
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25182769.mp3|Bij massawerkloosheid moeten er meer overheidsopdrachten komen|6.588
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26944605.mp3|Het eerste aspect betreft het systeem van roulatie tussen de landen|5.328
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23746537.mp3|Met eensgezindheid zullen we veel meer bereiken en we moeten streven naar vooruitgang|5.172125
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36168201.mp3|Ook heeft het ervoor gezorgd dat de voordelen zo breed mogelijk werden verspreid|6.084
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18248308.mp3|Vergeet niet iedere week je planten water te geven|3.744
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_38197246.mp3|Ik geloof dat dit de punten zijn waarop we ons dienen te concentreren|4.464
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32349371.mp3|De eerste vraag heeft betrekking op de rol die staten spelen|5.4
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25871613.mp3|Er zal geen excuus meer zijn om ons te bekritiseren|4.248
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25003061.mp3|Wij zijn hier verheugd over|2.412
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30981108.mp3|Waar wordt al dat reisgeld voor gebruikt en welke landen profiteren ervan|5.688
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28388314.mp3|Sedert indiening van dit werkdocument zijn nog geen drie maanden verstreken|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383771.mp3|Ik hoop dat wij in april zover zullen zijn|3.36
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22452907.mp3|Regios die in cultureel en economisch opzicht soms het belang van sommige lidstaten evenaren|7.32
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28423100.mp3|Idealiter had dit mechanisme opgenomen moeten zijn in het communautaire systeem|7.488
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25740271.mp3|Daarom komt dat bij ons misschien veel harder aan dan andere dingen|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21354169.mp3|Eerlijkheid duurt het langst|3.384
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892191.mp3|Er dient evenveel nadruk te worden gelegd op sociale aspecten en milieuzaken|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36309444.mp3|Hij maakt de levens en middelen van bestaan van mensen kapot|4.644
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26993011.mp3|We hebben een nieuwe politieke strategie nodig een strategie die meer onderscheid maakt|6.084
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25324339.mp3|Dit is onderdeel van het gewone dagelijkse leven geworden|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383880.mp3|Van die vrijheden is vrij verkeer van personen misschien wel de belangrijkste|5.088
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22954635.mp3|Natuurlijk kleven ook hier aanzienlijke problemen aan|3.864
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716670.mp3|Ik dank de commissaris voor zijn uitgebreide en zeer bemoedigende antwoord|5.4
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21689822.mp3|Er staat een file op de buitenring tussen Vilvoorde en GrootBijgaarden|5.256
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892428.mp3|Zijn arrestatie is onderdeel van een bredere trend van een harde aanpak van mensenrechtenactivisten|6.156
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25770746.mp3|De hernieuwbare bronnen moeten een substantieel onderdeel gaan uitmaken van onze energievoorziening|5.76
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24004477.mp3|Daarvoor hebben we toch te lang aan de netten gewerkt|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24725745.mp3|Het leven is geen goed dat men kan kopen en verkopen|4.428
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25023926.mp3|Over wat voor cijfers beschikt u|3.096
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25185707.mp3|Misschien zegt de commissaris zo dadelijk dat hij voor deze oplossing gekozen heeft|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24725779.mp3|Ik vind ook dat een goede controle op de buitengrenzen essentieel is|4.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705585.mp3|Toch staat deze zaak niet op zichzelf|3.096
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343385.mp3|U hebt geantwoord op een andere vraag die echter niet van mij kwam|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832996.mp3|We hebben onlangs aanzienlijke successen geboekt op dit gebied|3.9705
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22477391.mp3|Er zijn verschillende dialoogvormen ontstaan inclusief een jaarlijkse topconferentie|6.0
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343581.mp3|Wij veroordelen pogingen om conflicten op te lossen via een staatsgreep|6.156
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32685151.mp3|Dit initiatiefverslag bevat vele verdienstelijke delen die tot meer welvaart zouden kunnen leiden|6.3
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37640585.mp3|Want wat wij net meegemaakt hebben gaf toch wel iets anders te zien|4.428
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24769234.mp3|Ook wat dit betreft is er dus geen reden tot paniek|5.4
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28481534.mp3|Feit is dat de elektriciteitsmarkt en de gasmarkt aanzienlijke investeringen vergen|8.46
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30403393.mp3|De cultuur van de regios moet worden ondersteund en beschermd|6.912
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25233946.mp3|Deze stoffen zijn gevaarlijk ze zijn toxisch|3.564
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21773567.mp3|Iedere vakantie is het opnieuw hetzelfde gedoe met het inpakken van jullie koffers|4.911
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19358875.mp3|Reis je eersteklas of tweedeklas|3.744
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23642662.mp3|De knoop zou in november doorgehakt worden|6.072
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27176095.mp3|Onderwijs in relatie tot de arbeidsmarkt is belangrijk|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23339078.mp3|Ik voel mij ongemakkelijk over dit verslag omdat een aantal dingen niet klopt|5.688
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580434.mp3|Het is maar een suggestie|3.096
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22979768.mp3|Dat is een heel redelijk plafond|2.976
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810422.mp3|Ik zou niet weten wie onder zulke omstandigheden zou willen vliegen|4.584
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715148.mp3|Laten we echter realistisch blijven|3.636
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25023998.mp3|We moeten op al deze terreinen met beleid handelen|4.32
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27149900.mp3|Voor het toerisme is de invoering van de euro van het allergrootste belang|7.092
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26972343.mp3|We moeten ons houden aan deze overeenkomst|6.156
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19771713.mp3|Van Gogh heeft één van zijn oren afgesneden|4.152
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23378723.mp3|Het is alleen zo dat de eisen en de sancties strenger worden|5.28
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23622748.mp3|In deze zaak moet er een koppeling bestaan tussen beide typen maatregelen|5.544
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25238692.mp3|Ik ben derhalve dankbaar voor de constructieve benadering van de rapporteur en zijn collegas|4.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17709262.mp3|De zelfrijdende auto was nog niet helemaal klaar voor de openbare weg|4.296
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19883054.mp3|Racisme blijft nog vaak voorkomen maar er is een kentering aan de gang|6.552
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22694318.mp3|De consumenten hebben dus van deze liberalisering geprofiteerd|3.395875
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26945365.mp3|Dat die verwachtingen niet zijn uitgekomen is nog zwak uitgedrukt|5.76
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31148675.mp3|De tijd van goedkope aardolie is voorbij|3.888
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24734031.mp3|Waarom hebben de regeringen die niet gebruikt|4.968
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25739987.mp3|Zonder controle leidt de verwerping van andere mensen tot racisme nationalisme en fascisme|7.272
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26972434.mp3|Laten we die kans grijpen|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19502537.mp3|De microfoon genereerde een slecht geluid|4.008
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832961.mp3|Bovendien omvatten zij ook een burgerlijke culturele en educatieve dimensie|5.0155
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_35008566.mp3|Ik ga daar niet verder op in|3.06
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32238441.mp3|Ik wil hem daarvoor uitdrukkelijk danken|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36800537.mp3|Ik verzoek u zich in het vervolg aan de spreektijd te houden|5.4
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27722412.mp3|Bijzonder duidelijk is die ongelijkheid in het gemeenschappelijk landbouwbeleid|4.968
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23748251.mp3|Volgens deskundigen neemt de kans op terugkerende overstromingen in de toekomst verder toe|5.433375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36168039.mp3|Het is dus tijd voor verse producten niet voor oude conserven|5.436
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24734146.mp3|De beste voorwaarde voor effectieve bescherming van minderjarigen is en blijft het gezin|4.824
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24680435.mp3|Deze begrotingswijziging speelt in op een werkelijke noodzaak|5.508
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23114850.mp3|Met name de discussies over het bewaren van verkeersgegevens zijn problematisch geweest|5.808
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19620358.mp3|Leeuwen tijgers en huiskatten behoren allemaal tot de katachtigen|4.416
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36707211.mp3|Dit hebben we de soepele overgang genoemd|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25360860.mp3|Ik denk dat dit akkoord zowel ambitieus als realistisch is|3.852
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715554.mp3|De combinatie van die twee sectoren opent uiteraard totaal nieuwe mogelijkheden|6.3
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832973.mp3|Ik dank u hartelijk voor dit alles|2.115875
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22954400.mp3|Maar we moeten ze wel op de juiste manier gebruiken|4.776
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24053960.mp3|Ik denk dat we belangrijke maatregelen nemen met dit energiemarktpakket|5.256
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36323363.mp3|Daarnaar wordt hier nog niet gekeken en daarom moeten we deze wetgeving nog aanpassen|5.868
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32363118.mp3|Hiermee heb ik mijn plicht als coördinator gedaan|3.996
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23834465.mp3|Maar toch mogen we het kind niet met het badwater weggooien|3.16075
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24643384.mp3|Om deze redenen hebben wij ervoor gekozen om ons van stemming te onthouden|5.94
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24955050.mp3|Met deze richtlijn wordt die methode in het vervolg onmogelijk|4.788
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25186028.mp3|Wij wensen daarentegen een dynamische en creatieve ontwikkeling van de ondernemingsdemocratie|6.696
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36119749.mp3|Natuurlijk zal deze ook uitgebreid worden met industrieën uit andere landen|5.04
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25400928.mp3|Het is een schande dat op deze manier is omgegaan met hun laatste rustplaats|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36941098.mp3|Er is geen kant en klaar recept|3.276
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26972477.mp3|Het multilateralisme wordt omarmd als het nieuwe politieke evangelie|6.408
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36120013.mp3|De raamovereenkomst lijkt onevenwichtig|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20246363.mp3|Dat brengt ons dichter bij elkaar|3.6
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36800536.mp3|Dat is een teken dat de controle begint te werken|3.996
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37203830.mp3|Bovendien is de overeenkomst bureaucratisch en leidt ze tot grote vertraging|6.408
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715800.mp3|Alleen op die manier kunnen wij de stabiliteit van de rundvleesmarkt herstellen|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27722368.mp3|Ik zie dat u misnoegd bent|3.492
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23378695.mp3|Ik verwacht dat u hier in december met passende voorstellen komt|5.856
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22777673.mp3|Ik verbaas mij over deze vergeetachtigheid|4.2
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22728696.mp3|Er zijn nog te veel obstakels|3.36
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36941979.mp3|Het is een succesvol systeem gebleken|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36113140.mp3|Hun bijzondere kwetsbaarheid kent vele oorzaken die allemaal aangepakt dienen te worden|6.696
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343531.mp3|Burgerschap is voorbehouden aan natiestaten|4.788
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19998228.mp3|Het licht verandert langzaam van kleur|3.576
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810396.mp3|Het is essentieel dat hier een richtlijn over komt|3.696
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24955109.mp3|Ik ben ervan overtuigd dat wij morgen voor dit verslag stemmen|4.68
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22777059.mp3|Daarom is de strategie voor vereenvoudiging van de regelgeving op zichzelf een goede zaak|6.864
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27021730.mp3|Daarom wil ik ten eerste de rapporteurs bedanken voor hun uitstekende werk|4.644
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24983969.mp3|Zij geloofde dat bij ons universele waarden als vrede vrijheid gelijkheid gerespecteerd werden|6.912
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24691953.mp3|De richtlijn schiet zijn doel voorbij|4.248
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25770722.mp3|Met een vliegtuig kan je immers niet zomaar wat aanrommelen|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25248174.mp3|Ik denk dat ik genoeg heb gezegd|3.132
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24053931.mp3|Groei moet gepaard gaan met structurele maatregelen die de arbeidsmarkt versoepelen|5.652
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22768237.mp3|Deze overwegingen illustreren maar al te goed hoe de kernenergielobby weer terrein wint|7.224
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27069527.mp3|Vanochtend helpt ons dat niet verder|2.988
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25024161.mp3|Laten we ons nationale egocentrisme waar alleen maar ellende van komt achter ons laten|5.868
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28459223.mp3|Allereerst met betrekking tot de algemene individuele |5.868
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580310.mp3|Het ware mysterie van het verslag is dat het voet bij stuk houdt|4.68
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892261.mp3|Tenslotte zou ik u nogmaals hartelijk willen bedanken voor uw grote belangstelling|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24752855.mp3|De economische unie veroorzaakt de politieke unie dat is vaak genoeg gezegd|6.444
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467430.mp3|Wij moeten ervoor zorgen dat deze mensen op een waardige manier oud kunnen worden|5.328
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22477382.mp3|Dit toont aan dat de omvang van het probleem gigantisch is|3.696
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25023832.mp3|Ik denk dat wij goed werk hebben verricht|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21721648.mp3|Het politiek akkoord heeft zonet groen licht gekregen|4.392
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25955078.mp3|Ook is het pakket een lichtend voorbeeld voor onze partners in de wereld|4.752
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21284789.mp3|De marathon is afgelast door extreme weersomstandigheden|4.296
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705464.mp3|Dit geeft heel goed weer hoe het debat over de meerjarige begroting verloopt|5.4
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367499.mp3|Wij willen bijvoorbeeld dat er op preventiegebied veel meer gebeurt|4.776
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23748309.mp3|Dat is een uitstekende zaak|2.220375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23746506.mp3|Maar toch zeker niet alleen om statistieken op te stellen|3.082375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25003007.mp3|De situatie moet echter ook op nationaal niveau worden bekeken|4.14
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23438879.mp3|Deze moet weggenomen worden|3.744
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24702202.mp3|Maar goed het symbool telt ook wel natuurlijk|3.996
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19259218.mp3|Dit had een impact op de economie van de stad|3.792
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716799.mp3|Dat zou tot ongerechtvaardigde beschuldigingen kunnen leiden|4.644
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31128040.mp3|Ik hoop dat deze verkiezingen het land stabiliteit brengen|5.22
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28459022.mp3|Het is werkelijk hartverscheurend|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23812905.mp3|Daarom steun ik de opvattingen van de rapporteur en stem ik vóór het voorstel|5.76
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27021675.mp3|Het bijgewerkte regelgevingskader moet van meet af aan op een effectieve manier worden beheerd|5.904
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30608666.mp3|De dienst wordt elk jaar beter|4.176
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24684418.mp3|Nogmaals ik kan dit alleen doen als u daar allen mee akkoord gaat|5.04
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18739141.mp3|Ik wil deze brief nog versturen er is haast bij|3.384
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19190930.mp3|Ik vind het dopje van de fles niet|2.832
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28220945.mp3|De moderne militaire technologie is steeds meer op kennis gebaseerd|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28316280.mp3|Op dit moment beschikken we daar helaas niet over|3.24
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26613864.mp3|Het kwaad moet bij de wortel worden aangepakt|3.636
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32684050.mp3|Cultuur is geen eenvoudig onderwerp|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22118130.mp3|Dat is echt een probleem voor mij|3.504
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25003064.mp3|Zo moet ook het stabiliteitspact zijn volledige naam krijgen|4.824
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17694172.mp3|Ellen gaat iedere ochtend brood bij de bakker en vlees bij de slager halen|3.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24752865.mp3|Met die verdeling hebben wij ingestemd|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27069843.mp3|Ik wilde het echter hebben over de notulen van gisteren|3.6
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24053831.mp3|Belangrijk zijn persoonlijke integriteit en bekwaamheid|4.572
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22954396.mp3|Het is zonneklaar hoe tegenstrijdig en onjuist dit is|4.224
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22733359.mp3|Daarom is het belangrijk dat we het expansief financieel beleid voortzetten|6.432
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37203772.mp3|Dit kan voor de nodige problemen zorgen|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27187564.mp3|Er is bijzondere aandacht besteed aan kwesties met betrekking tot kartels en de consumenten|5.976
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715790.mp3|Voor de eerste keer wordt elk van de drie instellingen door een vrouw vertegenwoordigd|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24706546.mp3|Ze speelt in geen van de crises een rol|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25360751.mp3|Dit vergt veel tijd onder andere voor aanvullende informatie en toelichtingen|5.796
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36309326.mp3|Ik dank u allen dat u zich zo aan de spreektijd heeft gehouden|4.32
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28316341.mp3|Ik ben heel erg tegen sancties die tegen het hele land gericht zijn|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23748248.mp3|Het is altijd de burgerbevolking die daaronder lijdt vrouwen kinderen bejaarde mannen jongeren|5.564
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32349363.mp3|Dat is in deze context gewoon een kwestie van logistiek|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23424367.mp3|Niemand heeft dit ontkend|3.864
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22127388.mp3|Het voorstel voor dit garantiefonds komt op het juiste moment en is ook progressief|6.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25023734.mp3|Er wordt een verbod voorgesteld op de uitvoer van kwik en bepaalde kwikverbindingen|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367651.mp3|In dit geval hebben we unanimiteit nodig|3.864
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26992963.mp3|Overigens lijken de ideeën vooralsnog te algemeen|4.788
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28220787.mp3|De overvallers controleerden de passagiers op hun religieuze identiteit|5.148
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25949931.mp3|Ze moet daarom niet lichtvaardig op het spel worden gezet|4.068
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810506.mp3|Dit is een redelijke en evenredige reactie|3.576
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37896130.mp3|Dat zijn twee complementaire zaken er is geen sprake van tegenstelling|6.66
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367521.mp3|Dit is een merkwaardige en ronduit schandalige situatie|4.416
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36931881.mp3|Het wederzijds geweld tart alle verbeelding|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705512.mp3|Maar helaas ik moet bij mijn oude standpunt blijven|3.492
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27710570.mp3|Ze komen in grote mate overeen|3.744
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705678.mp3|Dat kunnen we niet langer ontkennen|2.988
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28421401.mp3|Bijgevolg stijgen de productiekosten wat boeren in de nieuwe lidstaten het sterkst benadeelt|8.568
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810427.mp3|In dit geval ging het om een hoofdelijke stemming|3.576
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22694972.mp3|Wij geloven dat er op dit punt sprake is van een fundamentele misvatting|4.519125
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33534216.mp3|In de tweede plaats onze verplichtingen ten aanzien van internationale overeenkomsten|6.228
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18211462.mp3|Kan je de flyers uitdelen aan de klanten|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28490837.mp3|Wetenschappelijk onderzoek heeft uitgewezen dat tabaksreclame de rookgewoonten van mensen bevordert|8.748
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22128527.mp3|Dit soort tegenstellingen moet worden opgeheven door middel van democratische wetgeving|5.928
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892121.mp3|Sommigen van u weten dat u terug zult komen|4.068
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36114858.mp3|Rond de jaarwisseling spreken we elkaar hierover weer|3.672
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23765070.mp3|Wij moeten lessen trekken uit het verleden|3.384
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24735028.mp3|De resultaten zijn er dan ook naar|2.988
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24723354.mp3|Is dat logica of pure willekeur|3.384
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19358936.mp3|s Avonds lig ik een vijftal minuten in een plankhouding om mijn spieren te versterken|6.072
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22452975.mp3|Haar burgers moeten gezond zijn goed zijn opgeleid en werk hebben|5.232
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33534168.mp3|Het verslag toont aan dat de groei ondanks alle inspanningen onevenwichtig is|6.84
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27653213.mp3|Wij moeten alle vormen van fundamentalisme dan ook krachtig en vastberaden bestrijden|7.092
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22933901.mp3|Dat is een grote prijs die wij kunnen winnen|3.096
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25023917.mp3|Het streefcijfer is echter nog geen jaar oud|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26536407.mp3|Slechts degene die spannende inhouden voor een groot aantal kijkers levert wordt opgemerkt|5.544
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24754784.mp3|Voorzitter ik voeg mij naar uw orde dat is duidelijk|5.4
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25360822.mp3|We moeten meer financiële middelen ter beschikking stellen|4.104
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17695485.mp3|Hij had naast de nagel geslagen met de hamer en zijn vingers geraakt|4.824
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27176217.mp3|Anders zullen zij geen toestemming geven voor donatie|3.276
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28722711.mp3|Nu is er een goede oplossing gevonden waarbij de dieren gespaard blijven|5.4
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24769095.mp3|Ik hoop dat hun afwezigheid wil zeggen dat ze tevreden zijn met ons werk|5.508
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20890829.mp3|Kan je het programma nu uitvoeren|3.576
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25949917.mp3|Ik denk daarbij aan het pakket financieel toezicht en aan de hedgefondsen|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23029412.mp3|Op dit moment moet echter ook politiek gezien krachtiger stelling worden genomen|5.664
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832776.mp3|Ik zou niet graag zien dat mij het tegendeel wordt verweten|3.291375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25433286.mp3|We moeten actie ondernemen tegen alle vormen van discriminatie van ouderen|5.544
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715185.mp3|Kunt u mij zeggen hoe het daarmee staat|3.276
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25871639.mp3|We hebben ook een sterke tweede pijler nodig  dat hebben we verklaard|4.212
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705427.mp3|Ik geloof dat het resultaat een ambitieus maar tegelijkertijd realistisch mandaat is|5.004
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25023971.mp3|Wij moeten elk geval afzonderlijk onderzoeken en ons afvragen welke beslissing wij moeten nemen|6.048
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20535472.mp3|De doodskist was uitgebreid versiert|3.648
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32683385.mp3|Die moet zorgen voor de militaire veiligheid|4.5
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28393568.mp3|Mogelijk kunnen we daar ook eens een keer een actielijstje van zien|5.94
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33534137.mp3|We moeten strategisch denken actief betrokken zijn en consequent optreden op mondiaal niveau|7.236
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832789.mp3|Voor deze onderdelen moet een heldere definitie worden gevonden|2.977875
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24575836.mp3|De staat moet zich garant stellen voor de moraal alsook voor de volksgezondheid|7.488
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23338422.mp3|Dit vormt geen bedreiging voor het subsidiariteitsbeginsel|5.136
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343666.mp3|Ik wens bijgevolg te benadrukken dat beide organisaties deze kwestie moeten aanpakken|5.976
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25574061.mp3|Dit verslag is echter verre van evenwichtig|4.68
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24643816.mp3|Aan deze gebieden moet bij de volgende ronde absoluut prioriteit worden gegeven|6.876
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24576043.mp3|Wij politici kunnen niet voorschrijven hoeveel overuren iemand kan maken|6.156
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24725610.mp3|Een derde een vierde een vijfde keer|4.32
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716082.mp3|Een ander aspect is het uitdrogen van de markt|4.068
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23208497.mp3|Er is ook gewezen op het belang van de buurlanden dat ondersteun ik graag|6.6
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28244893.mp3|Die keuze is echter niet gemaakt|2.988
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25186064.mp3|Wij moeten ook meer doen om de werkgelegenheid te verbeteren|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25185814.mp3|Ik weiger diplomatieke betrekkingen|3.78
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24676670.mp3|Deze situatie is ontoelaatbaar omdat hun maand na maand een proces wordt beloofd|6.048
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33534174.mp3|Wat mij betreft is de zaak hiermee afgedaan|3.744
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33534158.mp3|Zo kunnen we conflicten voorkomen|3.276
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24053944.mp3|Helaas is de lijst met deze twee fobieën nog niet uitgeput|4.716
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715916.mp3|Deze gegevens kan men op een passende en legale manier gebruiken|4.212
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24668416.mp3|Iedereen die vrijheid inruilt voor veiligheid verdient noch vrijheid noch veiligheid|8.136
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22934029.mp3|In welk stadium bevindt dit debat zich|2.904
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24723353.mp3|In de praktijk draait het daarop uit|3.24
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23748236.mp3|In hoeverre zijn zij eigenlijk bereid om de kosten op te brengen|3.761625
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24955049.mp3|Daarom zijn we vandaag een grote stap verder gekomen|4.608
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_38226799.mp3|Ondemocratische supranationale organisaties niet|5.22
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22790188.mp3|Daarom herhalen we dat het niet volstaat armoede te betreuren|4.824
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37640558.mp3|De commissaris is er eindelijk in geslaagd door de files heen te komen|4.644
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25400936.mp3|Kunt u uw interventie misschien enigszins toelichten|3.888
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24691979.mp3|Europa is het grootste importgebied voor voedingsmiddelen|4.608
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36131864.mp3|Het andere punt is immigratie|2.7
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30608667.mp3|In tegendeel we willen dat de werknemers zelf beslissen|5.688
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25186066.mp3|Wij hebben ze in samenwerking met de grotere naburige havens opgelost|5.508
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25770731.mp3|Dat moeten we ons goed voor ogen houden|3.06
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367476.mp3|Zij hebben de besluitvorming van vandaag voorbereid en uitstekend werk verricht|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27710591.mp3|We worden geconfronteerd met tegenstrijdigheden|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33488473.mp3|De verschillende beleidsterreinen hangen feitelijk samen|5.148
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37640449.mp3|Evenmin lijkt mij het compromis voor de pensioengerechtigde leeftijd een waardig compromis te zijn|5.292
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24645822.mp3|U moet nu de stok gaan hanteren|3.852
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23720265.mp3|Ons institutioneel systeem moet niet één systeem bevoordelen ten opzichte van een ander|8.881625
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25024171.mp3|Commissaris waar moet dat geld precies vandaan komen|4.068
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367576.mp3|We zien de problemen en we hebben nog tijd om ze op te lossen|4.272
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18411566.mp3|Nee ik ga naar Werchter|3.336
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810474.mp3|Vandaag is alle twijfel verdwenen|3.696
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36117117.mp3|Dit alles leek een uiterst verstandige zaak|4.032
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25182695.mp3|Vooral risicoschepen moeten uitvoeriger worden gecontroleerd|7.488
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892226.mp3|Deze lidstaten kunnen geen of nauwelijks gebruik maken van financiële of fiscale instrumenten|6.12
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24638013.mp3|Er zijn voor slechts vijf van de elf landen middelen voor schuldsanering beschikbaar|7.668
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24644129.mp3|Ik aarzel niet om beide verslagen voor uw goedkeuring aan te bevelen|4.716
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28316350.mp3|Waarop dient de aandacht te worden geconcentreerd|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25360850.mp3|Een beheerste aanpak van de ontwikkeling van deze markt is dan ook gepast|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24734028.mp3|Hoe kan de regeling worden verbeterd|4.392
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580356.mp3|Hoe denkt u dit te realiseren aan de hand van dit syntheseverslag|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20885593.mp3|De buren waren aan het klagen over de stank|3.864
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27187529.mp3|Het betekent dat je als gokker meestal verliest|4.032
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27021910.mp3|Velen onder u hebben ook de aandacht gevestigd op een ander punt|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24706365.mp3|Met name het gebruik van clusterbommen is bijzonder laaghartig|6.3
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23407347.mp3|Dat is altijd een ingewikkelde kwestie|3.168
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27021881.mp3|Veiligheid is meer dan alleen de militaire dimensie|4.464
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30544178.mp3|Een collega sprak er eerder al over|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23642746.mp3|We konden aangeven wat onze verwachtingen waren|5.352
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28722680.mp3|De eeuwen van slavernij en kolonisatie wegen zwaar op de geschiedenis van de lidstaten|7.776
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24706324.mp3|Dat was geen gemakkelijke taak|4.14
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25233924.mp3|Ik heb met belangstelling naar u geluisterd|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28490671.mp3|Dit is een van de meest verschrikkelijke rampen ooit|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30544100.mp3|Daarbij moeten de regels van de subsidiariteit echter absoluut worden gerespecteerd|6.84
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19630278.mp3|Wil je even binnenkomen|2.952
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23338981.mp3|Maar ik wil er vandaag graag nogmaals op ingaan|5.28
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32363096.mp3|Neen dat is beslist niet mogelijk|3.564
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25360721.mp3|Ik geloof ook dat de technologische platforms een zeer nuttige functie zullen vervullen|6.66
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467592.mp3|En dat systeem is door de situatie geactiveerd|4.716
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18839740.mp3|Ik heb nog wat rum staan in de kast|3.096
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810365.mp3|Voorheen was er slechts steun beschikbaar voor studies in de ontwerpfase|4.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36941898.mp3|Duidelijke rechtsregels kunnen zeker helpen maar wetgeving is daarvoor niet altijd nodig|6.876
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23407361.mp3|Dat zorgt voor moeilijkheden|2.736
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343683.mp3|En daar moet het beginnen niet bij allerlei wettelijke regelingen|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21802084.mp3|Haar ouders hebben de geldkraan dichtgedraaid|5.064
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37640477.mp3|Ik heb een hoop dingen gehoord waarop een simpel antwoord te geven is|3.996
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22777031.mp3|Wij weten dat geboorten en sterfgevallen momenteel niet meer geregistreerd worden|6.0
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30485740.mp3|Aan de grenzen van deze landen wordt dagelijks strijd geleverd|5.688
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22750123.mp3|Dat zijn de verbeteringen die ons in staat stellen om hiermee in te stemmen|4.752
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367542.mp3|Dit zou een prachtige kans zijn op samenwerking op het gebied van transparante technologie|6.384
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467405.mp3|Het is absoluut noodzakelijk dat de internationale hulp goed gecoördineerd wordt|6.372
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715921.mp3|Zij is echter een beetje te bang dat wij haar het initiatiefrecht willen ontnemen|5.796
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21136394.mp3|Onder andere Ierland het Verenigd Koninkrijk Griekenland Portugal en Spanje behoren tot de achtentwintig Europese lidstaten|10.296
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22790172.mp3|Een dergelijke benadering bevordert in geen geval het vertrouwen en de goede samenwerking|6.648
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383779.mp3|Onze gezondheid is ons meest kostbare bezit maar loopt op dit moment gevaar|5.256
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25574117.mp3|Dit is dus een spoedeisende kwestie|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22694746.mp3|Het is zorgwekkend dat jonge mensen steeds later trouwen en kinderen krijgen|3.84
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18289588.mp3|Ik heb de folders laten printen bij de drukker|3.696
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467570.mp3|Kunt u daarover nog iets zeggen|2.844
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22934132.mp3|We hebben een prima auteursrecht|2.832
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343627.mp3|Hierin valt de banken en financiële instellingen veel te verwijten|4.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19006800.mp3|Je kan van me aannemen dat de vakantie erg geslaagd was|5.664
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580587.mp3|We moeten kwaliteit en concurrentievermogen bevorderen|4.68
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715415.mp3|Er brandt een lampje maar het is nog niet rood|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37641087.mp3|Met deze stap heeft u tevens de hindernis van de financiële blokkade weggenomen|5.04
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22452878.mp3|Wilt u een van de nalatigheden|3.408
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27522805.mp3|Wij weten met andere woorden dat het voorzitterschap niet alles kan doen|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343365.mp3|U kunt wel knikken zolang het maar niet hoorbaar is|4.608
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24691964.mp3|Deze is gedateerd en moet worden herzien|4.284
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23496582.mp3|Het gaat hier toch om kleine sommen in vergelijking met vele andere beloften|5.976
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19943636.mp3|Heb je er echt goed over nagedacht|2.784
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24702236.mp3|Op dit ogenblik is er slechts sprake van een paar miljard dollar|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367562.mp3|Terrorisme tast in hoge mate onze veiligheid aan de basis van ons bestaan|5.928
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_35008568.mp3|Ternauwernood ontsnapt aan gevaar|4.068
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23208278.mp3|De tijd is nu aangebroken om duidelijke taal te spreken|5.088
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22751075.mp3|Waarom probeert men niet het huidige systeem te verbeteren|4.272
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25185772.mp3|Dat verheugt ons wel maar wij hadden het graag van tevoren geweten|4.68
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23834415.mp3|Het doel is duidelijk daar zijn we het over eens|3.813875
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25024162.mp3|Ik hoop dat het verslag morgen in eerste lezing zal worden aangenomen|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23438771.mp3|Zij zullen zich deze producten niet ontzeggen en u kunt ze niet tegenhouden|7.296
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24684420.mp3|Het gaat om beperkte groei maar jarenlang was er geen enkele toename geregistreerd|6.624
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23338983.mp3|Terrorisme is er immers vóór alles op uit verdeeldheid te zaaien|7.008
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30522215.mp3|Moed uithoudingsvermogen en kracht zijn nodig|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19190957.mp3|Er is geen plaats meer om bij te bouwen|3.192
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24005254.mp3|Wij raken van de regen in de drup|3.204
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23208280.mp3|Het is onze taak ook daarover te communiceren|4.392
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27722386.mp3|Ten eerste vind ik het opvallend dat de situatie per lidstaat verschilt|4.752
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20830837.mp3|Iedere dag pendelde ze naar haar werk|3.024
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26958268.mp3|We moeten strenger optreden om de interne markt te handhaven|4.284
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36940893.mp3|Zij moeten daarom optimaal gebruik kunnen maken van de mogelijkheden waarover zij beschikken|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383761.mp3|Dierenproeven zouden tot het verleden moeten behoren|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715784.mp3|Vrijheid van denken is een universele waarde|4.356
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20236920.mp3|De jager schoot maar miste de fazant|3.792
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36309328.mp3|Dat geldt eveneens voor embryonale en volwassen stamcellen|5.04
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22777730.mp3|Natuurlijk bestaat het uit compromissen|4.08
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24691927.mp3|Wij moeten daarom een zo breed mogelijk front vormen|4.428
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24734139.mp3|En dat kan eigenlijk niemand verantwoorden|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24718546.mp3|Het grote probleem is echter dat wij onze structuren willen klaarstomen voor de uitbreiding|8.28
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24692305.mp3|Europa wordt in dit opzicht geconfronteerd met drie aan elkaar verbonden uitdagingen|6.84
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23748306.mp3|Laten we hier de proporties niet uit het oog verliezen|3.213
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715389.mp3|De momenteel geldende uitputtingsregeling kan de ontwikkeling van de ecommerce belemmeren|6.12
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36743341.mp3|De consumenten kopen daarom liever voedsel dat duurder maar veiliger is|6.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24664243.mp3|Ik wil uw aandacht op die situatie vestigen dames en heren|5.904
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892171.mp3|Dat is mijn antwoord op uw vraag|3.276
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25024187.mp3|Dergelijk handelen verzwakt onze democratie|3.348
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28650635.mp3|Vooraf werden immers ook al de sectoren tabak en olijfolie hervormd|5.328
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892335.mp3|Het heeft natuurlijk geen zin dat we ons uitsluitend concentreren op het verleden|4.176
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23407355.mp3|De psychische traumas van de ervaringen met geweld zijn niet te tellen|4.656
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32238452.mp3|Helaas werd het punt ter sprake gebracht dat rijke blinde mensen zullen profiteren|7.596
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20236976.mp3|Schildpadden zijn reptielen|2.424
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28650531.mp3|Toch geloof ik dat we een stap vooruit hebben gedaan|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31114724.mp3|Er mag geen muur van stilte zijn geen cultuur van straffeloosheid|7.308
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24718552.mp3|Zojuist hoorde ik bepaalde collegas de ernst van deze opwarming hier afzwakken|7.308
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23746554.mp3|Ik heb de tekst van de gezamenlijke ontwerpresolutie bekeken|4.362375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892159.mp3|Onze fractie heeft een ontwerpresolutie ingediend|3.78
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716798.mp3|Wij kijken uit naar april|3.132
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23424319.mp3|Geachte collegas dit is echt een belangrijk verslag|5.784
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810509.mp3|Ik hoop van harte dat dat voor u mogelijk zal zijn|3.144
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580309.mp3|De recent goedkeuring van een ruimtelijk ordeningsplan is een belangrijke stap|5.04
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23438835.mp3|Het is van groot belang dat begrotingsmiddelen in dit soort gevallen snel beschikbaar zijn|6.696
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27069702.mp3|Dat vereist ook adequate voorzieningen op communautair niveau|4.68
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17724226.mp3|Jezus ligt in de kribbe|2.376
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26944824.mp3|Dit is meerdere malen naar voren gebracht|3.348
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27149891.mp3|Het referendum is blijkbaar van geen belang meer|5.436
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24053951.mp3|Wij moeten de moed opbrengen om duidelijke prioriteiten vast te stellen|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25887036.mp3|Het is toe te juichen dat de kandidaatlidstaten ook aan de projecten kunnen deelnemen|5.94
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24632672.mp3|U hebt het screeningsproces in een substantiële onderhandelingsfase laten overgaan|7.92
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20846302.mp3|Het restaurant ligt op de Oratoriënberg|3.672
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37896413.mp3|Dat is het niveau waarop de inspanningen moeten worden vergroot|6.3
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22934049.mp3|Zelfs als bomen een natuurlijke dood sterven staan zij alle opgenomen koolstof weer af|5.064
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30520147.mp3|Een ander idee is het creëren van een mechanisme om nietgouvernementele organisaties te raadplegen|7.956
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705783.mp3|Het verslag en het voorstel verdienen te worden goedgekeurd|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19262671.mp3|Haarlem is net groter dan Enschede|3.408
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25002789.mp3|Daardoor wordt het vandaag bereikte positieve compromis ondermijnd|5.508
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22979769.mp3|Het is natuurlijk wel te begrijpen|3.216
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367646.mp3|Het merendeel van onze samenleving onderschrijft dit standpunt eveneens|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20380902.mp3|Ze heeft een zware depressie gehad|2.976
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_38112717.mp3|Er is een nieuw interinstitutioneel akkoord nodig|4.14
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28421404.mp3|In feite is soevereiniteit juist symbool van nationale onafhankelijkheid|7.74
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25574096.mp3|Ik hoop dat zij  of beter gezegd wij  gehoord zullen worden|6.408
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28388327.mp3|Ik dank de rapporteur omdat hij deze verantwoordelijkheid op zich heeft genomen|7.02
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383781.mp3|Voorzitter ik zou twee opmerkingen willen maken|3.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28422827.mp3|Zo bezien beschouw ik dit niet als renationalisatie|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22477369.mp3|Leiderschap is iets dat absoluut ook nodig is|3.552
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30980944.mp3|Dat is volgens mij van wezenlijk belang|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37640887.mp3|We moeten op deze zorgen ingaan|2.988
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27069613.mp3|Worden keurmerken ook in andere landen erkend|4.284
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26958396.mp3|Het is nog minder leuk als je het slachtoffer wordt van overboeking|4.392
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24706419.mp3|Het scheiden van mensen werkt nu eenmaal nooit|5.796
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25238525.mp3|Ik hoop dat uw inzet de eerstvolgende zes maanden vrucht zal afwerpen|3.996
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28243683.mp3|Er zullen dan ook bijzondere inspanningen moeten worden geleverd|4.428
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25185656.mp3|Hierin staan de liberalen gelukkig geheel alleen|4.608
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715511.mp3|Deze nieuwe vorm van bestuur werkt niet|4.14
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25002968.mp3|Waarom kiezen de regeringen voor de nieuwe zwemwaterrichtlijn|4.572
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25002930.mp3|Heeft de commissaris een programma ter ondersteuning van jongeren die zoiets zouden willen doen|5.94
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715539.mp3|Zoals ik al zei lijkt onze huidige aanpak te werken|4.428
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32213740.mp3|Ten eerste kunnen wij hun schuld verlichten of zelfs kwijtschelden|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716697.mp3|Dat komt neer op een criminele handeling|4.176
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24723362.mp3|Ieder van ons begrijpt waarom|3.024
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22750036.mp3|Ik denk aan de coördinatie van de sociale zekerheid voor onderdanen uit derde landen|6.72
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25283173.mp3|Dat hebben wij tot nu toe ook altijd zo gedaan|4.284
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23368001.mp3|De ontwikkelingslanden zijn erg kwetsbaar|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22954614.mp3|Hartelijk dank voor uw antwoord|3.504
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20190453.mp3|Ik neem een Uber naar het centrum|3.624
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24984049.mp3|Uiteraard staan wij ook open voor kritiek als wij iets verkeerds doen|5.364
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27191328.mp3|Ten tweede hebben we strengere controles nodig|3.492
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18411555.mp3|De recruiter stuurde een email om contact te maken|5.016
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26329605.mp3|Wat betekent de euro voor hen|2.412
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22452926.mp3|We hoeven het intercontinentaal niet met elkaar eens te zijn om ontduiking te voorkomen|5.688
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23622728.mp3|Het verslag zou sommigen een technisch verslag kunnen toeschijnen maar dat is het niet|6.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33488461.mp3|Die hebben namelijk geen van alle een rechtsgrondslag nodig|6.156
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343692.mp3|Mijn dank voor het antwoord dat veel feiten maar weinig nieuws bevat|5.148
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367613.mp3|We hebben dus aangetoond dat we hierin eensgezind zijn|4.104
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25308840.mp3|Zowel de frequentie van die proeven als de gestelde eisen zouden kunnen worden verhoogd|7.236
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36707563.mp3|Ziedaar waarom wij oproepen tot een spoedige bijstelling van de gemeenschappelijke marktordening|8.388
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24702213.mp3|We zijn dit momenteel nog aan het onderzoeken|3.42
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24664181.mp3|De politieke besluiten mogen niet aarzelend broos of dubbelzinnig zijn|6.228
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23746557.mp3|Wij kunnen en moeten die financiële innovatieve en administratieve marges ook werkelijk aanwenden|6.713375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367685.mp3|Ik weet niet welk percentage van de nationale begrotingen in fraude en onregelmatigheden verdwijnt|6.72
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25324623.mp3|Ten zesde moeten er aanzienlijke financiële middelen worden ingezet|6.264
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23746548.mp3|Zij drukt voor alles haar stempel op het politieke klimaat|4.23175
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24692079.mp3|Zij zouden de richtlijn een belangrijk deel van zijn inhoud ontnemen|4.68
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716070.mp3|Dat strookt duidelijk niet met de huidige situatie in de landbouwsector|5.04
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892441.mp3|Daarom moeten wij meer doen en wel in vier richtingen|4.14
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23806752.mp3|Dit is volgens ons zeer gevaarlijk|3.264
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26957598.mp3|Polen worden gediscrimineerd bij de teruggave van land|4.392
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22452974.mp3|Een aantal problemen komt bij alle agentschappen voor|3.84
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27191349.mp3|Het onderwerp waar ik het nauwst bij betrokken ben is het sociaal beleid|4.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31148884.mp3|We kunnen ons niet veroorloven deze situatie te laten voortbestaan|6.516
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24663390.mp3|Vooral op het gebied van veiligheid komt deze tegenstelling telkens weer duidelijk naar voren|8.316
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24680277.mp3|Ik ondersteun de voorstellen op dit terrein|3.528
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22979772.mp3|Het tweede principe betreft de speciale aard van de missies|5.184
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37896363.mp3|Excuseer mij voor de onduidelijkheid|3.78
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23644723.mp3|Dames en heren ik pleit voor een herziening van de regels|6.060375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_38112783.mp3|Ik zou daarover graag ook uw oordeel willen horen|3.636
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24053836.mp3|Daar moeten wij op inspelen|2.7
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25186026.mp3|Het plan is om in september een informele ministersvergadering te houden|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580382.mp3|Dat zijn de kritische en spannende vragen die wij ons stellen|4.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24691883.mp3|Om al deze redenen moet het voorstel voor een verdrag nog verder worden herzien|6.336
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22751171.mp3|Het antwoord luidde zoals ik had verwacht kan ik wel zeggen|4.704
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22750069.mp3|Het was een genoegen om met hen samen te werken|3.672
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18345378.mp3|De graanoogst was lager dan verwacht dit jaar|3.288
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36941971.mp3|We hebben ook behoefte aan een politieke oplossing|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25002932.mp3|De grote hoop voor werklozen zijn kleine bedrijven en microondernemingen|5.508
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22126302.mp3|Ik wil nog één ding zeggen over de financiële vooruitzichten|4.152
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383762.mp3|Wij willen een nieuwe tweede ronde voor de verkiezingen|4.128
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26957597.mp3|We moeten de schandelijke hebzucht hier een halt toeroepen|4.5
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30641392.mp3|Zoals gezegd zullen we vanmiddag dieper op dit onderwerp ingaan|4.968
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17869805.mp3|Dit is een bekende statistische methode|2.784
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22278612.mp3|De meest uiteenlopende ideeën liggen op tafel waaronder een hervorming van het internetbeleid|6.768
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26945915.mp3|Ik heb twee vragen aan het voorzitterschap|4.644
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26944776.mp3|Welke maatregelen overweegt zij hiertoe|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36704750.mp3|Met deze richtlijn zullen laakbare praktijken van overheidsinstanties uitzonderingen worden|7.668
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23199639.mp3|Ook moeten wij ervoor zorgen dat er antwoorden worden verschaft|5.496
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23811363.mp3|Mijn fractie is echter van mening dat we nog een stapje verder moeten gaan|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715874.mp3|Hoe zal er worden omgegaan met tegenstrijdige belangen|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810424.mp3|Buiten dit kader zal het niet mogelijk zijn om onze goedkeuring te krijgen|4.584
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30608614.mp3|De infrastructuur is sterk verbeterd|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_38112763.mp3|Wij hebben in onze resolutie ook nog over andere dingen gesproken|4.716
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32853090.mp3|Ze mag daarom niet alleen voor de kosten opdraaien|4.608
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19006815.mp3|Welk hondenras is dat|2.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810497.mp3|Wij wachten nog steeds op een evaluatie|3.024
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19943653.mp3|Het moet nog blijken hoe effectief die nieuwe wet is|3.864
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21301039.mp3|Ik ben het dopje van de stift kwijt|3.48
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28316316.mp3|De betrekkingen tussen de kerk en de staat moeten gebaseerd zijn op wederzijds respect|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37939000.mp3|Tegelijk moeten wij dit als suggestie doorgeven aan de komende generaties|5.256
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25898343.mp3|Dat wil ik hier duidelijk zeggen|3.384
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25002999.mp3|Niet lezen maar tekenen is de cynische moraal|4.104
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23642859.mp3|Daarom benadrukken wij de noodzaak om de energieefficiëntie in deze sector te vergroten|7.784375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22954637.mp3|Dat is tegenwoordig een hele onderneming|3.864
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17704804.mp3|Ik gebruik altijd verse groenten uit onze groentetuin|3.264
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30403394.mp3|We weten hoe schadelijk tabakconsumptie is|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37896158.mp3|In snel tempo komen er nu zulke wegen bij|4.716
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25024033.mp3|Ik denk dus dat we in de komende twee jaar heel voorzichtig moeten zijn|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23643929.mp3|Ten derde kan de verantwoordelijkheid van de agentschappen onduidelijk zijn|5.485625
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367688.mp3|Wij hebben momenteel te maken met een waanzinnig concentratieproces in de landbouw|5.52
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23746508.mp3|Naar mijn mening gaat dat niet de goede kant op|2.768875
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37640767.mp3|Er is duidelijk grote behoefte aan maatregelen om een aantal probleemgebieden aan te pakken|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30476501.mp3|De begonnen sociale culturele en economische wederopbouw moet vastberaden worden voortgezet|6.156
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580366.mp3|Ik heb het over borstkanker|3.42
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22694357.mp3|Ik heb echter twee of drie punten van kritiek|2.74275
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24638011.mp3|Deze strijd tegen corruptie en de georganiseerde misdaad moet dan ook worden voortgezet|7.02
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28459293.mp3|Ik hoop dat de commissaris die indruk kan corrigeren|4.428
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25023946.mp3|Wij hebben ons van stemming onthouden|3.636
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24723195.mp3|Dit zou de nagel aan de doodskist van deze hervorming van het chemicaliënbeleid zijn|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20224263.mp3|Het was net niet goed uitgelijnd|3.216
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28650640.mp3|Een andere uiterst belangrijke kwestie is de bestrijding van armoede onder vrouwen|6.156
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24680402.mp3|Dat is bijzonder dom in het licht van dit specifieke verslag|4.86
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31128046.mp3|Ze weigert echter iets te zeggen over de gevolgen voor de werkgelegenheid|6.408
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24684053.mp3|In mijn optiek moet nationale regionale of lokale reglementering mogelijk blijven|6.372
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30520103.mp3|En hiermee ben ik aanbeland bij het volgende punt het stabiliteits en groeipact|6.228
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31148674.mp3|De kleine en middelgrote ondernemingen bij ons zijn goed voor enkele miljoenen arbeidsplaatsen|7.308
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24692219.mp3|Wij delen hun bezorgdheid op veel punten en we zullen alle voorgestelde amendementen goedkeuren|7.236
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32247641.mp3|Ook moeten we de kuststaten helpen hun controlerechten te doen gelden|5.976
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30506021.mp3|Ik hoop dat daar geen bezwaar tegen is|4.5
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705431.mp3|Hoeveel eigendommen moeten er verloren gaan|3.888
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23114824.mp3|Wij hebben weinig tijd en daarom houd ik het kort|3.48
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367956.mp3|Toch redden wij het wij waren onafhankelijk|3.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22278598.mp3|Een kwantitatieve doelstelling voor het terugdringen van de armoede is problematisch|4.464
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36743411.mp3|Ik heb wat interessante cijfers voor u|3.744
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33534222.mp3|Dit is voor ons misschien een kans om nog nauwer samen te werken|5.292
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19502527.mp3|Noorwegen heeft een grote bron met olie en gas|4.08
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26536387.mp3|Dit is dus niet de plek om het te doen|3.06
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18265449.mp3|Waar gaat de bruiloft plaatsvinden|2.904
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24702234.mp3|De zojuist gehouden stemming legt een hypotheek op de toekomst van onze landen|6.12
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28480884.mp3|Ik kan alleen maar herhalen wat ik gezegd heb|5.076
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705738.mp3|Mijns inziens moeten wij beiden doen ook indien hiertussen een zekere spanning kan bestaan|8.028
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22278561.mp3|Wij waren ons sowieso al terdege van deze kwestie bewust|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580465.mp3|En voor uw vastbeslotenheid zou ik u hartelijk willen bedanken|5.148
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25238476.mp3|Daarmee zouden we de situatie bagatelliseren en de gevaren onderschatten|4.608
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715041.mp3|Deze twee benaderingen zijn met elkaar in tegenspraak|3.564
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21452101.mp3|Door de vele vergaderingen was ik amper aan werken toegekomen|4.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36940757.mp3|Als die er wel waren zou ik daar al vanaf weten|4.176
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32853176.mp3|Ik heb enkele studies verricht naar de aantrekkingskracht van het leven in berggebieden|5.868
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33488447.mp3|Ook de monitoring dient ernstig opgevat te worden|4.716
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36114536.mp3|We leven momenteel echter in uitzonderlijke tijden|4.284
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31128544.mp3|Dit zou een blijk zijn van echte transparantie|4.5
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25185637.mp3|Voor mij hangen ontwikkelingsbeleid en klimaatbeleid met elkaar samen|5.04
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37892120.mp3|Zij zullen waakzaam moeten zijn|2.916
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24702163.mp3|Grondige evaluatie is dan zeker belangrijk om de effectiviteit van het sanctiebeleid te onderzoeken|7.956
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705763.mp3|Europa moet lering trekken uit deze ervaringen|4.788
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24668415.mp3|Onze wens te leven in een open voor iedereen toegankelijke democratie maakt ons kwetsbaar|7.38
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24692005.mp3|Ik denk dat dit de fundamentele redenen zijn voor onze voorstem|4.968
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18935519.mp3|Het kabinet komt bijna elke dag samen|2.808
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25024211.mp3|De voorwaarden zijn nochtans duidelijk|2.916
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25185724.mp3|Dit zal een veeleisende taak zijn bij het doorvoeren van hervormingen|5.148
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36704574.mp3|Het is niet slechts een marktinstrument maar ook een zeer belangrijk democratisch instrument|6.408
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24684450.mp3|Natuurlijk moeten we gewelddadig extremisme bestrijden hetgeen onze regeringen al doen|6.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705797.mp3|Een op kennis gebaseerde economie zal in het middelpunt staan van deze strategie|7.596
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25433292.mp3|Kunt u ons garanderen dat het zal lukken of heeft iemand een veto|5.904
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715851.mp3|Transparantie is belangrijk en wordt in een tijd van mondialisering alleen maar belangrijker|6.048
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23496609.mp3|Het zou met moeilijke beslissingen gepaard gaan|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17727359.mp3|Zo lang op naaldhakken lopen kan toch niet comfortabel zijn|3.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715411.mp3|In veel milieukwesties zijn ze vaak belangrijke spelers geweest|5.94
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32213764.mp3|Elke vorm van menselijk leven hoort met respect behandeld te worden|3.78
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715164.mp3|Zij wil dat de op het voorontwerp van begroting opgenomen kredieten worden hersteld|6.768
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24752723.mp3|Integendeel deze biedt juist een aantal voordelen|4.824
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467503.mp3|Dat werk is noodzakelijk om twee redenen|3.852
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810495.mp3|Dat doet het verslag helaas niet|2.376
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28459219.mp3|Als dat zo is wat krijgt de consument daar dan voor terug|6.12
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18411580.mp3|De spits was te snel voor mij|2.784
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383840.mp3|Er zijn nieuwe media nieuwe verspreidingskanalen en nieuwe diensten bijgekomen|5.28
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383774.mp3|De internationale gemeenschap is eindelijk wakker geschoten|4.968
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716630.mp3|Mijn laatste vraag aan u is waarom gaan we ook deze kwestie niet heroverwegen|6.948
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25757002.mp3|Waarom zouden we ook daar niet eens naar kijken|3.6
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23436706.mp3|Dat zijn belangrijke kwesties|3.168
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343903.mp3|Door deze hele onderneming zullen we het bewustzijn bij het publiek vergroten|5.868
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37641197.mp3|Naar mijn mening zou alleen het betrokken publiek een rol moeten spelen|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24643381.mp3|Representativiteit is voor niemand een verworvenheid maar moet allengs worden bevestigd|8.46
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20305914.mp3|Er komt morgen iemand langs om ons huis te schatten|3.624
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23438980.mp3|De verhoudingen worden opnieuw vastgelegd|3.936
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467522.mp3|Daarom moeten we zorgen dat we een rechtsvacuüm voorkomen en een weloverwogen overgang waarborgen|7.848
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25887041.mp3|Ik hoop dat iedereen kan bijdragen aan een dergelijke oplossing|5.292
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25238505.mp3|Een belangrijk voorbeeld hiervan is het voorlichtingsbeleid|3.852
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17862901.mp3|Deze wollen trui is kriebelig|2.736
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20224187.mp3|Met een geodriehoek kan je hoeken meten|4.296
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24754871.mp3|Zelden heb ik een verslag gezien dat zo demagogisch en zo onrealistisch is|9.0
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25239821.mp3|Er worden grote verwachtingen gewekt maar de werkelijkheid hinkt er achteraan|4.32
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21275758.mp3|Het stoute jongetje werd door zijn oma gestraft|4.176
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25030720.mp3|Ik zie met veel belangstelling uit naar uw debat over het voorstel|4.788
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33488446.mp3|Laten wij dus bescheiden zijn in ons taalgebruik maar ambitieus in ons optreden|6.264
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23810337.mp3|We zullen dus moeten proberen doeltreffender te zijn bij het stabiliseren van deze regio|5.736
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32683437.mp3|Ik vraag u ook om een belofte dat de foutenmarge zal verbeteren|5.22
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_26944601.mp3|Is dat de maatschappelijke verantwoordelijkheid van ondernemingen|6.012
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18562512.mp3|Het aantal politieagenten was buiten proportie|3.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30259018.mp3|Het is van groot belang dat we de overeenkomst toepassen zodra dat haalbaar is|6.66
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24664382.mp3|Laten we deze kwestie echter niet meer politiseren dan nodig|5.796
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36743367.mp3|Voorzitter ik wil graag een kennelijke verschrijving herstellen door een mondeling amendement|4.968
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22694840.mp3|Antidumping is een goede dienaar maar een slechte meester|3.892125
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22733252.mp3|Maar we hebben ook het pessimisme van het intellect nodig|4.704
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18267228.mp3|Hij is te groot voor zijn leeftijd|4.296
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24723365.mp3|Het is daarom belangrijk dat het verdrag wordt aangenomen|3.744
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27069777.mp3|Ook ik vind dat we in die kaart moeten investeren|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22126247.mp3|De gewelddaden tegen ongewapende burgers baren ons ernstige zorgen|5.688
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24718545.mp3|Het gevolg was een langdurig conflict over de begroting van het programma|7.38
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467497.mp3|Natuurlijk niet  maar probeert u zich onze positie eens voor te stellen|5.22
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30521786.mp3|Wij moeten dus een totaal nieuwe richting uitgaan|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716863.mp3|Hopelijk komen ze met ons discussiëren|3.312
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25002914.mp3|En vooral ze worden in de hele wereld goed begrepen|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23646577.mp3|Bovendien worden prikkels geboden voor een grotere participatie van de particuliere sector|7.131375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_31343534.mp3|In principe valt er niets van te zeggen dat schulden ingelost moeten worden|6.768
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22750066.mp3|Deze stappen dienen echter wel geconsolideerd te worden|4.488
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27710577.mp3|Wij moeten onze ambities in overeenstemming brengen met de uitvoerbaarheid|4.608
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37124135.mp3|De verkiezingen lijken sterk gemanipuleerd|3.42
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705856.mp3|Dat is alles wat over ons zelfstandige en zelfbewuste buitenlands beleid kan worden gezegd|7.56
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_28722747.mp3|De strijd tegen corruptie is een van de drie prioriteitsgebieden van dit programma|5.868
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24684508.mp3|We dienen een gemeenschappelijk energiebeleid te scheppen in de geest van solidariteit|6.228
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30176066.mp3|Er is vooruitgang geboekt maar wel tamelijk trage vooruitgang|6.444
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30505907.mp3|Mij als jurist schiet in dit verband het woord intimidatie te binnen|6.336
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24684499.mp3|We mogen verstandige aanpassingen in de toekomst niet dwarsbomen|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18267239.mp3|Het is tijd om te gaan slapen|3.648
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27069729.mp3|Wij moeten goede banen hebben met een fatsoenlijk loon|3.924
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27580541.mp3|Dit moeten we respecteren maar tot nog toe was dit niet het geval|5.76
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24722982.mp3|Het is zeer zorgvuldig geformuleerd|3.42
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24754892.mp3|Ik ga nu over naar de verschillende amendementen|7.416
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22278568.mp3|Over het communicatiebeleid wordt enorm veel gesproken|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22954418.mp3|Ik zal daar zo meteen nader op ingaan|4.056
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25002892.mp3|Geachte afgevaardigden de zee is de vergeten helft van onze planeet|5.328
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32684282.mp3|Voorzitter ik wil een woord van dank richten tot de commissaris|3.996
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25248214.mp3|Voor ons zijn drie dingen onontbeerlijk|3.636
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30544123.mp3|Dat is zonder meer een veel te lang tijdsbestek voor onze eigen interne uitdagingen|6.12
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_32247823.mp3|We hebben dus een zeer belangrijke weg afgelegd in positieve richting|5.688
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23806731.mp3|Dit was bijvoorbeeld in het lopende verkoopseizoen het geval|3.984
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24722919.mp3|Ik juich het ook toe dat in de toekomst uitwisselingen mogelijk zijn voor scholieren|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22733266.mp3|De exacte formulering moet hier gehandhaafd blijven|4.824
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23748258.mp3|Ik eindig met twee overwegingen|2.74275
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22733304.mp3|Gezien mijn beperkte spreektijd zal ik maar een paar opmerkingen maken|5.808
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25360723.mp3|Terrorisme raakt de kern van dit alles|3.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24671865.mp3|Wat zijn de behaalde resultaten|3.528
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_19358951.mp3|Hij klom omhoog richting de cabine van de kraan|3.624
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25756692.mp3|Daarvoor wens ik haar te feliciteren|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36113561.mp3|Wij moeten actie ondernemen|3.204
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23438749.mp3|Ook deze kwestie is dus opgenomen|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24004485.mp3|U hebt het onophoudelijk over tekorten en schulden|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22934281.mp3|Ik ben echter sterk voor een scheiding van de machten|3.336
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_33534119.mp3|Ik moet allereerst kwijt dat deze stemverklaring mij niet gemakkelijk valt|5.616
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_18323059.mp3|Wie brengt Anne naar de peuterspeelzaal vandaag|4.152
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22979764.mp3|Deze richtlijn bevat heel wat gebieden die ons zorgen baren|5.376
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23367507.mp3|We zullen de vergadering enkele minuten onderbreken|4.056
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25360852.mp3|Daarom kunnen we logisch gezien niet tegen deze bijdragen zijn|4.68
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20205898.mp3|Het gebeurde gelijktijdig|3.144
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24692214.mp3|Ik zou een korte opmerking willen maken over de principes die onze inspanningen sturen|5.436
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23383773.mp3|Wij moeten goed weten wat dat betekent|3.336
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832898.mp3|Al deze amendementen zijn voor mij derhalve onaanvaardbaar|4.12725
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23365706.mp3|Bovendien is dit een zaak voor de lidstaten|3.744
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30608671.mp3|Het gaat erom of verplichtingen worden nageleefd|5.58
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_30467508.mp3|De derde kwestie is die van banen en lonen|4.392
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715274.mp3|Ik hoop echt dat dat het geval zal zijn|3.6
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_38112052.mp3|Deze materialen zijn immers onderdeel van een functionerende interne internationale markt|6.084
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22129541.mp3|We zullen ons amendement daarom aan de plenaire vergadering voorleggen|6.12
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22747481.mp3|Als dat niet gebeurt stemmen wij tegen|3.816
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24716100.mp3|Waarom stoppen we dan hier|3.276
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27021565.mp3|Morgen moeten we alle amendementen steunen waarin verdere liberalisering afgewezen wordt|6.012
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24705624.mp3|U antwoordde toen zeer snel waarvoor onze dank|3.888
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37641200.mp3|Het tweede misverstand betreft de zones|3.204
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27176109.mp3|We hebben nu eenmaal niet alleen groene industrie|3.888
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22954364.mp3|De manier waarop wij het systeem opzetten is daarom cruciaal|4.536
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23436707.mp3|Hij had het over gisteren|3.384
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24706381.mp3|Informatie over producten en over de productiewijze is cruciaal|7.056
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_22694450.mp3|We mogen niet alles over één kam scheren|2.429375
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25182837.mp3|Mensenrechten zijn niet deelbaar|4.5
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_36114857.mp3|Dat is een belangrijke kwestie die aan de orde moet worden gesteld|4.32
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24754785.mp3|Ik vind het erg belangrijk om te laten zien dat we echt samenwerken|7.776
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_20215414.mp3|Ze lag in een deuk nadat hij zijn dure iPhone in het toilet had laten vallen|4.944
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23338421.mp3|Een expliciete politieke eis is dat hier voordien aanzienlijke vorderingen mee zijn gemaakt|7.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24691991.mp3|Deze maatregel had onmiddellijk van kracht moeten worden|3.96
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_37896524.mp3|De landbouwers in de bergstreken moeten dan ook verzekerd zijn van een redelijk inkomen|6.948
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21832768.mp3|Dat zou namelijk volstrekt onterecht en buitengewoon onverstandig zijn|4.101125
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27191326.mp3|Daarom zou het een vergissing zijn om tegen het voorstel te stemmen|4.572
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24633050.mp3|De interne markt kan niet zonder concurrentie|4.896
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_17710790.mp3|Je mag geen dubbele ontkenning gebruiken|2.184
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_21928421.mp3|Binnenkort beginnen wij met het opstellen van de financiële vooruitzichten|4.92
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_24715816.mp3|Ik ben evenwel van mening dat er meer nodig is|3.06
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23812867.mp3|Dat betekent dat hun hele leven kapot is gemaakt door deze vreselijke ervaringen|4.992
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_27191346.mp3|Wij verwerpen ze ten scherpste|3.24
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_23438950.mp3|Het verslag gaat ook in op de rol van het mededingingsbeleid tijdens de crisis|6.456
+/home/ashankwi/commonVoiceData/nl/clips/common_voice_nl_25182656.mp3|Er moet meer worden gedecentraliseerd|5.22

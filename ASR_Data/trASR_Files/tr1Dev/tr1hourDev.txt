@@ -1,0 +1,1009 @@
+path|transcript|duration
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439881.mp3|Gerçekten mükemmel|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394485.mp3|Her şey düzelecek|2.124
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25199131.mp3|Ardından Olimpiyat ateşi yavaş yavaş söndürüldü|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34309018.mp3|Bana darılma|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37536107.mp3|Hayır oğlum|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695092.mp3|Onun için dua edeceğim|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829737.mp3|Adam öldürünce bunların gözünde yükselmişti…|4.032
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25705998.mp3|Yalnız kaçırılan fırsatlar asla akıldan çıkmıyor ve her hatırlayışta insanın içini sızlatıyor|6.552
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29068765.mp3|Baban öleli beri evin erkeği sensin…|4.068
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28942144.mp3|Tekrar deneyelim mi|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861610.mp3|Bir sorun mu vardı|2.664
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28913977.mp3|Veren el alandan üstündür|3.96
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884206.mp3|Oraya bak|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28944674.mp3|Eceli gelen it cami duvarına siyer|4.248
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34352245.mp3|Bağırışı ortalığı çınlatıyordu|4.14
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36874874.mp3|Hiç sormayacaksın sandım|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36875035.mp3|Eğer yanıma sokulursanız hep beraber uçarız|4.32
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804349.mp3|Sesin prosedürel olarak üretimine de sıkça rastlanır|5.616
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33996720.mp3|Hazırla|1.728
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25325410.mp3|Bundan aşağısı ise hayal kırıklığı demek olacak|4.608
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30683284.mp3|Ne yapacağını biliyorsun|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893416.mp3|Kendini asmış|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28979232.mp3|Gönüllü var mı|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26950040.mp3|Bunu yapabilirim|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20326758.mp3|Gemi seyahati düzenleyen şirketlerin yeterli rıhtımı bile olmayan bir yeri niçin tercih etsin|8.496
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579331.mp3|Artık seninle görüşemem|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34814690.mp3|Beni delirtiyorsun|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17528908.mp3|Büyük yeniden yapım projesi dört aşamaya bölündü|3.936
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861558.mp3|Şehrin dışında karanlıkta birkaç arabanın beklediğini fark ettim|6.084
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543487.mp3|Ben de onu üfleyip çoğaltmak orada bir yangın yapmak ihtiyacını duymuyordum…|7.596
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695530.mp3|Ateş gibi her hareketinden hayat fışkıran bir çocuktu|5.04
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18375327.mp3|Kokaini taşıyan tır Makedon plakalıydı|4.488
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34748004.mp3|Bu haliyle küçük bir çocuk kadar şirin ve manalıydı|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29068160.mp3|Gel yanıma|2.412
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25706419.mp3|Buna rağmen dünyada ciddiye aldığım yegâne iş budur|3.96
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26355817.mp3|Bizi yalnız bırak|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29902622.mp3|Hiçbiri gerçek değil|2.052
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28876386.mp3|Kızımdan uzak dur|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543473.mp3|Son sözlerinden bir şey anlamamış ve başka bir şey sormaktan çekinmiştim|6.516
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34309183.mp3|Sorma başımıza gelenleri diye sızlanıyordu|4.356
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30355918.mp3|Her seferinde|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28869282.mp3|Onun söyleyeceklerinin hoş şeyler olmayacağını belki de beni utandıracağını tahmin eder gibiydim|8.676
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139296.mp3|Henüz karanlığa alışmayan gözlerine kar parçaları vuruyordu|5.76
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28944574.mp3|O hemen yerinden fırladı yeleğinin cebinden kibritini çıkardı|5.616
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21743674.mp3|Bu da duruma siyasi bir açı getirmiyor mu|4.296
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38719545.mp3|Bütün hayatın kaynağı olarak kabul edilir|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19803228.mp3|Uygulanmaları konusunda da sıkıntılar var|2.616
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829667.mp3|Anahtar doğruyadır|3.024
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29800207.mp3|Çok pis kokuyor|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_24831943.mp3|Fabrikanın yedi yüz kişiye iş sağlaması bekleniyor|5.688
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876016.mp3|Tamam yarın görüşürüz|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37539115.mp3|Terledim…|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30694894.mp3|Sizin gibi kadınların namuslu rolüne çıkması bu gayet iyi usul…|5.616
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021467.mp3|Nefes alamadım|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28516176.mp3|Biraz daha tenha sokaklara geldiğimiz zaman yavaşladı|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28219398.mp3|Ortalık kararınca evin yolunu tuttum|3.78
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622784.mp3|Beni öldürecek|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876105.mp3|Şafak…|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28847008.mp3|Seni buraya ne getirdi|1.692
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34351136.mp3|Bravo sesleri arasında sahneden çekildi|4.068
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276703.mp3|Bir nefes alımı kadar hepimiz olduğumuz yerde kaldık sonra delice bağırarak arkasından koştuk…|8.208
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858281.mp3|Saçım…|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28515986.mp3|İşin bitti|1.728
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30629669.mp3|Bağırmazsa…|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804262.mp3|Altyapı kariyeri Romada geçti|4.716
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20326790.mp3|Makedonya bir|3.216
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_24831916.mp3|Festival yirmi sekiz Nisana kadar devam edecek|4.248
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29800242.mp3|Bir aralık yolu da kaybettim iki yamacın arasındaki bir boğazda fundalıklar arasında sıkışıp kaldım|7.848
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394677.mp3|Ya da|1.728
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28516050.mp3|Hükümet konağına girdi…|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394556.mp3|Üzgünüm efendim|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914317.mp3|Barın önünden geçerek yokuştan aşağıya doğru uzaklaştı|4.968
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30629746.mp3|Bana niye söylemedin|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34747978.mp3|Yani ne|4.032
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28888839.mp3|Her an gelebilirler|3.132
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27207821.mp3|Al bakalım|2.412
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35261996.mp3|Devam etmek istiyorum|2.592
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37910243.mp3|Fakat yavaş yavaş o da içerlemeye başladı|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30527499.mp3|Sırtında siyah harap olmuş bir elbise ayağında eskimiş rugan potinler vardı|6.948
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36875010.mp3|Bu elini işte|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25576232.mp3|Şimdiye kadar olduğu gibi|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25359233.mp3|Yaklaşık kırk milyon seçmen sandık başına gitti|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28516108.mp3|Biraz zayıf ve durgun bir kız fakat pek sevimlidir|4.104
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914359.mp3|Haydi kaleyi İsa Bey Camiini filan gezdim akşamı ettim diyelim|6.516
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28942130.mp3|Yüz yüzden utanır|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28925593.mp3|Su bulanmayınca durulmaz|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25898432.mp3|Vergiler olmadan mal olmaz|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32135245.mp3|Nigar Ne yapayım oturacaktım herifle|4.32
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30475320.mp3|Oraya koy|1.836
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948176.mp3|Hadi çıkalım|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29575277.mp3|Yeterince sıcak mı|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543555.mp3|Haydi siz biraz çıkın|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28894585.mp3|Köprünün altından çok sular aktı|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25228230.mp3|Sırada yeni parlamento seçimleri olabilir|4.32
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29576525.mp3|Pekâlâ harika|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342297.mp3|Buraları muhakkak gördüğünü biliyordu|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26529886.mp3|Senin suçun değil|2.124
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29067975.mp3|Yağmur yağsa kış olur|3.96
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696020.mp3|Aslan gibi ayalimi kim bilir ne hallere koydular|5.04
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30683205.mp3|Şöyle işte…|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877195.mp3|Yüzünde hiç insaf yoktu|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35176276.mp3|Keşke burada olsaydın|4.14
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962610.mp3|Ne arıyorsunuz|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948021.mp3|Mahcup mahcup önüme baktım|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139377.mp3|Hamı tatlı yetkini acı|3.348
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34748005.mp3|Sizi anlamaya çalışacağım dedim|3.96
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30694951.mp3|Leğeni getirip gırtlağıma dayarken Dilenci değil|4.428
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543698.mp3|Lisan bildiğim için pısırıklığıma rağmen çabuk terakki edeceğimi umuyordu|6.336
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30574289.mp3|Kararımızı verdik|1.62
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25898551.mp3|Herhangi bir şeye hatırladım mı|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342455.mp3|Dışarıda biri var|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28941719.mp3|Acındırırsan arsız acıktırırsan hırsız olur|5.688
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530240.mp3|Ne demek istediğimi anlıyor musun|2.232
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695192.mp3|Nakavt|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914298.mp3|Bir deli kuyuya bir taş atar kırk akıllı çıkaramaz|5.58
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25704730.mp3|Buna dayanamayacağımı biliyordum|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622825.mp3|Seferberlikte biz de burada oturmuştuk|3.78
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36067821.mp3|Bravo sana|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25898466.mp3|Ayrıca helikopter hizmetleri sunmaktaydı|4.428
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29882963.mp3|At adımına göre değil adamına göre yürür|3.204
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861529.mp3|Ama o iğneleri lüzumsuz yere vuruyor…|4.536
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579876.mp3|Bil bakalım ne oldu…|3.816
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37910241.mp3|Saklanmalıyız|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35176405.mp3|O tek başına mukabele etmek mecburiyetinde idi|5.544
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34310230.mp3|Hep ben…|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25705875.mp3|Yattığım sediri düzelttim|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530169.mp3|Durma|1.08
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20262591.mp3|Bugünse bu rakam beş bin civarında|3.936
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34350773.mp3|Ne halt ederlerse etsinler diye bir düşünce geçerken kendini topladı|5.94
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171425.mp3|Talep reddedildi|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28952874.mp3|Bekâra karı boşamak kolay gelir|3.96
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32830062.mp3|On yaşlarında kadar bir oğlan Amcamı bir görmeyecek miyiz|5.832
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28860909.mp3|Bekler misin|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36406434.mp3|Yahu sen kız olacakmışsm ama yanlış doğmuşsun dediklerini hatırlıyorum|5.868
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530027.mp3|Ne söyledi|1.476
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17348801.mp3|Gece hayatı büyüleyiciydi|3.024
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32830021.mp3|Öteki hızla bağırdı Defol ulan|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556409.mp3|Çok yaratıcı|3.168
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32135082.mp3|Borçlu ölmez benzi sararır|3.564
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26654337.mp3|Ve bu küçük an bana bütün geldiğimiz yoldan uzun görünüyordu|5.796
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394376.mp3|Al hadi|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25552511.mp3|Necla annesi kadar kendini kaybetmiş olmamakla beraber büyük bir üzüntü içindeydi|7.236
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130374.mp3|Hayır pek sayılmaz|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139362.mp3|Birkaç gün mü|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28515783.mp3|Onların ilk işi evvela bu cihetleri sağlama bağlamaktır|5.076
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36067863.mp3|Bu ahbaplık nereden geliyor acaba diye sordu|4.68
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25704678.mp3|Bu kapıyı aç|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962556.mp3|Değirmene gelen nöbet bekler|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543687.mp3|Ben onu beklerken evimi ona kabule hazırlarken ölmüştü|5.58
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877066.mp3|Bu civardaydım|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25021912.mp3|Bunlara ek olarak ülkenin ekonomik durumunda bir değişiklik olacağını düşünüyor musunuz|5.436
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32415644.mp3|Baba malı tez tükenir evlat gerek kazana|4.14
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28979263.mp3|Yirmi gün filan çalıştım Vaziyeti kritik ediyordum|4.428
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948033.mp3|Kara haber tez duyulur|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25755815.mp3|Pasaportlar sefarethaneler ikamet tezkereleri|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439244.mp3|Macide gözlerini muayyen bir noktadan ayıramayarak mırıldandı|5.4
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846998.mp3|Hiç hoş değildi|1.548
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34747946.mp3|Bunu aldım|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695686.mp3|Ahlatın iyisini ayılar yer|4.716
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861504.mp3|Bunun için de kenarı köşeyi araştırmak istemez|4.572
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21426321.mp3|Konserin tarihi Ocak ayı ortasında açıklanacak|3.552
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28915529.mp3|Hamama giren terler|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439412.mp3|Emin olmak için|1.728
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29693658.mp3|Altın yerde paslanmaz taş yağmurdan ıslanmaz|5.22
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35173924.mp3|Ne istiyorsan al|3.78
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33996672.mp3|Eğer herhangi bir şeye şaşacak olsaydım…|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276665.mp3|Yola düzüldüler|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914263.mp3|Yüksek dağın başı dumanlı olur|4.356
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26949967.mp3|Bir gidip gelmeler falan var ama…|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18266850.mp3|Oylar teker teker elle sayılacak|3.312
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37650127.mp3|Güzelsin|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829839.mp3|İşte efendim böylece geçip gidiyorduk|4.536
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35268661.mp3|Büyük bir şey değil|1.656
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29902718.mp3|Kendimi tutamadım|1.98
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28864525.mp3|Siz ne iş yapıyorsunuz|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26654309.mp3|Ben iki üç akşamda bir uğruyor ve her defasında onu biraz daha çökmüş buluyordum|6.372
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342396.mp3|Hatıra|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696266.mp3|Dur canım…|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35174089.mp3|Ben ona inanıyorum|4.104
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30524188.mp3|Selam çocuklar|1.764
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27207925.mp3|Ve kadın artık ayakta duramayacak kadar eridi|3.852
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858534.mp3|Düşünceler kafama bir sel gibi hücum ediyordu|4.932
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30583975.mp3|Bu bir rezalet|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655762.mp3|Sokakta kalan adam|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34350751.mp3|Elimle onu aradım parmaklarıma meşin bir torba dokundu|4.968
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19014556.mp3|Kazadan kurtulan olmadı|4.344
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30368666.mp3|Arsız neden arlanır çul da giyer sallanır|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208435.mp3|Raif efendi peki makamında başını salladı|5.328
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30683136.mp3|Ne biliyorsun|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846913.mp3|Değişim|1.476
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171519.mp3|Duruşma başlamıştır|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36874973.mp3|Seni terk mi etti|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20354446.mp3|Veliler öfkeliydi|2.496
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861427.mp3|Eli pek hafif|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171427.mp3|Nasıl gitti|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556519.mp3|Artık resmileşti|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342443.mp3|Gözlerinden okunuyor|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829877.mp3|Sazların arkasından doğru ince bir keman sesi duyuldu|5.256
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28941704.mp3|Üç yüz yirmi… Yarısı ne eder Yüz altmış…|6.156
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655798.mp3|Güle güle bebeğim|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027901.mp3|Bedri bundan cesaret aldı|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34309314.mp3|Ne o gözlerini kapadın hala fena mısın|5.4
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29901784.mp3|Velakin her şeyin çaresi bulunur|3.528
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876005.mp3|Tamam ben ilgilenirim|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27213073.mp3|Bunu sana kim söyledi|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25748142.mp3|Çok acayip bir çocuksunuz|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858133.mp3|Hayal kırıklığına uğrattığım için üzgünüm|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37536133.mp3|Yıllarca vaklamıştı|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962613.mp3|Yerin kulağı var|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35174302.mp3|Ben ölmeyeceğim|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530084.mp3|Yalvarırım|1.584
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37893048.mp3|İçeride kim var|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868486.mp3|Hadi artık|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578662.mp3|Onu istemiyorum|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877311.mp3|Son durum nedir|2.304
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29693789.mp3|Ben şöyle arada bir yoklananlardandım|4.752
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208631.mp3|Benden ne saklıyorsun|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18439932.mp3|Bu arada enerji piyasası da serbest bırakılacak|4.464
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25544432.mp3|Ama hayret ediyorum|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876164.mp3|Oh bu harika|3.348
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439308.mp3|Bu çok farklı|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34350841.mp3|Raif efendinin de karısına karşı garip bir nazikliği vardı|5.328
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35176311.mp3|İyi değil misin|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884742.mp3|Kafamı karıştırıyorsun|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28856904.mp3|Yalnız konferansı asıl dinleyecek olanların düşüncesi alınmadı|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37349655.mp3|Açık değil|1.116
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36406447.mp3|Onunla gurur duyuyorum|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579213.mp3|Ne yapmanız gerektiğini biliyorsunuz|4.212
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32135254.mp3|Güzin Hanım istemeyerek yaklaştı|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021228.mp3|Size nasıl teşekkür edeceğimi bilmiyorum|3.744
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25706259.mp3|Evet bekledim hem yalnız sonbahara kadar değil tam on sene bekledim|6.12
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622739.mp3|Ve niçin kıskanmadığımı merak ediyorum|3.996
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068932.mp3|Kasabaya son gelen kumpanya Sahir Sühanın Sanatkar Gençler temsil heyeti idi|7.02
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846937.mp3|Bu bizim işimiz|1.836
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948119.mp3|Ahenk yolunda|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36875032.mp3|Sarı dişlerimi açıp sırıttım|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34748063.mp3|Yusufun dizine vurdu|4.716
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21414644.mp3|Seçimler on yedi Kasımda yapıldı|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28942120.mp3|Eski karısı|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35271649.mp3|Evet sensin|2.232
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858057.mp3|Günün birinde bitişik ormandaki yabani hayvanlar canavarlar birbirine girdiler|9.54
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30683212.mp3|Bütün gün hep yanımda kalmanı istiyorum|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34747873.mp3|Bunları söyleyen kıza doğru koştum|3.384
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30683024.mp3|Etrafıma dakikalarca bakındım kimseler yoktu|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29355401.mp3|Seni hiç anlamıyorum|2.772
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25705029.mp3|Beni nereden tanıyorsunuz|3.744
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29901416.mp3|Belki öyle olur Ama sizi kapımdan çevireceğim|4.608
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579289.mp3|Kokuyu aldınız mı|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29902610.mp3|Efendim iyi misiniz|2.052
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877505.mp3|Çok konuşuyorsun|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27208478.mp3|Gidebilirsin|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556448.mp3|Her şey bizim ruhumuza tabi…|4.248
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858156.mp3|Belki sana yardımcı olabilirim|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34747871.mp3|Sorun para değil|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28978818.mp3|Sağ baş yastık istemez|3.528
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139349.mp3|Ocağına düştük kaptan diye boşandı üç bin sandık portakalım var|7.164
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579445.mp3|Unutun bunu|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36440414.mp3|Ona yardım etmek istiyorum|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868295.mp3|Peki ne için|3.492
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26355903.mp3|Gezdikleri yerde her gördükleri şeyin kendilerini sevindirmek için yaratıldığını sanıyorlardı|6.516
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877059.mp3|Güzel cevap|3.672
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171402.mp3|Yardım edebilir miyim|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342367.mp3|Hesabı sen görüver yanımda ufaklık yok|4.14
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37536116.mp3|Kaçırıldı mı|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35271647.mp3|Bunu düşünme|2.232
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868252.mp3|Bunun için hastaneye gelip giden doktorlara lazım oldukça ufak tefek tercümeler yapıyordum|8.316
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32955005.mp3|Kalıyor|1.224
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578247.mp3|Bize bir dakika verin|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021173.mp3|Evet birazcık|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28856790.mp3|Kara|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29580048.mp3|Öde|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26967261.mp3|Kaç yaşındasın|2.484
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962681.mp3|Üzgünüm bunu yapamam|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342422.mp3|Kader hışmına vurulursam|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29882955.mp3|Böyle iyiyim sağ ol|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32134880.mp3|Ertesi gün İbrahim erken erken doğumevine geldi|4.392
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30407789.mp3|Müesseseden|1.368
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33892972.mp3|Galiba bu gece orada kalacaklar…|3.96
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579694.mp3|Evet endişelenme|3.348
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21356204.mp3|Peki bu sorunlarla başa çıkma şansımız nedir|3.816
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28730176.mp3|Uhhuh|1.368
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556516.mp3|Birkaç sorum olacaktı|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846932.mp3|Çekiç…|1.476
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26448757.mp3|Nereden biliyorsun|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30694926.mp3|Kimle konuşuyordun|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26957893.mp3|Neylemeli|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914400.mp3|Baş başa bağlı baş da şeriata|4.428
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877087.mp3|Ayın ışığı kapı arasında duran kadının yüzüne vurmuş ve yarısını aydınlatmıştı|6.012
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29909518.mp3|Uzun bir yolculuk olacak|3.348
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28869186.mp3|Sanırım ölüyor|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28219349.mp3|Arkanı dön|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_24998131.mp3|Ülkede iki bin iki yüz elli altı sandık merkezi olacak|5.58
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30368665.mp3|Korku mu|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30527489.mp3|Bir memur vagon kapısını örtüyordu|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962706.mp3|Abdalın karnı doyunca gözü pabucundadır|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342145.mp3|Bunu siz mi yaptınız|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543476.mp3|Ben buradaki nebatları seyrederken biraz da kendimi düşünüyorum|6.408
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877499.mp3|Ne haltlar oluyor|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34748006.mp3|Macide’yi içeriye iterek kendisi de arkasından girdi|4.248
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35215904.mp3|Birazdan geçer|1.476
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26448807.mp3|İşe yarıyor|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556495.mp3|Yedi yaşında|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858431.mp3|Kendimden nefret ediyorum|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30409067.mp3|Öksüz kuzu öveç olmaz|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26950959.mp3|Bir vapur kazasından sonra buraya düştüm karım da burada öldü…|5.76
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877055.mp3|Bu da senin|2.232
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28219383.mp3|Tam bir emniyetle gözlerimin içine bakmış sonra gülmüştü|4.68
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19803211.mp3|Bayrami şimdi hapishanede cezasını çekiyor|3.264
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948042.mp3|Sıcağa kar mı dayanır|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530204.mp3|Harikaydı|1.368
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893372.mp3|Bunu neden yaptınız|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877468.mp3|Senin bünyen taş yapmaya çok müsait|4.284
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26950580.mp3|Duyuyor musunuz|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027833.mp3|Onu ne zaman görebilirim|4.608
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29355601.mp3|Başkan…|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893354.mp3|Değişmiş|1.836
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28856851.mp3|Tamam söz|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34309015.mp3|Öyle olmak zorunda|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25581884.mp3|Berlinde yalnızsınız değil mi dedi|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27199388.mp3|Bir dakika lütfen|1.872
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394487.mp3|Şükufe benim odada mevcudiyetimden haberdar değilmiş gibi davranıyordu|5.076
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30524214.mp3|Eğer bugünlerimde beni sen de yalnız bırakırsan ne yaparım ben o zaman|4.14
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18377294.mp3|Zamanın hepimizin lehine işlediğine de eminim|4.344
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29799619.mp3|Zor bir gece miydi|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21172973.mp3|Reformlar Türkiyedeki siyasi bölünmeden sağ kurtulabilir mi|5.856
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543611.mp3|Masaların üzeri renk renk şişelerle dolmuştu|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068934.mp3|Ve bir gün her şey bitti|2.232
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655842.mp3|Onun hatası değil|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439448.mp3|Haydi oturalım dedi Ne kalabalık|3.348
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36874990.mp3|Ablanız gençtir…|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36067820.mp3|Ömer bu karmakarışık eşya içinde daha çok sıkıldı|5.652
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858382.mp3|Benimkini de|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35176261.mp3|O senin|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25542966.mp3|Yüzüme adeta yalvararak bakıyordu kolunu uzattı|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19183236.mp3|Mesiçin görev süresi Şubat ayında sona eriyor|4.824
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578467.mp3|Hediye|1.728
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893197.mp3|Sözlerim geceyi çınlattı|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35242493.mp3|Ölmüş işte|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139460.mp3|Az sabırda çok keramet vardır|3.96
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28860904.mp3|İntihar etti|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30475324.mp3|Atıyorsun|1.62
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021466.mp3|Çok acayipti|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35271636.mp3|Sen benim dostumsun|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36874937.mp3|Ve o da benim ruhumda benim bile bilmediğim şeyler keşfedecektir|5.796
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868365.mp3|Son günlerde hastalığı tekrar ağırlaşmıştı|4.788
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208526.mp3|Sonra bir gün kendimi sizin kollarınız arasında bulunca ne istediğimi anlıyorum|5.868
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579727.mp3|Burası imaret değil|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027859.mp3|Hatta ihtimal biraz da teessür vardı|4.428
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26529013.mp3|Harbi mi|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36874907.mp3|İzmire mi diye sordu|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30356008.mp3|Yerlerinize geçin|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28970654.mp3|Belki de yoktur|3.024
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26529665.mp3|Onların üstüne doğru uzanan siyah ve büyük bir hayalet görüyorum|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30503533.mp3|Her şeyi berbat ettim|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25706542.mp3|Baldızımın da çocukları var|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27208184.mp3|Ben hallederim|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208607.mp3|Onu kastetmedim|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30583972.mp3|Adı nedir|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36406548.mp3|Gerçekten istiyor musun|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342477.mp3|İhtiyatlı bulunmak daha iyi…|3.168
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30460456.mp3|O iyi bir insan|4.14
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36067862.mp3|Yardım edecek kimse yok mu|3.204
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28931467.mp3|Dayanık öküze oha neymiş|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342144.mp3|Yarın güneş ıslak dünyanın ve kanlı meydanların üzerinde parlayarak her şeyi temizleyecek|7.02
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877653.mp3|İşimiz bitti mi|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543629.mp3|Kuş|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171507.mp3|Bunu nasıl yapıyorsun|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696009.mp3|Al gömlek gizlenemez|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28941818.mp3|Avrat var ev yapar avrat var ev yıkar|5.076
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28847015.mp3|Seni buradan çıkaracağım|1.584
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439269.mp3|Mehmetin annesine Oğlun eceli ile mi öldü|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20262672.mp3|Maktoufun cezası Haziran ayında sona erdi|4.944
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26654366.mp3|Bu çok tuhaf|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804247.mp3|Bundan sonraki yaşamını tümüyle yazılarına adadı|4.356
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30630086.mp3|Otur şuraya|1.98
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32875924.mp3|Derhal doğruldu ve ayaklarını karyoladan aşağı uzattı|4.536
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26644162.mp3|Hadi gidelim|1.692
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26529993.mp3|Yükselince pek belli olmayan bu yabancı sesler alçaklara inince derhal kendilerini gösteriyorlardı|5.58
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20416329.mp3|Söz konusu süre altı ay|3.264
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877470.mp3|Emine zalim anana babana uyup beni çok ağır sınadın|5.328
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578319.mp3|Ben konuşacağım|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655884.mp3|Gevezelik etme ulan|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20553690.mp3|Bu yılki festivale kırk dokuz film katıldı|3.144
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846923.mp3|Üçüncü gün ikindi vakti cenup tarafı karardı|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948058.mp3|Sinek pekmezciyi tanır|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32069215.mp3|Bunu düşün|1.62
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36440388.mp3|Dokunabilir miyim|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26644410.mp3|Ertesi günü akşamüzeri şirketten ayrılmadan evvel Raif efendinin masasına gittim|5.364
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34309181.mp3|Gerçeği anlat|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695195.mp3|Bu bakış ancak bir an kadar sürdü|4.356
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829629.mp3|Namaza meyli olmayanın ezanda kulağı olmaz|5.292
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139455.mp3|Şimşek çakmadan gök gürlemez|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18756452.mp3|Olayla ilgili soruşturma sürüyor|2.304
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29355217.mp3|Al öyleyse|2.592
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804334.mp3|Ve muhtemelen malzemeden geçen en kırılma|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139319.mp3|Adamın iyisi iş başında belli olur|4.284
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342438.mp3|Hayır değilsiniz|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208621.mp3|Bir eğlence yapsak bir avrat oynatmaya kalksak hemen arkadaşlar bana gelirler|6.516
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19104343.mp3|Mevcut durum bu tür bir güce ihtiyaç duyulmayacak kadar güvenli mi|5.352
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068832.mp3|Memlekete yeni gelen memurlara her türlü kolaylığı gösterir…|5.076
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655943.mp3|Baştan alıyoruz|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30630706.mp3|Cin tutana bir muska yeter|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29355602.mp3|Yok iyiyim|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876100.mp3|Kapanmıyor|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26551629.mp3|İtiraf et|2.124
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29901552.mp3|Onlar benim değil|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25544590.mp3|Mika levhaların arkasında parlayan kızıl gözleriyle demir sobayı gördüm|6.156
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846966.mp3|Fakat ben kendilerini tanımıyorum ve bundan pek müteessirim dedim|4.068
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130066.mp3|Naber|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893398.mp3|Çok acele ediyor|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28864442.mp3|Beni koru|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26448762.mp3|Çok teşekkür ederim|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439723.mp3|Boyundan büyük sazı|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556449.mp3|Buralarda değil|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28889004.mp3|Bununla gurur duyuyorum|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543603.mp3|Ortadan kaybolmuştu|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17427332.mp3|Başka kaynaklardan da eleştiriler gelmedi değil|3.624
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25706535.mp3|Elbette|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35215934.mp3|Gayet yavaş bir sesle Aptal Nihat…|3.024
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914541.mp3|Acele giden ecele gider|3.348
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948103.mp3|Ön tekerlekler hendeğe beraber girerdi Zınk der dururduk…|6.336
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068997.mp3|Kamil ürperdi|1.836
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696264.mp3|Canlan biraz|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439242.mp3|İhtiyar anne artık tahammül edememiş daha ziyade ağlamaya başlamıştı|5.256
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29799761.mp3|Bayağı oldu|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32134716.mp3|Bu çok sinir bozucu|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914815.mp3|Ustanın çekici bin altın|3.78
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26356176.mp3|Oturun|1.836
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914751.mp3|Bu hastanenin her türlü hastalığının mütehassısı oydu|5.328
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021206.mp3|Hissizleşmeye başlayan ağızlarına arka arkaya rakı döküyorlardı|5.652
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884725.mp3|Sıkıştık|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29860560.mp3|Odanın küçük sac sobası hiç durmadan yanıyordu|5.76
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342473.mp3|Gel lan buraya|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171277.mp3|Hacer sesini yükselterek Kalksana kız|4.68
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26644177.mp3|Hemen|1.08
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130971.mp3|Ve öyle şeyler çalıyordu ki adaşım onları anlatmaya bizim kullandığımız kelimelerin takati yoktur…|6.336
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19190324.mp3|O zamandan bu yana bin engelli iş buldu|3.744
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29580186.mp3|Ara ver|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342421.mp3|Bizim pansiyonda dayızadenizle yakından alakadar olan biri var onunla karşılaştık|6.588
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28481643.mp3|Ali göğsünden kuvvetle fırlattığı sesi bu cenderenin arasından geçirebilmek için ter döküyordu|7.848
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263247.mp3|Araştırmaya devam edin|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28847000.mp3|Bu onuru neye borçluyum|1.728
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439250.mp3|Macide müsamere başladıktan sonra Bedri’yi görmediğini hatırladı|4.68
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696252.mp3|Sabaha varmadan çürür|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021558.mp3|Başka ne gördün|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18697591.mp3|Projenin değeri iki virgül yetmiş yedi milyon avro|3.624
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893016.mp3|Sana birşey göstereceğim|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263150.mp3|Beni utandırıyorsunuz|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543702.mp3|Bunun için muhakkak bir erkeği sevmem lazım geldiğine inanıyorum|5.76
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32069099.mp3|Bu panayırın en büyük hünerleri içerde|3.672
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861600.mp3|Şu halde beraber yürümemizde ne fevkaladelik var|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34308916.mp3|Sen kötüsün|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543764.mp3|Biraz sonra ayak sesleri ve fısıltılar koridorun öteki başına doğru uzaklaştı ve kayboldu|7.56
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25706658.mp3|Böylece beş gün geçti|2.412
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530878.mp3|Evet yapabilirsin|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27198848.mp3|Bingo|2.412
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579702.mp3|Bana dokunamazsın|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171400.mp3|Evet sağol|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30509858.mp3|Çünkü kendisine malik olmak arzusunda değilim|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17346753.mp3|Hükümet şirketin %ini elinde tutmak istiyor|3.696
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914391.mp3|Keçi nereye çıkarsa oğlağı da oraya çıkar|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579844.mp3|Hayır hayır teşekkürler|3.852
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36067840.mp3|Bu korkunçtu|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876110.mp3|Türkiyede içerisine külliyatlı miktarda esrar girmemiş hiçbir hapishane yoktur|5.58
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28941755.mp3|Ya öküzlerle araba dört yüz etmezse|4.896
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35217547.mp3|Bir saatimiz var|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19190356.mp3|Sadece bir kişi kurtulmayı başarmıştı|3.264
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17416039.mp3|Reform finansal açıdan da faydalı|3.504
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34748205.mp3|Başka türlü olacağını mı zannediyordunuz|3.852
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33996733.mp3|Harika bir yer|1.98
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30368659.mp3|Haber veririm|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35174472.mp3|Seni duyabilir|3.528
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021153.mp3|Anlaştık öyleyse|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276654.mp3|Yapamam işte|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394501.mp3|Şöyle böyle iki saat kadar yürüdük|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17842758.mp3|Halk için asıl kriz sosyoekonomik|4.248
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130235.mp3|Tekrar merhaba|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30629569.mp3|Kalın bacadan çıkan kara dumanlar güneşin doğmak üzere olduğu tarafa doğru kıvrım kıvrım uzanıyordu|8.1
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914578.mp3|Vallahi billahi benim dediğim gibi oldu Ali Faik diye izahat veriyordu|7.2
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26949966.mp3|Alo|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35174131.mp3|Bunu hiç unutmayacağım|3.564
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28481362.mp3|Tam zamanında|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19194272.mp3|Projelerine harcanan tek para kendi paraları|4.824
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962482.mp3|Dokuz keçe su geçe bir deri soğuk geri|5.22
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29355404.mp3|Tanıdığım biri var|2.664
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29800321.mp3|Üzgünüm canım|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32415615.mp3|Gayet iyi biliyorum|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32698432.mp3|Ha…|1.728
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696261.mp3|Acaba bu yol asfalt olsa şehrimizi sık sık şereflendirir misiniz|5.76
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20339717.mp3|Ayrı bir kapta şekerli suyu kaynatın|3.192
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25199079.mp3|Cuma günkü oylamaya karışık tepkiler geldi|3.672
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26076883.mp3|Bozuk paraların çoğu büyüklük ve şekil bağlamında farklı avro bozukluklarına çok benzemektedir|6.588
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35271645.mp3|Sana ne anlattı|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914453.mp3|Kepenek altında er yatar|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35176397.mp3|İçerideyiz|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30460471.mp3|Bir şeyler söyleyerek bunları kafamdan uzaklaştırmak için|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32134881.mp3|Kemal onu eliyle itti Sen gideceksen git ulan|4.788
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21731383.mp3|En büyük ve en değerli firmalar hala devlet malı|4.584
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30629459.mp3|Tercüme için bir şey mi getirdiniz|3.996
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868609.mp3|Neden bir şey söylemedin|2.592
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29548438.mp3|Tabii hanımefendi|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27199476.mp3|Git artık|0.864
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622833.mp3|Çakıcı dalgın düşündü|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021277.mp3|Kendinden çok eminsin|3.204
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21288403.mp3|Pahor bu hareketi eleştirdi|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263166.mp3|Bağdatta hurma üzerine iş yapıyor|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394611.mp3|Var|1.836
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29800604.mp3|Önemli olsa iyi olur|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29355190.mp3|Gerçekten beğendin mi|2.844
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26356614.mp3|Hayır hayır hayır|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28481708.mp3|Yalnız birkaç kere|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861543.mp3|Affedersiniz lütfen|3.312
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068912.mp3|Biraz yavaşla|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25199075.mp3|Yaşları on dört on beş ve on altı idi|3.852
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578407.mp3|Artık güvendeyiz|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30683803.mp3|Ondan nefret ediyorum|1.584
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29694336.mp3|Korkarım birkaç sene sonra şehir yeniden örtünüp kaybolacak|4.932
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37650138.mp3|Bavulu tekrar bir elinden öbürüne aldı ve bu sırada|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804383.mp3|Tasavvufta belirli tarikatlarda bulunan bir uygulamaya verilen isimdir|5.868
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29668876.mp3|Biri mi|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32875932.mp3|Ceketini çıkart|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868507.mp3|Ne yapsınlar Bu dünyanın düzeni böyleydi|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27207726.mp3|Yarın gündüzün buluşacağız|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25705724.mp3|Dediğim gibi gayet iyi dost olabiliriz|3.744
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28334667.mp3|Birçok istasyonları arkasında bırakan bir tren kadar tabiilikle birinden ötekine atlıyordum|6.48
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36406545.mp3|Geri döndüler|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32875999.mp3|Ne filmi|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29901710.mp3|Kız dedim Kız… sen…|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276597.mp3|Gök Büvetin orda|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948027.mp3|Gelin girmedik ev olur ölüm girmedik ev olmaz|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695172.mp3|Ne kadar ekmek o kadar köfte|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38719525.mp3|Ayrıca dans müziği ritimlerini de bolca içerir|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19183321.mp3|Kıbrıs Rum takımı bu yıl turnuvaya katılmayacak|3.216
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579500.mp3|Ne kaçırdığını bilmiyorsun|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30368668.mp3|Numara yapmayı bırak|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543572.mp3|Şimdi ben gidiyorum|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26529806.mp3|Sus|1.332
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26076891.mp3|Açım|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579198.mp3|Buradaki|3.132
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068725.mp3|Hayvan herif|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530403.mp3|Diyiversene ha|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543688.mp3|Hep böyle devam edecek değil ya|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208804.mp3|Sen ilgilen|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622816.mp3|Sorun bu mu|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171299.mp3|Hayır olmaz|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28131080.mp3|Yerinden kımıldamaya çalıştı|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30527487.mp3|Sen de git otelden eşyalarını al buraya naklet|4.968
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32135298.mp3|Geçmiş en öne kasılmış|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28913981.mp3|Aza sormuşlar nereye çoğun yanına demiş|5.328
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139317.mp3|Bir kızı bin kişi ister bir kişi alır|4.572
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914228.mp3|Can bostanda bitmez|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20262659.mp3|Bunu beğenmeyen istediği yere gidebilir|4.104
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26950626.mp3|Durun biraz|1.836
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622731.mp3|Köylere gitmeden evvel birçok şehirlerimize bile doktor lazım|5.508
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32875988.mp3|Arkadaşız biz|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27208098.mp3|Hepsini|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439841.mp3|Yalnız biraz daha intizamsız ve çok daha manasızdı|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696213.mp3|Atlar tepişir olan eşeklere olur|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36406557.mp3|Mesela ben|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35212557.mp3|Bana bir iyilik yapsana|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556492.mp3|Sana ne ki|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543718.mp3|Gülerek başını salladı|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26644366.mp3|Evet efendim|1.368
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394463.mp3|Bunların hepsi mevcudiyetlerinden memnun görünüyorlardı|4.104
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17416043.mp3|Projeye iki bin on yılında başlanması planlanıyor|3.816
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276660.mp3|Bu vatan hainlerinin arasına herhalde merak saikasıyla sokulmuş olacaksınız|6.804
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276580.mp3|Eyvah|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543627.mp3|Halbuki o hiç de fevkalade bir adam değildi|4.356
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32135209.mp3|Ne demek istiyorsunuz|3.024
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29576401.mp3|Bu yüzden sana geldim|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846924.mp3|Aklımı kaybediyorum|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21317984.mp3|Bu esirler de Kamenica kampına gönderildiler|3.864
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27207880.mp3|Ağır ağır uzaklaştım|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276497.mp3|Cam kırıkları dolmuş içine…|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27638876.mp3|Seni istiyorum|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30503519.mp3|Hiç gerek yok|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25993634.mp3|Poole Harbour çeşitli boyutlardaki birkaç adanın bulunduğu yerdir|6.876
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25755842.mp3|Başımı kaldırdım|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893077.mp3|Ve siz…|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32698219.mp3|Geciktin|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25755819.mp3|Canım yemek istemediği için odama çıkmayı ve biraz kitap okumayı düşündüm fakat derhal vazgeçtim|8.028
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394714.mp3|Ben kimseyi öldürmedim|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26654305.mp3|Meşgul müsün|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276734.mp3|Maria Pudere meseleyi anlattığım zaman bir müddet sustu|5.508
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695066.mp3|Evi ev eden avrat|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28481101.mp3|Nihayet dudaklarını hafifçe kıpırdattı|5.04
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19101107.mp3|Bülbüller güneş ışığında şakıyorlardı|5.184
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868514.mp3|Evladı ben doğurdum ama gönlünü ben doğurmadım|4.572
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877204.mp3|Sadece söyledim|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556522.mp3|Derhal kızacaktı|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893797.mp3|Sokak kapısından bahçeye doğru bakındı|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37536123.mp3|Bir arkadaşıyım|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25705726.mp3|Birkaç gün içinde ne kadar değiştiğimi düşününce bugün bile şaşıyorum|5.04
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27208338.mp3|Yürüdü…|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29576588.mp3|Ne istediğimi biliyorsun|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27208604.mp3|Bütün bunları o zamanlar bu kadar vazıh ve derin düşünüp düşünmediğimi bilmiyorum|6.696
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530943.mp3|Erkek|1.404
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26950578.mp3|Günün nasıldı|2.268
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28847025.mp3|Çok da umurumdaydı|1.512
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530166.mp3|Zamanı geldiğini sanarak Arkadaşınız mıdırdedim|3.528
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655912.mp3|Az biraz|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30694877.mp3|Dur bakalım|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21454261.mp3|Makedonyanın isim müzakerelerinde yeni bir momentum mu|3.984
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868602.mp3|Hiç güvenli değil|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655704.mp3|Ne doğru mu|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18511793.mp3|Bunların çoğu yirmi ile yirmi dört yaş arasında|3.72
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948256.mp3|Seni kurtaracağım|4.14
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35174096.mp3|Bir sabah erkenden sokağa çıkıyordu yeğeninim önünde biraz durdu|8.064
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027890.mp3|Yala|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30602866.mp3|Yumurta…|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28931550.mp3|Teşekkür ederim fakat ben bir at bulup Çirkinceye kadar gitmek istiyordum diye mırıldandım|6.408
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25581886.mp3|Sokaklarda maksatsız dolaşanlar ve tozlu havada bir parça akşam serinliği arayanlar çoktu|6.768
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130256.mp3|Gözlerini açtı…|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439794.mp3|Onlar da maksatlarına nail olmak için buraya bile hücum edeceklerdir|5.976
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28847044.mp3|Defterler tamam tartılar tamam kayıtlar noksansız|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695554.mp3|Naber ahbap|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28941758.mp3|Kötü zamanlama|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34310151.mp3|Hiçbir şey olmamış gibi|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36067825.mp3|Böylece hiç kimseye hasredilmeyen bir aşk bütün kainatı içine alabilir|7.056
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695588.mp3|Bir alkış koptu|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696117.mp3|Pekala ben…|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394630.mp3|Niçin çekiniyordu sanki|2.412
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32698043.mp3|Benimle konuşabilirsin|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37671581.mp3|Doksan iki|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28864508.mp3|Hadi geç olmadan yolumuza gidelim|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26950721.mp3|Boğazını sıkarım…|1.98
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342332.mp3|Dudakları kitlendi|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21426389.mp3|Durumdan sendikalar da hoşnut değiller|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28856784.mp3|Komik adam|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25544443.mp3|Gözlerini kapamıştı|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276702.mp3|Tamam sakinleş|5.184
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20310784.mp3|Fakat bunun olacağına herkes inanmıyor|4.92
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35176277.mp3|Bu kızın karşısında hokkabazlık yapılmayacak diye düşündü|6.66
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_24997915.mp3|Ayrıca gerçek etnik köklerimizin arkasında saklanırsak önyargıyla nasıl savaşırız|6.948
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027850.mp3|Bu kadar ince bu kadar temiz…|3.996
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139390.mp3|Ne kadar acıktığımı şimdi birdenbire anlıyordum|5.436
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28860919.mp3|Dosyalar…|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858501.mp3|Çalılar arasındaki patikada bir müddet gözümden kayboldu|5.976
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29355216.mp3|Gözlük|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208679.mp3|Size o halimle görünmekten memnun olmayacağımı zannediyorum…|4.608
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28888790.mp3|Bugün pazartesi|2.232
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948122.mp3|Aşığın gözü kördür|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27208473.mp3|Durun bir dakika|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962524.mp3|Karanlıktan yüzünü kamçılayan kar ve rüzgardan dizlerine sıçrayan çamurdan ve duyduğu seslerden korkuyordu|9.54
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829786.mp3|Onu buradan götür|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858129.mp3|Evet affedersiniz|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32461663.mp3|Bir ay kadar sonra idi köye iki süvari candarma geldi|5.508
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25325418.mp3|Buna harcanan paraya değer kriz ne kadar büyük olursa olsun|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32875943.mp3|İçimi sebepsiz bir endişe kaplıyor…|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20326759.mp3|Çoğu zaman karaborsa veya suçla uğraşıyorlar|6.144
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20262645.mp3|Davaların çoğunda iddianameler hala bekliyor|5.616
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893122.mp3|Onlara ne|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28869160.mp3|Onun mu|2.664
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35173922.mp3|Karnınız aç değil mi Sevim Hanım|4.644
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18731962.mp3|Bugün Goralılar üç ayrı ülkeye dağılmış durumda|3.264
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26448756.mp3|Affedersiniz|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28129940.mp3|Beklemede kalın|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34747895.mp3|Gelmiyorsun|2.052
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37650088.mp3|Oyun zamanı bitti|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26950094.mp3|Fakat bu Gramofon Avrat…|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29902558.mp3|Birisi bana yardım etsin|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29860862.mp3|Nereye gitmeyi düşünüyorsun|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20354472.mp3|Festival beş Ağustosa kadar devam edecek|2.544
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28334277.mp3|Teşekkür ederim|1.944
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068754.mp3|Bizim mantığımızla hayatın mantığı asla birbirine uymuyordu|5.436
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30524212.mp3|Neden ama|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28864457.mp3|Başını omuzumdan çekti göğsü ile masaya yaslandı|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29860561.mp3|Nereye gittiğini gördün mü|3.924
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25021753.mp3|Polis saldırganları arıyor|3.348
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19821152.mp3|Ancak bütün işletmeler zor durumda değil|3.144
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37910217.mp3|Düşmüş masume…|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32415632.mp3|O yaptı|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27639135.mp3|Gir içeri|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28864504.mp3|Kazandın mı|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804376.mp3|Daha yumuşak iklime sahip olan batı Avrupa ülkeleri kuşların yerleşim yeridir|5.94
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655741.mp3|İmparator geceleri dışarı çıkarken nasıl giyiniyorsa tıpkı öyle…|5.256
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35176358.mp3|Kelepçeleyin|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19196979.mp3|Muhabbet etmek için yanımıza geliyorlar|4.464
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19291596.mp3|Rijeka yatı yüz yedi bin avroya satın aldı|5.136
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530063.mp3|Bir tane|2.052
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32135306.mp3|Ver şu telefonu|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32875917.mp3|Tanrı hepinizi korusun|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30610649.mp3|Cevabını bekliyorum|1.548
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33996650.mp3|Öf|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18355299.mp3|Sırbistan benzin ithal etmiyor|3.624
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21324793.mp3|Mevcut ortam bir tür balon olarak tanımlanabilir mi|5.496
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027897.mp3|Baksanıza|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829875.mp3|Gitme|2.592
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962668.mp3|Bana bak Yusuf dedim insan hali işte böyle|4.068
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027840.mp3|Macide Ömer’i dürterek fısıldadı|3.816
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30356022.mp3|Her zaman öyleydi|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28516145.mp3|İlk zamanlar gelenler açısından da farklılıklar flulaşır|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695156.mp3|Korkudan şaşırmış koyunları görünce İşte dişimize göre düşman diyerek ileriye atıldılar|9.036
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28864482.mp3|Gavurun doktoru gelemedi|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027865.mp3|Biraz zor|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28856743.mp3|Yemek yeriz|1.98
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30629632.mp3|Yalancı|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342389.mp3|Ne yaparsan yap makamında omuzlarını silkti|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20262631.mp3|Umarım çok yakında olur|3.504
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37893059.mp3|İçeride mi|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021409.mp3|Hey şampiyon|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28979266.mp3|Enfes bir şey doğrusu|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578621.mp3|Beni bırakır mısın|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25706659.mp3|Ama ben şaşırmamıştım|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578649.mp3|Paramı getirdin mi|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695173.mp3|Geliyoruz|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26949067.mp3|Aptallar|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139458.mp3|Ejderha|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18372548.mp3|Bu erteleme için bir somut gerekçe gösterilmedi|5.4
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34310026.mp3|Allahın cezası|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25705497.mp3|Kayınbiraderleriniz küçük mü|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37650087.mp3|Karşısındaki memnuniyetle başını sallayarak|4.068
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28970640.mp3|Atına bakan ardına bakmaz|4.032
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208702.mp3|Raif Raif|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579172.mp3|Hey ufaklık|4.14
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858290.mp3|İçimdeki bütün sinirler seferber olmuş gibiydi|5.076
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32135168.mp3|Cürüm fena…|2.844
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27394351.mp3|En ufak bir hareket bile yoktu…|3.024
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30509913.mp3|Soğuk rutubetli bir Berlin sabahıydı|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28942062.mp3|Ne acayip|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543691.mp3|Onun hakkında son bir hüküm vermekten korkuyor ve bunda isabetli olamayacağımı seziyordum|7.776
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914393.mp3|Rıhtımda tek tük ışıklar yanıyordu|3.816
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29139414.mp3|Hapishanenin dış avlusunda Abaza Kemalin kahve ocağının dibinde oturmuş birbiri üstüne cıgara içiyordum|8.568
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804310.mp3|Kap içindeki buharın kütlesini hesaplanan mol sayısına bölerek moleküler ağırlık elde edilebilir|7.308
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26529564.mp3|Kirpiklerimin ucuna kadar kıpkırmızı kesildiğimi fark ediyordum|3.852
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25748138.mp3|Sizi birisine kaptırdık galiba|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21482472.mp3|Her iki taktik de tartışmaya açık|3.264
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948006.mp3|Bir söz yola getirir bir söz yoldan çıkarır|5.256
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28983967.mp3|Ucuz etin yahnisi tatsız olur|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530154.mp3|Masasının başına geçip oturdu|2.412
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021487.mp3|Hüseyin bey müsamereden beri yanından ayırmadığı gözlüklü genç kızı otomobile iterek|7.344
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884196.mp3|Burası benim otuz sene önce gördüğüm içinde en güzel günlerimi geçirdiğim yer değildi|6.3
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26530920.mp3|Ara sıra laf bitmiş gibi duruşlarından muayyen bir mevzu etrafında konuşmadıklarını anlıyordum|5.76
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543576.mp3|Bana rast geldiğinden memnun görünüyordu|4.32
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32415649.mp3|Hanımım…|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27638952.mp3|Salon dolmuştu iğne atacak yer yoktu|3.816
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29883262.mp3|Anladım evet|2.124
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543649.mp3|Kafamdan yalnız bir arzu geçiyordu|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877108.mp3|Beni sattın|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861572.mp3|Onu tanıyordum|3.672
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948107.mp3|Sağ elinde çay fincanı sol elinde dumanını suratıma üflediği köylü cigarası…|6.588
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37536022.mp3|Yola devam etmeliyiz|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027891.mp3|Ama ben buradayım|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868708.mp3|Beni korkutuyorsunuz|2.664
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20416367.mp3|Ortak sınır aynı zamanda Schengen sınırı olacak|5.544
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25325468.mp3|Yeni arkadaşlar ediniyoruz|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439565.mp3|Avrupa mı|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35231749.mp3|Evet öyleydim|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27199485.mp3|Tek yolu bu|0.864
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37910252.mp3|Evet mutluyum|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28219410.mp3|Sen neden söz ediyorsun|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28915509.mp3|Kaynayan kazan kapak tutmaz|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30547990.mp3|Yukarı kattaki odalarında bütün kapıları pencereleri sökülmüştü|8.316
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32875972.mp3|Hayır iyiydi|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877154.mp3|Meyve suyu ister misin|3.204
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18393312.mp3|Savaşta çocukları korumayı düşünen pek yoktu|4.464
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30229815.mp3|Sadece yardım etmek istemiştim|3.924
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34155336.mp3|Biraz korkutucu|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846995.mp3|Vurun beni|1.08
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26448770.mp3|Neresi|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28889059.mp3|Evet konuştuk|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695084.mp3|Çağırayım|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868340.mp3|Kafası o kadar bomboştu ki tramvayın kalktığını ve pencerelerin birbiri arkasına uzaklaştığını bile görmedi|8.748
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578697.mp3|Bu bir kural|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622873.mp3|Aynı zamanda reddetmesinden de korkuyordum|3.996
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861546.mp3|Çık oraya|3.564
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28888916.mp3|Hava adamakıllı serinlemişti|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27199189.mp3|Güçlükle boş bir masa bulduk|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32317826.mp3|Bir içki|1.368
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34308095.mp3|Hatırlamaya çalışıyorum|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556512.mp3|Sonra bu düşünceleri istediği kadar ince ve zekice bulmadığı için dudaklarını büktü|6.66
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655797.mp3|Fakat hakikat ne kadar başka…|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27638846.mp3|Bütün bunlar beni deli eder|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35212514.mp3|Bir gün de|1.512
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263113.mp3|Senin işin bu|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19183368.mp3|Antrenör yoktur bir spora bile benzemez|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37650195.mp3|Reklamlar…|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26356103.mp3|Evet ama|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29693773.mp3|Tatlı ye tatlı söyle|2.592
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37650071.mp3|Bütün gürültüleri bastıran ince bir ses birdenbire yükseldi|5.508
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26011402.mp3|Yavrular erken gelişir ve doğuştan yüzebilmektedir|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579879.mp3|Peki sen nasılsın|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276491.mp3|O kadar da kötü değiller|3.168
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37556525.mp3|Fransızca biliyor musunuz|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068910.mp3|Açın kapıyı|1.512
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021550.mp3|Grev|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877140.mp3|Önümüzdeki hafta|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655811.mp3|Hadi içeri gidelim|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19847267.mp3|Tuzla çeşitli ödüller almış bir şehir|3.936
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948057.mp3|Dadandırma kara gelin dadanırsa yine gelir|6.696
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28978828.mp3|Kapan|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804352.mp3|Gerekli olan tek şey İmparatorluğa sadakatti|3.996
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28129891.mp3|Affet beni|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25576166.mp3|Yüzünde hiç dargınlık sitem yoktu|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36067856.mp3|Tamamen normal|3.168
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19820858.mp3|Ancak Vuciniçe göre bu suçlamalar asılsız|3.96
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655796.mp3|Gayet iyi anlıyorum|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27207790.mp3|Kısa fakat süratli adımlar atıyordu|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858295.mp3|Bir daha mı|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28860862.mp3|Evden dışarı fırladım|4.788
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20310758.mp3|Artık çok kaliteli gazeteciler var|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28898651.mp3|Her gün gezen kırda bir gün uğrar kurda|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26498244.mp3|Hiçbir zaman|5.076
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34155381.mp3|Bir soru|1.656
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25552553.mp3|Yatağın ayakucunu gösterdi|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876108.mp3|Hiç zor değil|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26529620.mp3|Her milli bayramda hükümet meydanında masanın üstüne çıkar|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30453272.mp3|Bu içkiler bu çeşit çeşit balık ve konserve kutuları bunu gösteriyordu|6.048
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877097.mp3|Ben iyi bir insanım|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29576355.mp3|Yakalandı|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622908.mp3|Müdür onu kolundan çekip oturttu|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32069141.mp3|Eşim mi|1.8
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543729.mp3|Buraya geldiğimden beri ara sıra bira içtiğim halde hiç o akşamki gibi olmamıştım|6.48
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579740.mp3|Pekala hoşça kal|3.06
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35271642.mp3|O meseleden de artık bahsetmeyelim|3.708
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25755845.mp3|Söyledim ya|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27199496.mp3|Hayır yapma|1.692
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32698268.mp3|Beni uzaktan görünce acayip bir tavır aldı yolunu değiştirmek ister gibi yaptı|7.776
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28915495.mp3|Sular onların karalar onlarındı|4.428
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027907.mp3|Herkes güverteye|3.168
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439222.mp3|Biraz tombulca olan kadın düşmemek için bana tutunmak isterken boynuma sarılıverdi|5.94
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846912.mp3|Oduna para verecek halimiz mi var|2.484
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655926.mp3|Arabada kal|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696083.mp3|Çok iğrenç|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28131101.mp3|Oo siz sahiden bir genç kız gibi mahcupsunuz|4.356
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263037.mp3|Öldürme onu|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30610632.mp3|Ne oldu şimdi|1.98
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962614.mp3|Başa gelen çekilir|3.168
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858532.mp3|Gelmeni istiyorum|3.636
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34747839.mp3|Uyumana devam et|3.996
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877490.mp3|Arkadaşı onu tekrar çekelemeye başladı Hadisene be Kemal…|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30518232.mp3|Kamil bunu görünce kısık bir kahkaha attı|3.024
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27207481.mp3|Aptal değilim|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543566.mp3|Başını önüne dayayıp daha şimdiden uyuyanlar birbirinin kucağında oturanlar görülüyordu|7.956
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543521.mp3|Elini sıkmaya cesaret edemeden iskemleye iliştim|5.436
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861473.mp3|Kendimi ne kadar kuvvetli hissediyordum bilseniz|4.464
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439241.mp3|Sarhoş olduğun zaman çok can sıkıcı oluyorsun|5.076
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17842878.mp3|Kitap yüzde otuz yabancı dilde basılacak|3.696
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29576584.mp3|Kokusunu alıyorum|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17349533.mp3|Risk altındaki tek sektör turizm değil|3.192
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27213344.mp3|Ayrılın|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_31530959.mp3|Var ama tamir ediliyor otomobil geçmez|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858373.mp3|İki dakikan var|3.204
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884785.mp3|Gel kız Aliye kısmetimizi dağda taşta arayalım dedim aldım karıyı buraya geldim|6.696
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17416162.mp3|Kampanyası kapsamında eğitim kursları düzenlendi|3.864
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26076841.mp3|Ayrıca hayali grup Creeper da çokça yayınlanmıştır|4.248
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29860288.mp3|Haydi söyle bana|5.508
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21426277.mp3|Yine de hala büyüme olanağı var|3.528
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804378.mp3|Sağlığın çeşitli yönlerinin birbiriyle etkileştiği ve birbirini etkilediği yollar vardır|7.488
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34352200.mp3|Kocasının yüzüne baktı ve Ömer karısına dönerek|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_18376969.mp3|Bu da rekabetçiliği ve istihdamı olumsuz etkiler|5.064
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263187.mp3|Ama bu imkânsız|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948015.mp3|Yılana yumuşak diye el sunma|3.78
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34309933.mp3|O zaman ne yapacaktım|3.276
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35174426.mp3|Ünlü Komik|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263178.mp3|Biz uzakta dururuz kendisinin haberi olmaz dediler ve ısrar ettiler|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38804274.mp3|Annesi koyu bir Katolikti|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439323.mp3|Fakat şimdi de fazla ileri gitmek doğru olmaz|3.42
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893049.mp3|Sonra kurumuş dalların rüzgarda çıkardıktan iniltiye benzeyen bir sesle|5.58
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28962552.mp3|Kim bilir Çirkinceyi de ne halde bulacaktım|4.248
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027899.mp3|Evet hakkınız var diye cevap verdi|4.428
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25748388.mp3|İçimde sevinçle hüzün arasında garip bir hal vardı|4.608
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263171.mp3|Engel olamadım|2.304
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17842732.mp3|Profesyonel kariyeriniz nasıl başladı|3.312
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35176372.mp3|Evet hoşlanıyorum|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29800410.mp3|Getir onu buraya|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948133.mp3|Mevsim mart başlarıydı|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021070.mp3|Ne farkeder|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28894580.mp3|Zavallı adam üçüncü uykusuz geceyi de yarılamak üzereydi ve direksiyondaki elleri titriyordu|8.892
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28856742.mp3|Arkadaşlarım|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439252.mp3|Bu odanın eşiğine bilmem şimdiye kadar senden daha temiz biri ayak bastı mı|5.436
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30355994.mp3|Zil çaldı|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655913.mp3|Böyle bir yere varamayız|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25544382.mp3|Nihayet son bir gayretle|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17443794.mp3|Sergi Ocak ayına kadar devam edecek|2.544
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263131.mp3|Donuyorum|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30188756.mp3|Genç dahiliye mütehassısı sabahları vizitede gülerek sırtını okşuyor ve Yakayı kurtarıyorsun Beybaba diyordu|9.072
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543740.mp3|Beni çekerek duvarın kenarına sürükledi|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25898510.mp3|Daha sonra büyükbaş çiftçiliği için önemli oldu|4.716
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25748110.mp3|Karşımdakinin durgunluğu bana da geçmişti içimde sebepsiz bir sıkıntı ve ezilme vardı|6.408
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29355430.mp3|Hiç dinlemiyorsun|2.664
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28856852.mp3|Hatta birisi Yahu bu yazıyı profesöre de verelim de yarın bir halt karıştırmasın|5.508
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36440594.mp3|Beni affedebilir misin|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28861650.mp3|Sana inanmıştım|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30695015.mp3|Hey neler oluyor|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26654277.mp3|Bakınız şunlara…|2.952
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208540.mp3|Biraz daha istiyorum|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130456.mp3|Açık|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068729.mp3|Camdan dışarı bak|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36067828.mp3|Macide elini uzatarak|3.492
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021418.mp3|Çok çabuk|2.556
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_24762352.mp3|Halkın yaklaşık yüzde otuz üçü oy kullanmayacak|4.752
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28481529.mp3|Tamam sorun yok|2.88
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578669.mp3|Bulurum|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439095.mp3|Çocuk yanında ayakta dururken o çömelir küçük bir çuvaldan birtakım oyuncaklar çıkarırdı|7.416
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37650192.mp3|Sana öğretirim|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37021205.mp3|Siz de öpmek ister misiniz|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29883088.mp3|Sende neler var|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543536.mp3|Biraz evvelki gibi ahbapça gülüyordu|4.536
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30453274.mp3|Bu benim için pek de hoş olmayan bir gülümseme idi|5.4
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33996532.mp3|Maria bir aralık|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130984.mp3|Gözlerimi çabuk çabuk kırpıştırıyor dudaklarımı ısırıyordum|4.788
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893240.mp3|Bağırmaya başlamıştı|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34747980.mp3|Ceketinizi alabilir miyim|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25993528.mp3|İki siyahi adam bir tarladaki ekinleri inceliyor|4.788
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32868391.mp3|Demek ki bu şehirde beni seven hiç olmazsa bir kişi vardı…|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27213170.mp3|Sakın|2.052
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846926.mp3|Burada olmaman gerekirdi|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33892968.mp3|Bir türlü sözünü bitiremiyordu|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829687.mp3|Seni evine götüreyim|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622863.mp3|Kendisine akıl öğretti|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29800502.mp3|Onu görmedin mi|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25706000.mp3|Fakat kendisi fazla telaş etmiyor ve hastalığına ehemmiyet vermez görünüyordu|5.328
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37893051.mp3|Otele…|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884774.mp3|Zavallısın|3.168
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29883139.mp3|Hakkımızı yedirmeyiz|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876086.mp3|Kendimi kaybettim|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37650185.mp3|Arabayı devirecektin|2.196
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027860.mp3|O zaman gözlerinde bir uyku tüttü|3.996
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29576122.mp3|Cehenneme kadar yolu var|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884731.mp3|Güven mi|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893336.mp3|Hem de bu çocuk için…|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439573.mp3|Başaramazsın|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884747.mp3|Onu görebildin mi|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622815.mp3|Süratli adımlarla karşıdaki kerevete giderek piyanosunun başına geçti|6.048
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858453.mp3|Peki bu kim|3.816
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130923.mp3|Neden söz ediyorsun|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34977252.mp3|Ne farkı var|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28978880.mp3|Dil yüreğin kepçesidir|3.348
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_20311089.mp3|Neden olduğu umurumda değil|3.48
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19821085.mp3|BosnaHersek daha da bölünecek mi|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30683118.mp3|Orada olduğunuzu biliyorum|2.376
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37536146.mp3|Gözlerini hafifçe büzerek bunları düşünürken İsmet Şerif daha çok sokulmuştu|5.508
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37622890.mp3|Mesela beni Havrana bağlayan şeyler neydi|4.356
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35262555.mp3|Hattı koruyun|2.052
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26950623.mp3|Pes ediyorum|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32876014.mp3|Teorik olarak|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32134992.mp3|Bir şey söylemeyecekti delikanlı eliyle onu susturan bir hareket yaparak devam etti|6.804
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28948130.mp3|Alacağın bir iğne çeliğin okkasını orantıya vurursun|4.608
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_19067175.mp3|MoldovanTilea ciriti elli üç virgül dört metreye attı|3.888
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26529403.mp3|Nasıl oldu|1.584
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28868607.mp3|Burası olduğuna emin misin|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655774.mp3|Son bir isteğin var mı|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276570.mp3|Dönüyoruz|2.844
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543624.mp3|Evvela hiçbir şey anlamadım|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439438.mp3|Fakat bunu da seyredebilmek hiç seyredememekten herhalde iyidir|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25704673.mp3|Son günlerde mektebe gitmiyor ve babasını bekliyordu|4.716
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846933.mp3|Yeterince adil|1.764
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28516159.mp3|Fakat tam bu sırada birkaç hapis bir sedye çıkardıkları için o tarafa gitti|5.904
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30683132.mp3|Sabahtan beri bunları yazıyorum|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29882797.mp3|Arkadaşlar mı|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_33893739.mp3|O zaman şimdiki hayatlarını tekrar sıkıcı bulmaya başlayabilirdi|4.248
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027904.mp3|Karışıklık için özür dilerim|3.456
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25993635.mp3|Resmi ve profesyonel görevlerine rağmen bilimsel çalışmalarını da sürdürdü|6.408
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877155.mp3|Başımı uzatıp baktım|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578591.mp3|Bir köy öğretmeninin notlarından|3.6
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28978801.mp3|Sebepsiz kuş bile uçmaz|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35263007.mp3|Gerek de yok|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30694924.mp3|Çok isterdim|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34308291.mp3|O geri gelmeyecek|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_38027877.mp3|Ada mı|2.628
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28915513.mp3|Nerede hareket orada bereket|3.528
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439362.mp3|Ve bu kollar arasına düşer düşmez bir çocuk gibi durmadan ağlamaya başlamıştı|5.688
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130939.mp3|Ülen sen deli misin|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29696287.mp3|Ben sahiden bir şey bilmediğim söyleyecek bir şeyim olmadığı için kısa cevaplar veriyordum|7.056
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35342315.mp3|Anladın değil mi|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25543676.mp3|Türkiyeye dönüp işlerimi biraz yoluna koyar koymaz onu çağıracaktım|6.3
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32276590.mp3|Oh kahretsin|2.844
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28846922.mp3|Hafızamda çok güzel bir köy olarak yer etmiş şimdi hatırlayınca muhakkak gitmek arzusu duydum|6.048
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29578547.mp3|Hadi ama tatlım|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28888927.mp3|Buraya getirin|2.124
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29579668.mp3|Kendimi hasta hissediyorum|3.672
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130946.mp3|Ne para ne tehdit bizden ağaçlarımızı alamayacaktı|4.5
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130064.mp3|Buna rağmen böyle yaptı|3.168
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21317814.mp3|Son olaylar endişe seviyesini yükseltti|3.336
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27638875.mp3|Bu gece mi|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_34747929.mp3|Aradığın şey bu mu|4.608
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30682986.mp3|Vakit gece yarısına yaklaştığı için sokaklar fazla kalabalık değildi|5.22
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36439098.mp3|Televizyon izliyordum|2.448
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26076952.mp3|Bunun sebebi bir zamanlar Five Dock yakınlarında bir taş ocağının bulunması olabilir|5.58
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_17964113.mp3|Maksim Cikuli de sağlık bakanlığına getiriliyor|2.736
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32171307.mp3|Delikanlılıklarında beraber düğünlere gitmişler avrat oynatmışlar kadın kaldırmışlardı|7.488
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29902770.mp3|Şimdi nereye gideceksin|2.16
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30548014.mp3|Evet garip|3.096
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_37655845.mp3|Güzel motor|1.98
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28884043.mp3|Onu buraya mı getirdin|3.24
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_35208681.mp3|Dün akşamdan beri birbirini kovalayan hadiselerin ağırlığını ancak şimdi ve tamamen duyuyordu|6.948
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28129998.mp3|Erkek sebebini anlayamadığı bir gevşekliğe düştüğünü hissetti|5.148
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28130232.mp3|Kürk mantolu kadının bunlardan birinde olmadığı muhakkaktı|4.968
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_25542961.mp3|Fakat ben pek iyi bilmem|2.808
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914581.mp3|Bekarın ahmağı akşam evlinin ahmağı sabah traş olur|5.976
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29694297.mp3|Hayvan ama aklı eriyor köftesine biraz sığır eti karışsa onu bile anlıyor|7.056
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26967263.mp3|Öğleye doğru sıkıntımın azaldığını ve hayatı biraz pembe görmeye başladığımı fark ettim|6.264
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_21197610.mp3|Herşeyi barışçıl yollardan çözerdi|4.176
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32068901.mp3|Hiçbir şey yapmadım|2.088
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_29800537.mp3|Seninle tanıştığıma çok sevindim|2.988
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27638992.mp3|O zaman adeta bir yorgunluktan dinleniyormuş gibi olacağım|4.86
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27208125.mp3|Kapı açık|2.016
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_36406530.mp3|Sadece bir öneriydi|2.7
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26448745.mp3|Ne halt ediyorsun|2.52
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858131.mp3|Sen çık|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_32829766.mp3|Dazlayan daza düşer kel başlı kıza düşer|4.896
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28858713.mp3|Aç ölmez gözü kararır susuz ölmez benzi sararır|6.228
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_30503505.mp3|Bu harika olacak|2.916
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_26949817.mp3|Yapamayız|1.908
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_27639198.mp3|Usta|2.34
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28877056.mp3|Panayırın tek incisi görülmemiş harikalar meşheri…|6.336
+/home/ashankwi/commonVoiceData/tr/clips/common_voice_tr_28914244.mp3|Kafasında yalnız bir şey vardı Bu yolu tekrar yürümek geri dönmek mecburiyeti…|8.028

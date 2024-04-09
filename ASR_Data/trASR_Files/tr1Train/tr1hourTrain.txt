@@ -1,0 +1,1071 @@
+path|transcript|duration
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32934577.mp3|Merhaba tanıştığıma memnun oldum|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34914074.mp3|Sende ilk günlerin hararetini görmüyorum|4.176
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35002808.mp3|Kapatayım mı|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28651165.mp3|Yaşasın|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390143.mp3|Gel de içinden çık|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36316060.mp3|Bağlıydım|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38513991.mp3|Daha önce ev telefonumuz vardı sanırım onun üzerinden yaptılar|5.688
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441653.mp3|Çıplak mı|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37347316.mp3|Karısı…|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30392801.mp3|Evet gidiyorum|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30273161.mp3|Hâlâ inanamıyorum|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28863270.mp3|Dinlenmeliyim|8.028
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38094741.mp3|Odada herhangi birimiz herhangi bir meseleden bahsedecek olsak derhal lafı yarıda kestiriyordu|8.1
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34606413.mp3|Bir müddet serbest bırakıp bırakmamakta düşündü|4.608
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36922024.mp3|Ben kayboldum|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38118521.mp3|Birşey ister misin|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32935712.mp3|Sana bir şans verdim|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30353851.mp3|Kadı ekmeğini karınca yemez|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_39554642.mp3|Günümüzde yaşayan iki türü bulunur|3.888
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32955272.mp3|Ben sıkıldım|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441179.mp3|Daha iyi günlerim olmuştu|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38100456.mp3|İki günden beri sabahtan akşama kadar içiyor ve binbir türlü planlar kuruyordu|6.408
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32883528.mp3|Ben getirdim|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34517245.mp3|Eve geç kaldım dedi ve koşar gibi ilerlemeye başladı|5.076
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30559395.mp3|Ben istemiyorum|1.584
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38666269.mp3|Ankara Yenimahalle|3.708
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37498262.mp3|Niye bağırıyorsun|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38397487.mp3|Masanın arkasında koltuğuna iyice yaslanıp gök gözlerini pencereye dikerek hesaplara daldı|7.776
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38372097.mp3|Sana neler oluyor|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32597878.mp3|Ben çok açım|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36432782.mp3|Hâlâ karar veremiyordu|4.392
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32955230.mp3|Zırvalamayı kes|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30462469.mp3|Onları anlamaya asla imkan yoktu|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28797831.mp3|Evde yatar durur Hasta mı|3.888
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345791.mp3|İki gündür eve uğramıyor hepimiz açız|4.5
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32598103.mp3|Hadi oradan|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30311632.mp3|Ondan hoşlanıyorsun|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36413029.mp3|Söylemeliydim|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30382998.mp3|Hiç gereği yok|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_33466359.mp3|Aşağı atladı ayağına terliklerini geçirdi ve musluğa giderek yüzüne soğuk su çarptı|7.488
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30631769.mp3|Böyle değildi|1.188
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37466181.mp3|Akşam yemeği mi|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38899119.mp3|Çocuk edebiyatı alanındaki kitaplarıyla çeşitli ödüller almıştır|5.58
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_31839582.mp3|Babası yukarıdan bu ayağın pazılarının nasıl titreye titreye gerildiğini gördü|6.336
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34562742.mp3|Çerkesin biri  Korkma titremeye lüzum yok sana fenalık yapacak değiliz|6.48
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32939457.mp3|Bilmek istersin diye düşündüm|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37137272.mp3|Bu sonuncusu mu|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29121731.mp3|Az tamah çok ziyan getirir|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37771364.mp3|Haydi artık git…|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30385039.mp3|Düşünceli bir tavırla başını sallayarak Çoluğu çocuğu ortada kaldı dedi|7.416
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37438559.mp3|Köprüyü sular götürmüş|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37008319.mp3|Burada güvende değilsiniz|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355434.mp3|Bir mıh bir nal kurtarır bir nal bir at kurtarır|5.076
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38119656.mp3|Ben bir kahramanım|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32289413.mp3|Aptal çocuk|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30407549.mp3|Tamam sağ ol|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444489.mp3|Ambulans yolda|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437585.mp3|Kalp krizi|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30383769.mp3|Aman Yusuf etme Yusuf demeye vakit kalmadan çekti gitti|5.256
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366768.mp3|Çok sağlıklı|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25960521.mp3|Allen Caddesi’ndeki Grand Otel’deki salonda durdular|3.672
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28146860.mp3|Galiba oralarda akrabaları da vardı|4.86
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38015324.mp3|Hepsi saçmalık|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983066.mp3|Bunu duyabiliyor musun|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37121224.mp3|Tanrım bu…|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35073140.mp3|Bunu büyük şehirlerimizde ve küçük şehirlerimizde ayrı ayrı mütalaa etmek icap eder|9.036
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37974957.mp3|Ne olduğumu bilemedim|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25754576.mp3|Gene aynı köprülerin altından ve üstünden geçtim|4.14
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444253.mp3|Kendi başınasın|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26552394.mp3|Evvela yaşlıca birinin yanına kapatma girdi|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38197957.mp3|Tren hızlanıp uzaklaşıyordu|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36432950.mp3|Beni hayal kırıklığına uğrattınız|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26531359.mp3|Haydi|1.368
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26569333.mp3|Etkileyici|1.296
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30461023.mp3|Görüyorsun ya söktüremedin|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34507725.mp3|Sakın yapmayın|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940479.mp3|Kendinle gurur duyuyor olmalısın|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27197142.mp3|Sessizlik|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36558529.mp3|Beni kör ediyorsun ama yine de seyretmek istiyorum|4.86
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30500805.mp3|Siz insan muamelesine layık mısınız ulan…|3.888
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30409583.mp3|Özel konuşabilir miyiz|5.868
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30402875.mp3|Sayıyorum|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27764833.mp3|Güvendeyiz|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30362941.mp3|İnanılmaz değil mi|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28444506.mp3|Hay aksi|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32939741.mp3|Biraz paraya ihtiyacım var|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36680596.mp3|Başını bile çevirmeden işine devam etti|4.428
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390959.mp3|Can boğazdan gelir|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37995571.mp3|Biraz evvelki lafları hatırlamaktan bile tiksiniyordu|4.68
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37915767.mp3|Bekle sen|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38094274.mp3|Sonra görüşürüz tamam mı|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30534638.mp3|Salondakiler derhal modern resim üzerinde konuşmaya başladılar ben yavaşça odama gittim|8.316
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983203.mp3|Burada olduğumu nereden bildin|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28938908.mp3|Karı vardır arpa ununu aş eder|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_31059441.mp3|Güvenli bir yere|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30242579.mp3|Evet iyi fikir|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38834545.mp3|Bu tarz işlemeler binlerce yıldan beridir yaygın olarak kullanılmaktadır|6.048
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25426990.mp3|Düşünebilir misin güzel bir kızın bir kolu olmazsa bu ne demektir|5.58
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36406333.mp3|Parmakları sıkılmaktan ağrımaya başlamıştı|4.176
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443269.mp3|Yedi gün|1.656
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32937474.mp3|Nereye gidelim|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35782209.mp3|Benimle bir sorunun mu var|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36439461.mp3|Size kartımı vereyim|3.492
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36557322.mp3|Geri dönüş yok|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38096799.mp3|Sizin de…|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34596744.mp3|Kızgın değil misin|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38518097.mp3|Cuma günü abone oldum|3.888
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36413085.mp3|Eğlenceli gibi|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30462281.mp3|Aptal bakışlarla ve ne istediğimi bilmeyerek dolaşıyordum|4.788
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30365972.mp3|Tamam usta|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38122489.mp3|Daktilo ile yazılıp çoğaltılan programa nazaran şimdi bir monolog vardı|6.156
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38522383.mp3|Anladım|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32598362.mp3|Kasabaya üç saatlik yolum vardı|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32883474.mp3|Ömer öyle istedi…|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30360052.mp3|Ciddi olduğumu anlayınca Budala mısın be|5.22
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444543.mp3|Nerden bileyim|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38569725.mp3|Anladım adrese geçiş yaptığımda göndereyim o halde|4.716
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25804469.mp3|Babam beni İstanbula göndermeye karar verdi|3.708
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26545668.mp3|Öteki ona cevap vermeden beni işaret ederek|2.592
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38671717.mp3|Uzay turizminde kullanılması planlanmaktadır|5.148
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34930515.mp3|Hey bekleyin|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32953192.mp3|Tertip edenler bu sarayda bir de Sultan bulunduğunu nasılsa unutmuşlar…|6.12
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443726.mp3|Peki bunlar|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26535115.mp3|Tamam hadi|1.224
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25426968.mp3|Siz ne bilirsiniz sanki|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26557460.mp3|Anladınız mı|1.476
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29461805.mp3|Neden böyle yaptın|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437377.mp3|Bunu sakın yapma|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30367146.mp3|Emin mi|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30392199.mp3|Sence bu mümkün mü|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30513639.mp3|Kulağa hoş gelmiyor|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37894076.mp3|Biz ne yapacağız|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32934091.mp3|Bunu demek istemedim|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30535336.mp3|Kim bilir eski zamanlarda burada duvar içinde yollar kapılar mı vardı|5.796
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32890173.mp3|Macide olduğu yerde bir adım durarak derin bir nefes aldı|5.76
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408660.mp3|Bunu kullanabiliriz|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30439730.mp3|İlk sen|2.412
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36413156.mp3|Aklın neredeydi|4.752
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391739.mp3|Sevişmek ister misin|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355328.mp3|Ama beyaz bir gemi bir yat gelmiyor gelmiyordu|5.328
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28346150.mp3|Ama kime olursa olsun…|3.78
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30426040.mp3|Ne oluyor lan|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38079423.mp3|Uzun boylu adam hâlâ olduğu yerde duruyor ve başka taraflara bakar görünüyordu|6.768
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37347321.mp3|Demek yanılmışlar…|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28346180.mp3|Yan gözle baktığım zaman bendeki bu telaş ve heyecandan onda eser bulunmadığını gördüm|7.488
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34502068.mp3|Bir an evvel giderim ve seni yol hazırlıklarını tamamlamakta serbest bırakırım|7.488
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37879060.mp3|İsterseniz…|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38152228.mp3|Ne yapıyorsun baba|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29690555.mp3|Aşağıda neler oluyor|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26570495.mp3|Ama sorun değil|1.944
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28907821.mp3|Öküz tekini bulmadan çifte yürümez|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27839931.mp3|Maazallah tuttuğu yol ipe kadar varabilirdi|5.688
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34516154.mp3|Ama olsun arkadaşlıkta fedakârlık lazımdır|5.076
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32516314.mp3|Demin yanından geçerken Hasanboğuldu dedim ya eskiden oraya Gök Büvet derlermiş|8.676
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30389925.mp3|Yalnız kızlar iki üç günde bir gelip saçlarına maşa vurdururlardı|6.768
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441456.mp3|Hatta belki de soğuyacaklar…|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34606410.mp3|Sen de çok güzelsin|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30341583.mp3|Canlanın|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27777315.mp3|Gösteri zamanı|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32955029.mp3|Uçak mı|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30510358.mp3|Başka ne var ki|1.512
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38099724.mp3|Hayatımda kafamın içini bu derece bomboş bulduğum bir an yoktur|5.436
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35344266.mp3|Öteki iskemlesinden süratle doğrularak|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442981.mp3|Nesine bakacaksın|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30535613.mp3|Yok|0.792
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30363092.mp3|Ben arkasından bağırırken o sıvışmış|4.86
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34553376.mp3|Konuşmayacak|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26535862.mp3|Islak saçları kıvrılmış ve kordon kordon terli alnına düşmüştü|5.04
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440655.mp3|Bu iyi olmaz|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36558291.mp3|Zaman gösterecek…|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983189.mp3|Düşünceleri mütemadiyen sıyrılıp başka taraflara kaçıyordu|5.688
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26101842.mp3|Bu zamanlarda saat daha yavaş ilerler|4.176
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34816503.mp3|Gitmemiz lâzım|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27189137.mp3|Bir anda kendimi onun yerine koymak istedim|4.14
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30463819.mp3|Yaşlı…|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38023078.mp3|Seni seviyorum tamam mı|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37163680.mp3|Birazdan döneceğim|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29104653.mp3|Ne yapıcaz|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34517239.mp3|Üç bin silahşor…|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30363125.mp3|Bunların nesi var|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441096.mp3|Merhaba Profesör|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37507701.mp3|Daha derine|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390895.mp3|Yarın olmaz|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38094211.mp3|Yaşlılık daha ziyade onun görünüşündeydi|4.608
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36560211.mp3|O zaman da ne yapacağımı bilmeden sokağa fırlamıştım|5.904
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32900913.mp3|Para sorun değil|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408361.mp3|Hemen gitmeliyim|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440555.mp3|Bir de şöyle düşün|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38493434.mp3|Diğer firmalardan farklı olarak forumda görmüştüm|4.608
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27176173.mp3|Yılbaşından sonra birbirimizi görmediğimiz günlerde ne yaptığını anlatmadın|5.688
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441302.mp3|Öyle bir şey olmadı|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442295.mp3|O bir şey değil|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26538483.mp3|Neyin|0.828
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38175775.mp3|Gelin bakın|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37915908.mp3|Anladığımı sanmıyorum|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38834587.mp3|İkinci bölüm Haklı Savaştan Güzel Barışa başlığı ile başlamaktadır|5.616
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390048.mp3|O benim erkek arkadaşım|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30476057.mp3|Birşeyler yapmalıyız|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30368388.mp3|İçeri girsenize|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355775.mp3|Hangi kat|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34517428.mp3|Annene iyi bak|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30462261.mp3|Malumat sahibi derin muğlak bir kimseye rast gelmek mümkün değildi|6.156
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25935493.mp3|Denizden kazanılan topraklarda (polder) küçük köyler vardır|4.5
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36812680.mp3|Neyin karşılığında|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441229.mp3|Tatlım özür dilerim|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36917312.mp3|Hazır değil|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36963437.mp3|Oturttu teskin etti|3.708
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26534148.mp3|Hem gece zaten çalışamam ki|1.8
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30352359.mp3|Doğru bildin|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30500591.mp3|Ben dedektifim|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38140462.mp3|Beni sevdi|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28874567.mp3|Kerim Ağa sepetin ağzından biraz aşağıdaki yeri gösterdi Buraya kadar doldur da ver dedi|7.02
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391117.mp3|Zaman kalmadı|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355924.mp3|Baş ağrısı|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371199.mp3|Ya senin|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30440749.mp3|Hayır öyle değil|2.412
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32953234.mp3|Terfi ettin|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36746877.mp3|İzninizle beyler|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38132436.mp3|İleri ve sola doğru bağırdı|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30356449.mp3|Beni burada bırakmayın|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28924771.mp3|Kamyon bizim Kösenin arabası…|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37451395.mp3|Bunu size başlangıcından anlatayım|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35630712.mp3|Aklınızda bulunsun|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28904352.mp3|Yavaşça kapıyı kapadım|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37148980.mp3|Yalan söyledik|1.944
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437038.mp3|Bir tanesi hapiste öldü|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30510507.mp3|Her şeyi yapabilir|1.764
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26531852.mp3|Yani|1.44
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36414153.mp3|O bir suçlu|3.852
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443142.mp3|Ne oluyorsunuz diye Ömer’in koluna yapıştı|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345649.mp3|Ayı akım kirpi yumuşağım demiş|3.96
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26667044.mp3|Belki de hâlâ bekârdı ve erkekten erkeğe koşarak inanacak adam arıyordu|4.824
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30498342.mp3|Orada ne halt ediyorsun|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408167.mp3|Açık belirgin|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30341325.mp3|İleride köyün kenarında hak almaya gelen erkek tarafını karşılamak için kız köyünün delikanlıları toplanmıştı|9.216
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30804844.mp3|Bir ahırda at da bulunur eşek de|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30407946.mp3|Yapımcı…|2.484
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26569086.mp3|Ahha şimdi anlıyorum|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28785184.mp3|Büyücü mü|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34597420.mp3|Yine yap|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30535294.mp3|Belki biraz hayret fakat daha ziyade alaka ve şefkatle bana bakıyordu|5.94
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983061.mp3|Siz dünyanın değişmez olduğuna inanmaya mecbursunuz|4.896
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30440576.mp3|Sonra asıl mühimi Bizimkini ne yapmalı|3.96
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37001539.mp3|Ve bu sırada yazıp bıraktığı mektupta istediği kadar samimi olmadığını zannetti…|7.02
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30422605.mp3|Benim işim bitti|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37980551.mp3|Başka bir yolu yok mu|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36439943.mp3|Daha yavaş|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28785110.mp3|Orada ne yapıyorsunuz|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38121740.mp3|Kayıkçıya Dayan amca dayan diye gayret verecek oldu|5.22
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940029.mp3|Buraya daha önce gelmiştim|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940946.mp3|Bunu mu söylüyorsun|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37166189.mp3|Sana bir haberim var|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30548846.mp3|Düğmeyi sağa sola çevirdi Leningradın verdiği bir İngilizce konferanstan başka bir şey bulamadı|8.208
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30383609.mp3|Acıkan ne olsa yer acıyan ne olsa söyler|4.716
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38196187.mp3|Şimdi oldu işte|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28856157.mp3|Şansımı denerim|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26534654.mp3|Lütfen oturun|1.656
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396246.mp3|Tutacak yeri kalmamış|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27939228.mp3|Üç|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29623860.mp3|Söylemeyecek misin|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443855.mp3|Kapı açılınca şırrakl diye bir tavla kapandı|4.608
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25365385.mp3|Yaşamakta ne buluyorlar|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408095.mp3|Bunu ödeyeceksin|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26636917.mp3|Ne enayilik ettim|1.8
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36434007.mp3|Sonra yazdığı mektubun bir yerinde daha samimi olmadığını hissediyordu|7.092
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37950669.mp3|Şaka değildi|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38324978.mp3|Uz duran çok yaşar|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38100328.mp3|Allahım şuna bak|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345491.mp3|Yarabbim|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38372090.mp3|Her damardan kan alınmaz|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30462744.mp3|Senin için ne yapabilirim|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37918523.mp3|Hedefe yaklaşıyoruz|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442398.mp3|Yarın okulda uzun uzun konuşuruz|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32883987.mp3|Ben senin babanım|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36394515.mp3|Mermim bitti|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37926663.mp3|Beni rahatsız ediyor|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441287.mp3|Genç kadın büsbütün şaşırdı|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30397505.mp3|Seni korumaya çalışıyorum|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30413736.mp3|Herkes kaşık yapar ama sapını ortaya getiremez|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37379473.mp3|Büyüdüğüm askere gidip geldiğim zaman bile bana karşı muamelesi değişmemişti|6.3
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29289819.mp3|Var ya|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27175278.mp3|Uzak dur benden|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28972579.mp3|Hüseyin tekrar içeri girdiği zaman kadını bir kenara oturmuş etrafındakilerle münakaşa eder buldu|6.336
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36406389.mp3|O kalıyor|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440663.mp3|Yeni hayat…|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37207278.mp3|Bu iş burada bitecek|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37402879.mp3|Hayır değildin|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36376776.mp3|Başka ne istiyorsun|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36524141.mp3|Ömer gevşekliğini hiç bozmadan mırıldandı|5.076
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30311564.mp3|Bir bakayım şuna|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983050.mp3|Macide cevap vermeden çıkmak istedi|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30385642.mp3|Yok ben almayayım|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30503216.mp3|Aşağı indiği zaman arkadaşının uykuya dalmış olduğunu gördü|5.076
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441779.mp3|Parçala onu|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32939722.mp3|Dinlenmem lazım|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443699.mp3|O almış olamaz|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940740.mp3|Siz bizim…|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30483068.mp3|Eve gidebiliriz|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355748.mp3|İster miydin|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27835491.mp3|Burada olmamalısın|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27777239.mp3|Sonra parmakları yanmış gibi hızla geri çekti Bu sıcak su ne olacak dedi|7.128
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27198288.mp3|Çok önemli|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443682.mp3|Niye ama|1.728
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30464206.mp3|Tanrım bu harika|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30509950.mp3|Neredeyse|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_31697445.mp3|Değildi|1.188
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26532032.mp3|Kimsin sen|1.296
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443055.mp3|Bakın hele|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28102040.mp3|Ben de size|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37819278.mp3|Senin de benden başka kimsen olmadığını biliyorum|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30506763.mp3|Çünkü onun bu kadar beğenilmesine sebep yalnız katil olmasıydı|6.12
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26532153.mp3|Seviştiler fakat bu aşkları nedense kumpanya değiştikçe değişen aktris sevdalarından biri olmadı…|5.868
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38666253.mp3|Devir ücreti yoktur efendim|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30463947.mp3|Hem de çok büyük|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37146979.mp3|Ben fikrimde ısrar ederek|3.888
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28785190.mp3|Sen ısmarlıyorsun|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442019.mp3|Bu bir hile|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440968.mp3|Konuşacak bir şey yok|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36559645.mp3|Fakat bu sefer onun ellerini daha kuvvetli bir el arayarak bulmuştu|6.84
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28785189.mp3|Konuşmamız gereken şeyler var|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30812081.mp3|Böbreği böyle kanar halde bırakarak yarayı kapamak hastanın yüzde yüz ölümü demekti|7.128
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34519859.mp3|Onda bir şeyler var|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32569651.mp3|Buna ben karar veririm|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30392004.mp3|Sıra senin|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37390496.mp3|Hiç durmadan yazık|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940537.mp3|Bu gece benim arkamda can vermeleri muhtemel olanlara benden selam götürünüz|7.128
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390737.mp3|Bana öyle dedi|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28921923.mp3|Miras helal hele al demişler|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34507095.mp3|Bilemedin|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390003.mp3|Hepimiz bir gün öleceğiz|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36406133.mp3|Bir ay mı|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30498300.mp3|Haydi çocuklar|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36157641.mp3|Mecburuz|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38743407.mp3|Ayrıca yüzler ve isimler ile çok iyi bir fotoğrafik hafızaya sahip olması ve doğuştan gelen emretme yeteneği vardı…|8.568
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36436788.mp3|Tatlım tatlım|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355347.mp3|Anlatın bakalım pek lüzumlu bir şeyse belki biz de yaparız|5.22
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37390499.mp3|Bize izin verir misiniz|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30469233.mp3|Denemek ister misin|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26663313.mp3|Ben ne yapayım|1.44
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35282439.mp3|Gazada muvaffakiyetiniz âsândır Allah yardımcınız olsun|6.516
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28886431.mp3|Bunun ne olduğunu düşünüyorsun|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27836052.mp3|Bir kelime ile ona yakın olacaktım|3.96
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38103729.mp3|Gemide başka portakal da var mı diye sordu|4.14
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30312883.mp3|Çocuklan toplamak dersleri yoluna koymak pek güç olmadı|4.86
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37915628.mp3|Sabırsızlıkla bekliyorum|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391995.mp3|Sevgili mi|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36986938.mp3|Halbuki bende böyle bir şey kalmadı|3.78
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408583.mp3|Efendim bir sorunumuz var|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28874511.mp3|Sekizinci|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444201.mp3|Ne bu acele|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37140511.mp3|Uyu hadi|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37923022.mp3|Evet evet tabii|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25876194.mp3|Şen|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371526.mp3|Yolundan giden yorulmaz|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26558336.mp3|Nasıl ayrılmayalım|3.78
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25753986.mp3|Evet|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37572164.mp3|Herhangi birini|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26533778.mp3|Bir kere de sen denersin Kadın sapsarı kesilmişti ve titriyordu|3.924
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27777508.mp3|Yalancı|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391307.mp3|Peki özür dilerim|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36585779.mp3|Korktun mu yoksa|2.052
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30352337.mp3|Belki derdinin büyüklüğü onun nutkunu tutuyor|4.14
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30418622.mp3|Bir şu taş düşse diyordum|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30272428.mp3|Kalk da çırayı yak… Kerim Ağa kötüledi olmalı diye bağırdı|6.336
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444449.mp3|Yoksa seni öldürürüm|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37915923.mp3|Ara sıra bizim taraflara uğra…|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443395.mp3|Şuna bir bakalım|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38122543.mp3|Evet okudum|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437066.mp3|Babanız mı|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30500717.mp3|Seyredin|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408138.mp3|Bir sürü eşya rastgele ortaya serilmişti|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32937744.mp3|Tek başına mısın|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366693.mp3|Haşan soluk soluğa Buraya gelirken ant içtim|4.716
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29689831.mp3|Bu sırada Kemal de gelmez mi|3.996
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27777281.mp3|Bu çok ilginç|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36994017.mp3|Benim memleketim dünyanın en güzel yerlerinden biridir|5.22
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442532.mp3|Hücum ederlerse sana hakkın varmış derim…|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30500767.mp3|Lider mi|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396127.mp3|Ne saçmalıyorsun sen|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38743350.mp3|Ancak bir süre sonra Bağdat Hatunun aleyhinde olan kişiler onun eski eşi Emir Şeyh Hasanla haberleştiğini iddia ettiler|9.648
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28101960.mp3|Sana da|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37626498.mp3|Ben senim|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36436859.mp3|Tamir edeceğim|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34554284.mp3|Aklım almıyor bunları Fadime…|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983084.mp3|Seni öldürürüm|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940001.mp3|Hayat…|1.728
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35320090.mp3|Karşılarındaki altı köşeli tahta duvar saati on biri gösteriyordu|7.2
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28886173.mp3|Seni eve götüreceğiz|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25971111.mp3|Açılır kutular ve reklamlar metni gizledi|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34486804.mp3|Ama neydi|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36585328.mp3|Ne yaptığını bilmiyordu|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441089.mp3|Sana yardım etmeye geldim|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36414587.mp3|Neredeyse o da ağlayacak yahut kendisini kaldırıp pencereden aşağı atacaktı|7.92
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27198294.mp3|Bu bakışlarda küçük bir haset hatta gıpta aradım ve bulamadım|5.868
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34593653.mp3|Nerden biliyorsunuz|4.176
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36432781.mp3|Burayı nasıl buldun|4.176
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437324.mp3|Burada da|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28346513.mp3|Hadi hadi|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35051441.mp3|Bana biraz daha zaman ver|3.96
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30729089.mp3|Önemli değil|1.296
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28863063.mp3|Nerden bilebilirim ki|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37870912.mp3|Hiç acele etme|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355734.mp3|Ne de çabuk bitirdiniz|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34816985.mp3|Asıl kendime ispat edececeğim…|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440412.mp3|Bugünlerde İstanbul seni sardı galiba…|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30385200.mp3|Sonra telaşla oğlana dönüp bir şeyler söyledi|5.22
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30272121.mp3|Yanlış yapıyorsun|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34597439.mp3|Hiç utanmak kalmamış…|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34949981.mp3|Bunlar bar artistleri…|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30493005.mp3|Bir ay sonra…|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440282.mp3|Hangi şey|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_33415750.mp3|Ömer İstanbul’dan ayrılmayı aklına bile getirmek istemiyordu|5.94
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30407879.mp3|El bombaları|1.944
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345313.mp3|Yurdun otlusundan kutlusu yeğdir|4.14
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26545696.mp3|Buldum|1.296
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26570503.mp3|Bu mümkün|1.152
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30375023.mp3|Kendinle gurur duymalısın|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443727.mp3|Bize yardım et|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_39554536.mp3|Yapının doğusunda bulunan kadınlar için olan kısmın soğukluğu da erkeklerinkiyle özdeştir|7.92
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28863114.mp3|İçim tatlı sıcak neşeli şeyler anlatmak isteğiyle yanıyor|5.58
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26531413.mp3|Burada kimse yok|1.584
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38050876.mp3|Sana iyi şanslar|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36412949.mp3|Cahil Çakıcı bütün cehaletiyle yine düşünüyordu|7.128
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26531457.mp3|Çok teşekkür ederiz|1.764
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28856109.mp3|Burası özel mülk|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37990138.mp3|Beni geriyorsun|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38386507.mp3|Üç etti|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29289755.mp3|O bir kazaydı|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36434221.mp3|Zaten öylesin|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30311691.mp3|Arpacıya borç eden ahırını tez satar|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30273770.mp3|Balıkesirden gelirken Susurlukta bir handa kahve içiyorlarmış|5.328
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36818198.mp3|Emine hanım olmasa eve gelen misafirlere hemşerilere bir lokma yemek bile çıkarılmayacaktı|7.848
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37771376.mp3|Sadece ben varım|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366632.mp3|Evet aferin|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371438.mp3|Fakat bu sırada odasından dışarı çıkan istasyon memuru trenin yakın olduğunu anlattı|7.956
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437512.mp3|Oyun mu|1.8
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30382955.mp3|Kasketini gür kaşlarının üstüne eğerek aşağıyı seyreden süvari koluyla İkinciyi dürterek Geldi dedi|9.396
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30368118.mp3|Zora beylerin borcu var|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36585548.mp3|Bitiriyorum|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983087.mp3|Çabucak kalktı|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30389942.mp3|Parayı getirdin mi|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27198195.mp3|Merhaba nasılsınız|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30461247.mp3|Benim kurşun ona diriyken değil ölüp yere yıkılırken değdi|5.76
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34610719.mp3|Artık bulmuştu|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371198.mp3|Tamam sen kazandın|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26637120.mp3|İçeri nasıl girdin|1.692
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28968585.mp3|Esmadan evvel küçük Necati uyanarak ağlamaya başladı|4.248
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38146261.mp3|İnanamazsın|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440239.mp3|Ben de yeni öğrendim|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30344666.mp3|Yenice eleğim seni nerelere asayım|4.68
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30497560.mp3|Güvenlik için|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30392654.mp3|Neredesiniz çocuklar|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36434038.mp3|Beni ona götür|3.564
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37969039.mp3|Var zaten|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27764946.mp3|Birkaç kere gelip gittiler aldırmadım|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27764945.mp3|Bu histen kurtulmak için yaptığım bütün hamleler boşa çıktı|5.256
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26656059.mp3|İçimde kötü bir his var|1.944
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32187680.mp3|İyi günler|1.728
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30312692.mp3|Hastayı bir sağına bir soluna devirip temizlediler|4.968
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38532596.mp3|Alt yapı talebiniz oluşturuldu ancak alt yapı çekme ya da tanımlama işlemini bizler sağlayamıyoruz|8.028
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940970.mp3|Ya da tam tersi|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26533872.mp3|Seninle konuşmalıyım|1.692
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32939570.mp3|Daha görüşürüz… dedi|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26666973.mp3|Neredesiniz|1.62
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443705.mp3|O zaman gidelim|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355275.mp3|Gerçekten mutluyum|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26666991.mp3|Merak ediyorum|1.692
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34507065.mp3|Delikanlı hiddetle kaşlarını çattı  Onu bu silah patladığı zaman öğrenirsin|6.588
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38023323.mp3|Böyle bir kadının hiç nazlanmadan ve düşünmeden boynuna sarılmasını bekleyecek değildi ya…|7.308
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30244891.mp3|Patron kemancının hesabını kesmiş o da kalabalığa doğru sokulmuştu|5.58
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26676887.mp3|Unut gitsin|1.44
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28785145.mp3|Ben sana ne dedim|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440756.mp3|Ben erkek değilim|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30399515.mp3|Bir de bu var|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34914139.mp3|Annesiyle aram pek iyi değildi fakat orada bunun üzerinde durmadık|6.696
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38103732.mp3|Dikkatlice|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25948324.mp3|Binada faal durumda bir alttan ısıtma sistemi bulunmaktadır|4.536
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30369885.mp3|Yel gelen deliği kapamalı|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36436072.mp3|Fransız…|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26663377.mp3|Ben de oranın en neşeli talebesiydim…|2.664
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37242928.mp3|O zaman onu yakalamış gibi kendimden emin bir edayla|5.256
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38099805.mp3|Evet sorun nedir|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30459235.mp3|Bu çocuğu fena yaralamıştım|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34513622.mp3|Yaya kaldırımında değildi|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34915910.mp3|Sudan çıkın|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30367829.mp3|Durum iyi değil|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34513780.mp3|Dua etmeliyiz|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26545873.mp3|Kaymakam şaşırmıştı bu gözlerin sahibi dediğini yapacağa benziyordu…|3.996
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38099817.mp3|Seviştik|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26663304.mp3|Baylar|0.972
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30273117.mp3|Hadi beyler|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408759.mp3|Oturabilir miyiz|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30441008.mp3|Peki…|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32953190.mp3|Merdivene doğru yürüdüler|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38032298.mp3|Nasılsınız bakalım|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440976.mp3|Haydi yapalım şu işi|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35011889.mp3|Evet ne demezsin|3.996
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30310998.mp3|Etrafta kimseler görünmüyordu|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38377324.mp3|Devam et evlat|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440794.mp3|Seni tanımak güzeldi|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38032295.mp3|Hoca kollarını sıvayıp abdest almaya hazırlanıyordu|5.508
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38522400.mp3|Detaylı şekilde bakabilir misiniz|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35594690.mp3|Tekmele|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38007736.mp3|Parmak izi|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26101899.mp3|Kitabın yayınlanmasına sadece birkaç gün kaldı|4.968
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37137281.mp3|Bu çok kötüydü|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29258133.mp3|Emredersiniz kaptan|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38162818.mp3|Bu senin fikrin miydi|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37507699.mp3|Ben de aynı şekilde hissediyorum|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28876507.mp3|Bunu görmen lazım|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37355613.mp3|Beni de sayın|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32290715.mp3|Karı onu orada görünce bir şaşırmış|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28874240.mp3|Hadi Kemal bunu da al da git evine yat artık dedim|4.176
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36433045.mp3|Ben gerçekten üzgünüm|4.14
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30311674.mp3|Irmak kenarına çeşme yapılmaz|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29289795.mp3|Sen nesin peki|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390450.mp3|Mart martladı tavuk yumurtladı|3.96
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36434030.mp3|Tutarım|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30548845.mp3|Tahliye edilen mahkumların birçoğu gibi…|3.96
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37995625.mp3|Seni seviyorum oğlum|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345435.mp3|Sizin sırça köşkünüz yok mu|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36530608.mp3|Bugün günlerden ne|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36413066.mp3|Kamyon|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442569.mp3|Doktor sensin|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37955271.mp3|Yapar mısın|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38152089.mp3|Benden hoşlanıyor|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35717072.mp3|Hazır mısınız beyler|1.548
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38032285.mp3|Noluyor burada|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28863193.mp3|Görüyorsun değil mi|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38580887.mp3|Ancak bir problem oluşturmaz|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34149195.mp3|Sana yardım etmeye çalışıyoruz|4.608
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32924349.mp3|Sana gösterebilirim|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32934571.mp3|Bana yardımcı olabilir misin|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26667142.mp3|Mükemmel|0.972
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32187703.mp3|Kaymakam koltuğunun arkasına yaslanarak derin bir oh çekti|4.068
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30439175.mp3|Ayrılın|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371442.mp3|Ayaklan mevcut olmayan taşlara takılarak hendeğin kenarına kadar sendeledi|7.308
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940896.mp3|Neredesin şimdi|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30463821.mp3|Babam mı|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38755785.mp3|Eski kimliği ancak ölümünden sonra ortaya çıktı|4.68
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34607975.mp3|Ne somurtuyorsunuz|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30461690.mp3|Eğlenceli olacak|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38580876.mp3|Anladım peki faturalandırma şekli nasıl oluyor acaba|4.896
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36812673.mp3|Hadi bakalım benim yerime bir el oynayıver|4.86
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28904493.mp3|Arabacı atları sürdü öndekilere yetişti|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28972863.mp3|Azı bulamayan çoğu hiç bulamaz|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32289166.mp3|Hayır değilim|2.484
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28972614.mp3|Hemde çok|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437666.mp3|Bu söz konusu bile olamaz|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30367998.mp3|Konuştun mu|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355922.mp3|Önemli şeyler|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32953657.mp3|Aradığını buldun mu|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25804359.mp3|Ellerini çekme|1.944
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29121956.mp3|Biraz nefes aldıktan sonra Hani o avrat…|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30362431.mp3|Kelebek…|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32941113.mp3|Anzavur delikanlıyı yola getirmenin imkân dahiliğinde olmadığını anlamıştı|6.768
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30498433.mp3|Oraya koş|1.224
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38351238.mp3|Köy kahvesinin içi…|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28904854.mp3|Bir uyuz keçi bir sürüyü boklar|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28786027.mp3|Olur olmaz lafa karışıyor terslenince cevap vermeye kalkışıyordu|5.76
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30244889.mp3|Ona aşık mıydın|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30500811.mp3|İçeride|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38117203.mp3|Gören gözün hakkı vardır|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30491788.mp3|Bir şeyi yok|1.512
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444353.mp3|Orada durum nasıl|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30273693.mp3|Biraz sakin olun|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440584.mp3|Yaklaştık|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32289518.mp3|Ben oldum|1.872
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38103734.mp3|Allahın emriymiş…|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30354787.mp3|Gönderdim|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30439542.mp3|Elbet bir gün ihtiyarlayacağız Ve ölüm bizi alacak|5.328
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30410962.mp3|Halbuki bu seferki aşkım bir mevsim gibi sakin ağır belirsiz adımlarla gelmişti|7.776
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_31046641.mp3|Birkaç dakika sürer|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32939215.mp3|Hayır bırakın beni|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26101849.mp3|Onları ziyaret etsem mi|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391997.mp3|Dil ebsembaş esen|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30497425.mp3|Saçmalık değil|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32565341.mp3|Geceleri çırpınıyor boğulacak gibi öksürüyor ve durmadan inleyerek hiçbirimizi uyutmuyordu|8.388
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32288753.mp3|Başlıyoruz|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37491288.mp3|Yolda radara yakalandım|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30389229.mp3|Şoka girdi|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30363303.mp3|Ahmak gelin yengeyi halayığı sanır|4.14
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444259.mp3|Çok haksızsın Mahmut…|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442218.mp3|Ama hepsi bu|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390286.mp3|Güvende olursun|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34519197.mp3|Kız hasta|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38598860.mp3|Arapça bilen biriyle iletişim kurmak istiyorum|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30383055.mp3|Şunu duyuyor musun|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37242934.mp3|Korktun değil mi|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408623.mp3|Gitmedi|1.656
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38117192.mp3|Bunu sen yaptın|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30469136.mp3|Etrafla alakamı kesmiş gibiydim|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30375074.mp3|Vampirler|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30472173.mp3|Ne dersin buna|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30344901.mp3|Merhaba hemşerim diye seslendim|4.248
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26677040.mp3|Ne dediler|1.26
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32290494.mp3|Adamın ahmağı malını över|3.744
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_31038355.mp3|Onu görmek için sabırsızlanıyorum|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408675.mp3|Düşman mı|1.8
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28786229.mp3|Göt|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28102017.mp3|Eve git|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34507106.mp3|Bunu tercih ederim|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38232801.mp3|Tanıdık geliyor mu|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437223.mp3|Anlat onlara|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26570617.mp3|Çıkıyorum|1.224
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36412809.mp3|Pek değil hayır|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390109.mp3|Kimse beni sevmiyor|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25804270.mp3|Kalktım yüzümü yıkadım ve çarçabuk giyindim|3.564
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38113248.mp3|Sana tapıyorum|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30341891.mp3|Anahtar nerede|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36432771.mp3|Babam aradı|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30464066.mp3|Olduğunuz yerde kalın|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442925.mp3|Anlayacağını biliyordum|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36412901.mp3|Yazık değil mi|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30323900.mp3|Kilisede…|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29289805.mp3|Hatta kalın|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391398.mp3|Kendi kendime konuşuyordum|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35716994.mp3|İsanın bedeni|1.404
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30352393.mp3|Beni burada tutamazsınız|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441488.mp3|Yıkanmamış bir tıraş takımı üzerinde kurumuş sabunlarla hâlâ orada duruyordu|7.704
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28857633.mp3|Elleri titreyerek masanın üstündeki bardağı aldı bir defada dikti|6.48
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37412894.mp3|Amanın Yarabbi|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34613853.mp3|Avukattı|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940877.mp3|Şimdi beni yalnız bırak|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36406269.mp3|Güzel mi bari|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30418442.mp3|Saatler geçti|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34502050.mp3|Ama şimdi inanıyorum…|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30437492.mp3|Cevap ver bana|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37111269.mp3|Neyse önemli değil|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29119340.mp3|Senin neyin var oğlum dedikten sonra çekik gözlerini İbrahime dikerek bekledi|6.48
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36859250.mp3|Bir şey söylemeden yan yana yürümeye başladılar|4.896
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38899092.mp3|Dolayısıyla evraklar yerine evrak sözcüğünü çoğul olarak kabul etmek etimolojik safsata olacaktır|7.308
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38100348.mp3|Şoför dur|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444216.mp3|Dünya Savaşı|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437201.mp3|Doğru olanı yaptım|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38096803.mp3|Sana yardımcı olmaya çalışıyorum|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345466.mp3|Ver bakayım|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_33486028.mp3|Üşümedin mi|1.044
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29289720.mp3|Haklısınız efendim|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32936147.mp3|O zaman kendisini çağırdım|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30341683.mp3|Evet çok haklısın|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26676885.mp3|Gel hadi|1.116
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28908204.mp3|Eminenin yüzü sapsarı olmuş…|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38067141.mp3|Ben bu taraftan gidiyorum|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442504.mp3|Dondum kaldım|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30356493.mp3|Bana ne diye çektirir bilmem… dedi|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408318.mp3|Oh şükürler olsun|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26636568.mp3|Telefon|1.116
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30369649.mp3|Başka ne yapabiliriz ki|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32925603.mp3|Yapmak istemedim|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396783.mp3|Doktor nerede|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30464028.mp3|Gözün üzerinde olsun|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34518485.mp3|Her zamanki yabancı ve dalgın gülüşüyle kâğıdı elimden alarak…|5.256
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37229167.mp3|Gene homurdanıp duruyor|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443937.mp3|Tekrar söylemeyeceğim|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32934384.mp3|Bunu neden yapalım ki|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34611279.mp3|Macide bir müddet olduğu yerde kaldı|3.96
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30534513.mp3|Ne kadar para|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37955260.mp3|Söyleyelim de bulsunlar|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35048290.mp3|Sizi bekliyorum|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30368523.mp3|Köye kadar yolumuz bir…|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26637057.mp3|Karşımda öteki surun taşları vardı|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26663369.mp3|Neydi oranın ismi|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26531936.mp3|Aşağılık herif|1.62
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38550592.mp3|Daha uygun bir internet tarifesi istiyoruz|4.5
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38187999.mp3|Hadi şu işi yapalım|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32927846.mp3|Teknik olarak evet|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32954639.mp3|Emredersin|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30383276.mp3|Senden devletli ile ortak olma|3.996
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36406332.mp3|Sözlerimi unutma üzerinde düşün|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30492086.mp3|Beni nereden tanıyorsun|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32304296.mp3|Şöyle bir dikkatlice okumaya başladım|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26656196.mp3|Her şey yolunda mı|1.548
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437180.mp3|Bunu yapamıyorum|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38394526.mp3|Sen daha iyi bilirsin ya başından geçti…|4.32
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30427387.mp3|Tam Ada iskelesinin yanından geçerken kulağının dibinde birisi bağırdı|5.328
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38996765.mp3|Bir başka örnek de Şeytan serisinin dördüncü filmi olan filmidir|5.688
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30472323.mp3|Ne işim var benim burada|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37432760.mp3|Ne kadını|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32939348.mp3|Ben onun karısıyım|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38099770.mp3|Yok aslında|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441132.mp3|Gitmez|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38331189.mp3|İlk düşündüğümüz şeylerden biri de budur hemen bu sene yaptırmak istiyoruz projeleri hazırlanıyor|7.74
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25804188.mp3|Yalnızlığımı hissediyor ve üzülüyordum fakat bundan kurtulmanın mümkün olabileceğini ummuyordum|6.804
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_31113282.mp3|Kedi mi|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28972615.mp3|Var olmalı…|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28786250.mp3|Nerede yaşıyorsunuz|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34680621.mp3|Çok utanıyorum|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366161.mp3|Kasabadan tanesi on kuruşa beş on tane sulfata aldım içirdim hani faydasını da gördü|7.596
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441904.mp3|Tanıyor muyum|1.656
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30405732.mp3|Ben buradayım|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28102278.mp3|Kalabalığın içinde dönmeye başladık|3.78
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_31839483.mp3|Tanıyorum|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28433510.mp3|O zaman bu şarkıyı çalamayacaktı|4.788
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38146248.mp3|Haydi yürüyün|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26533775.mp3|Fakat söyledikten sonra ağzından çıkanın nasıl çıplak bir hakikat olduğunu anladı|4.608
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36406292.mp3|Başka hiçbir şeyin önemi yok|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38125689.mp3|Kendini tamamen hadiselerin eline bırakmaya karar verdi|5.148
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30392000.mp3|Yuh be|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396793.mp3|Ateş olmayan yerden duman çıkmaz|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37379475.mp3|Bırak şu derin lafları canım|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28968573.mp3|Hiçbir şey olmaz|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26548927.mp3|Seyret|1.296
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34608165.mp3|Babam evde mi|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437291.mp3|Yakalandı mı|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30412047.mp3|Hayır söz veriyorum|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27198577.mp3|Gözlerimi yere diktim ve bekledim|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34596698.mp3|Ne yapıyorsun sen orada|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36157637.mp3|Memnunum|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35849371.mp3|Ömer bir an tereddüt ettikten sonra|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32939790.mp3|Ketçap|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396220.mp3|İki köylüden biri yataktan kalkamayacak kadar halsizdi|5.22
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29289784.mp3|Trafiğe takıldım|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38175675.mp3|Henüz gelmedi|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30460999.mp3|Bu günde doğanlar halim selim ve felaketleri hafif ve devamsız olur dedi|7.308
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30492109.mp3|Hayır alamazsın|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36951846.mp3|Birçok şeylerin aleyhindesiniz|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34562446.mp3|Ver onları bana|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38113321.mp3|Sen biliyor musun|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37870902.mp3|Ben herkesin oyuncağı mıyım|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36411540.mp3|Ertesi akşam Macide’nin ders günüydü|6.084
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38311929.mp3|Özür dilerim canım|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38247211.mp3|İhtiyara üstünkörü bir eyvallah savurarak merdivenleri ikişer ikişer indim ve sokağa fırladım|7.956
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345422.mp3|Tam sana göre|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37879059.mp3|Oraya gitmem gerek|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38094433.mp3|Ne neydi|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32289393.mp3|Hangisi doğru|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355136.mp3|Hatta bugünkü ameliyatta tamamen bu yoldan yürüyeceğim|5.148
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37572185.mp3|Hayretle baktım|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36412853.mp3|Ömer şapkasını yakalayarak|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36434047.mp3|Fakat niçin insanlardan ve kafalarından ah kafalarından bahse başladım|7.128
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30462260.mp3|Yaparım|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30806042.mp3|Ya|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34599348.mp3|Kızın mı var|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37179651.mp3|Saat|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441398.mp3|Rüya mı gördün|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38096801.mp3|İngilizce biliyorum|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37950678.mp3|Sanırım haklısınız|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25804227.mp3|Havrana yaklaştıkça içime daha çok hüzün çöküyordu|4.104
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36434130.mp3|Miden mi bulanıyor diye sordu|4.392
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30369128.mp3|Nasılsın bebek|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36412968.mp3|Karar nedir|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440908.mp3|Geri dönmeyeceğim|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30472093.mp3|Kovuldu mu|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34487109.mp3|Köye döndüler|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30461288.mp3|O kadar uzak değil canım…|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37347322.mp3|Fakat veznedara meseleyi açmadan duramayacaktı|4.788
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34684843.mp3|Bu haber kışla meydanında serseri dolaşan Arnavutlar arasında bir yıldırım süratiyle yayılıvermişti|9.108
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25935433.mp3|Şu anda İtalya’nın en büyük müzik yayıncısıdır|3.312
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37444786.mp3|Seni görmek de|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36439866.mp3|Derhal kendini topladı|4.176
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30595035.mp3|Hayatımda ilk defa olarak başka birisinin tesiri altında kalmıştım|5.76
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30464222.mp3|Belki de en yaramaz talebesi|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27764560.mp3|Durun|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444386.mp3|Ben onunla konuşurum|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30404937.mp3|Öte yandan gürültüye gelen bir bekçi de bizi oradan kovdu|5.58
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441134.mp3|Buranın sahibi|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27188864.mp3|Kapat|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37198269.mp3|Seninle konuşamam|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30383571.mp3|Onun da gözlüklerinin arkasındaki gözlerinde memnun bir parıltı belirdi|5.94
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38881434.mp3|Helenanın öldüğünü düşünerek üzüldü|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35282442.mp3|Elleriyle etrafını gösterdi|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37765371.mp3|O gece genç zeybek Ahmet’in saptığı ormanlığın içinde bulunuyorlardı|6.516
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37984158.mp3|Beni özleyecek misin|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366095.mp3|Bana şantaj mı yapıyorsun|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34601079.mp3|Sen ne bekliyordun|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440838.mp3|İki yüz on sekiz|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408685.mp3|İşte hepsi bu|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32289307.mp3|Ver şunu bana|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37137264.mp3|Yapardım|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440998.mp3|Bayburt türküleri mırıldanıyordu|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36511994.mp3|Evet efendim ben de onlara söyledim|4.248
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440308.mp3|Bunu kaçırın…|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26667211.mp3|Defolun|0.828
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26533693.mp3|Selam bebeğim|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28346170.mp3|Benim başkalarından farkım samimiyetim düşüncelerimi açıkça söyleyip yapmamdır|7.416
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35184617.mp3|Hey sorun değil|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30534602.mp3|Birlikte yapabiliriz|3.888
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36376762.mp3|Size yetişirim|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35240123.mp3|Her şeye rağmen imkânı yok…|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32912941.mp3|Ben yazarım|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36394512.mp3|Şimdiye kadar olduğu gibi başıboş konuşmanın bu kız üzerinde iyi tesir yapmayacağını düşündü|5.4
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30510496.mp3|Teşekkürler|1.332
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983913.mp3|Katılmak istiyorum|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441434.mp3|Bir dakika sonra oradayım|3.672
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25754057.mp3|Bu olmadıktan sonra aile sahibi olmanın hakiki ismi birtakım yabancılar beslemek ti|7.38
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26101816.mp3|En çok San Mateo Köprüsünün içinden geçen yol olarak bilinir|5.76
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38132367.mp3|NasıI gitti|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26656191.mp3|Bir iki üç|2.592
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440855.mp3|Ameliyat mı|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37926659.mp3|Düşmanlarım gezsin benim yerime|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38257920.mp3|Horoz ne kadar öterse ötsün civciv tavuğun dıkdıkına bakar|5.688
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36558591.mp3|Biraz uyanık kafalı olan profesörler işlerinden atılır|5.004
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408724.mp3|Yatıyor|1.548
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26545832.mp3|Saçmalama|1.296
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391077.mp3|Anlamadığım bir şey var|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940804.mp3|Bu çok can sıkıcı|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37969037.mp3|Kendin söyle|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366762.mp3|Sordum Burada siz mi oturuyorsunuz|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28146785.mp3|Aman yarabbi ne güzel gözlerin var senin…|5.796
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38146349.mp3|Seni burada bırakmayacağım|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36557785.mp3|Sesini duyurmamak için dişlerini hırsla ot yastığa geçiriyordu|6.732
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36771879.mp3|Gözlüklerim…|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366746.mp3|Kendini suçlama|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34916002.mp3|Elinde kitarası|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440818.mp3|Yok be|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34507340.mp3|Geçen gün de bir acayipti|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34548999.mp3|İyi geceler canım|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27938827.mp3|Peki ya bu|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30367203.mp3|Devletli yanını kaşısa yoksul para verecek sanır|5.076
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30404622.mp3|Karar vermedim|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34596863.mp3|Tesadüflerin oyuncağı olacak olduktan sonra ne diye bir irademiz vardı|6.84
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36413058.mp3|Kapanıyor|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30392281.mp3|Burada ayrılıyoruz|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_39554742.mp3|Teknik direktörlük görevine Osman Özköylü getirildi|4.896
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34598091.mp3|Nereden başlayacağımı bilmiyorum|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371179.mp3|Amca baba yarısı|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441059.mp3|Pis yalancı|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27836486.mp3|Yanımda gelen hemşire içerde çok kalmamamı hastanın yorulmasının doğru olmadığını söyledi|8.46
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28924767.mp3|Çobanın gönlü olursa tekeden yağ çıkarır…|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25754911.mp3|Ağır ağır hafızamı toplamak için ara sıra duraklayarak başladım|5.256
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32934452.mp3|O kadar çabuk mu|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28785178.mp3|Yaptığınız şey için mazeret aramıyor üzülüyorsunuz|5.328
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30365982.mp3|Muhteşem değil mi|3.78
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36585752.mp3|Lütfen benimle gel|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26531943.mp3|Hadi canım|1.224
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30356441.mp3|Kefen alacak adam gözünün yaşından belli olur|4.248
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28146869.mp3|Durun|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38140317.mp3|Tamam hemen|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437111.mp3|Seni seviyorum tatlım|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30392794.mp3|Burada işler böyle yürür|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30425977.mp3|Bir gün sabahleyin uyandığı zaman yerinden kımıldayamayacak halde olduğunu gördü|6.3
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32223351.mp3|Kadın ileride birkaç yaşlı ve şişman adamın yanına oturdu|6.696
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28102054.mp3|Hiç anlamıyorum|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30393797.mp3|Evet geliyorum|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32399996.mp3|Hala anlamıyor musun|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408467.mp3|Hadi dışarı|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26667204.mp3|Çavuş|1.116
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30504976.mp3|Buraya gelin|1.512
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30498363.mp3|Yo hayır|1.296
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30498772.mp3|Beni gördün mü|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30500734.mp3|Yanlış bir şey mi yaptım|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29247634.mp3|Hedef neresi|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35406099.mp3|Sınıfa girince kutusundan klarnetini çıkarıp yeknesak mektep havaları çalar ve çocukları gelişigüzel bağırtırdı|9.0
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30441030.mp3|Köylüyü müdafaa etmedim mi|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345819.mp3|Biraz daha anlat|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34396529.mp3|Bir kurbağa bakmadan o pepeme diline|5.328
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38187897.mp3|Önsezi|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30409354.mp3|Burda ne işin var|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37915927.mp3|Mustafa üç yüz silahlı istediğin şekilde hazırlandı vereceğin talimatı bekliyorlar|6.948
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34939226.mp3|Maksatlarımız için ne kadar muvafık|4.608
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30312701.mp3|Tuttum onu|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28938593.mp3|Burada olur mu yahu|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30355266.mp3|Onu hatırlıyor musun|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32927245.mp3|Öteki hala inanamıyor gibiydi|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37915706.mp3|Yanaklarındaki yaşları sol elinin tersiyle sildi ve kalemi alarak son yazdığı satırları karaladı|7.488
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30422714.mp3|Vardı|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396195.mp3|Ateş demekle ağız yanmaz|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28785160.mp3|Bil bakalım ne|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35262286.mp3|Kendinizi koruyun|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32187616.mp3|Sıhhiye eri|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38501882.mp3|Alt yapı olması lazım değil mi|3.78
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_31630078.mp3|Kazandım|1.404
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35630743.mp3|diye sordu|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30422454.mp3|Neredesin|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396240.mp3|Dediğin gibi|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32565890.mp3|İki hafta oldu|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30964504.mp3|Ne yapacaktım|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29121679.mp3|Evet tahmin edebiliyorum|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30413674.mp3|Nasıl söyleyeceğimi bilmiyorum|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345670.mp3|Büyüdüm|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442002.mp3|Hafifçe eğildi|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345664.mp3|Beyin tümörü|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36414299.mp3|Geleceğini sanmıyorum|3.996
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36406273.mp3|Cevap vermeden yürüdü|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34504214.mp3|Olduğu yerde mıhlanmış gibi duruyordu|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396617.mp3|Oğlan tarafı da amma karı bulmuş ha dedirmemek lazımdı|4.968
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30367895.mp3|Efendimiz|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32955025.mp3|Bir ses duydum|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37771336.mp3|Bunu biliyorlar|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30472259.mp3|Geri götürün|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30352311.mp3|Boğazın biraz genişlediği bir yere yaklaştığımız zaman kulaklarımı müthiş bir gürültü doldurmaya başladı|8.028
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37982990.mp3|Yalnız benim vazifemden başka bir şey yapmadığıma emin olunuz|4.968
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30722078.mp3|Tanışıyor musunuz|1.512
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940486.mp3|Deli gibi üstüne kapandı|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36411448.mp3|Gösterişli|4.104
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29630594.mp3|İçeri gelebilirsin|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408651.mp3|Randevun nasıldı|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345467.mp3|Lütfen bana dokunma|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36414828.mp3|Vurdum|3.564
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443713.mp3|Yanlış mı söylüyorum|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391769.mp3|Çok gençsin|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30439234.mp3|Burada seni sıkan halk muhit değil kendi mevkiindir sen efendi olmak kabiliyetinde değilsin…|8.208
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32941013.mp3|Ne söyleyeceksin|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30483122.mp3|Sevenin kuluyum sevmeyenin sultanı|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26635887.mp3|Gitmeyeceğim|1.368
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27836260.mp3|Ulu Tanrım|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36412925.mp3|Aklın nerede|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36439917.mp3|Güzel bir kız|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371544.mp3|Bütün gün kafam böyle şeylerle uğraştı|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36283842.mp3|Yüz kırk altı|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38113196.mp3|İnsan bundan azarmış zaten|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36412823.mp3|Lütfen beni dinle|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37918559.mp3|Arkada ve biraz solda sarayın bir kısmı göründü|3.78
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440271.mp3|Bitmiştir|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30464121.mp3|Beni yalnız bırak|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30482955.mp3|Evet efendim|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30472145.mp3|Görüyor musunuz|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30341615.mp3|Kimi aramıştınız|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34612682.mp3|Bu yüzden hayatının yolunu değiştirecek kadar heyecana düşmeyi nefsine karşı bir haksızlık saydı|8.136
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30362406.mp3|Çalışıyorlar|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32940991.mp3|Ciddi değildim|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30482931.mp3|Yardım etmeye çalışıyorum|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30439984.mp3|O ne demek|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26531856.mp3|Yanımdan geçerken birisini gözüm ısırdı|2.952
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30346193.mp3|Yine başladık|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34488021.mp3|Sana kişisel bir soru sorabilir miyim|3.996
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30422188.mp3|Elimizde baltalar sopalarla ormana daldık|3.708
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26531971.mp3|Çok naziksiniz|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30469085.mp3|Bir daha olmayacak|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38067030.mp3|Yarası pek ağır olmadığı için belki kurtulabilecekti|4.896
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36680622.mp3|Evet şimdilik|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36221714.mp3|Başımı hemen kes sana kanım ak sütüm gibi helal olsun…|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30356451.mp3|Ben bütün bunları son çıkan Haftalık Tıp Gazetesinde yazdım|5.796
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38121733.mp3|Ben seni korurum|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27175408.mp3|Dikkatli olun|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37533185.mp3|Bu kötü bir şey mi|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32280908.mp3|Deneyelim|3.096
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28785214.mp3|Hayır sakın|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29623176.mp3|Bağlanıyor|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30356544.mp3|Bak bana bir gözle bakayım sana iki gözle|3.708
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30362729.mp3|Sabah çıktığını geceleyin gelip yattığını bile duymazsınız|6.84
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36718492.mp3|Her an burada olabilir|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30357007.mp3|Çok mu kötüydü|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30407319.mp3|Çavuş|1.728
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36558183.mp3|Hey dur biraz|2.484
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32927778.mp3|Öyle biri değilim|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32955030.mp3|Neden yalan söyleyeyim|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443966.mp3|Ölmeye hazır mısın|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30427416.mp3|Onu seviyor musun|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38151965.mp3|Bu büyük bir fırsat|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37794318.mp3|Alnına vurdu|2.556
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25754583.mp3|Fakat kadın hiç de beni bırakmak niyetinde değildi|3.852
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390882.mp3|Ununu elemiş eleğini duvara asmış|4.428
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366124.mp3|Nasıl geldin buraya|3.42
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28786302.mp3|Lütfen sessiz olun|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30459292.mp3|Hm|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34553070.mp3|Siz de yarın akşam diyerek odadan dışarı çıktı|4.356
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30341330.mp3|Bir saniye buraya gel|3.996
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32960876.mp3|Denemekten zarar gelmez|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38146437.mp3|Gerçekten seviyorum|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30439440.mp3|Herşey yolunda mı|2.412
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30422608.mp3|Bunun da bir tek oğlu oldu o da sekiz yaşında sıtmadan öldü|6.588
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38023354.mp3|Oradalar mı|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29289756.mp3|Bir adam…|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27777340.mp3|Büfenin aynasında kendimi gördüğüm zaman oldukça şaşırdım|5.796
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441669.mp3|Evet biliyor musun|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30375015.mp3|Böyle kal|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38525215.mp3|Doğru girmeme rağmen hata veriyor|4.068
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32934541.mp3|Dünya hakkında hemen hemen hiçbir muayyen fikirleri hayat hakkında hiçbir telakkileri yoktur|8.388
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25552344.mp3|Bana gelince benim cesaretim var|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34487793.mp3|Bir koca uğruna feda ettim fakat pek zararlı değilim|4.896
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36413868.mp3|Ne diyeyim|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_29499710.mp3|Sağ salim|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25754287.mp3|Arkadaşlarımın çoğu ortadan kaybolmuştu|3.384
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442659.mp3|Onu bana getir|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30418609.mp3|Masalar tenhalaşmış kadınların yüzüne daha açık bir yorgunluk çökmüştü|6.588
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391775.mp3|Bir yerde okumuştum|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36012989.mp3|Fazla kalamam|1.188
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32925411.mp3|Profesör Hikmet’e döndü|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345246.mp3|Ben düşündüm de…|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34596999.mp3|Bunun sebebini emellerinin genişliğinde ve imkânsızlığında değil talihin düşmanca oyununda buluyordu|8.748
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28691845.mp3|Hayır efendim|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28433342.mp3|Yavaş ol|1.656
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38212473.mp3|Emek olmadan yemek olmaz|3.888
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408480.mp3|Fakat kalbim…|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30469164.mp3|Tamam geçti|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441178.mp3|Daha kötü|1.908
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28886467.mp3|Yarın yüz seksen öbür gün yüz doksan beş lira|3.816
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443952.mp3|Macide’nin yüzü de derhal aydınlanmıştı|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30439351.mp3|Kaltak|2.124
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38536492.mp3|Aynı mı oluyor durum yine|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30244848.mp3|İsteyerek olmadı|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443275.mp3|Bu mücadelede bize sen rehberlik edeceksin|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36443353.mp3|İstemiyoruz|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36432995.mp3|Hangi cehennemde bu|3.492
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391511.mp3|İyi misin tatlım|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36558676.mp3|Kimse fark etmez|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37962093.mp3|Hayır etmedi|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30396974.mp3|Evet bir sorun var|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36686288.mp3|Ellerini ver|2.916
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30356839.mp3|Gönlüm dışardaydı|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38190260.mp3|Hareket etmiyor|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37083061.mp3|Orda mısın|3.276
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38007817.mp3|Doğum tarihi|3.24
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_27938993.mp3|Düşündü…|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25935676.mp3|Geriye kalanlar Brexit referandumuna karşıt olan insanlara verilen bir takma addır|5.508
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36406087.mp3|Fark etmemişim|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35983217.mp3|Ne düşüneceğimi bilemiyorum|3.456
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38007684.mp3|Biri|2.088
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30391941.mp3|Karnım ağrıyor|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36414079.mp3|İstidadım olmadığını anladım|5.292
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36818196.mp3|Görebildin mi|3.168
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371313.mp3|Arkamdan doğru kalın çatlak hatta biraz da bıkkın bir sesin durmadan homurdandığını fark ettim|8.928
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440941.mp3|Hanım|1.656
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35328582.mp3|Onu serbest bırak|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441746.mp3|Sen mi yazdın|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28863212.mp3|Bekliyordum|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441084.mp3|Peki sen kimsin|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30505105.mp3|Hey çocuklar|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38778275.mp3|Kitapta Trabzonda futbolun gelişim evresinin ilk yılları ve İstanbul kulüpleri anlatılır|7.02
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983139.mp3|Sorun yok bebeğim|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28102332.mp3|Araba hafif hafif sarsılarak ilerliyordu|5.04
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37995300.mp3|Altı senedir de beraberiz…|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35406082.mp3|Eminönü’ndeki tramvay durak yerine gelmişlerdi|5.148
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30398511.mp3|Nereye kadar|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30437135.mp3|Kazları ayaklarından tutarak bir eline aldı|4.572
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32289015.mp3|Elleri titriyordu|2.808
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26563427.mp3|Hadi oradan|1.476
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34600308.mp3|Var ol be diyerek bağırarak dramın en heyecanlı yerinde sahneye fırlatmıştı…|5.94
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30463908.mp3|Hayatım|2.196
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36440853.mp3|O bir cadı|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30368237.mp3|Bıktım…|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36442985.mp3|Ölüm bizi ayırana kadar|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36408631.mp3|Oh kapa çeneni|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35288165.mp3|Mustafa Efendi|3.348
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38316145.mp3|Sus lan|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34458271.mp3|Kabalık etmek istemem|2.7
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34562165.mp3|Bu sarayda insan emniyetten başka her şey bulabilir…|5.04
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34953828.mp3|Evet aslında öyle|4.32
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30511404.mp3|Bir türlü bitmeyen ve nereye varacağı belli olmayan bu yolculuklar belki hastalıktan da beterdi|7.74
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28907985.mp3|Tereciye tere satılmaz|2.88
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441164.mp3|Aynı bizim gibi|2.376
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28863232.mp3|Bu muhteşemdi|2.16
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36437652.mp3|Neye benzediğini biliyorum|2.628
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30390510.mp3|Cebindeki on lira ona bir hayli cesaret cömertlik veriyordu|6.876
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36927634.mp3|Biraz önce yeni abonelik için sormuştum|4.788
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32925367.mp3|Çok hoş bir kız|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38099870.mp3|Göremem…|1.98
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30375084.mp3|Hava kapalı ve serindi|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26667210.mp3|Doğru söylüyorum|1.332
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26569065.mp3|Bunu söyleyerek ufak bir leylak ağacının altına doğru bir adım attı|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37983221.mp3|O ne demek öyle|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30352374.mp3|Altı dakika|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36444490.mp3|Söyledin mi|1.8
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30371547.mp3|Çok şık|2.268
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30440675.mp3|Uyansana|2.016
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_39380121.mp3|Sezen Aksu Var Git Turnam şarkısının ikinci kısmı müziği bu türküdür|6.696
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441357.mp3|Beni bahçede görmek istiyormuş|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30392022.mp3|Kendimizi kandırmayalım|3.636
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32939768.mp3|Şurada genç bir kız oturuyordu gördün mü|4.176
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30500615.mp3|Sonra hafif ve adeta korkak bir sesle|4.428
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_25552306.mp3|Hep o korku yüzünden|2.988
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30352835.mp3|Yardımcı olabilirim|2.52
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30366753.mp3|Biraz hava al|2.448
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_32955169.mp3|Tuhaf davranıyorsun|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_28691821.mp3|Hem ben ne söyledim Allah aşkına|3.6
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_34599035.mp3|Kapıyı ayağıyla kaparken iki kolunu birden genç kızın boynuna sardı|5.796
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30345120.mp3|Hayır ben giderim|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_37860220.mp3|Şaka yapmıyorsun değil mi|3.528
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30413933.mp3|Burası neresi|2.34
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36414888.mp3|Hala bana kızgın mısın|5.22
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_35048236.mp3|Eminim yaparsın|3.06
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30411000.mp3|Yine de teşekkürler|2.736
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26538647.mp3|Onu karşılarına aldılar davacı olmaması için kendisine nasihat etmeye başladılar|4.284
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_26645581.mp3|Sonra ayrıldılar|1.44
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_38245305.mp3|Caminin kapısını bilmez sofuluk taslar|4.608
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30341389.mp3|Hacer kadın iki eliyle diz kapaklarına basıyor ellerini çeker çekmez dizler tekrar yukarı fırlıyordu|9.216
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_36441012.mp3|Zar zor|1.836
+/home/ashankwi/commonVoiceData/tr/trainFiles/common_voice_tr_30356603.mp3|Genç kadın sebebini anlayamadığı büyük bir korkuya düşerek ortağına yalvardı…|6.48

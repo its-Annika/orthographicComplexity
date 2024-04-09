@@ -33,7 +33,7 @@ for file in os.listdir(dataFolder):
 		totalTime += audio.info.length
 		
 		#don't need to go beyond 10 hour training sets for this project
-		if totalTime  == 36500:
+		if totalTime >=  36500:
 			break
 
 
