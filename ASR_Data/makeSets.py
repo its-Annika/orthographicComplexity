@@ -1,5 +1,5 @@
 '''
-python3 makeTraingSets.py path/to/data/folder path/to/data/file languageCode task
+python3 makeSets.py path/to/data/folder path/to/data/file languageCode task
 
 '''
 
