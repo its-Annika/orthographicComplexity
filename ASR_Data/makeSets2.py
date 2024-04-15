@@ -50,11 +50,11 @@ for path,transcript,duration in storage:
 
 	if time <= 3600:
 		one.append((path,transcript,duration))
-	elif time <= 9000:
+	if time <= 9000:
 		twoHalf.append((path,transcript,duration))
-	elif time <= 18000:
+	if time <= 18000:
 		five.append((path,transcript,duration))
-	elif time <= 36000:
+	if time <= 36000:
 		ten.append((path,transcript,duration))
 
 
