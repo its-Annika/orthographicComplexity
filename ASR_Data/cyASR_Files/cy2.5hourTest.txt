@@ -1,0 +1,982 @@
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24454652.mp3|Rhaid gadael ir toes godi cyn ei roi yn y popty|5.796
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20544772.mp3|Bydda i hefyd yn rhoi posteri mewn ysgolion cerddoriaeth a chlybiau ieuenctid|6.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19075396.mp3|Mewn pum munud|2.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23459950.mp3|Rhwng Gorffennaf a Medi maen hedfan|3.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23634536.mp3|Mi oedd hin dreifion araf iawn|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23031992.mp3|Nid pytiau arwynebol ond y cwbl lot plîs|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20561892.mp3|Mae hwylio yn sialens anodd iawn i unrhyw gystadleuwr|6.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18995838.mp3|Does gen i ddim newid|3.672
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19001816.mp3|Sut mae gweddill y trefniadau yn dod yn eu blaen|4.296
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28046358.mp3|Mae grŵp o bobl yn protestio yn erbyn rhywbeth|3.924
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20820895.mp3|Mae merched hefyd yn gweld agweddau o chwaraeon yn llai benywaidd|5.592
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29381235.mp3|Nid oes unrhyw ddeiliaid gwregys|3.78
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17677523.mp3|Beth ywr newyddion|2.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22197964.mp3|Wel maen bryd i ti ddysgu|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29205896.mp3|Gelwir hyn yn amgodio data rheilffordd ddeuol|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18131375.mp3|Ble allwn i gael tacsi|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28661579.mp3|Dw i am adael bywyd ymroddedig ar ôl|4.644
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21546149.mp3|Ymdrech arloesol i ddatblygur traddodiad oedd y ddrama|5.424
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19012684.mp3|Allwn i fynd|2.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24395351.mp3|Mae gennym ni i gyd ddiddordeb yn yr un peth|4.644
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18131376.mp3|Beth sydd yn digwydd i olau wrth iddo deithio trwy atomau o nwy|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21833968.mp3|Fodd bynnag nid oedd hin rhannu blas ei thad am baentiadau olew mawr|6.744
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18405907.mp3|Ai hanner awr neu chwarter awr yn hwyr nes di gyrraedd|5.736
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22192967.mp3|Mae angen i chi ddylunio a chynnal arolwg cwsmer|5.496
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17768531.mp3|Beth ywr gwahaniaeth rhwng powdr golchi biolegol ac arferol|4.584
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19033741.mp3|Pwy oedd Llywelyn ap Gruffudd|5.136
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22284773.mp3|Wedir rhyfel newidiwyd enw Gwirfoddolwyr Heddlur Menywod i Gwasanaeth Ategol y Menywod|8.304
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24425070.mp3|Saif ar y ffin rhwng Gwynedd a Chonwy|4.068
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20318306.mp3|Gad imi wybod os yw hyn wedi helpu plîs|4.128
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19562042.mp3|Tanau gwyllt corwyntoedd a phoethdonnau yw rhai or digwyddiadau hyn|7.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19034450.mp3|Fe gawn ni botelaid o win|3.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18269943.mp3|Dydw i ddim yn siŵr pa ddiwrnod oeddet ti fel arfer yn ei chlywed hin canu|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21550487.mp3|Cafodd e fynd am dro mewn Ferrari fel anrheg penblwydd|5.424
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18405911.mp3|Mae modd rhedeg neu gerdded trwyr cae yn y lle newydd ond dewch nôl os ywn ormod i chi|6.84
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386158.mp3|Wel am sgam|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18184576.mp3|Rydw in siŵr mai fe ydyr un i briodi|4.104
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17301830.mp3|Faint or gloch fydd on dechrau|3.864
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386061.mp3|Ymunwn ân gilydd yng Nghymru Iwerddon ar Alban i ffurfio Cynghrair Geltaidd|8.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22374684.mp3|Pan gafodd ddigon ar y dŵr daeth ir lan|6.6
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386257.mp3|Fel arfer mae poen yn waeth ar un ochr|4.5
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19877513.mp3|Mae parch mawr gen i i farddoniaeth|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_33280678.mp3|Cafodd y tir wedyn ei ddychwelyd i ddefnydd amaethyddol|4.968
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19057213.mp3|Dw i wedi gweld hwnnan barod|3.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23937602.mp3|Fel ei frodyr roedd yn Bengryniad pybyr|4.414625
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17315119.mp3|Ble wyt tin gweithio|1.944
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24597007.mp3|Rwyn edrych ymlaen at y gigs Steddfod bob blwyddyn|5.4
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17672821.mp3|Fel prif gwrs ga i gig oen|3.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20662683.mp3|Bu Louis y Pedwerydd ar Ddeg yn frenin Ffrainc am gyfnod maith|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002679.mp3|Ymhlith prif fwydydd y lindys ydy Pinwydd yr Alban a danadl poethion|7.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28566966.mp3|Staff a gwirfoddolwyr syn cyflawni gwaith yr ymddiriedolaeth|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23463652.mp3|Ond nid doli gyffredin mo Modlen|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19035300.mp3|Doeddwn i heb gael gwybod am rain chwaith felly dydw i ddim yn credu dim o gwbl|6.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18197452.mp3|Dw i eisiau bwyd|3.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379256.mp3|Pum cân gyda geiriau Cymraeg a Saesneg ar gyfer eu canu fel unawdau|6.552
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379377.mp3|Gwelsom eglwys Falo fel camel anferth ar ei liniau|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29381240.mp3|Ychydig o arwyddion o bobl yn preswylio dros dymor hir a ddarganfuwyd|5.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24377089.mp3|Da boch chi mam welwch chi byth mohona i eto|6.192
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24467003.mp3|Erbyn heddiw mae eu gwaith yn cael ei arddangos ledled y byd|4.608
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24383296.mp3|Ceir felly beth dryswch yn ei gylch|4.5
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21702571.mp3|Does run ohonon nin rhyw ddel iawn|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20478827.mp3|Yma nawr cafwyd gwledd o gelfyddyd fodern gan artistiaid lleol|6.408
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24398558.mp3|Ganwyd Evans ym Machynlleth Sir Drefaldwyn|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24432933.mp3|Ar gyrion y goedwig maer bwthyn bach cerrig wedi syrthion adfeilion|6.66
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22453859.mp3|Gweler copi or amserlen yn yr atodiad|4.656
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17674281.mp3|Maer ddannoedd arna i|3.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23896371.mp3|Flin gen i glywed pob nerth i ti|3.672
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22914886.mp3|Enw arall arno ydy chwant rhywiol|4.584
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23834801.mp3|Maen enillydd bydeang mewn dadlau|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24175017.mp3|Cyhoeddodd Lloyd ambell i bwt o farddoniaeth yng nghylchgronau Llundain|7.308
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18114667.mp3|Mae ganddi lygaid glas a gwallt brown|4.896
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23034294.mp3|Maen Iddew a oroesodd yr Holocost|3.936
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19117259.mp3|Barn tri ar ddiwrnod i annog pobl i gofrestru i bleidleisio|6.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23550122.mp3|Lle est ti nithiwr ta dwed|5.304
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17883605.mp3|Rwyt ti lawer gwell ers yr annwyd|4.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22772811.mp3|Nofel yn darlunio bywyd merch fferm o ardal Llambed|6.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23383500.mp3|Roedd William Pritchard Morgan Brenin Aur Cymru yn gyfreithiwr a gwleidydd Rhyddfrydol Cymreig|9.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18111851.mp3|hyn newyddion ar roedd pan llun melin sychu|8.496
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24921313.mp3|Oes na gynllwyn yma|3.24
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20972898.mp3|Nid oedd yno neb yn medru darllen ond yr oedd gan un hogyn lyfr|4.848
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24200946.mp3|Credair archaeolegwyr mai safle seremonïol bach oedd yno|5.796
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22737887.mp3|Maen swnio fel nofel gan Geraint Evans dwin meddwl|5.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24268508.mp3|Cymer ofal or babi newydd a mwynhar amser bant|5.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24267609.mp3|Maer offer garddio i gyd wedi rhydu|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24389718.mp3|Ymroddodd yn arbennig i gwestiynau gwleidyddol a threfnu gweithdai cydweithredol|7.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_31195171.mp3|Cafodd Martin yrfa lwyddiannus fel dyfarnwr a gweinyddwr rygbir gynghrair|4.968
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19234282.mp3|Dw in fyfyriwr|2.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23438619.mp3|Sori ond maer Banc wedi rhwystro fy nhaliad treth cyngor|5.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386020.mp3|Maer salad syml hwn yn gwneud pryd hynod flasus|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24375122.mp3|Rhowch groeso cynnes iawn ir cystadleuwyr|4.248
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24172715.mp3|Rwyn edrych ymlaen at glywed y gân yn cael ei chanun fyw|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24921312.mp3|Ddylwn i brynur gôt goch tar un ddu|4.104
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23032003.mp3|Ei diriogaeth yw Ewrop|3.864
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19887379.mp3|Eisteddai fy mam o flaen y tân gan bletio ei ffedog|5.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18116936.mp3|cynllun cychwyn diolch llyfr yn y blaen dan i ddim cyn|8.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24597009.mp3|Ond weithiau gallant achosi dolur rhydd rhwymedd crampiau stumog teimlon gyfoglyd chwydu|9.108
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23032417.mp3|Maen cynnwys cod peiriant ieithoedd cyfrifiadurol uwch a systemau graffigol gweithredadwy|7.584
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24375119.mp3|Cymuned yng Nghasnewydd ydy Magwyr a Gwndy|4.752
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18997993.mp3|Bydd yr arian hefyd yn helpu darparu tai preifat a fforddiadwy|7.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24302981.mp3|Mae California yn dioddef llawer gan danau mawr mewn tywydd sych|8.46
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19021450.mp3|Sut mae nwyon yn mynd i mewn ac yn gadael planhigion|4.296
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22487563.mp3|Bydd dulliau marcio yn gyson ar draws yr ysgol|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19080567.mp3|Daeth wyau siocled yn boblogaidd adeg Oes Fictoria|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24171119.mp3|Maer cynllun lwfans menter yn gynllun arall a ariennir gan y llywodraeth|8.676
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19022505.mp3|y Dirwasgiad Mawr yr Oesoedd Canol y Rhyfel Oer|6.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30724002.mp3|Yn y diffiniad cyntaf nid ywr ffrâm ond yn sylfaen leol adrannau|6.768
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29205809.mp3|Gallair canon mowntiedig droi ir chwith neu dde ar gledren dynnu|5.292
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24424798.mp3|Y mae y galon pan garo yn ehangu y deall|6.84
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19105828.mp3|Wyt tin mynd allan heno|6.312
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24202410.mp3|Be di r sŵn na|3.528
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24521293.mp3|Maer gyfrol yn cynnwys rhagymadrodd llawn a mynegai a nodiadau gan y cyfieithydd|7.308
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19019905.mp3|Does neb arall yn gwybod y pethau hyn dim ond ti|5.4
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24164847.mp3|Gwelsom fod y sgwâr yn llawn o bobl y wlad|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17315916.mp3|Maer traffig yn drwm yng nghanol y dref|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20900723.mp3|Darllena fy ebost diweddaraf|3.936
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21529756.mp3|Gellid dadlau bod pethau fel hyn yn gwneud iaith yn fwy naturiol|5.304
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24377676.mp3|Yn ddiweddarach newidiwyd rhai or dramâu a ysgrifennodd yn ddramâu radio|7.2
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25288230.mp3|Yr oeddynt yn sefyll yn dyrrau o gwmpas|5.076
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20934876.mp3|Yr oedd hanner pobl y dref yn eistedd dan y coed i wrando|6.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24385972.mp3|Byddwn yn ddiolchgar pe gallech roi gwybod i mi os byddwch yn mynychu|5.796
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24009441.mp3|Ar yr adeg hon roedd ei gŵr William mewn cyflwr difrifol gydar diciâu|7.128
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28661566.mp3|Maer rhwydwaith hwn yn cynnwys aelodau or Undeb Ewropeaidd ai gymdogion|6.912
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28439728.mp3|Roedd lliwiaur Cathod Gwyllt cyntaf yn ddu melyn oren a gwyn|8.244
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19054956.mp3|Roedd fy nhad yn rhoi maglau lawr i ddal y cwningod ar y fferm|5.232
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379288.mp3|Mi oedd diwedd yr ugain mlynedd yn agosáu|6.156
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24434160.mp3|Neidiodd pawb ar eu traed gan ruthro allan fel defaid yn myned trwy adwy|5.94
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18991854.mp3|Gymera i hwn|3.192
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19034447.mp3|Oes gen ti frodyr neu chwiorydd|4.104
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23896316.mp3|Ar adegau roedd gan y mysgedwr geffyl|4.44
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24155196.mp3|Doedd fawr o gefnogaeth y dosbarth gweithiol ar yr achlysur yna|7.092
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_27711105.mp3|Byddwn yn mynd am bryd o fwyd i ddathlu Dydd Sul y Tadau|6.948
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23642124.mp3|Dilyniant i Dwndwr yn y Jyngl a Cyffro yn y Cefnfor|5.664
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25929346.mp3|Dymar anthem hefyd ar gyfer y mudiad gwrthryfel hwn|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19811286.mp3|Dwi wedi amgáu copi arall fel atodiad gydar ebost yma|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23854599.mp3|Rhaid torrir nionyn yn hynod fân|4.008
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19169942.mp3|Dydyr bwyd ddim yn wych|3.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21791550.mp3|Mae o i ffwrdd bron drwyr amser|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19099620.mp3|Wyt ti wedi blino|4.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18991526.mp3|ym Mryste natur ochr mae hi newid dy gymorth nes gwahanol|8.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21791548.mp3|Safai hen ddyn tenau trwsiadus ger y gwas a agorodd y drws iddyn nhw|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18980971.mp3|Yn lle ydych chin byw|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386226.mp3|Maer diagram yma yn dangos y broses|5.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24302422.mp3|Siryf Sir Fynwy oedd cynrychiolydd sirol Coron Lloegr yn yr hen Sir Fynwy|7.38
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24388524.mp3|Dydi o byth yn trwblui hun am unrhyw un|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29381138.mp3|Caiff y cebl ei redeg o dderbynnydd i dderbynnydd fel cadwyn flodau|6.228
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30400498.mp3|Galwyd ef ar ôl ei grwper du syn cyferbynnun glir âr corff oren|6.192
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_27016895.mp3|Ddaru fi ddeud wrthat ti y byddet tin hoffir rhostir|5.328
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24395841.mp3|Wel rhaid i fi fynd ymlaen efo ngwaith|3.816
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21347353.mp3|Yr oeddwn i yn hapus dros ben taswn i yn gwybod hynny|8.352
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23459952.mp3|Maen un or gweision neidr cyntaf i gynefino â phyllau dŵr newydd|5.76
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24434203.mp3|Dringais i fyny ato a gwelais gaeau yn lle coedwig fel or blaen|5.76
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19008358.mp3|Cafodd peiriant achub arbennig hefyd ei anfon o Gaernarfon|5.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24201554.mp3|Bydd croeso i unrhyw un gyfrannu yma|4.5
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24565999.mp3|Daw lluoedd mewn cychod or lan gyferbyn iw cyfarfod|7.02
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18995297.mp3|Mae e ar gael yn amlosgfa Llanelli ar hyn o bryd|8.472
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21702451.mp3|Byddech chin gorchymyn ir gweision wneud pethau nid gofyn iddyn nhw|8.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19169941.mp3|Allwch chi esbonio pam fod hyn yn digwydd|5.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19035261.mp3|Dw i wir eisiau gweld hwnna|3.264
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24643079.mp3|Parhaodd fel Arglwydd Raglaw am ddwy flynedd arall|6.588
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24383301.mp3|Diolch am anfon y ffurflen gais ata i|3.6
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19283278.mp3|llywodraeth ond hynny esgob cyrraedd a bod gwrs ceir|10.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420709.mp3|Noddwyd yr ymchwil ar cyhoeddiad gan Ymddiriedolaeth Saunders Lewis|9.54
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23634593.mp3|Deiliad y cryst ffyncïaf welodd y steddfod rioed|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18051412.mp3|Rydw in gorfod gyrru yn aml wythnos nesaf ond dydw i ddim yn gwybod pryd yn union|6.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_31959855.mp3|Dyn mewn gwisg siriol glas a choch|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23834767.mp3|Mi nath hi dorri i choes a methu dod ir cyfarfod|4.584
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21310782.mp3|Mae Cymru yn dal yn ceisio cael y cydbwysedd yn iawn|6.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19464789.mp3|Fuasai yn hoffi trafeilio rownd y byd|3.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24019625.mp3|O ganlyniad i hyn collodd ei swydd dysgu|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17794194.mp3|Mae ei gwallt wedi ei liwion goch|4.92
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386256.mp3|Diolch am y llu atgofion hapus sydd gennym ni|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19850196.mp3|Y mae rhai ohonoch yn cofior hen amser|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18484090.mp3|Chwaraea gerddoriaeth roc|4.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17686878.mp3|Sut fyddi din mynd yno|2.952
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24375621.mp3|Clywais rai yn eu galw yn gŵn|5.04
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21310783.mp3|Maer cŵn yn falch oi weld|4.584
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23461869.mp3|Cyfunir y rhain i ddisgrifior cyfeiriad rhyngddynt er enghraifft gogleddorllewin deddwyrain|9.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24486703.mp3|Fe droeodd ei figwrn ar ôl y gic|5.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19197029.mp3|Felly dyna sydd angen gwneud er mwyn iddi hi barhau i weithio|4.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24395280.mp3|Maer ffordd yn dal ar gau|2.808
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21875484.mp3|Roedd hefyd yn eiriolwr cynnar dros addysg brifysgol yng Nghymru|5.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25379873.mp3|Astudiaeth ddiwinyddol gan David Protheroe Davies yw Diwinyddiaeth ar Waith|7.488
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20986114.mp3|Yr oedd chwip cyhyd â genwair yn ei law|6.528
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19033766.mp3|Pa fath o fwyd oedd y bobl dlawd yn ei dderbyn yn y tlotai|4.392
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17672175.mp3|Dw in chwaraer piano|3.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379200.mp3|Maer morthwyl yn asgwrn yn y glust ganol|4.608
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24167777.mp3|Mae yna nifer o adrannau yna am bob math o salwch neu afiechyd|6.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24455522.mp3|Mae oedolion ifanc yn fwy tebygol o gael eu heffeithio fel arfer|6.012
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25956903.mp3|Mi es i Tokyo sawl blwyddyn yn ôl|5.076
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22772813.mp3|Cafodd ei addysgu yng Ngholeg y Frenhines Rhydychen|6.744
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24384120.mp3|Roedd lafa yn llifon araf i lawr y llethrau|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18999204.mp3|Fy hoff ffilm ydy Gosford Park|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23562799.mp3|Yn cynnwys rhegfeydd a chynnwys syn addas ar gyfer oedolion yn unig|7.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23634506.mp3|Gydag ef roedd uchelwr or enw Rhys Fychan|5.016
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24375887.mp3|Mynychodd Ysgol Uwchradd Gatholig yr Esgob Ryan|5.724
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23458917.mp3|Ac un arall i chi|2.586
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24416965.mp3|Yr oedd ganddi wallt melyngoch hir a chyrliog|5.328
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24384520.mp3|Ni byddai neb arall yn clywed eu bod yn ateb i ddim|5.76
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379262.mp3|Roedd hi wedi cael ei geni ddeg mlynedd yn ôl|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25991768.mp3|Dau gi mewn dŵr at eu fferau|3.564
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21103549.mp3|Mae rhywun wedii anafu ar y cae|3.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19562035.mp3|Rhannodd wyth cyfieithydd yn ddau grŵp gydar grŵp cyntaf yn gweithion llawrydd|9.024
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22487564.mp3|Maen gynt hedfan i Baris|3.816
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19012680.mp3|Ydych chi eisiau bag|2.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18900869.mp3|Hoffwn i weld os oes modd iw hatgoffa or hen luniau|7.656
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18109750.mp3|Mae on ddawnus|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24507311.mp3|Prifysgol Sant Andrews ywr brifysgol hynaf yn yr Alban|9.036
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17330832.mp3|Roedd yn rhagori mewn chwaraeon eraill pan oedd yn iau cyn canolbwyntio ar bêldroed|7.848
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21356113.mp3|Maen nhw wedi troir hen drac rheilffordd yn llwybr beics|6.024
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18994495.mp3|Faint o facteria syn dal ar gownter y gegin|5.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17677524.mp3|Bydd sesiwn gerddoriaeth yn y dafarn am naw|3.792
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_35338047.mp3|Mae dwy fenyw yn sefyll wrth gymysgydd mawr wrth iddyn nhw baratoi toes|8.28
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17768146.mp3|Wyt tin mynd i helpu gydar rhan yna ar gyfer y Pasg neu ydyn ni|5.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23821384.mp3|Beth ywr rhain|4.032
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17846843.mp3|Gall perfformiad da ganddyn nhw eleni gael effaith ar gefnogaeth y ddwy blaid fawr|6.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17875656.mp3|Chwaraea gerddoriaeth|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19151338.mp3|Beth oedd yr ymerodraeth Rufeinig|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18988173.mp3|Maen haws i fi ddod draw am bedwar or gloch|4.104
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21745413.mp3|Maen ogleuo o fêl ac mae yna gymaint o awyr iach|7.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19811306.mp3|Eisteddair cyfeillion mwyaf blaenllaw ar garreg arall a safai y dorf|7.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_27711087.mp3|Rwyn addo gwario llai ar ddillad eleni|5.58
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19025606.mp3|Sut hwyl|2.424
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17863732.mp3|Digon i atgoffa dyn o refferendwm yr Alban|3.936
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18431421.mp3|Fin credu mai ti ywr ffrind mwyaf hyfryd a dynar peth pwysig ti werth y byd|8.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24469251.mp3|Nid wyf yn hoff or lle yna|3.6
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24178464.mp3|Clafychodd a bu drwyr gwanwyn heb fedru mynd i lan y môr|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21497643.mp3|Edrychai eraill mewn braw wrth feddwl am y canlyniadau|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19057088.mp3|Paid â chrio meddai mam fod rhaid i ti rannu|6.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18110134.mp3|Wyddwn i ddim lle maer cariad|4.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28659371.mp3|Bydd trenau amluned disel yn cael eu mewnforio iw defnyddio ar y llinell|7.668
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29205698.mp3|Methodd un cynnig ac ni ddefnyddiodd un arall unrhyw ffilm|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29552731.mp3|Er gwaethaf ei enw does dim mynyddoedd yn y drefgordd|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23463090.mp3|Yn erbyn cenedl gyfan ac nid mwyach yn erbyn plaid|6.168
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19286059.mp3|Maen hwyr oes llawer or rhestr ar ôl na wnaethon ni orffen neithiwr|8.088
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23634505.mp3|Dwi wedi bod yn pendroni ar hyn|4.896
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24395843.mp3|Gall y dulliau hyn hefyd gyfrif mynychder defnydd geiriau yn y corpws|6.084
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28439738.mp3|Mae canolfannau cynhesu fel arfer yn agor ar nosweithiau arbennig o oer neu lawog|9.684
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21745416.mp3|Meddyliodd am y robin ar ffordd roedd en canu ei gân iddi|6.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24172672.mp3|Dw i ddim am gael plentyn yn gwisgo du yn crwydro o gwmpas|5.796
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25379886.mp3|Dw i m yn meddwl bo fi isio mynd i fan na|5.4
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19173863.mp3|Cyrraedd Caerdydd gyda Dylan erbyn chwech meddai hi|6.0
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23474172.mp3|Wyddost ti fod gennyf i hawliau mwy cysegredig nar rhain sef hawliau goresgyniad|8.472
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20263558.mp3|Saif Tyddewi ar lan mor gorllewinol Dyfed yn eithaf sir Benfro|8.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19054904.mp3|Bydd hawl i bleidleisio bum gwaith yn unig trwy bob dull o bleidleisio|7.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20512389.mp3|Rwyn hoffi rhaglen Jonathan yn fawr|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24388056.mp3|Maen rhaid i bob bargyfreithwr perthyn i un or Ysbytai|5.868
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19006187.mp3|Mae adroddiadau lleol yn dweud mai llond bag o ffrwydron gafodd ei danio|7.392
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30400499.mp3|Symudwyd yr ŵyl i ddiwedd mis Awst hefyd|3.996
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20659842.mp3|Gofynna i Wicipedia Cymraeg pwy yw Tudur Dylan Jones|6.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19449580.mp3|Mae angan ymchwilio am yr ateb|3.888
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19887376.mp3|Mae llafur yn cynhyrchu mwy yn bennaf oherwydd dyfeisiadau diweddar gwyddor|7.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23835969.mp3|Maer teulu mewn argyfwng ac maent yn penderfynu gwneud arian|6.312
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22737898.mp3|Cartwnau a ffotograffau du a gwyn geir yma|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20934879.mp3|Gwreiddiodd y lili yn agen y graig|5.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21752966.mp3|Yr oedd Seth a minnau yn gyfeillion mawr|4.944
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24267607.mp3|Lle bo cynnyrch mawr yn dilyn llafur gellir cael cyflog mawr|8.028
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24433463.mp3|Maer rhan fwyaf or ystafelloedd dan glo|3.96
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24203780.mp3|Yn Sir Gaernarfon rhwng Cricieth a Phorthmadog y mae amaethdyr Garreg Wen|7.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22981574.mp3|Maen atgoffa o rywbeth dywedodd hen ŵr o Groeg wrtha i flynyddoedd nôl|7.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18214191.mp3|Maen wir dydy heddiw ddim yn ddim byd mawr chwaith|5.184
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420779.mp3|Darganfur piano pan oedd yn saith oed|5.58
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20461077.mp3|Ysgrifennwch yr amseroedd cywir yn y bylchau gwag|4.8
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24172580.mp3|Doedd hi ddim wedi darllen fawr o lyfrau|6.372
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24269489.mp3|Ni chlywir sŵn ond sur bladur wrth nofio trwyr glaswellt draw|7.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19029513.mp3|Maen well gen i bêldroed|4.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20598252.mp3|Maer ddelwedd yma yn dangos gwisg nofio oren a phinc|6.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21745318.mp3|Yr oeddynt fel hwyaid am y dŵr|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19151334.mp3|Pa fath o bapur sydd yn amsugno dŵr orau|8.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19069484.mp3|Bellach hefyd roedd pobl yn galw heibio ein cartref yn siop y pentre|5.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19029699.mp3|Mae hin chwarter wedi un|2.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29190238.mp3|Rheolir y glaswelltir trwy bori gan amlaf|5.4
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24434200.mp3|Tynnar het na oddi ar dy ben|3.24
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24525789.mp3|Roedd rhywbeth rhyfedd yn yr awyr y bore hwnnw|5.292
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18118308.mp3|Maen debyg eu bod nhw gydai gilydd erbyn hyn ond dydw i ddim yn credu hynny|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19069096.mp3|Bydd on dechrau am wyth or gloch|2.832
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24369969.mp3|Maer siani flewog wedii gorchuddio mewn cuddliw effeithiol o wyrdd|9.396
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21746014.mp3|Yr oedd y diwedd yn bur agos ato|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29777092.mp3|Byddain treulio chwe wythnos yno|3.888
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17686029.mp3|Gallwch|2.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379986.mp3|Neu gallant gerdded seiclo neu rannu lifftiau ir gwaith|4.716
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_27016730.mp3|Beth fyddai hin ffeindio petai hin llwyddo i fynd i mewn|5.004
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24200995.mp3|Rhedai afonig yn dryloyw dan furmur yn ddedwydd|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19813888.mp3|Bydd disgyblion llai galluog yn cadw at frawddegau syml|6.864
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28863240.mp3|Mae enwr ymerawdwr ar ôl marwolaeth yn golygu heddwch hapus iach|7.128
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24168630.mp3|Roedd Martha wedi gwneud y botymau iw brodyr ai chwiorydd bach|5.508
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24199027.mp3|Dydw i ddim yn byta pysgod|3.6
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24618342.mp3|Eglwys Gothig syml un gell ydyw|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24565621.mp3|Maen bryd i ti fynd âr biniau allan|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21752969.mp3|Siaradodd gydar aderyn fel petai yn siarad gyda phlentyn|5.016
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21215676.mp3|Y dasg oedd cynhyrchu cloc sydd yn cydfynd efo themâu diddordebau|7.896
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22731117.mp3|Casgliad o ddarnau adrodd i blant gan Selwyn Griffith yw Pawb yn Barod|7.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18938758.mp3|Ond mae disgwyl oedi ar y gwasanaeth am rai oriau|7.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18558183.mp3|A fedrwch chi fy helpu i os gwelwch yn dda|3.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24171896.mp3|Maen cyfleu ei hymateb i waith creadigol gan ddefnyddio sgiliau cyfathrebu sylfaenol|9.108
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23895434.mp3|Casglwyd llawer o ffosiliau a adneuwyd ir Amgueddfa Brydeinig|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18827240.mp3|Faint mae pob unigolyn yn gwario ar fwyd|3.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17768633.mp3|Dw in mynd ir dafarn heno|2.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18287797.mp3|Mae angen mwy o ddŵr arnoch chi ar gyfer eich taith|4.632
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19670726.mp3|Ond un noson dyma hin deffron sydyn|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29552732.mp3|Mae Efengyl Ioan yr un mor ddiwybodaeth wrth sôn am y bedd|5.868
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20458678.mp3|Mae diffyg canolbwyntio yn anfantais fawr i mi|5.496
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23854612.mp3|Dw in gwneud ymchwil ar ddwyieithrwydd ym Marcelona a Chaerdydd|6.36
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21745418.mp3|Hoffwn gyflwynor sylwadau canlynol i gefnogi fy nghais|6.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22737912.mp3|Mae sgileffeithiau cyffredin senna yn cynnwys crampiaur abdomen|7.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21250281.mp3|Mae dros hanner o gefnogwyr pêldroed menywod yn ddynion|5.808
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_37269888.mp3|Yn ôl ffynonellau cyfoes roedd yn plant yn casáu ei gilydd or dechrau|6.48
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22193042.mp3|Defnyddir y digwyddiadau hanesyddol fel cefndir ar gyfer plot rhamantus a gwleidyddol|7.512
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23895451.mp3|Mae nhw eisoes wedi ymchwilio i hyn unwaith dwin credu|5.16
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24433306.mp3|Ond un diwrnod gwelir rhywbeth ffyrnig a blewog yn ei gartref|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24155197.mp3|Fe wnes i lanhaur tŷ oi gwr heddiw|6.156
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20102144.mp3|Gweler y tudalen nesaf am fwy o wybodaeth|5.016
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24003012.mp3|Yn fwy na thebyg ceir dwy genhedlaeth|3.852
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22284776.mp3|Serch a chariad oedd prif themâur ddrama|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24763831.mp3|Byddair prosiect yn costio dros biliwn o bunnoedd iw gwblhau|7.308
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18193216.mp3|Faint o bobl aeth i wylio gêm bêldroed ar y penwythnos|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17982786.mp3|Mae siawns dda nad ydw in gweithio felly gallwn ni stopio ar y ffordd nôl dydd Sadwrn|6.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23461614.mp3|Maer etholaeth yn un o saith etholaeth a leolir o fewn Dinas Glasgow|7.584
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22487593.mp3|Galwodd arnom at y bwrdd i dorri ein henwau|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24422370.mp3|Mae llawer y bobl gydag anabledd wedi gwrthod y model hwn|5.04
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28046359.mp3|Os ywr cerdyn wedi ei wrthdroi maen symboleiddio cenfigen a malais|6.156
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25991961.mp3|Cynulliad Duw|3.312
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23700582.mp3|Math yma o beth dw i di hen arfer gorfod gwylio|4.512
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24377488.mp3|Maer oedolyn yn bwyta rhisgl nifer o goed gwahanol|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18234468.mp3|Dw i ddim yn gweld pwrpas creu gormod o ornest yn y sgrym|5.568
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30218476.mp3|Mae tybaco yn cynnwys nicotin syn gaethiwus|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30723997.mp3|O blith y rhain roedd wyth yn bwyllgorau mawr ar lleill yn fân bwyllgorau|7.56
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_27314793.mp3|Ymhen eiliad neu ddau wedyn yr oedd ar lawr yn ymyl ei wraig|5.94
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24375803.mp3|Maer galon yn pwmpior gwaed ocsigenedig i weddill y corff|7.38
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24167809.mp3|Penderfynodd Humphreys sefyll yn yr etholaeth hon|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18817096.mp3|Mae ganddo wyneb golygus|3.744
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29777381.mp3|Roedd yn arbennig o gryf ar yr ochrau daearegol a hanesyddol|5.652
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24439457.mp3|Hwn oedd y diwrnod cyntaf iddynt ill dau yn eu cartref newydd|4.608
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_31195112.mp3|Mae unigolyn yn dringo ar graig rhwng wynebau dwy graig fawr|4.716
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22737902.mp3|Mae pwrpas y noddfa hon yn anhysbys yn ddirgelwch llwyr|9.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24164846.mp3|Os hoffech chi adleolin hawdd ac yn gyflym rhowch alwad i ni|5.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21250279.mp3|Gofynna i Wicipedia pwy oedd Llywelyn Ap Gruffudd|5.304
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24768922.mp3|Edrychodd Y Bardd yn ddifrifol iawn|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20456959.mp3|Mae clybiau allgyrsiol yn ffordd dda anffurfiol i gyfleur pwnc i ddisgyblion|8.208
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18081163.mp3|Dyw e ddim yn hoffi pobl yn dod i fyw yng Nghaerdydd|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20557955.mp3|Bydd arsylwadau o brofiad ysgol hefyd yn cael ei ystyried yn yr aseiniad|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23562802.mp3|Casgliad o ysgrifau ar amrywiaeth o bynciau a ddarlledwyd ar Radio Cymru|6.816
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23836273.mp3|Cafodd James ei eni yn Llanelli|3.816
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24372104.mp3|Wnest ti glywed am y swyddogion yn mynd i hela teigrod|5.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24417011.mp3|Wyt tin barod am helfa wyau Pasg|3.6
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24383877.mp3|Astudiaeth o ddatblygiad y Gymraeg gan Henry Lewis yw Datblygiad yr Iaith Gymraeg|8.244
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24203802.mp3|Eisteddwn yn ymyl y sêt fawr|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29777377.mp3|Ar ddydd Nadolig llwyddwyd i rwystror llofruddiad arfaethedig|5.796
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24198871.mp3|Mi fydd ei gêm gyntaf yno yn un bwysig|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21833977.mp3|Roedd hin dysgu gwisgo ei hun|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002650.mp3|Ar lafar gwlad gelwir y mesur canolig hwn yn gyfartaledd|7.92
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18121753.mp3|Faint o oriau fydd plentyn yn gweithio pob dydd|5.136
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20662701.mp3|Maen rhoi crynodeb o bwrpas y cylchgrawn|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23854624.mp3|Gwelai anghenion ac atebair galw|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24466846.mp3|Rhestr o dermau cerddoriaeth yw Termau Cerddoriaeth|5.94
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21745440.mp3|Gall costau ymlaen llaw ar gyfer gosod gwaith trydan dŵr fod yn uchel|7.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_35052036.mp3|Dechreuodd y fformat ddrifftio a dywed rhai nad oedd byth yr un peth eto|7.02
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21317491.mp3|Ymddiheurodd e am ei fod mor hwyr yn cyrraedd|5.736
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17684439.mp3|Morgan eto yma ddefnyddio bach yn wir diwedd llenyddiaeth|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24385092.mp3|Ar ba sianel ma Nick Cave yn sylwebu|4.644
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24268620.mp3|Ar y dechre doedd o ddim yn leicior enw|6.66
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25169480.mp3|Mae mwydod yn fwy gweithgar yn ystod ac ar ôl y glaw|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17767324.mp3|Beth oedd y gwirionedd mwyaf diddorol glywsoch chi|4.44
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386976.mp3|Mae hin cael trafferth i ganolbwyntio a chwblhau gwaith|5.868
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21230702.mp3|Roedd cypyrddau ac addurniadau efydd ar eu drysau bord gron llestri a llwyau pren|7.728
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379901.mp3|Geiriadur yn cynnwys nid yn unig geirfa ond hefyd ymadroddion defnyddiol|7.38
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21345545.mp3|Buasain sicr o gael ei droi oi ffarm pe buasai yn gofyn|7.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20373444.mp3|Defnyddir cystrawen anffurfiol llafar safonol trwy gydol y gwaith|5.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24423030.mp3|Yr oedd fy nhad a minnau wedi dyfod yno ar dro|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17677453.mp3|Mae hin boeth|3.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22981578.mp3|Mae llyfrau hanes yn nodi mair gynghrair a enillodd y rhyfel|6.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25929381.mp3|Roedd Cytundebau McCloyZorin yn darparu mesurau pellgyrhaeddol|6.48
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24203810.mp3|Dros y tri diwrnod diwethaf rwyf wedi sylweddoli pa mor ffodus ydwyf|7.02
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23897081.mp3|Deuddeg o ganeuon syn cynnig cyfle i ddianc i fyd gwahanol|5.88
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19105830.mp3|Mae nhwn siarad yn rhy gyflym ar y newyddion|5.64
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002761.mp3|Fe aethon nhw adref gyda phen y ddraig ar ei ysgwydd|5.508
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386220.mp3|Dim gormod o goffi|2.988
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29777171.mp3|Mae dwyn gwartheg yn broblem fawr mewn ardaloedd gwledig yn Ne Sudan|6.084
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18891183.mp3|Dwi ddim yn poeni y bydd y safon yn gostwng|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21746105.mp3|Rwyn edrych ymlaen at y briodas ddydd Sadwrn|5.664
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19043291.mp3|Ga i fag|2.328
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22731251.mp3|Wedi chwerthin ar y fideo yma sawl gwaith heddiw|3.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24528759.mp3|Yn y pellter ceid cipolwg ar dyrau castell|5.328
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30396125.mp3|Mae un lleoliad yn ardal metro Dinas Mecsico Fwyaf|7.848
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22737324.mp3|Roedd ganddo sosbenni a phedyll a phob math o ryw geriach|7.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24383529.mp3|Un or rhesymau yma ywr newid mewn gwerthoedd cymdeithasol|9.036
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17766523.mp3|Yn anffodus roedd rhaid i mi fynd nôl i ailsefyll|4.872
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18480273.mp3|Mae hin ddeg or gloch y nos|7.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386139.mp3|Er hyn nid os neb wedi astudior siarcod yn y parc|5.292
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30478926.mp3|Am yr un rheswm cymeradwyodd er enwebiadau Gweriniaethol ir Gyngres|7.02
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24388343.mp3|Aelwyd Gymreig ydoedd a siaradair teulu Gymraeg a Saesneg|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29552765.mp3|Felly mae hyn yn llawer mwy o olwg gair am air o gyfieithu|5.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22399782.mp3|tri|2.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19057277.mp3|Enillodd Wrecsam|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20714759.mp3|Maen nhwn hoffi mynd ir rasys yng Nghaer bob blwyddyn|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19336009.mp3|Ma neb yn gallu rheoli fi|3.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20319692.mp3|Mae arweinyddiaeth yr ysgol yn gadarn yn llwyddiannus ac yn deg iawn|6.168
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19010234.mp3|Yn yr eglwys mae dwy garreg or oes Rufeinig|7.296
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22594286.mp3|Maer pwyslais yn y dull hwn ar ddarllen ac ysgrifennu|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19029958.mp3|Dic Jones Duw Dyfan Rees|5.16
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17738030.mp3|Maen anhygoel|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24323385.mp3|Prin maen nhwn bwyta cig oen|4.968
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386218.mp3|Ni byddem yn cyfrif Dico Bach yn union fel rhywun arall|6.012
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19887367.mp3|Maen penderfynu ar y grant yn ôl faint o dir maent yn ffermio|5.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18719116.mp3|Mae cefnogaeth ac anogaeth rhieni hefyd yn allweddol|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28019230.mp3|Ardaloedd gydag ychydig iawn o neu ddim llysdyfiant ywr prif darged|5.76
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19002067.mp3|Bydd barnwr nawr yn ailedrych ar yr achos|6.192
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25929597.mp3|Feu tynnwyd yng Ngrŵp D gyda Tiwnisia De Affrica a Senegal|8.568
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17450406.mp3|Bob Dylan Bryn Fôn Caryl Parry Jones|4.44
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002836.mp3|Nofel am y Rhyfel Byd Cyntaf yn disgrifio diwrnod ym mywyd milwr ifanc|7.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20662682.mp3|Edrychaf ymlaen at glywed gennych eto beth bynnag ywr canlyniad|4.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24447341.mp3|Mae nhw bellach yn symud yn y cyfeiriad iawn|4.608
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24302983.mp3|Dyma brif gydran strwythurol y celloedd yn ein corff|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19025880.mp3|Mae hin bum munud ar hugain i ddau|4.632
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21792884.mp3|Yr oeddynt yn ddeallus a gwelwn yn eglur fod eu hathro yn medru Cymraeg|8.136
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18898459.mp3|Wyt ti eisiau imi feddwl am un neu oes gen ti rywbeth penodol iddyn nhw|7.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24385488.mp3|Rhywbeth syn nodwedd brin iawn yn yr ardal hon|4.932
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19813892.mp3|Ydych chin meddwl fod yna broblem gydach bil|5.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17672868.mp3|Does gen i ddim plant|3.192
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20561890.mp3|Bu yn gwrando eu chwedleuon am amgylchiadau yr ardal y rhyfel a Ffrainc|7.992
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386089.mp3|Hwyrach y do i yn fy ôl eto|4.14
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24384576.mp3|Mae cael hyn yn anghywir mor ddrwg â chael enwau Cymraeg yn anghywir|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18112475.mp3|Des in gyntaf|3.84
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24321735.mp3|Hwn yn grêt|3.24
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28661590.mp3|Mae nodwedd ar declynnau clyw i chwyddor sain ir sawl syn gwrando|6.372
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379925.mp3|Well gen i gig moch a dau wy|4.5
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29779551.mp3|Maer agwedd hon or noson wedi cael ei disgrifion helaeth gan y colofnau clecs|6.948
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19562201.mp3|Roedd yr awyren yn hwyr iawn yn glanio|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23441143.mp3|Mewn llawer o wledydd maen sylwedd rheoledig|8.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28019231.mp3|Caiff ei ariannu gan gynghorau ymchwil or Deyrnas Gyfunol yr Iseldiroedd a Sbaen|6.948
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386114.mp3|Mae tristwch ar dy wyneb|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20245431.mp3|Maer broses o greu theatr a chreu ymgyrch yn broses debyg iawn|9.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24513226.mp3|Rhaid ir crancod neidio dros y dŵr agored i gyrraedd y gwymon|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_31134495.mp3|Roedd hefyd yn weithgar ym maes celf llyfrau|5.472
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002647.mp3|Deunydd darllen amrywiol i ddysgwyr gan Meleri Wyn James yw Cath i Gythraul|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20662717.mp3|Rydyn ni wedi paratoi holiadur cyflym i ti rannu dy farn di|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23441156.mp3|Roedd ei chalon wedi ei thynnu allan ac ar goll|5.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18295842.mp3|Maen flin gen i nes i wir anghofio mynd i mewn ir tŷ yn y gwaelod|5.664
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21791558.mp3|Roedd hin crensian ei dannedd ac yn dweud hyn drosodd a throsodd|5.016
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23634509.mp3|Maer fasnach gyffuriau yn broblem gynyddol yn y dref|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24424803.mp3|Dwi byth yn gorffen y botel|4.284
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19033676.mp3|Nes i fynd ati i ddechrau sgwennu straeon|4.392
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19864849.mp3|Yn y pantle hwn hwyrach y cododd Dewi Sant ei babell|5.208
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18109740.mp3|Dw in byw yng Nghymru|3.432
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23895454.mp3|Gelwir y man lle maent yn croesi neun cyfarfod yn darddiad|5.712
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23459771.mp3|Alla i gael pys a ffagots os gwelwch yn dda|4.752
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24416962.mp3|Luke Skywalker ydi fy hoff gymeriad i yn Star Wars|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21341267.mp3|Dawnsiodd o gwmpas yr ymyl a safodd ar ei untroed fel or blaen|6.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17794126.mp3|Doeddwn i ddim yn gwybod beth oedd yn wahanol ers y tro diwethaf|5.016
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_27315194.mp3|Hi oedd y ferch olaf i gael ei chrogin gyhoeddus yn Sir Faesyfed|8.82
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23031784.mp3|Prif faes daearyddiaeth ffisegol yw gwyddor Daear|6.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21180711.mp3|Rwyf am wisgo fy esgidiau a bant â ni|3.768
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21497639.mp3|Does dim pwynt i ti ddisgwyl ei weld e|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24267608.mp3|Sori mod i methu bod yno heddiw|4.932
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18558482.mp3|Dydd Mawrth fyddai orau i dad felly fe welai i chi bryd hynny|7.896
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24397584.mp3|Rwy wedi amlygu unrhyw newidiadau mawr mewn melyn|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18370501.mp3|Maen well iddyn nhw fel hyn|3.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17828690.mp3|Dydw i ddim ar gael bryd hynny ond mae un ar ddeg yn iawn nawr|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19058655.mp3|Wyt tin briod|3.528
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24004734.mp3|Cerddi syml swynol dwys a doniol am Gymru ac am fyw|7.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23383514.mp3|Nofel ddatrys a dirgelwch|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29777096.mp3|Maer Senedd Coleg Hindŵaidd yn gorff myfyrwyr unigryw yn y wlad|6.516
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19033756.mp3|Sut mae hyn yn helpu ni ddeall y digwyddiad|3.792
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19811283.mp3|Y mae amryw fforddolion wedi troi i mewn am nodded ar fy ôl|5.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24384578.mp3|Dyma sut maen gweithio mewn ardal cyfnewidfa ffôn arferol|5.436
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24395279.mp3|Cofiwch egluro pam ac i beth bob amser|3.78
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24620584.mp3|Nid oeddynt yn edrych mor fudron âr hen dai|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24383221.mp3|Rhif deuddeg ar dalcen y sgrym yn fan na|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29512240.mp3|Mae dau brif grŵp o gymeriadau y cleifion ar staff|7.668
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18117430.mp3|Faint or gloch fyddwn nin cyrraedd y maes awyr|5.952
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17672176.mp3|Dw in unig blentyn|3.264
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23306515.mp3|Cynhelir y digwyddiad drwy gydol mis Awst bob blwyddyn fel rhan o Ŵyl Caeredin|8.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22463915.mp3|Adam ydi hyn yn gyfyngedig i sosialwyr yn unig|5.424
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24478830.mp3|Allan or twll syllai ben bychan bach gyda phâr o lygaid ofnus ynddo|8.46
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24373670.mp3|Canlyniad hyn oedd ir pwerdy gael ei gau|4.716
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20463847.mp3|Dynar syniad pwysicaf o ffeministiaeth yn y nofel hon mi gredaf|8.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23638059.mp3|Nid wyf mwyach yn erfyn arnoch fy llywodraethu yn decach|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21348657.mp3|Dyma sgrym bwysig Cymru yn gorfod ennill|5.016
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19811313.mp3|Mae corpora gwallau yn aml yn cael eu casglu o waith dysgwyr|5.736
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22374678.mp3|Dylai plant gael byw mewn amgylchedd glân saff ac iach|6.744
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21529707.mp3|Dyma rai or pennau cerfiedig pwysicaf yn America|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24507383.mp3|Dw i wedi llwyddo gwneud rhywfaint o ddefnydd or amser|5.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18768063.mp3|Dw in dysgu Cymraeg|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24194390.mp3|Wedi gadael yr eglwys teimlem ein meddyliaun wannach a gwacach|8.496
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18891303.mp3|Dyna ryfedd i ddysgu hanes Cymru ir set gyntaf dros ddwy flynedd a hanner|6.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20245432.mp3|Dw in edrych ymlaen at gael dathlu dy ddiwrnod hefo chdi|6.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19053919.mp3|Maen debyg iawn iw dad|3.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17677451.mp3|Beth ydy dy waith|3.072
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25941121.mp3|Car teithiol oedd o gydar sêt gefn yn llawn o wahanol fagiau|7.488
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19768376.mp3|Fe awn ni i siopa i Abertawe ddydd Sadwrn|5.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21844580.mp3|Ar Barra cafodd ysbrydoliaeth a daeth o hyd i unigedd creadigol|5.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21833993.mp3|Eisteddodd ar y mat ei hun heb i neb ofyn iddi|5.136
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24413305.mp3|Roedd hwn yn gwybod ei fod on unig|3.708
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19449600.mp3|Hapus I glwad|2.76
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21432821.mp3|Y funud honno daeth sŵn uchel rhywun yn wylofain|5.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23438621.mp3|Comisiynwyd y bardd ap Hefin i ysgrifennu sloganau a cherddi i hyrwyddor cynnyrch|8.736
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21348656.mp3|Crydd ydoedd wrth ei alwedigaeth|4.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23893181.mp3|Yn ei ffurf buraf halwyn o grisialau gwynion ydy Amoniwm clorid|8.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19158915.mp3|Faint mae llaeth yn costio os gwelwch yn dda|3.744
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002662.mp3|Rhor tŵls yna i gyd i gadw|4.14
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17407361.mp3|I bwdin ga i hufen iâ|3.672
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24018215.mp3|Cafodd ei addysgu yn Ysgol y Gader Dolgellau|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002669.mp3|Diwrnod o wyliau felly wedi trîtio fy hun|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386989.mp3|Maen bwysig bod y dysgwr yn cael digon o amser i baratoi|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19013303.mp3|Ces i gôt newydd heddiw|3.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23888708.mp3|Olynwyd ef yn y farwnigaeth yn olynol gan ei feibion John a Thomas|7.968
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24202534.mp3|Ei bractis ef oedd yn gweithredu fel cyfreithiwr i Gymdeithas Bedyddwyr Sir Fynwy|6.408
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21215678.mp3|A dyna pam mae dy dad yn drist|4.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18183618.mp3|Roedden nhwn gwylio ffilm ryfedd oedd ymlaen am awr|6.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18889246.mp3|Yn siarad|4.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386403.mp3|Dw in cael trafferth darganfod copi|5.148
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24597096.mp3|Berwar tegell i ni gael paned|4.86
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24384452.mp3|Wedyn wnaethom ni fynd ar y traeth am dro|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_34570598.mp3|Cafodd y cytuniad ei gondemnio gan geidwadwyr cenedlaetholwyr a chynarweinwyr milwrol|7.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19007151.mp3|Dw in dysgu mathemateg|5.568
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20478882.mp3|Yn ôl arbenigwyr mae protein yn helpur corff i oresgyn ymarfer caled|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420641.mp3|Ceir tair carreg fawr ger y copa|7.812
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24268405.mp3|Casglu arian ar Ddydd Calan oedd hel calennig|5.868
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19813900.mp3|Maen rhugl yn debyg i ryddiaith fel y môr efallai|7.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28439727.mp3|Seilir y cysyniad hwn ar nifer o ffynonellau Iddewig|6.048
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24604767.mp3|Gwelodd y bardd fi yn llithro i mewn|5.94
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18214194.mp3|Roedd rhaid mynd ir swper ond wnes i ddim byd ond siarad meddai fy ngwraig|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25031325.mp3|Canolbwyntiais ar chwedloniaeth arferion atgofion a chrefftau fy ardal|6.408
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18211370.mp3|Ydych chi eisiau te neu goffi|3.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20478883.mp3|Bydd hyn yn cael ei wneud drwy asesu ac arsylwi|5.04
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18993744.mp3|America ar gyfer iaith bellach genedlaethol ateb at y bont|8.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29779352.mp3|Mae ymddangosiad y plac yn dibynnu ar frid y lletywr y firws ar amodau|7.308
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30400501.mp3|Gall rhagfynegyddion fod yn arbenigol ar gyfer proteinau mewn gwahanol organebau|6.228
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19028293.mp3|rhai steroid cefnogaeth felen cau garej angau ymhlith|7.128
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21529885.mp3|Soniodd hi erioed am y peth or blaen yn fy nghlyw i|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24381748.mp3|Doedd ganddi ddim iw ddarllen a dim i edrych arno|6.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19003650.mp3|Faint o fatsis fydd yn y degfed diagram|5.04
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19218028.mp3|Er mai mewn gerddi tai preifat oedd y rhan fwyaf|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18226142.mp3|Er bod twf yn y gamp mae heriau yn bodoli|4.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24422292.mp3|Maer môr yn hollol fflat hefo dim tonnau o gwbl|5.364
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18110131.mp3|Dw i wedi colli fy nhocyn|5.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24178459.mp3|Dim ond sylfaen y tŵr sydd wedi goroesi|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24373404.mp3|Yr oedd canghellau bwaog yr eglwys hon yn llawn o blant a gwragedd|6.444
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23383529.mp3|Dw i di taflur dodrefn ir sgrap|4.608
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24642936.mp3|Gwelsom eneth ai nain y ddwy mewn pais stwff a chap|8.532
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23618709.mp3|Dyma hanes eu hanturiaethau|3.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_27016791.mp3|Nyddair feistres ar forwyn ochr yn ochr yn y gegin|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24172671.mp3|Mae Drakeford wedi delio efor lockdown yn dda a Corbyn wedi mynd|5.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24382688.mp3|Hoff fwyd y siani flewog ydy meillion gweiriau a byseddyblaidd|7.848
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18287798.mp3|Wyt tin gweld fy mod in deall mwy am y sefyllfa nawr|4.368
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23834763.mp3|Bu farwn gant oed ar y ffordd ger Llangelynnin Gwynedd|6.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19813886.mp3|Gyda hynny peidiodd y gwlaw a gwenodd yr haul ar Ddyfed|7.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24385502.mp3|Nofel dditectif Datrys a Dirgelwch wedii lleoli yn ardal Bangor Gogledd Cymru|6.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21550623.mp3|Mae toriadau cyllideb newydd yn bygwth lles plant hefyd|7.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29205915.mp3|Rhaid ir fanyleb fod yn rhydd o gamsyniad amwysedd ac anghysondeb|6.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24268626.mp3|Bu NewtonJohn yn briod dair gwaith|5.184
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21198689.mp3|Buom yn eistedd yn hir ar fur y pentref hwn|5.424
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21341265.mp3|O dipyn i beth cliriodd y siop|5.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24018211.mp3|Saif ir gogleddddwyrain o Nefyn|3.816
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20328148.mp3|Wrth ddewis y datrysiad hwn gwelwn sawl mantais|5.688
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28661560.mp3|Ac yna un noson dylwyth teg daeth Mai yn fis Mehefin|7.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420064.mp3|Addas ar gyfer Blynyddoedd Cynnar ar Cyfnod Sylfaen|5.508
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20659841.mp3|Wedyn byddent yn gorfod trefnur symiau yn y bocsys|6.264
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25242509.mp3|Dinistria hyn gynefinoedd bywyd gwyllt|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23036232.mp3|Roedd ei thad yn gweithio fel peiriannydd cyfathrebu|4.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21546291.mp3|Edrychwch ar gystadleuaeth greadigol ein myfyrwyr trin gwallt|5.184
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23730895.mp3|Sut gath oedd hi|2.220375
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24473205.mp3|Roedd yna amddiffynwyr yno|2.988
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18367519.mp3|Cafodd ei merch wyth oed anafiadau yn y digwyddiad|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24385110.mp3|A fyddai yn y pen draw yn gweithredu fel bod dynol|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19033091.mp3|Beth ydy Islam|3.288
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17672816.mp3|Cewch eich trwytho mewn iaith newydd a fydd yn canu yn eich clust|5.232
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420913.mp3|Gwaith amgylcheddol ffermwyr fydd yn penderfynu ar swm eu taliad blynyddol yn y dyfodol|7.488
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24384488.mp3|Fel rhan oi salwch dioddefodd nifer o byliau o ddeliriwm|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17644127.mp3|Mae angen sebon arna i os gwelwch yn dda|3.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23893151.mp3|Frittata ywr fersiwn Eidalaidd or omled Ffrengig|5.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18183888.mp3|Bydd en hwyr|2.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24422323.mp3|Mae triniaeth yn aml yn cynnwys gwrthfiotigau hylifau mewnwythiennol meddyginiaeth poen a llawfeddygaeth|9.792
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19075400.mp3|Dw in sâl|2.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17861280.mp3|Y rheswm ywr hinsawdd economaidd a llai o ddefnydd or adnodd|4.152
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21261634.mp3|Roedd hin arw iawn ar y copaon|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24417092.mp3|Roedd Vincent van Gogh yn arlunydd enwog|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18980970.mp3|Wyt ti eisiau dod allan heno|3.864
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19062309.mp3|A oes nodyn i atgoffa plant i barchu natur|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24423228.mp3|Mae hin bryderus ynghylch ei phriodas â dieithryn|7.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24388072.mp3|Dim ond ychydig iawn o Ffermiwm sydd wedi cael ei greu erioed|5.112
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24203774.mp3|Bun astudio ym Mharis fel dyn ifanc|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_32104904.mp3|Roedd hefyd yn y Gymdeithas Anrhydedd Genedlaethol ac yn cadw pwynt gradd uchel|6.048
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21221411.mp3|Er bod hon yn astudiaeth lwyddiannus roedd problemau iw cael o hyd|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420929.mp3|Dydi o ddim yn meindior galw|4.5
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24164844.mp3|Dim ond un deg un chwech swllt yr wythnos ydi cyflog y nhad|5.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19033763.mp3|Yr arian ywr rhan amherthnasol yn hyn i gyd|3.768
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23637367.mp3|Fedri di ddod â smôcs i fi or siop plis|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23896372.mp3|Cafwyd nifer o brotestiadau heddychlon yn ystod yr wythnosau dilynol|5.832
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19010376.mp3|Beth gymri di|2.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23701455.mp3|Paid â gadael i hynny dy ypsetio di|3.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21353917.mp3|Ni bu erioed y fath ddisgwyl|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24413302.mp3|Yn gyffredinol mae cyfradd is yn well ond gall bradycardia fod yn beryglus|7.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17577544.mp3|prif rhaid bod rheini Sadwrn syn cofio cyntaf rhaid cael|6.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23834805.mp3|Roedd yn dychwelyd un Aelod Seneddol i Dŷr Gyffredin Senedd y Deyrnas Unedig|7.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21833983.mp3|Digwyddiad y byddain cyfeirio aton aml fel oedolyn|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24321742.mp3|Aeth a sefyll yn ei ymyl ai wylio am rai munudau|6.048
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19083701.mp3|Mae en ddawnus|5.352
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24387437.mp3|Edrych mlaen i ddarllen y darn yn iawn|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19013811.mp3|Mae hin ugain munud wedi un|6.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24164816.mp3|Diolch unwaith eto am eich cyfraniad ar ddiwrnod y ffilmio|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22662877.mp3|pedwar|3.192
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19035061.mp3|Helo Siôn sydd yma|4.08
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17784520.mp3|Pa mor aml maer bws yn gadael|2.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24171042.mp3|Hoffwn i allu prynu soffa newydd|5.04
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25991842.mp3|Cafodd yr un gobaith hwn ei ddinistrio mor gyflym ag y cafodd ei eni|6.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21310781.mp3|Prin yr oedd ei gymdogion yn ei gymryd o ddifrif|5.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24397525.mp3|Mae na frwydr enfawr on blaenau|4.392
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22731143.mp3|Hwn fu ei gwaith mwyaf llwyddiannus hyd yn hyn|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21529407.mp3|Cafodd ei drywanu yn ei fraich am tua phedwar or gloch fore Gwener|7.104
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30333154.mp3|Ffurf syml o stroffe Groegaidd ywr stroffe Saffig|6.192
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23836163.mp3|Yr oeddent yn ymladd yn erbyn ei gilydd|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22737908.mp3|Mae gan linellau paralel yr un graddiant|5.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23031248.mp3|Bu dau gyfnod o orfodaeth filwrol yn y Deyrnas Unedig yn yr ugeinfed ganrif|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19028307.mp3|Oes gennych chi faes parcio|3.672
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24019589.mp3|Credir hefyd y gall gynorthwyo i dreulio bwyd ac i wella poen bol|9.54
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21230703.mp3|Ar hyd y daith nos bum yn breuddwydion anesmwyth yn y trên|6.816
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_27315227.mp3|Roedd rhaid i ni hefyd dadansoddi cryfderau a gwendidau cynnal gŵyl gerddorol|7.596
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24422290.mp3|Nid y dillad roedd hi wedi gwisgo pan gyrhaeddodd y noson gynt oedd yno|8.46
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23896369.mp3|Araith ddar diwrnod or blaen am y Gymraeg|4.08
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24170526.mp3|Croeso i bawb boed yn aelodau neu beidio|7.848
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24383147.mp3|Synnet ti cynifer o Gymryr de sydd erioed wedi gweld mynyddoedd Eryri|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19103710.mp3|Bydd honno yn y sinemâu yn y flwyddyn newydd|2.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19096331.mp3|Pwy syn siarad|3.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21875482.mp3|Byddain crwydro ar hyd y llwybrau yn y parc|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23937603.mp3|Maer gwragedd hŷn yn aml yn chwarae cardiau neu gemau bwrdd|4.85875
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24442430.mp3|Maer gwenyn ar ehedydd yn gwneud y fath sŵn hyfryd|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18219765.mp3|Pwy wyt tin eu cefnogi|3.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_38397003.mp3|Mae hefyd yn gweithredu fel corff elusennol|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18157485.mp3|Dw i eisiau anfon cerdyn post i Iwerddon|6.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25929345.mp3|Roedd hi bob amser fel pin mewn papur heb unwaith ei gorwneud hi|7.596
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20598256.mp3|Byddai hyn yn golygu bod y tymheredd hefyd yn dal i godi|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24018222.mp3|Maer holl ddiffiniadau hyn yn bodlonir diffiniad gwirebol ac fellyn gyfwerth|7.128
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23618689.mp3|Blodeugerdd o gerddi diweddar yn ymwneud ag amrywiol agweddau ar y Nadolig|6.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20934878.mp3|Roedd fy nghoesau bron yn cwympo i ffwrdd|5.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19094221.mp3|Maen nhw mewn gwirionedd yn fath o geidwadaeth|4.296
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002683.mp3|Ac ni all y Celtiaid byth mwy ddisgwyl am gymorth effeithiol|7.488
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24423412.mp3|Ceir hefyd penodau ar gefndir hanes Methodistiaeth yng Nghymru|6.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19058656.mp3|Bydd y cerflun yn sefyll ar bont yn edrych allan tuag at Gastell Penfro|7.728
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25992019.mp3|Roedd Sosenka yn cael ei adnabod fel un or beicwyr proffesiynol mwyaf a oedd yn cystadlu yn Ewrop|7.236
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386409.mp3|Peidiwch cymryd mwy na dwy dabled Paracetamol ar y tro|6.516
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18896139.mp3|Mewn awr|3.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23836161.mp3|Disgynnodd y bêl allan oi ddwylo|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24387433.mp3|Casting fôt ir cadeirydd ac mae on cefnogir cynnig|7.02
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24377965.mp3|Ddylair Royal Welsh sefydlu cronfa i gefnogi sioeau amaeth bach|7.524
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24990505.mp3|Yr wyf yn cydnabod y gall cyflogi rhywun fod yn ddrud iawn|5.04
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24395349.mp3|Rwyf wedi atodi dogfen mae fy awgrymiadau i mewn glas|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22197975.mp3|Claddwyd ei weddillion ym mynwent y plwyf Llanfairfechan|7.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19206523.mp3|ddeufaen nhw ffotograffau mhortiwgal rhithdyb acsiwn iawn lloer|7.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002600.mp3|All rhywun plîs gadarnhau air cyfieithiad Cymraeg yntaur Saesneg syn gywir|7.164
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24455496.mp3|Rhowch y rhifau yma yn y drefn gywir or lleiaf ir mwyaf|6.84
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17316181.mp3|yn ei gwên mai dod o Gymru personol allan wrth y ffenestr|7.56
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19573051.mp3|Yn sgil yr Ail Ryfel Byd ar cyfnod trefedigaethol datblygodd y maes ymhellach|6.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420976.mp3|Ond rhaid gwneud dyletswyddau cas|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25992016.mp3|Yn ystod ei hymweliad fe wnaeth Carpenter gyfarfod â Keshab Chandra Sen arweinydd Brahmo Samaj|8.424
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24299440.mp3|Ddaru neb dywyllur drws trwy gydol y dydd|6.012
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24194450.mp3|Nid yw on gulfarn o gwbl fel y tybia rhai|6.588
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18244285.mp3|Tin anghywir am hwnna achos es i ddoe ac maen cymryd tipyn o amser i gyrraedd y tŷ|8.496
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20934901.mp3|Fe fydd y cwmnïau hefyd yn codi ffi am y wybodaeth yma|6.024
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24565911.mp3|Prif fwyd y lindys ydyr dderwen collen a ffawydden|7.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19037895.mp3|Beth ydy gweddir Arglwydd|3.672
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24411339.mp3|Fodd bynnag mae tro annisgwyl yn y gerdd|8.136
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21702574.mp3|Does dim angen i ti fod mor ddig|4.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24383144.mp3|Sicrhewch fod nodau ac amcanion eich asesiadau yn glir|8.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20263521.mp3|Maen siŵr y bydd hin bwrw glaw eto fory|3.84
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23383506.mp3|Roedden nhwn eistedd rownd ford gron|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29205779.mp3|Ei enw ywr gair Lladin am flaidd|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19347415.mp3|Pryd fydd y daith fws|5.4
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_37321457.mp3|Plant yn mynd oddi ar fws ysgol melyn|4.896
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25941122.mp3|Fodd bynnag gwaharddwyd y cylchgrawn cyn y gallai gael ei goroni|6.768
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24323434.mp3|Di hynna ddim yn stiwpid o gwbl|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_34743741.mp3|Nid ywr car yn gyfreithlon ar y ffordd|5.004
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19013813.mp3|Dw i ddim yn teimlon rhy dda|3.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19035514.mp3|Gofalwch rhag prynu cath mewn cwd|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25322682.mp3|Efallai fod yr allwedd wedii chladdu ers deg mlynedd|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18114563.mp3|Rydw in siŵr na fydd hin llwyddo yn hwn|9.264
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23821382.mp3|Teyrngeda a dadansoddiada difyr o Bowie ai waith yn fama|8.28
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_34570596.mp3|Maen ffinio âr Cefnfor Tawel ir de|5.328
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17728563.mp3|Maen chwil|2.304
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19020608.mp3|Dw i ddim yn ei hoffi|3.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24167710.mp3|Y maent yn tanlinellur safbwyntiau eithafol syn dod gyda ffeministiaeth|8.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24373769.mp3|Nid gwas y tafarnwr y dylai y Seneddwr fod ac nid gwas y tirfeddianwyr|7.668
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19013383.mp3|Beth yw cyfansoddyn cemegol|3.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29187321.mp3|Chdi yn arbennig yr hynaf ar lleiaf sensitif fel maen ymddangos|6.156
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19460411.mp3|Mae angan sgiliau fwy technegol diwrnodau yma|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18550324.mp3|mam oedd hwn ifanc gellir Oesoedd Canol capel ysgol mlynedd|7.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22357426.mp3|Cheith neb siarad yn y cyfarfod|8.352
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24377968.mp3|Wnes i brynu gwlân or siop wnïo|4.752
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20598697.mp3|Gofynnir i dystion gysylltu âr heddlu gydag unrhyw wybodaeth berthnasol|5.496
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24167720.mp3|Tybiodd mai gwell fyddai iddo ei werthu yn hytrach nai ladd|5.436
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17670477.mp3|Arhoswch funud|2.184
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17769032.mp3|Fyddet tin meindio siarad yn arafach plîs|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24529989.mp3|Cafodd ei haddysg ym Mhrifysgol Bangor|4.248
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17773904.mp3|Wnes i ddim meddwl am hynny i ddweud y gwir|2.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19197056.mp3|Faint o ganhwyllau sydd ar y gacen penblwydd|4.104
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24388341.mp3|Derbyniodd ei addysg yn Ysgol MaesyDderwen Ystradgynlais a Choleg Prifysgol Cymru Bangor|6.876
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21658793.mp3|Pam wyt tin galw enwau arna i|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29552728.mp3|Maer ddau le yn warchodfeydd natur o harddwch naturiol eithriadol|6.948
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386267.mp3|Golygai hyn y byddent yn hŷn cyn cael diagnosis cywir|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002699.mp3|Arhosodd yn Aberdâr am weddill ei weinidogaeth|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21198690.mp3|Yr oeddynt yn bobl ddeallgar|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25379841.mp3|Yr oedd pawb yn dal eu gwynt|4.5
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420734.mp3|Y nod yw cefnogi gofalwyr i ofalu drwy ddarparu gwybodaeth a strategaethau ymdopi|9.0
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19013741.mp3|Ugain litr o ddiesel|4.08
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28659372.mp3|Daw eu hunig ddiod o storio dŵr glaw mewn tanciau o flaen eu tai|6.156
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21221154.mp3|Yn ogystal mae llygredd gwrteithiau wedi creu ardaloedd marwaidd yn y moroedd|6.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24387003.mp3|Carnedd yw disgrifiad Comisiwn Brenhinol Henebion Cymru ohono nid crug crwn|9.936
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24597160.mp3|Ac yna meddyliodd am rywbeth a throdd yn ôl yn araf bach|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24410969.mp3|Gelwir yr ymddygiad hwn yn anhrefn a bennwyd neun syml anrhefn|6.408
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19004484.mp3|Roedd enghreifftiau o aelodau seneddol yn cael eu targedu hefyd|5.208
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24268986.mp3|Hoffwn i weld cyfres newydd yn y dyfodol|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22374700.mp3|Maer adolygiad or llenyddiaeth yn awgrymu dwy brif thema|5.664
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17676425.mp3|Ceri Wyn Jones Cymraeg Dafydd Dafis|6.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18993985.mp3|Mae gen i boen yma|4.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22771393.mp3|Bydd gen ti fwy i sôn amdano|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24302412.mp3|Ceisiwch ddod o hyd i wahanol enghreifftiau o luniau dinosoriaid|5.76
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21545612.mp3|Roedd y ciniawyr wedi gadael am ryw reswm|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20373441.mp3|Hoeliodd y rhestr ar ddrws ei eglwys leol|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24417160.mp3|Gwelir y siani flewog rhwng Mehefin a Medi|4.716
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18928029.mp3|Tebyg at ei debyg|3.36
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24384467.mp3|Mae Dafydd Gruffydd yn cael profiad o weld creadur arallfydol|5.652
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24203798.mp3|Dylid cofio yr arferid defnyddior gair glas ers talwm am wyrdd neu ffres|7.596
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24423294.mp3|Rhennir llywodraeth leol ymhellach i ardaloedd ac yn aml i isardaloedd|9.036
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21924715.mp3|Mae ergyd canon yn nodi bod heddwch wedii gyhoeddi rhwng Sbaen a Ffrainc|7.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20463845.mp3|Y ffotograff yma oedd y mwyaf cymhleth allan or saith i gyd|7.656
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24441913.mp3|Fel yr awgrymar gair yr astudiaeth o bridd yn ei amgylchedd yw priddeg|9.468
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23701593.mp3|Eithr trwy flinor Blaid Dorïaidd y gall y cenhedloedd darostyngedig godi eu pennau|7.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18121986.mp3|Ond beth wnei di felly|3.312
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24203801.mp3|Rhoddodd Dafydd ei delyn i lawr wrth y garreg hon|5.508
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19001217.mp3|Dw i wrth fy modd yn cerdded ac yn hoff o natur|4.656
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29205808.mp3|Gweithwyr adeiladu mewn hetiau caled yn adeiladu tŷ|4.572
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19811299.mp3|Gwelais gar yr heddlu yn cyrraedd yr archfarchnad|5.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19562205.mp3|Treuliodd gyfnod fel capten y tîm ar ôl bod yn gapten ar dîm Cymru|6.864
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18369275.mp3|Doeddwn i ddim yn adnabod neb oedd or cwmni neithiwr felly wnes i yfed mwy nag arfer|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19887377.mp3|Wn i ddim lle iw chyfeirio hi am gymorth iaith|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23897077.mp3|Yr wyt yn anwareiddiadwy|4.512
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24375240.mp3|Ceir sawl diffiniad o rifau real|3.78
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20512393.mp3|Hoffwn ddiolch i chi am eich cymorth ac arweiniad dros y tymor|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19196884.mp3|Maen anobeithiol|3.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19811285.mp3|Maer gwesty y drws nesaf i MacDonalds|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21750653.mp3|Dydd Llun ydoedd ar gaeaf oedd hi|5.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24170247.mp3|Byddai Dafydd yn aml yn ddigllon iawn wrthi|4.968
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17677518.mp3|Cafodd y dyn ei arestio gan yr heddlu yn Hwngari|3.432
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24398374.mp3|Mae golwg bach yn bryderus ar wyneb y rheolwr|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23441049.mp3|Dw i ddim yn credu bod neb am arddel y gair yma|4.656
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24200279.mp3|Ymddengys iddo weithio ar gyfer argraffydd yn union ar ôl gadael yr ysgol|8.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23854604.mp3|Dwi ddim yn cofio manylion plot y nofel hon|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20972895.mp3|Yr oedd un garreg fel llew wedi neidio ar gefn yr hydd|4.248
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23334357.mp3|Ateb rong y tro yma|3.072
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23892493.mp3|Bun aelod or Gwyliedyddion Tawel am rai blynyddoedd|6.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18574919.mp3|Dydw i ddim yn gwybod os wyt ti am werthu popeth dros y bythefnos gyfan|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17978071.mp3|Oes lifft yma|2.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24454020.mp3|Maer Torïaid wedi delio efo Covid yn wael|5.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24398553.mp3|Mae rhywfaint o dystiolaeth ei fod hefyd o fudd wrth drin llosg danadl|6.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19069481.mp3|Edward H Dafis Emyr Wyn Ffion Dafis|5.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24722723.mp3|Nofel ar gyfer yr arddegau hwyr ac oedolion|5.58
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23701521.mp3|Claddwyd ei weddillion ym mynwent capel Tabor Pentrefelin|5.304
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18333377.mp3|Wnewch chi ofyn iddi fy ffonio yn ôl|3.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30631348.mp3|Maen eu defnyddio fel melin wynt i chwipio ffans yn ystod sioeau|7.56
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21833992.mp3|Adran y gweinidog oedd Swyddfa Cysylltiadaur Gymanwlad|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23888451.mp3|Ystyr Pumlumon yw Pum Copa|4.608
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24397903.mp3|Cyrhaeddon nhwr bwyty ar amser|3.78
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22731222.mp3|Lot o hwyl a dychan hefyd|3.264
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24439416.mp3|Ond mae nghof mor wael|2.988
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24200937.mp3|Maen falch pan maer amser i blannu yn dod|4.716
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19811310.mp3|Daeth a gwydriad o lefrith i mi ar hufen melyn yn felys arno|5.736
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19102608.mp3|Fe glywais i fod en dda|2.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21752967.mp3|Mae en mynd i Lundain yn y bore|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17769272.mp3|Dwi di bod yn lwcus tu hwnt i allu byw yn fy ardal|4.104
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18161609.mp3|Ai dyna pam wyt tin crio|3.648
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24413124.mp3|Da eu gweld yn ymateb i alwadau i blismonar lle|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20328149.mp3|Credaf fod hyn yn adlewyrchu cryfder tafodiaith unigrywr gogledd orllewin|7.368
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18993451.mp3|Cafodd y rhan fwyaf or carcharorion eu lladd ar unwaith mewn siambr nwy|9.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22932464.mp3|Mae hin parhau i fod yn ddall fel oedolyn|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24172670.mp3|Y wisg hon yw dillad stryd Tommy|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17770873.mp3|Gwelais i nhw ddwy awr yn ôl|2.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24203808.mp3|Roedd popeth ar y llawr gwaelod wedii ddifetha gan y dŵr|5.508
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17686033.mp3|Fyddech chin meindio ailadrodd hynny|3.408
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18287219.mp3|Beth ydyr sgôr|2.832
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23383513.mp3|Geiriau a brawddegau Cymraeg a Llydaweg defnyddiol ar gyfer gwyliau yn Llydaw|7.32
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_28305474.mp3|Roedd yn cynnig sbectrwm ehangach o weithgarwch nar un or penisilin gwreiddiol|8.748
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18991522.mp3|Mae pobol yn dod ata i o hyd i ofyn o ble ces i hi|6.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29552838.mp3|Nid ywr Ddefod Fawr yn cael ei hystyried yn gyfle ar gyfer rhyw dihid|6.768
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29552885.mp3|Ym Mhrydain feu ceir mewn ardaloedd rhostir ynysig yn unig|5.976
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18928042.mp3|Mae en sicr yn fachgen bach prysur|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24439477.mp3|Maer hogan yn ista wrth y ddesg|2.88
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24423364.mp3|Yn wreiddiol ystyriodd yrfa fel llyfrgellydd ond fei denwyd gan ei hysgrifennu|7.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25242425.mp3|Maer tŷ ar ymyl y rhostir ac mae bron cant o stafelloedd ynddo|8.388
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24202535.mp3|Yno ar ben y wal oedd y robin goch|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002630.mp3|Dw i am gwcio cyri i swper heno|4.032
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23731137.mp3|Wnewch chi ddarllen y paragraff hwn cyn ateb y cwestiwn|5.112
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17677292.mp3|Bydd ei angen arna i am wythnos|1.944
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17772718.mp3|Beth ydy Wicipedia Cymraeg|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19582810.mp3|Ymddiheuriadau i mi fethu ymateb yn gynt yn y drafodaeth|4.728
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17875660.mp3|cyhoeddus un pryd clywed ohonom ei fod aros gwyrdd golau|6.72
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18995840.mp3|Dw in briod|2.52
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19344664.mp3|Well I ni fynd ir ysbyty|3.264
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24269609.mp3|Lwcus eu bod nhw di gorffen y gêm cyn ir storm gyrraedd|4.716
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24467043.mp3|Y genod yn tŷ ni wedi prynur mygiau yma|4.356
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17769322.mp3|Roedd y Dreigiau ddwy gôl ar y blaen wrth droi ac felly yr oedd hi|6.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18126984.mp3|Roedd hin gêm dda|3.408
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24180846.mp3|Eu prif faes gweithredu oedd gorllewin Môr y Canoldir|8.28
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17672865.mp3|Doedd e ddim yn mynd i adael i mi fynd yn hawdd|3.768
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24342968.mp3|Dyma chdir ffurflenni sydd angen eu cwblhau|5.508
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24531718.mp3|Mae hi hefyd yn ysgrifennun rheolaidd am gelf weledol|4.86
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17977801.mp3|Beth oedd dy hoff bwnc|2.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24167806.mp3|Teimlwn yn falch ohono ac nid heb achos|6.3
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24168503.mp3|Yn ddiweddarach gwnaed sawl un oi ddramâu yn ffilmiau|7.128
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23383518.mp3|Maer broblem wedi ei sortio bellach diolch i ti|5.16
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22487541.mp3|Roedd gan yr ymgyrchwyr bwynt dilys|3.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23361957.mp3|Toriad saethol drwyr pelfis dynol benywaidd|6.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420736.mp3|Dyma darddiad y term llinol|5.076
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_35337995.mp3|Weithiau gelwir y Rhyngrwyd yn gontinwwm gwybodaeth|6.588
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19582811.mp3|Rwyn atodi taflen Steddfod ar dy gyfer|6.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24385516.mp3|Gyda min yr anialwch hwn gwelem dawelwch dedwydd ehangder y môr|6.588
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19021371.mp3|Ydyr brecwast yn gynwysiedig|4.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19387805.mp3|Pwy ma cymru yn erbyn wicend ma|4.248
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29779360.mp3|Byr iawn oedd ei yrfa mewn ffilmiau ond un amrywiol|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17777832.mp3|Be di cadair Eisteddfodol|6.024
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_25941133.mp3|O dwin ei hoffin iawn|4.356
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23562804.mp3|Oes rhaid cadw lle ymlaen llaw i fynychu hwn|4.584
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24168691.mp3|Mae cofrestru cynnar ar gyfer y gweithdy yn cau yfory|5.328
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22453726.mp3|Roedd yn gyfarwyddwr ar Gwmni Parc yr Arfau Caerdydd ac yn rhyddfreiniwr tref Hwlffordd|8.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21527194.mp3|Roedd iot newydd sgleinog wedi angori yn y marina|5.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24469315.mp3|Nid oes gennych reolaeth dros y risg|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22399785.mp3|pump|3.024
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18131378.mp3|Dw i ddim yn hoffir glaw|3.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21230706.mp3|Yno yr oedd person eglwys a wyneb fel arch|6.264
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18287795.mp3|Fe gawson nhw swydd adre mewn gwesty gyda fi|5.016
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17772933.mp3|Oes gennych chi fwrdd i bedwar|2.472
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19048048.mp3|Roeddwn i yn y theatr neithiwr|3.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18234470.mp3|Jiw nac ydy|3.528
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29508191.mp3|Bwriedir iddo ddelio ag argyfyngau mawr fel terfysgaeth neu drychinebau naturiol|7.596
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24423533.mp3|Ceir penawdau a thestun dwyieithog yn cofnodi bywydaur goroeswyr|6.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24200996.mp3|Ti angen dystior silffoedd llyfra|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18055376.mp3|Dw i wedi torri fy nghoes|2.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17794485.mp3|Chwaraea fiwsig roc|2.904
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002627.mp3|Dengys ymchwiliadau fod rhienin poenin ormodol am hyn|7.092
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19001727.mp3|Beth ywr penawdau|3.528
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24398556.mp3|Maer argyfwng yn effeithio ar bawb|3.6
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20544767.mp3|Dangosa beth sydd ar y teledu heno|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23893156.mp3|Y farn gyffredinol yw bod y frwydr rywle gerll Croesoswallt|7.92
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19814299.mp3|Gallwch rolio toes i greu rhannau o gorff y lindysyn|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24417243.mp3|Mae en gwneud ei ymarferion corff bob bore|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19426529.mp3|Allwn ni barcior garafán yma|4.296
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23888710.mp3|Felly mae gan bedrochr ddwy groeslin syn uno pâr o fertigau gyferbyn|8.136
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19019422.mp3|Ga i dderbynneb|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23966662.mp3|Llongyfarchiadau i bawb a gystadlodd|6.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23383502.mp3|Dim probs o gwbl|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18114663.mp3|Bydd cyfnodau hir o heulwen dydd Sadwrn|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19001195.mp3|Y gwir yw ni allai gyrraedd Cymru o rywle fel Llundain cyn y post prynhawn|8.544
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24005015.mp3|Graddiodd â gradd Meistr gydag Anrhydedd ym Mhrifysgol Glasgow mewn Economeg Wleidyddol|9.54
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24531702.mp3|Gellir ymweld â rhai rhannau or eglwys yr amgueddfa ar siop|5.868
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23038350.mp3|Awr sy na tan dan in cau heno|4.344
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17768534.mp3|Mae rhaid i hwn gyrraedd cyn dydd Gwener|3.144
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17775896.mp3|Wyt tin gallu danfon copi or papur ata i plîs|5.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002851.mp3|Maen trosglwyddor dirgryniadau sŵn or bilen ir eingion|6.768
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18109916.mp3|Sut mae eich gweithredoedd yn effeithio ar bobl eraill|6.864
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17845756.mp3|Dw in ofni pryfed cop|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20662732.mp3|Rydym angen neud yn siŵr ein bod yn neidio i flaen y ciw|3.936
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17315861.mp3|Mewn rhai munudau|6.48
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17686001.mp3|Cafodd ei chorff ei gludo nôl at ei theulu yn China yn dilyn ei marwolaeth|6.528
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24433256.mp3|Rwyn cofio gwahodd Gwynfor i Ysgol Ramadeg y Merched Caerfyrddin i siarad|7.056
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29552730.mp3|Mae adwaith y beirniaid ir ffilm wedi bod yn hynod negyddol|6.516
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17861268.mp3|Beth yw Eisteddfod Genedlaethol Cymru|3.72
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18705257.mp3|Dw i ar goll|2.28
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23854595.mp3|Cofrestrodd fel myfyriwr gan raddio yn y diwedd a derbyn gradd PhD|6.864
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21833981.mp3|Aros ti nes bod tin gweld blodaur eithin ar banadl|5.784
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23759690.mp3|Does neb yn debyg i Emrys|3.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24565634.mp3|Gwelem y ffordd yn rhedeg fel saeth dros yr ucheldir gwastad am filltiroedd|7.488
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24200997.mp3|Maer ddelwedd gymdeithasol hon wedi diflannu yn y blynyddoedd diwethaf|6.228
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24004730.mp3|Brysia wella frawd|3.78
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17315120.mp3|Roedd yn ddisgybl chweched dosbarth ac yn rhan o bererindod i Sbaen|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21279583.mp3|Rhaid i chi fod yn garcus iawn yn y sgarmes|4.536
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23461625.mp3|Pecyn o ddeg llyfr Cyfres Bechgyn am Byth|3.792
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24198823.mp3|Perthyn i Oes Ganol y cerrig mae Siambr Gladdu Dyffryn Ardudwy|6.228
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379988.mp3|Ceir nodiadau ar y gwahanol gerddi a geirfa|4.608
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24005028.mp3|Toddar menyn yn y meicrodon|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18873708.mp3|Sut wyt tin teimlo am sôn am y profiad o flaen y camera|6.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21560854.mp3|Cyrhaeddodd Dafydd at Pero or diwedd|5.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23701524.mp3|Fei defnyddir hefyd i wellar chwarenlifau anadlol ar ddiwedd bywyd|6.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17992209.mp3|Dylair dyfarnwr gael sbectol newydd|3.744
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20002839.mp3|Gweinwch gyda saws hufen ia a ffrwythau i ychwanegu mwy o liw|6.024
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21319856.mp3|Paid â bod mor ddiog maen bryd i ti godi|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_34743791.mp3|O un safbwynt mae hynnyn anfantais ir prawf hwn|6.156
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17875658.mp3|Un peth arall yw mynd â digon o siocled neu rywbeth tebyg|4.92
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23888705.mp3|Ceir etholaeth or un enw ar gyfer Senedd yr Alban|5.208
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386053.mp3|Maen hawdd i bobl eu casglu gan fod adeiladaur Cyngor ar gau|4.824
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17677509.mp3|Beth ydy cod Caerdydd|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24167837.mp3|Mae un o dannaur delyn wedi torri|6.444
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23685063.mp3|Disgrifiai ei hun fel sosialydd annibynnol|4.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24620604.mp3|Doedd dim ci wrth y drws i dy gnoi di|5.04
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19190742.mp3|Mae fy chwaer yn rhy daclus|4.296
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19035984.mp3|Faint yn fwy mae angen ei godi er mwyn cael y parti|4.416
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29512239.mp3|Gweler hefyd restr o longau dosbarth A gyda hydoedd yn cynnwys polyn blaen|9.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24430800.mp3|Roedd y ceffylau yn dringo darn serth or ffordd|5.292
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24003163.mp3|Mi oedd y gath wedi brifo i throed|3.996
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19065160.mp3|canhwyllau Bolsiefic nghlwyd Llwyngwair teim taeog alldafliad|9.696
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29552841.mp3|Maer farn yn Ewrop yn dal yn rhanedig rhwng y Gorllewin ar Dwyrain|6.948
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24194308.mp3|Dim ond rhan or sylfaen sgwâr sydd wedi goroesi|6.228
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24388340.mp3|Aeth yn ei ôl at ei waith gan adael Hannah yn bur ddigalon|5.616
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24447144.mp3|Ti di weld on ddiweddar|4.248
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19037893.mp3|Beth sydd yn achosi llifogydd a sut mae lleddfu effeithiau llifogydd|6.0
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24433518.mp3|Cerddain araf ar bwys ei ffon|3.456
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23034826.mp3|Helyntion criw o ffrindiau yng ngwersyll yr Urdd Glanllyn|5.064
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18139885.mp3|Fe wna i ddechrau â melon|3.864
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23306506.mp3|Ond mae pethau rhyfedd yn digwydd wrth iddyn nhw ddechrau ei chwarae|8.376
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24531752.mp3|Ni fydd plentyn amddifad byth yn cael ei wrthod|4.428
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17315870.mp3|Ydy Mair yna|2.832
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24620731.mp3|Rwyn hoff iawn or ffilm The King and I|3.924
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19006709.mp3|Ond mae rhai rhwystrau yn eu lle ar y prif ffyrdd rhwng Hwngari ac Awstria|7.224
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24439460.mp3|Ceir hefyd halwynau arian halid syn anhydawdd|4.68
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19670760.mp3|Wrth ir boblogaeth dyfu mae maint adnoddau naturiol yn gostwng|6.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17785584.mp3|ddim ond pan edrych wrth gwrs a phan ystyried wedi bod|6.576
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24425092.mp3|Mi lwyddwn ni drwy ffydd a gwaith|4.428
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21529892.mp3|Mae holiaduron yn ffyrdd da o gasglu gwahanol ddata|5.664
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24420994.mp3|Aeth y ci yn nyts|4.14
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18365800.mp3|Gobeithio dy fod wedi talu ar gyfer y cyfan achos fe gei di dy ddal fel arall|6.936
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24199070.mp3|Swn in hoffi gweld sut le sydd yno|3.924
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24375125.mp3|Dyma un or Oesoedd Iâ lleiaf|4.068
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_22932466.mp3|Oes dolen ir dudalen YouTube|3.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23467653.mp3|I ba raddau y mae rhaglenni teledu ar fai|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21529413.mp3|Yn dibynnu ar y porthiant gall y gofynion fod yn enfawr|4.704
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19047573.mp3|Mae hin meddwl fy mod in annwyl weithiau|5.424
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18925295.mp3|Beth yw taldrar môrleidr pan maen gwisgo ei het|6.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23463096.mp3|Saif mewn pentref tawel syn cynnwys hen dafarn ac ambell dŷ|6.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17779445.mp3|Dw i wedi brifo fy nghoes|3.336
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_31133882.mp3|Beth Sydd oi Le ar y Llun Hwn|3.888
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23040478.mp3|Teithlyfr gan Dewi Tomos yw O Gwmpas y Foel|5.304
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24387832.mp3|Aeth i ffwrdd mewn hwyliau da|5.724
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_37338555.mp3|Gwelwyd ei gyflymder anhygoel sawl gwaith trwy gydol ei yrfa|6.768
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24019591.mp3|Yr oedd yn bregethwr lleyg yn yr Eglwys Fethodistaidd|6.84
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17779441.mp3|Gwelais i raglen dda iawn neithiwr|3.744
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24167779.mp3|Maent hefyd yn dioddef o ddiffyg statws|4.968
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24417245.mp3|Roedd yn un oi weithiau cyntaf i gael sylw yn yr Unol Daleithiau|5.76
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17863734.mp3|Caerhun llew arllwysiad ieithoedd ehangdir ceulan Bontddu nhrwyn|7.272
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19094233.mp3|Pum punt pum deg plîs|5.832
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19070107.mp3|A oes unrhyw eitemau ar fenthyg o fewn yr eiddo|4.944
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17845755.mp3|Roeddet tin dweud na fydden in gallu mynd i nofio dydd Sadwrn a Sul achos ei gwallt|9.216
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20934895.mp3|Yr oedd y niwl yn codi oddi ar y môr|3.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29779905.mp3|Dyma fachgen ifanc i fyny yn yr awyr|4.5
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17784274.mp3|Mae gen i feddalwedd Cymraeg ar fy nghyfrifiadur|4.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18249683.mp3|Byddain well i ti fod yma fory i ddathlu yn iawn|4.176
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17646267.mp3|Maen well gen i gelf|5.496
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24321218.mp3|Gwelodd Dico hi y diwrnod cyntaf y cymerodd ei lle wrth y ffenestr|9.54
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19003644.mp3|Talais i am y cyfan fy hun|5.88
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24395352.mp3|Y rheswm oedd fod y gath wedi plannu ei hewinedd ynddo|4.968
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_30724014.mp3|Gallaf eich rhoi mewn dull llawer gwell nag yr ydych chin gyfarwydd â |6.156
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24425042.mp3|Bellach credir bod y garol yn deillio o awdur Americanaidd anhysbys yn wreiddiol|6.876
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23991320.mp3|Yna maen bwrwi chroen a gwelir croen newydd gwyrdd arni|6.096
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18550321.mp3|Dw i wedi cael llond bol|5.856
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_23461530.mp3|Lle maer gath di mynd|4.752
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17836356.mp3|Allwch chi feddwl am bethau eraill sydd ag ongl sgwâr|4.104
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17786997.mp3|Wyt ti eisiau paned o de|3.432
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24760366.mp3|Gall ledaenun gyflym iawn drwyr ardd|4.932
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_31959848.mp3|Ffermio a gwaith adeiladu yw prif alwedigaethaur bobl leol|10.44
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24202411.mp3|Ni arweinid hwyn bersonol gan Gaze na Cook|4.86
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24202476.mp3|Dewis gyfeiriad a gad ir antur ddechrau|4.716
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29187374.mp3|Nid oes wastad cyfatebiaeth uniun rhwng y ddau ddull o ddosbarthu sylweddau|7.776
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29205781.mp3|Roedd hefyd y gyntaf oi wyth gorymdaith ffordd|4.572
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24379902.mp3|Prif fwyd yr oedolyn ydy dail helygen a phoplysen|6.66
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21356115.mp3|Arhosodd adre ac edrych ar ffilmiau drwyr dydd|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18121988.mp3|Efallai aeth hi i newid ac wedyn mynd i gerdded o gwmpas y castell ar ei phen ei hunan|7.584
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_18675684.mp3|Y gwir yw wnes i ddim dod or blaen oherwydd bod y bwyd yn rhyfedd|7.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19033684.mp3|Sori  wnes i ddim eich clywed chin iawn|3.84
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386255.mp3|Nid ymwelodd âr Almaen tan oedd yn oedolyn|4.896
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20662729.mp3|Mae plant yn cael eu camdrin ac yn cael eu brifo|4.464
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24921343.mp3|Roedd hyn wedi achosi pryder ir perchennog tir|4.788
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17783289.mp3|Chwaraea fiwsig Cymraeg|3.504
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24019325.mp3|Enwad Cristnogol Protestannaidd yw Eglwys y Bedyddwyr neur Bedyddwyr|5.256
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_29484394.mp3|Mae grŵp bychan o bobl ar y traeth ac yn agos at jetsgi|4.968
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24473176.mp3|Bun darlithio yn yr Adran Gymraeg yng Ngholeg Cartrefle Wrecsam|5.76
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_37321483.mp3|Maer argon yn newid lliwr golau neon gan ei wneud ychydig yn fwy melyn|7.74
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_20598696.mp3|Bydden nin defnyddio cyfleoedd fel y ffair haf ar ffair gyrfaoedd|5.736
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19008183.mp3|A oes gen i ddigon o arian i archebu diod ac un ffrwyth|4.608
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19887368.mp3|Paid â gafael mor dynn yn fy llaw|4.296
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24989755.mp3|Diolch am gyflwynor gwaith yn daclus ac yn brydlon fel yr arfer|6.12
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24375614.mp3|Ddim gartre ar y soffa o flaen y teledu|6.624
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24172669.mp3|Cerddodd yn araf i lawr y stryd|3.672
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24002968.mp3|Saif y mynydd hwn ir dwyrain o Rosili yn Sir Abertawe|5.868
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_21546192.mp3|Mi gafodd dipyn o fraw|3.384
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_19047914.mp3|Roedd y pryd yn ardderchog|3.168
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_17846842.mp3|athro anifeiliaid pob o fewn yn gwneud cartref elfennau|6.984
+/home/ashankwi/commonVoiceData/cy/testFiles/common_voice_cy_24386429.mp3|Rhannwch y deisen yn ddeuddeg darn|5.868
