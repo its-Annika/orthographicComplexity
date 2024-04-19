@@ -1,0 +1,932 @@
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30195472.mp3|رود نیل سرچشمهی تمدن مصر است|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29134539.mp3|ست ظروف چدن|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28711218.mp3|ترن تاخیر دارد، بیایید در این مدت قدری چرت بزنیم|5.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26951394.mp3|جنگل آمازون عظیم است|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_35298286.mp3|صدای انفجار از دور شنیده میشد|4.572
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30994209.mp3|چوب سخت|1.872
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26651477.mp3|تهدیدهای خود را عملی کرد|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30427854.mp3|خریدن آن انگشتر حماقت محض بود|3.672
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27949673.mp3|پیراهن جلف و زننده|3.384
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33373885.mp3|از علم برای ایجاد جنگ و ویرانی سو استفاده کردند|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33194692.mp3|رویدادی که در تاریخ جهان نظیر ندارد|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28759823.mp3|سپس گرفتار دودستگیهای خانوادگی شدند|4.032
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23240001.mp3|پس سعی نكن مث بچه ها|4.104
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29380405.mp3|انواع پارچهها|2.124
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592693.mp3|او به من هشدار داد که در آن رود پر تلاطم شنا نکنم|5.94
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32191634.mp3|بخار پز|1.656
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26495993.mp3|حسن و برادران دانشگاهیاش|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34945956.mp3|اگر احساس دارا بودن میکنی به من قدری پول قرض بده|4.932
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27586299.mp3|تنبلی موجب فلاکت تو خواهد شد|2.808
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31022096.mp3|جلو بچهها حرفهای رکیک نزن|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28521121.mp3|رانش باد|1.836
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22921885.mp3|همیاری کرد|2.424
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30705353.mp3|شوخ دلی همه گیر|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26949566.mp3|او با خونسردی و اعتماد به نفس بازی میکند|5.688
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25197253.mp3|این خانه پر از عیب است|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592951.mp3|بنابر دستور او|2.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29103133.mp3|پر بازده ترین راه تولید برق|3.132
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30498478.mp3|خورهی ورزش بودن|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24550572.mp3|این کتاب ثمرهی سالها سخت کوشی است|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30427844.mp3|صخرههای نیمه معلق|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32966441.mp3|سبزی خرد کرده|3.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28544354.mp3|این سیم خیلی باریک است|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28299155.mp3|پیروزی بیارزش|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23344532.mp3|بلژیک|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22784597.mp3|اسلواکی|2.568
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29969647.mp3|اگر افراط گرایی خود را تعدیل نکنند سرنگون خواهند شد|5.184
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25223547.mp3|بچه انداختن|2.268
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25274146.mp3|خوشحالی سرخی گونههای او را بیشتر کرد|4.716
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28711262.mp3|با رای شفاهی انتخاب شد|3.6
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23677639.mp3|اینجا چراغی روشنه|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22807437.mp3|یاد رفت|2.904
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30367208.mp3|یه تاکسی بگیر برای راهآهن|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28457562.mp3|جناح غربی ساختمان|2.052
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31071889.mp3|آن مرد صدایی عمیق و پرطنین داشت|7.128
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30932739.mp3|پالونههای هوا هوای اتاق را از دود و گرد و خاک میزدایند|5.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28127614.mp3|آنان که زندهاند و به من ایمان دارند هرگز دچار زوال نخواهند شد|6.768
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31127375.mp3|از میان برف سنگین مرتبا به سوی شمال جلو میرفتیم|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26565189.mp3|تعصب بیجا بزرگترین مصیبت جوامع عقب افتاده است|6.984
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24874574.mp3|آهن دارای مقدار زیادی کربن|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32831495.mp3|شعبهی جدید بانک|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33143393.mp3|او برای امرار معاش نویسندگی میکند|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24142837.mp3|این بیماری از روال همیشگی خودش پیروی نمیکند|5.292
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26555218.mp3|پرندگان به پایین میچرخیدند و بر بامها مینشستند|4.968
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23746302.mp3|هر روز دلم به زیر باری دگر است|4.104
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29783883.mp3|او دریافت که زندگی به آسانی تحمل پذیر نیست|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_20682962.mp3|من شما را به خاطر سرعت زیاد متوقف کردم|3.336
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26555120.mp3|به منصهی ظهور رساندن استعداد خداداد|5.508
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26948511.mp3|بلیط مجانی|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32830737.mp3|او کمکم به سوی من جلو آمد|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28791118.mp3|قتل قابل توجیه|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28716828.mp3|ساعت هشت بامداد آغاز به کار میکنم|5.148
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31212007.mp3|مخوف|1.404
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31502667.mp3|محصول|1.224
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32107152.mp3|مخروط|2.448
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26870518.mp3|او داوری هنرسنجان دربارهی کتاب اخیر خودش را قبول ندارد|6.408
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27973241.mp3|او پول کمی دارد|2.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_19275953.mp3|تعمیر چقدر طول می کشد؟|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18222570.mp3|من فقط ميخواستم بگم من|2.952
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25282372.mp3|او همیشه احساس کرده بود که والدینش او را درک نمیکنند|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27056021.mp3|به او بگو صبر کند|2.52
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27973181.mp3|او به فرزندانش میبالد|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28521103.mp3|آنان در تهنیتگویی به شما با من همصدا هستند|4.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30933790.mp3|بلندگوی گوشخراش|2.34
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_20665139.mp3|یک مرد و یک زن به ما کمک کردند|3.144
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26951291.mp3|او را تحت مراقبت دکتر قرار دادند|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28741390.mp3|به یاد دارم که در ایام جوانی چنانکه افتد و دانی|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27949620.mp3|او بطری را از پنجره بیرون افکند|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29970652.mp3|سر اینکه چه کسی کنار پنجره بنشیند با هم یک به دو کردند|4.86
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27600121.mp3|به جای خداحافظی او را در سینه فشرد|5.868
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32406879.mp3|پرورش انواع جدید زنبور عسل|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26643196.mp3|تندروی سیاسی، ویژگی خانوادگی اوست|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30962406.mp3|سخنان تشویق آمیز معلم نومیدی مرا زائل کرد|4.572
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28514748.mp3|از راه آگهی فرآوردهای را دلپسندتر کردن|5.292
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27413133.mp3|بسیاری از دانش آموزان اتومبیل دارند|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30080369.mp3|اعلام پشتیبانی او از نامزد حزب کارگر غیر منتظره بود|6.012
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27972839.mp3|او به برخی از بهترین دکترها دسترسی دارد|4.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30206327.mp3|زیر کت جلیقه پوشیدن|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23745382.mp3|بذارید با لگو مثال بزنم|2.976
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25212974.mp3|اوباش لندن|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32273580.mp3|آبهای ساحلی ایران|2.808
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27963710.mp3|حالت بدن به صورت عمودی، قامت راست|5.148
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26004356.mp3|گاهی اوقات با شیوه های دیگر، معمولاً کولاژ ترکیب می شود|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32831276.mp3|ما عقیدهٔ شما را تقدیس میکنیم|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24383686.mp3|با من جروبحث نکن که خستهام|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29115244.mp3|این رادیو را چطور تنظیم میکنید؟|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26643138.mp3|پیرمرد دربارهی شاهکارهای خود در زمان جنگ داستانپردازی میکرد|5.868
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28470421.mp3|اتاق معاینه|1.98
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_20402945.mp3|برای بانک سرمایه گذاری کار می کنم|3.384
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26946322.mp3|پیشرفت اقتصادی آهسته|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28716760.mp3|توپ رها، توپ بی صاحب|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22782217.mp3|قرقیزستان|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25118429.mp3|ادعای شما در این قضیه چیست؟|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24126067.mp3|ساعت رو میزی|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33140473.mp3|متفرق گشتن|2.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32200218.mp3|در قلهٔ این کوه هوا خیلی رقیق است|3.384
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30492491.mp3|شاید بیاید|1.98
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26289844.mp3|تپه از کوه کوچکتر است|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30948128.mp3|اطاعت را میشود تحمیل کرد ولی عشق را نمیشود|4.32
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24881468.mp3|آفتاب گرم|2.448
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32830609.mp3|محفظهٔ خرت و پرتها|6.732
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27973048.mp3|به روشی که هیچ کس نداند|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27575208.mp3|پلیس مشکوک شد که ممکن است جنایتی در کار باشد|4.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33138928.mp3|ریشه کن کردن برخی از علفهای هرزه مشکل است|4.86
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28789528.mp3|اصولی که پدرم به آن معتقد بود|3.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24067750.mp3|او فنجان را وارونه کرد|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30709775.mp3|به کارگران مزرعه مزد به علاوهی اتاق و خوراک داده خواهد شد|5.976
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33360463.mp3|امتحانات نهایی برایش مثل آب خوردن بود|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28958255.mp3|او با مشاوران خود خلوت کرد|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22808731.mp3|بالا داد|2.424
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30957243.mp3|در مقابل، مشت محکمی به صورت او کوبید|4.716
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_19559482.mp3|بیمه می خواهید؟|2.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31892856.mp3|توفان درخت را انداخت|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27740131.mp3|روح میخواهد ولی جسم ناتوان است|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33085124.mp3|تحصیلات متوسطه|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27739941.mp3|بنزینمان دارد ته میکشد|2.844
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28623469.mp3|او سفلیس گرفت|3.888
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25110549.mp3|اندیشهی اصلی مقالهی او|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27885035.mp3|پنجرهای به عرض معمولی|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_38051332.mp3|قادر به راه رفتن نبود|2.7
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26564969.mp3|برنامهی استانده شده برای همهی مدارس ما|5.472
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23391400.mp3|سفره را میگذارم و مثل روزهای قبل و قبلتر غذا میخورند|5.784
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24067628.mp3|این پول کثیف چیست که در راه آن جان میکنی؟|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31373679.mp3|او در غذا خوردن مشکلپسند است|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26948781.mp3|زنی که به زودی مادر خواهد شد|2.268
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30402510.mp3|ترجمهی همزمان|2.088
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24230969.mp3|این بیمار را باید از دیگران مجزا کرد|5.652
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33047069.mp3|حین دعوا معلمش را دید ولی رویش نشد به او سلام کند|4.464
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25282277.mp3|اسمت چیست؟|1.44
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33367085.mp3|تاکنون سه ترانهی پر موفقیت داشته است|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18230266.mp3|بقيه وسايلم کجاست؟|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30594540.mp3|تذهیب متون|2.124
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26651431.mp3|تیر چوبی را در زمین استوار کردن|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30705442.mp3|این پیراهن را از حراج فروشگاه رستمی خریدم|4.716
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28459761.mp3|رییس جمهور جدید حمایت ارتش را جلب کرد|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28506719.mp3|لؤ لؤ|1.584
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31022069.mp3|او در اثر سرما مرد|2.844
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28673812.mp3|ساختار ریزآراستهی یک تراشهی کامپیوتر|4.86
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24319662.mp3|کوهدشت|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32433582.mp3|به عمل درآوردن یک تئوری|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31421006.mp3|تمدن برافتادهی سرخپوستان این ناحیه|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32411422.mp3|حق اظهار نظر در امور دولت خود را داشتن|4.86
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30510724.mp3|روزی که کشاورزان ستم دیده سلاح برگرفتند|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34815629.mp3|اظهار بدون منظور خاص|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31131436.mp3|اگر پیش از غذا کمی نان بخوری اشتهایت کم خواهد شد|4.32
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31081320.mp3|او را وادار به موافقت کردند|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27570624.mp3|پسرجان فحاشی تو را کوچک و کم ارزش میکند|6.156
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33020811.mp3|مزاج صفرائی|1.764
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_20858238.mp3|حوله می خواهید؟|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33215318.mp3|بعد از جنگ خانوادههای زیادی دچار فقر شدید شدند|5.508
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32333223.mp3|به واسطهی فقر|2.34
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25854679.mp3|بنا به فرمایش جناب شهردار|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28470716.mp3|او در میان مهمانان میگردید و از همه احوالپرسی میکرد|4.572
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25223344.mp3|آسیاب بادی|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25077160.mp3|امروز علی با پدرش درشتی کرد|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32273432.mp3|اگر خود را اصلاح نکند اخراج خواهد شد|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29862328.mp3|سراسر کشور|2.952
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28925108.mp3|جنگلهای کشور به هیچ وجه فدا کردنی نیستند|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33194423.mp3|حتما تا پایان تو را دوست خواهم داشت|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28285720.mp3|این یکی مال من است|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28271260.mp3|تصمیمی که گرفتن آن مشکل است و یا نتیجهی آن مبهم است|5.292
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33128442.mp3|بزرگترین محصول سیب در سالهای اخیر|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25197062.mp3|این خمیر دندان جرم دندان را از بین میبرد|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592857.mp3|او خودش خواهد رفت|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24870081.mp3|آنگاه خوانده، تقاضای فرجام کرد|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34959175.mp3|قوری و کتری پیرکس|1.98
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18208142.mp3|جديدت رابطه برقرار کني|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28716737.mp3|از او انتظار کمک نداشته باش|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23391389.mp3|باید در درس خواندنش بیش از پیش حواسم جمع باشد|5.04
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25152813.mp3|اظهارات تمسخرآمیز او|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28171693.mp3|خرد انسان را از جانوران جدا میسازد|5.04
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32352034.mp3|خاطرهی آن رویداد سالها در مغزم زنده بود|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30994601.mp3|اسم این میوه سیب است|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28422603.mp3|سفر دریایی کی شروع میشود؟|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28340895.mp3|آنها دارند زندانیان سیاسی را آزاد میکنند|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30942966.mp3|او درست هنگامی که من داشتم میرفتم سررسید|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32958151.mp3|آرامپز|1.44
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_19276003.mp3|من به نواکائین واکنش نشان می دهم|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30378588.mp3|این دفعه تو را میبخشم ولی دیگر این کار را نکن|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32368328.mp3|رونق از نسلی به نسل دیگر میگردد|6.732
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28867676.mp3|او مسایل مالی خود را محرمانه با من در میان گذاشت|5.112
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32093561.mp3|پسر در لاشهی یک کشتی مسافری زندگی می کرد|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27599361.mp3|تصویری از یک کلیسای محلی|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18232379.mp3|و خوراک لوبيا پر ادويه|4.224
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24083047.mp3|این آمیزه دو پیمانه شیر است و یک پیمانه عسل|6.804
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25038804.mp3|خشونت فزایندهی اعتصابکنندگان|5.436
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23344440.mp3|اخمات رو وا کن|3.384
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31797961.mp3|پری هر روز با شیلنگ گلها را آبیاری میکند|4.212
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33140669.mp3|به ناوگان علامت داد که برگردند|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18208134.mp3|چون وقتي باهاش حرف زدم|2.16
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27580765.mp3|به پند او توجهی نکردیم|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33646993.mp3|ته نشستهای دریایی|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27990256.mp3|برای فرار از باران پناه جستن|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27751570.mp3|سعدی از تشویق و گشاده دستی اتابکان برخوردار بود|9.828
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18208252.mp3|من مسئول ليوان ها هستم|1.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30413247.mp3|راه حل آسانی برای این مسئله|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28423801.mp3|او واقعا شیفتهی آن زن شده است|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29346691.mp3|آگهیهای تجاری که مصرف کنندگان را گمراه میکرد|5.472
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_36081952.mp3|مثانه|2.052
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23390615.mp3|باز رفت توی زمین و من هرچی میگشتم پیداش نمیکردم|4.944
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23652359.mp3|آنها به شما حق نمی دهند مخالف باشید ،و نه بگویید|5.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29482736.mp3|تابشگری اتمی|4.572
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28750361.mp3|او سیگاری در آورد و از من کبریت خواست|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30942910.mp3|روش خائنانه|2.16
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24082935.mp3|مدرجه|2.844
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23841935.mp3|دلایل زیادی برای توسعه دادههای عمومی وجود دارد|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28590133.mp3|ریگ در زیر پوتین سربازان خش خش میکرد|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30524314.mp3|فیلم دوبله شده|2.664
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28536588.mp3|برتری جویی بیهوده از نخبگان|3.6
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25126479.mp3|صد دلار از حسابم برداشت کردم|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23344511.mp3|تو هم یه روز|2.904
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25244261.mp3|امتزاج تدریجی آن دو زبان|6.228
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31113582.mp3|اثاثیهات را در اتاق بگذار|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30643852.mp3|بین قرمز و صورتی|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31406658.mp3|احمد و دار و دستهی نوچه شاعران او به هیچکس دیگر محل نگذاشتند|6.336
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27884566.mp3|حادثهی قلبی|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28540150.mp3|حرکات موزون یک قهرمان اسکی روی یخ|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28104072.mp3|برای من نگارش هم کسب است هم تفریح|3.852
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29008012.mp3|سبک شیوای سعدی|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28711240.mp3|ابرهایی که ته رنگ سرخ داشتند|4.14
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24883383.mp3|اظهارات او دربارهی انتخابات آزاد|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592433.mp3|زنها معمولا از مردها کوتاهترند|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23359099.mp3|بعضی هاشون حتی از مارکز هم بی پدرترن، باید بخونی|4.824
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18218186.mp3|زود باشين عجله کنيد|2.664
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18218188.mp3|کارت عالي بود دوست من|3.12
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24072010.mp3|دمپایی آشپزخانه|4.5
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33778152.mp3|بهای ویژه، قیمت خالص|4.86
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23993516.mp3|زنجان|2.544
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25126901.mp3|ارزش طلا به طور قابل ملاحظهای نزول کرده است|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28864207.mp3|آدم با فرهنگ|1.836
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27847244.mp3|او در بورس سهام سود کلانی به جیب زد|6.876
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33778244.mp3|تور ماهیگیری را پشت و رو کردن|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23402605.mp3|به خاطر ما من و برادرش این کارو میکنه|3.864
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32536184.mp3|پایهها را به میز پیچ کردن|4.392
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28127937.mp3|پلیس با انواع تهدیدات او را مجبور به حرف زدن کرد|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28448642.mp3|خداوندا آنان را ببخش چون نمیدانند چه میکنند|5.184
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33337088.mp3|سفارشات مجدد به کارخانهی ما|4.104
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27979602.mp3|پولاد روکشدار|2.772
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28422822.mp3|بر خلاف دیروز امروز هوا خیلی گرم است|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26565087.mp3|زنی با اسباب صورت خوشترکیب|4.392
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33194668.mp3|بومیان گرسنه، نزار به نظر میرسیدند|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25127055.mp3|خردمندی فقط به دانستن واقعیات نیست|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32423373.mp3|انگیزههای پست و سودجویانه|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32958084.mp3|ترس افکار او را به هم زده بود|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25127907.mp3|از او چند پرسش کردیم ولی او کاملا خاموش بود|5.04
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25008854.mp3|اسامی به ترتیب حروف الفبا ذکر شده است|4.752
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31332054.mp3|به هم خورده شدن، مختل شدن|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22780415.mp3|امبابان|2.184
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28797799.mp3|او از پس این کار برمیآید|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24882688.mp3|آن سه رویداد را در یک برنامهی منفرد ادغام کردهاند|6.408
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32518295.mp3|پدرم ذهن خلاقی داشت|2.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33064017.mp3|تلفظ عادی یک واژه|2.268
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24874568.mp3|آن روزها دامن کوتاه آخرین مد محسوب میشد|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34507612.mp3|بمب افکنهای ما بدون تحمل صدمه به پایگاه خود باز گشتند|7.128
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30724658.mp3|اشتباه در قضاوت|2.844
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28339791.mp3|حراج قسمت انتهایی توپهای پارچه|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24726283.mp3|از ترس رنگش پریده بود|4.14
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18224720.mp3|البته من عاشق اين کارم|3.264
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28814467.mp3|آب چندین چشمه به این دریاچه میریزد|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25153271.mp3|آنان میکوشند عقاید قرون وسطایی را دوباره زنده کنند|5.796
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28753101.mp3|به طور خالص سی هزار دلار کسب کردن|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28470923.mp3|پاسخ پرحرارت|2.052
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_19276992.mp3|می توانید بگویید مایع ظرف شویی کجاست؟|3.576
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25197230.mp3|آواز به همراه پیانو|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31355523.mp3|صافی|1.836
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33778233.mp3|تلفات بسیار سنگین|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29884351.mp3|سر فلوت|2.844
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25142781.mp3|اصلان با رانندهی تاکسی بگومگو و دعوا کرد|5.184
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33143493.mp3|انحنای گستردهی خلیج|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28590154.mp3|او در مورد پول خودش خیلی خست به خرج میدهد|5.508
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25197308.mp3|آجر چیدن|2.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26630758.mp3|ترافیک آبی|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30354702.mp3|کلبهای رؤیایی|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23568391.mp3|نگاهشان میکند آرام و کند به اطراف نگاه میکند|7.584
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_19819514.mp3|چطور صندوق عقب را باز می کنید؟|2.904
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32831471.mp3|اعتراض بیمعنی|2.772
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26642808.mp3|به نامهی من جواب ندادی|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31356638.mp3|او پیشنهاد خود را پس گرفت|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27580775.mp3|برزو خضری یکی از همکلاسیهای قدیمی من است|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28812570.mp3|حرکات بدن رقاصه زیبندگی خاصی داشت|5.148
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31301244.mp3|سپس به سرزمین برفهای همیشگی رسیدیم|6.948
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_20671942.mp3|می خواهم بروم ایستگاه چرینگ کراس|3.624
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28835414.mp3|بررسی علل یک پدیده|2.34
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30663776.mp3|تایرهای فرسوده را عوض کردن|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30565311.mp3|جنگهای ایران و روس را بررسی کردن|2.808
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31365205.mp3|برنامهی هفت روز یکبار تلویزیون|4.716
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23677602.mp3|برای آنها کاری را انجام دهید،|3.216
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33151548.mp3|بسیاری از بومیان خاور دور به کانادا مهاجرت کردهاند|6.156
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28858641.mp3|تغییر سیاست|2.088
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28654694.mp3|آنها پنج مایل دور از شهر زندگی میکنند|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28841017.mp3|آتش روشن کردن|2.34
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30933780.mp3|اسمش یادم نمی آید|2.664
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23875273.mp3|برو و این دام بر مرغ دیگر نه|3.504
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_19909924.mp3|آیا ممکن است تعدادی سرامیک به من نشان بدهید؟|4.872
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28419712.mp3|رایحهی گلهای وحشی|5.328
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25281796.mp3|آینده آبستن حوادث خطرناکی است|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28470669.mp3|ازدیاد جمعیت|1.872
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28709966.mp3|پیشانی خود را چین انداختن، اخم کردن|5.004
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23745313.mp3|مشخصه که هر تغییری در فایل تنظیمات نیازمند ری استارت سرویس است|6.672
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30726730.mp3|آن آگهی محصولات متعدد شرکت ما را به تفصیل شرح داد|5.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27912389.mp3|بدنه سیلندر|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592696.mp3|او را با حقوق کامل بازنشسته کردند|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24883364.mp3|آذینبندی خیابانها پرخرج و وقتگیر بود|5.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33128528.mp3|پزشک مجرب|2.52
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32535758.mp3|میناب|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26495826.mp3|زن خواستنی|2.952
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29140033.mp3|سال فراوانی|1.944
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33151493.mp3|آس دل|2.7
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30053146.mp3|آبجو ضعیف|2.952
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28827056.mp3|ارائهی صادقانهی واقعیات|3.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28812609.mp3|جسدش را از آب بیرون کشیدند|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25282570.mp3|اسب شروع کرد به یورتمه رفتن|2.952
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23646892.mp3|وقتی آنها که از اطاعت و سرسپردگی کلیسا به نان و نوایی رسیده بودند|7.008
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25262548.mp3|او ادعا میکند که زبان جانوران را میفهمد|4.68
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25274047.mp3|اتاقهای تودرتو|3.204
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28731507.mp3|آن دو به طور تصادفی ملاقات و کمی بعد عروسی کردند|8.568
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32497074.mp3|خاک همفشرده|2.232
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32133243.mp3|از آنها دعوت شد که به قرارداد بپیوندند|4.716
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26015775.mp3|مارک نیوول، مدیر مدرسۀ کلمبوس ایست است|5.796
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27828840.mp3|او با حرکتی سریع از جا بلند شد|5.328
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32441353.mp3|به خاطر بیماری بازنشسته شد|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22780346.mp3|نام برد|2.256
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32066869.mp3|مخصوص به خودش|1.728
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30391552.mp3|پاندیت نهرو|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25274095.mp3|او از راههای نامشروع پول به دست آورد|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26004347.mp3|لیندن بل رئیس جامعه نجوم رویال بوده است|5.58
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30492520.mp3|پول به خودی خود اهمیتی ندارد|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26555232.mp3|دیروز اتفاق عجیبی روی داد|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25181389.mp3|او هیئت اعزامی به سوی سرخپوستان را سازمان داد|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26651494.mp3|او دلش برای یک سیگار میتپید|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27990235.mp3|بزرگترین|3.6
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30206320.mp3|ساعت عزیمت|1.548
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30410220.mp3|اسنپ فود|1.476
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26948889.mp3|دیوانهی رقص|1.548
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30676872.mp3|حصهی او کوچکتر بود|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29235704.mp3|پس از اندکی مراجعت کردیم|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24992672.mp3|آن رویداد نظام اجتماعی کشور را درهم ریخت|5.436
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25207353.mp3|انسان نا آشنا به تمدن|3.384
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26651447.mp3|حملهی قلبی|2.016
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28654474.mp3|شروع کن به کمک کردن به من و از زیر کار در نرو|5.796
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30824222.mp3|پیری، فکرش را مختل کرده است|3.6
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31301248.mp3|تپههای پوشیده از سبزهی کردستان|6.588
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25223442.mp3|آیندهی بازار پولاد در ایالات متحده|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30196334.mp3|تا توانی دلی بهدست آور|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27575055.mp3|او در مورد رانندگی در حال مستی به ما هشدار داد|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25246116.mp3|آماس ریهها|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30739248.mp3|اتاق کمکم گرم شد|3.6
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25197407.mp3|احساس سرما|2.16
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25281476.mp3|او از ته دل آرزو می کرد که ثروتمند و مشهور شود|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30626389.mp3|این ساختمان به حیاط خانه ما مشرف است|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22784906.mp3|لیوبلیانا|2.904
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23568362.mp3|همسرم سرما خورده|3.624
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28780683.mp3|استاد خرف|4.32
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30311354.mp3|بیماری مادرزادی|2.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30492670.mp3|برای پر کردن باتری موتور را در جا گاز بده|5.148
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33820648.mp3|برای اقناع حرص و آز خود از موقعیت بهرهگیری کردن|7.236
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29043488.mp3|آمدن بهار|2.016
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25189500.mp3|شواهد ناپذیرفتنی|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33151447.mp3|با وجود زلزله رحیم در صندلی خود باقی ماند|6.408
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25142614.mp3|اصلا از آن سر درنمیآورم|3.888
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24874545.mp3|استدلال او ضعیف است|2.772
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25091612.mp3|اظهاراتش حاکی از عدم اعتقاد به خداوند است|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30857314.mp3|پنج دلار روی آن اسب سفید شرط بندی کرد|4.14
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25142259.mp3|آنها گوسفندهای او را از روی بریدگی گوششان میشناختند|6.156
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28716885.mp3|خلق او بین شادی و حزن در نوسان بود|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30056774.mp3|سر ساعت یک|1.836
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24831545.mp3|امید آنها به زنده ماندن کمکم تبدیل به یاس شد|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28127295.mp3|پند پدرانه|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25223423.mp3|این سوپ خیلی چرب است|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28676011.mp3|حساب ما چقدر است؟|2.16
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27587776.mp3|بهار آمد و شد جهان چون بهشت|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27949623.mp3|پرچم سه رنگ|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31356891.mp3|دو نقطه متقابل در محور مختصات|3.564
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23841872.mp3|کتلت در چند شهر کشور مجسمه دارد|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30492512.mp3|اعتبار مراسم نوروز ناشی از سنت است|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28735508.mp3|بخش ستبر چوگان|3.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32278589.mp3|او در عقاید سیاسی خود بسیار دمدمی است|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27975920.mp3|بلندترین ساختمان دنیا|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32278662.mp3|روش پژوهش غلط منجر به نتیجهگیری غلط میشود|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28753109.mp3|انگشتانش به خون آغشته بود|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28784490.mp3|رودخانه به سه شاخه تقسیم میشود|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24067753.mp3|پرده و زیر پرده ای|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30643625.mp3|ای فرشته به زادگاهت بنگر|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28676027.mp3|با اولین تیر، کاشیها پا به فرار گذاشتند|3.672
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31356004.mp3|بیشتر دانشجویان در پردیس دانشگاه و معدودی از آنان در شهر زندگی میکنند|6.264
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30551778.mp3|امروز روز او نیست، معمولا بهتر بازی میکند|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30402547.mp3|نظرتان دربارهی اسنپ چیست؟|3.204
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33170873.mp3|دیوارهای تزئین شده با فرش|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30424025.mp3|خودم را به آن زمستانهای سخت آیوا خو دادم|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30493062.mp3|حرف های تشویق آمیز او به آوارگان قوت قلب داد|6.264
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24992595.mp3|خیابان کارخانههای کنسرو سازی|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33230739.mp3|ظروف کریستال|2.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24093144.mp3|این روزها نگارش این کتاب یگانه وسیلهی سرگرمی من است|6.948
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28791035.mp3|اگر تمنا اثر نکند به تهدید متوسل خواهم شد|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26642338.mp3|ترتیب معمولی واژهها درجمله|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22778565.mp3|سمبولیسم در فرانسه با کتاب معروف گل های شر|5.064
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22782064.mp3|مالاوی|2.784
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592532.mp3|او اهمیت آموزش را مورد تاءکید قرار داد|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28816770.mp3|به بالا چو سروسهی بود او|3.132
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28840926.mp3|خوراک هندی پر ادویه است|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27884777.mp3|پیراهن ساده|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_19538213.mp3|چطور این کلمه را تلفظ می کنی؟|3.264
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27232399.mp3|بخیهی ضربدر|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_36703981.mp3|آنها خانه میمانند|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27680011.mp3|او جالبترین مرد دوران خویش بود|4.788
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29346243.mp3|اکثر میوهها برای سلامتی مفید هستند|4.284
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28171620.mp3|سازماندهی و بازیابی اطلاعات|4.788
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25310554.mp3|من بلخشیدهام تو دستم گیر|4.032
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30584112.mp3|فوران دشمنی|2.016
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26642816.mp3|پرسش مشکل|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32352004.mp3|پیراهن شستنی|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22792227.mp3|اَرشین|2.496
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33047098.mp3|لوازم آشپزخانه|1.8
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18213588.mp3|بيا هاپو ساندويچ بخور|2.448
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24067451.mp3|این اشتباه برایت گران تمام خواهد شد|5.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27949708.mp3|برای برطرف کردن هر گونه شک و تردید، او بدون اسلحه نزد آنها رفت|6.444
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29394181.mp3|تمام آن چیزهایی که در صندوق خانه انباشته شدهاند|3.672
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26606464.mp3|زن هتک حرمت شده|2.232
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28987128.mp3|آب و هوایی که نظیر ندارد|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27764420.mp3|تهدیدهای او را به باد تمسخر گرفتند|4.14
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33230653.mp3|امشب من کشیک هستم|2.808
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26619710.mp3|بعدا خواهم نوشت|2.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28711237.mp3|ایجاد صنایع تولیدی به تقلید از ایالت متحده|5.688
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30451652.mp3|بیوقفه|1.152
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27570506.mp3|تاءثیر بارز گرسنگی|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32411153.mp3|این فیلسوف مشهور قرن بیستم|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23712625.mp3|فرمان خیلی بالا نباشد و غیره و غیره|5.64
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22767593.mp3|تایپه|2.208
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29152826.mp3|اتهامات مربوط به رشوهگیری او|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24477491.mp3|خروج او از جلسه غیرمنتظره بود|5.22
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31289330.mp3|خواستهی خود رابه کودک تحمیل کردن|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23935982.mp3|در این مطلب در این باره نوشتهام|3.408
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34507900.mp3|او به درد این شغل نمیخورد|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27938201.mp3|تصادف در اینجا اتفاق افتاد|3.672
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28910573.mp3|او در کاسبی موفق بود ولی این موفقیت به قمیت سلامتی او تمام شد|5.796
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28003866.mp3|پولت را دست او نده|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30484502.mp3|چه من باشم چه او باشد فرقی ندارد|3.888
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30183026.mp3|امیدهای رو به کاهش|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18218174.mp3|من بايد چي سفارش بدم ؟|2.784
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28171718.mp3|تعطیلات میان زمستانی|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28720104.mp3|ترکیزهها موجب تخمیر میشوند|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30451651.mp3|او چندین بار عقاید سیاسی خود را عوض کرده است|3.852
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27972744.mp3|بدون شک آدم درستی است|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32379837.mp3|او خیلی شیک است|2.088
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33128438.mp3|صدای میومیوی گربهای را شنیدیم|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23881153.mp3|دستگاههای قابل برنامهریزی قرن هاست که وجود دارند|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33360266.mp3|مسابقه نهائی|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30739608.mp3|جعبه پارچه ای سوزن|2.808
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28753057.mp3|با پارو قایق را به جلو راندم|3.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33778250.mp3|خواستههای افراط آمیز|4.32
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30606807.mp3|اوهامی که بر مغز مرد گناهکار هجوم میآورد|4.68
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33360445.mp3|آیا میتوانی یک دندانساز خوب را به من معرفی کنی؟|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27232084.mp3|چمدانها را از طریق مدخل ویژهای در هواپیما میگذارند|5.652
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30195702.mp3|جنگهای محلی صلح جهانی را به خطر میاندازند|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29643777.mp3|او از چشم والدین و معلمهایش افتاده بود|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28416398.mp3|او شم سیاسی دارد|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30606228.mp3|صدای زنگ شنیدم|4.212
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30389331.mp3|او تمام مایملک خود را از دست داد|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28540963.mp3|او بایستی مرتبا نزد دندانپزشک خود برود|5.22
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28166235.mp3|تشنگی خود را با برف مذاب فرونشاندیم|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26651528.mp3|چه جای خوبی|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25246034.mp3|آوای پرندگان در جنگل طنینافکن شده بود|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28679745.mp3|استراحت خواهد کردتا نیروی خود را دوباره به دست آورد|5.796
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25216257.mp3|آنها مخالف تمرکز تصمیم گیری اقتصادی در پایتخت بودند|5.58
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30206338.mp3|کفگیر ملاقه تفلون|2.052
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26538090.mp3|تماس مستقیم بین مواد شیمیایی برقرار کنید|4.716
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28679590.mp3|جذر گرفتن|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25299962.mp3|آبخور این محصول عبارتست از پنج اینچ در هر ایکر|6.516
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30767121.mp3|برف گیاهان را سرمازده کرد|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22389670.mp3|محمدرضا شاه آخرین ماههای زندگی خود را در پاناما و مصر سپری کرد|6.264
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28741366.mp3|تختههایی که با بست فلزی به هم وصل شدهاند|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30705358.mp3|ترقی درآمدهای سرانه|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22780430.mp3|خارش کرد|2.496
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24778304.mp3|این ماشین سیمها را هم راستا و خمیده میکند|4.284
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25181314.mp3|اکبر نمی توانست شیفتگی خود را نسبت به زری توصیف کند|5.328
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28540571.mp3|با دندان آن را نگهداشت|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33778276.mp3|پرندگان ماده تخم میگذارند|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33151539.mp3|مثلث|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28767652.mp3|او نسبت به دیکتاتوری نفرت عمیقی داشت|4.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31421051.mp3|سرنوشت مشقتبار|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28506792.mp3|آبراههای درونبومی|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30603916.mp3|مشارکت داشتن|2.016
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28735461.mp3|راندن این ماشین سخت است|2.844
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18226459.mp3|من نمي تونم گوشت بخورم|2.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26537434.mp3|ریز بار کمکم تبدیل به رگبار شد|3.6
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30392493.mp3|سخنان پرت و پلای مرد داغدیده|4.032
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28735449.mp3|اعلامیهی اخیر دولت|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33138252.mp3|برآمد نیلگون ابری زروی نیلگون دریا|4.968
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27740051.mp3|حرفهای مرا تحریف نکن|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26537972.mp3|تعریف کلمه به لحاظ شما|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22808818.mp3|واشمید|2.016
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28912287.mp3|توپهای دورزن|1.764
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28545574.mp3|تانک روی زنجیر حرکت میکند|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26537577.mp3|زنان آنان با غریبهها حرف نمیزنند|4.32
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26606532.mp3|رنگ زنده|2.52
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30522010.mp3|بزم عالی|1.44
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27740121.mp3|رشته کوههای جوان|2.412
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31892678.mp3|پنجاه سال در خانهی تاجری نوکری کرد|4.032
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29423543.mp3|امیدهای من تبدیل به هیچ شدند|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24071991.mp3|مدرسۀ نظام|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592455.mp3|او زیر آب رفت و یک قلپ آب دریا را فرو داد|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30395607.mp3|تا لحظهی مرگ حواسش بر جای خود بود|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30195703.mp3|انداختن تصویر روی پرده|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25247770.mp3|از برنامهای پشتیبانی کردن|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24550540.mp3|خلوتگاه آخر هفتهی او باغی در کرج است|5.796
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25077134.mp3|آنها با اسکی از روی انباشتههای برف رد میشدند|6.12
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30781087.mp3|او پولها را جرینگی روی پیشخوان ریخت|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22809925.mp3|اَفخم|2.184
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25872142.mp3|او رفت و زود برگشت|2.268
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27884711.mp3|او با این لایحه مخالف است|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29990079.mp3|او صاحب مزرعهی بزرگی است|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18242684.mp3|اينجا، اينطوري بغل کن|3.576
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30824112.mp3|بگذارید تنبیه با جرم تناسب داشته باشد|4.68
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30441332.mp3|زنش مرتبا او را تحریک میکرد که استعفا بدهد|4.68
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30716713.mp3|او متعلقات شخصی خود را گردآوری کرد و در کامیون گذاشت|5.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27979503.mp3|جانم، برادرت را اذیت نکن|4.032
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25142221.mp3|خوانندهای با صدای رسا|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32417385.mp3|جای پا باز کردن|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24883402.mp3|اختلاف جدید میان کارگران و کارفرمایان|4.968
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29134646.mp3|او خیلی خوب آواز خواند|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25282374.mp3|انواع مختلف ماشینآلات|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22810358.mp3|نگاه کرد|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26555226.mp3|حصبه|1.44
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33138514.mp3|محتضر|2.196
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27280324.mp3|روشهای مختلف طبقه بندی|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30056686.mp3|خارج از حوزهی اتفاقات روزمره|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25282383.mp3|او عنوان مقالهی خود را عوض کرد|3.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25142617.mp3|آلت برداشتن یخ، یخ شکن|4.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30998019.mp3|او به خویشان و دوستان خود پشت پا زد و از شهر رفت|6.228
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28439354.mp3|روسپیگری همهی فامیل تو را بیآبرو خواهد کرد|5.58
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23936873.mp3|تننباوم که از بزرگترین افراد متخصّص در این حوزه است|6.696
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28716735.mp3|پس از شکست در انتخابات، روحیهی او به پایینترین حد خود رسید|7.056
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33230807.mp3|حالا برمیگردم سر داستانم|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32831502.mp3|آستینش را پایین زد|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18232325.mp3|وقتي يکيشون بر مي گرده|3.264
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28910735.mp3|سابقا اینجا زندگی میکرد|2.16
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28459812.mp3|رویداد بسیار مورد انتظار|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29299734.mp3|آن دو نامزد در صندلی عقب اتومبیل عشقبازی کردند|4.5
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24729003.mp3|آب داغ دست بچه را سوزاند|4.86
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18218107.mp3|نقشت چيه ؟ عمه خانم ؟|2.856
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33230742.mp3|اتاق پر از صندلیهای خالی بود|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18206992.mp3|با صرف وقت بیشتر در آنجا، دریافتم که ممکن است نوع جدیدی از «ریشسفیدها» در حال پدیدار شدن در محیط کار باشند|9.216
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28835484.mp3|او در کنار دریا گوشماهی میفروشد|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27968715.mp3|برخورد سرد او همهی خواستگارانش را سرخورده کرد|5.472
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28774469.mp3|اکبر استعفای خود را فرستاد|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26606876.mp3|تاثیر روحالقدس بر انسانها|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31858434.mp3|جنگندههای دشمن دارند از جلو نزدیک میشوند|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28827153.mp3|چشمان او آبی است|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28797838.mp3|او خوب میداند که چه میخواهد|2.448
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25180694.mp3|لوبیای قرمز|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32390044.mp3|تگرگ به شکوفهها صدمه زد|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32831548.mp3|چخماق هفت تیر او نیم پا بود|3.888
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30453736.mp3|خوراک زبر به سفت شدن لثهها کمک میکند|4.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29394179.mp3|توپ را زدن|1.44
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28731557.mp3|روشهای قرون وسطایی ادارات دولتی|4.68
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23405327.mp3|بگیم بچه ها خبر دادن که دیدنش توی اُسرا|5.856
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28721253.mp3|چاقو دستش را مجروح کرد|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30677132.mp3|بیشتر وقت خود را صرف تبلیغ به نفع نامزدهای حزبی کرد|4.788
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23390468.mp3|وقتی داری غرق میشی، باید نفست رو حبس کنی|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31356061.mp3|تلمبهی دوچرخه|2.232
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30966861.mp3|او به من نامهی خودمانی و خوبی نوشت|3.204
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_35282860.mp3|مسالمت آمیز|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24389026.mp3|این متن را به آلمانی ترجمه کن|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22782011.mp3|آرسِس|2.496
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29394123.mp3|آزمایش خون|1.8
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30510661.mp3|چندین سال در خاور دور زندگی کرد|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26947828.mp3|حداکثر لطف|1.944
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23388092.mp3|ترسیدم، دستم به هیچ جایی بند نمیشه، دهنم داره پر آب میشه|5.376
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26645155.mp3|او ترجیح میداد بمیرد ولی ناشرافتمندانه زندگی نکند|6.3
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25196948.mp3|آنها بر ما پیشدستی کردند و زمینها را خریدند|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592929.mp3|زندگی یکنواخت و خسته کنندهی زندانیان|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26521693.mp3|برندگان در خیابان به پایکوبی پرداختند|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33128545.mp3|زندگی توأم به مسالمت|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31262244.mp3|مذاکره یکی از راههای کاهش مخاصمات است|4.32
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30484470.mp3|پوست گاو را کندن|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26555184.mp3|او به کشور خود رفت|2.268
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22784708.mp3|اخت شد|2.184
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28789539.mp3|با بالا بردن ابروانش|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23713870.mp3|یک کامپیوتر کشف کردم|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24028786.mp3|آواز دهل از راه دور|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27280337.mp3|او در همهی کلاسهای دانشگاهی خود قبول شد|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29365347.mp3|تکذیب نگارش آن مقالهی انتقادی از طرف او|4.572
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32198994.mp3|او در پاسخ به رئیس قدری من من کرد و ناگهان رفت|4.32
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28623695.mp3|شخصیتهای عجیب و غریب این رمان|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25281616.mp3|اسکلهها انگشتوار در رودخانه جلو رفته بودند|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23708656.mp3|اما لینوکس از آن روزها پیشرفت زیادی کرده|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26654374.mp3|او تقریبا پنجاه ساله است|2.34
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30392020.mp3|چه کلبهی زیبایی|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30721613.mp3|پیشنهاد کرد که تا درخت بزرگ با من مسابقهی دو بدهد|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30195412.mp3|هشدار  حرکت به غرب|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24235696.mp3|او میخواهد معلمی را امتحان کند|5.328
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30593041.mp3|پولی که بسختی به دست آمده است|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30649042.mp3|بازارهای مشتقه، از بازارهای دیگری مشتق میشوند|5.724
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23936084.mp3|و نیز از آباد کردن بیت المقدس تا تخریب آن|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22782005.mp3|بیلیون|2.664
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27576400.mp3|پیاز سرخ کرده|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25152878.mp3|با دستمال عرق چهرهی خود را پاک کرد|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22784857.mp3|سپاسگزاری کرد|2.904
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26555163.mp3|او سرگرم اسکان دادن آلمانیها در آن دره بود|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33336863.mp3|این فیلم بسیار پر درآمد بود|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23745325.mp3|و در آخر آنها هرگز با خود فکر نکرده اند|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30492536.mp3|صدایش از خشم میلرزید|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24319556.mp3|خواندنیهای ضروری|3.852
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30712355.mp3|صدای او از دور شنیده نمیشود|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24882922.mp3|اصلا برایم هیچ خرج نداشت|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30492533.mp3|صدای تقتق در زدن او آشنا بود|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29961541.mp3|آنقدر خوردهام که به سختی میتوانم حرکت کنم|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28446667.mp3|بیشتر فعالیتها مربوط به ورزش بود|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31332145.mp3|رژیم غذایی متعادل|2.052
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25247260.mp3|او غالبا برای صرف چای سری به ما میزند|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32830923.mp3|پرندهای در میان شاخ و برگ پس و پیش میرفت|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28654496.mp3|شبها دیر وقت پلیس مخفی بعضی درها را میزد|5.004
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30406714.mp3|زمینهی دانش، قلمرو علم|4.104
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28658811.mp3|شعبههای شرکت به سرعت فزونی یافت|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30195883.mp3|پیرمرد کژخلق|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32652035.mp3|دو گروه متشکل از تیم های حرفهای در بیسبال|5.544
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25246249.mp3|اعمال بد او سزای خود را دریافت کردهاند|5.04
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28318244.mp3|او در یک کلیسای کوچک کاتولیک به عضویت درآمد|4.572
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28470417.mp3|توانایی تفوق بر مشکلات ایام پیری|4.32
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30712391.mp3|صدای مادرم را شنیدم|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25181328.mp3|با داروی تهوع آور ایجاد استفراغ کردن|4.716
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28433847.mp3|زود به کاشان رسیدیم|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30492669.mp3|رودخانه به سوی شمال میرود|3.6
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27891714.mp3|تلفن زنگ زد|2.952
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27972779.mp3|جهان زیر زمین، دنیای اسفل، دنیای مردگان|7.416
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31356871.mp3|پیدایش رشتههایمحبت بین مادر و فرزند از اهمیت خاصی برخوردار است|5.976
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32873388.mp3|اغلب کتاب فروشیها دایرهالمعارف عرضه نمیکنند|4.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23915696.mp3|رودکی|2.856
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30484478.mp3|بهترین روش برای انجام این کار چیه|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30440384.mp3|تعلیمات کلیسای کاتولیک|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592490.mp3|چتر مرا کی دزدید؟|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28812595.mp3|بستر رودخانه|1.836
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24092941.mp3|اوراق بهادار ممتاز|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31829834.mp3|محروم از هر گونه خدمت دولتی|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31087870.mp3|پرستار در کنار بستر ایستاد|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31205248.mp3|ادا و اطوار وانمودین آن واعظ پیر|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25281620.mp3|آتش سوخت و تمام شد|2.268
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28726674.mp3|او از ترن در حال حرکت بیرون پرید|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23712064.mp3|با حوصله باشید و چیز یاد بگیرید|4.752
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32831189.mp3|همایش بینالمللی فلاسفه|3.852
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30686461.mp3|برای او شنا در آن دریاچهی خنک کیف داشت|4.752
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29177867.mp3|خوراک و نوشابهی مجانی در اختیار مسافران گذاشته خواهد شد|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31365070.mp3|افتخار جاویدان|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26650911.mp3|جمعیتی آشوبگر|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26570623.mp3|به صرف شام پرداختن|3.564
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25282510.mp3|از دیدن داوید و همسرش خوشحالی من دو چندان شد|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31133461.mp3|بحث دربارهٔ این موضوع فایدهٔ زیادی ندارد|5.328
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30643575.mp3|آیا قبلا با هم ملاقات کردهایم؟|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22780145.mp3|به آواهای مشترک در تلگرام بپیوندید|5.136
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27600141.mp3|او سعی میکرد تقصیر را متوجه خواهرش بکند|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29260355.mp3|این قرآن خطی یادگار خانوادگی ما است|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31126966.mp3|او هفتهها در خانه دستخوش سردرگمی بود|4.212
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31133696.mp3|بیمهی همگانی یک موضوع داغ سیاسی شده است|5.58
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23712378.mp3|چرا این فایل مهم است؟|3.936
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30594506.mp3|صدف دریا، گوش ماهی|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23862878.mp3|امروزه احتکار پدیده ای عادی است|4.776
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30767127.mp3|تمایل به آدمکشی|2.232
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31088190.mp3|زیر سیگاری پر از ته سیگار بود|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32386177.mp3|اختلال نظم عمومی|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24550596.mp3|خندهی استهزا آمیز|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31088087.mp3|با سلاح قانون به جنگ آنها خواهیم رفت|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30721610.mp3|آنان طلسم به گردن کودکان و چهار پایان خود میآویزند|5.904
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24072981.mp3|او مدتها پیش از تولد من مرد|4.14
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_35007811.mp3|مسئولیت انجام کاری را قبول کردن|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30565351.mp3|قاضی ادعای او را وارد ندانست|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23745324.mp3|کجاست دیر مغان و شراب ناب کجا|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30076716.mp3|سربازان در جیبهایشان به سرعت در جاده حرکت میکردند|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29962033.mp3|به علامت همدردی کارتی برایم فرستاد|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27884892.mp3|او در ریاضیات معرکه است|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25282008.mp3|او قادر به تحمل موسیقی جاز نبود|3.132
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31087981.mp3|رشتهی عضلانی|3.132
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26644831.mp3|بند امیر در استان فارس|5.04
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28127292.mp3|پارچهی ظریف|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33138088.mp3|رد شکار را گرفتن|2.736
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28679298.mp3|پیشنهادات ما را به کلی رد کردند|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25246385.mp3|نگاهی که تاثر از آن میبارید|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33360369.mp3|حمله از هوا و دریا تقویت شد|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33778234.mp3|سفره|2.448
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28781165.mp3|با آنکه عصبانی بود کوشید نسبت به همه مودب باشد|6.732
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31368712.mp3|به واسطهی دویدن نفس نداشت|3.312
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32366492.mp3|پس از آتش سوزی شرکت با میلیونها دلار ادعای خسارت مواجه شد|5.22
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29177973.mp3|اسمیت پولها را خورده بود|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23209840.mp3|شهاب تلاش می کند سوزش و درد را مخفی کند|6.864
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25281812.mp3|خندهی رودهبر کننده|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_19287792.mp3|من آرام هستم|2.016
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28797891.mp3|اصول عام|1.548
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28466326.mp3|امیر ارسلان نامدار شمشیر از غلاف درکشید|4.464
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27884742.mp3|برجی که سر برآسمان کشیده بود|4.752
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28001011.mp3|بسیار مشتاق دیدار ملکهی زیبایی بودم|4.572
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24718454.mp3|اختصاص دادن بودجه برای خانهسازی|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27885012.mp3|بزهکاریهایش کار او را به زندان کشاند|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26555122.mp3|بنابه اختیاراتی که به او تفویض شده است|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28962886.mp3|برای سلامتی مادرم دعا کردم|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30503340.mp3|محترما ً|2.412
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26654371.mp3|تشک فنردار|2.34
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24128137.mp3|او ناگهان احساس کرد که میخواهد توی آب شیرجه برود|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30553333.mp3|جنگلی دارای دریاچههای پراکنده|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25127867.mp3|اعتماد به کسی که استحقاق آنرا ندارد|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34946113.mp3|شعر او به آسانی قابل تفسیر نیست|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28651915.mp3|ابرهای خشمآلود، ابرهای غران|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25154921.mp3|انسانها از حیوانات باهوشترند|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30686463.mp3|ظروف سفالی آبگوشت خوری|3.132
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30948114.mp3|به خاطر تاخیر مکرر بیست دلار جریمه شد|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31318409.mp3|به محض دیدن پسرش با حرارت و اشتیاق بیشتری صحبت کرد|4.968
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28674485.mp3|تکهی شکلات|2.016
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28675930.mp3|ترن نیمه شب|2.124
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30455618.mp3|او را به عنوان عضو دایم باشگاه پذیرفتند|4.896
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31356025.mp3|از احترام بر خوردار بودن|2.844
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25281586.mp3|امروزه جوانان احترامی برای پیران قائل نیستند|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32133312.mp3|بسیار محظوظم که فرصت ملاقات شما را پیدا کردهام|5.868
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28069658.mp3|پسوند قیدساز|2.808
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34006420.mp3|آغاز جنگ به فعالیتهای او روند تازهای داد|5.4
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28679802.mp3|آنان بسیار خوشحال هستند|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31133590.mp3|آن دو تقریبا برابر هستند|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27949736.mp3|جر و بحث او بر علیه کمونیسم|3.888
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30720851.mp3|آستین کوتاه|1.908
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25872125.mp3|تخلف حین رانندگی|2.088
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28789516.mp3|آنها مصمماند هرجوری که بتوانند به او آسیب برسانند|4.932
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31294445.mp3|آزادی او تا دو سال دیگر به قید التزام خواهد بود|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30388539.mp3|چیزی برای خواندن|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_35007529.mp3|بربرها پشت دروازهی اصلی شهر بودند|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30311340.mp3|او دور اسم من با مداد قرمز دایره کشید|4.104
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31827988.mp3|تعطیلات بهارهی ما نه روز است|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29070654.mp3|به او تذکر بده که نان یادش نرود|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32873426.mp3|حلقهی گیسو|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28862479.mp3|رقابت آنها دارد شدیدتر میشود|3.132
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32831264.mp3|او نامه را سه بار خواند|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_38114996.mp3|برف سست تبدیل به بهمن میشود|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32497166.mp3|برخی نوزادان گلیز میریزند|3.564
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30653011.mp3|پیچ و مهرهٔ این کار به دست او است|3.888
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27883221.mp3|حرفهای گنده گنده|2.772
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23967575.mp3|ماستودون تنها شبکه اجتمای آزادی نیست که روی آن فعالم|5.688
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25016728.mp3|به هدر دادن روح در باتلاقی از شرم|5.58
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30739373.mp3|بیماری او را مجبور کرد که از فعالیتهای اجتماعی دست بکشد|5.688
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28033956.mp3|ساختن و افزارمند سازی کتابخانه|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32368418.mp3|صدای نازک|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30705517.mp3|اصغر یک بار دیگر به جهان تخیلات خود رجعت کرد|5.148
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25197242.mp3|اعتبار دراز مدت|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32066868.mp3|فوتبالیست درشت اندام|2.448
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30519029.mp3|صدای انفجار شیشهها را لرزاند|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27985830.mp3|تالار گردهمایی|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28774599.mp3|پایایی هواپیما|2.592
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32273263.mp3|اعضای کلیسا تعمیر طاق کلیسا را تصویب کردند|4.968
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30475677.mp3|صدای هیس بخار که از کتری بیرون میآمد|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26555142.mp3|پوزخند دیوسان|3.204
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28797736.mp3|آوازهی هنری لندن|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34745648.mp3|شو کنم بر رمضون|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32094335.mp3|آفتاب برف ها را آب کرد|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_34946346.mp3|پاورچین پاورچین وارد اتاق شد و مرا غافلگیر کرد|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29418163.mp3|جولی زیر درخت ایستاده بود|5.58
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30686485.mp3|تصویب آن با کمیتهٔ حزبی است|3.564
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30360237.mp3|صبر داشته باش، نوبت تو هم خواهد رسید|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30994391.mp3|سفر نوروزی تدبیری است برای فرار از تشریفات نوروز|4.5
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28658596.mp3|ابریشم همنهشته|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28735426.mp3|با دست راست پرتاب کردن|3.384
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25281785.mp3|ما بچهها خسته شده بودیم|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_37407451.mp3|نطق خوبی ایراد کرد|3.06
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24389044.mp3|لوکو موتیو|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31368690.mp3|زیانهای شرکت ما طبق دفاتر|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_35300867.mp3|مرده وار شنا کردن|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31133736.mp3|روغن زیتون|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23388224.mp3|به سمت وان میرود گویی ساعت به خواب رفته|4.224
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28540732.mp3|برف انباشته شده است|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33336843.mp3|سخنرانی دانشمندانه|3.888
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28480924.mp3|از دست دادن زوجه او را از پا درآورد|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23437711.mp3|چرا اینا تموم نمیشن تو رو خدا پاکشون کنین|4.272
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30594502.mp3|فیل نر، نره فیل|2.952
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25247780.mp3|با ضیافت از او تجلیل کردند|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30354666.mp3|شیفتهی شخصیت دلفریب او|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28446690.mp3|رکود اقتصادی باعث ازبین رفتن بسیاری از بنگاههای کوچک بازرگانی شد|6.876
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33807188.mp3|پلی که بر پایه محکم بنا شده است|3.132
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25607916.mp3|توصیف ماهرانهی منظرهی رودخانه|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27740024.mp3|چنانکه در ذیل آمده است|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28977927.mp3|به کامپیوتر داده خوراندن، اطلاعات وارد کامپیوتر کردن|5.796
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28658766.mp3|رفاه عموم|2.484
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23712113.mp3|بنابراین شما باید یاد بگیرید که به منش مشکوک و به مهارت احترام بگذارید|7.704
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31114511.mp3|سانسورچی بخشی از فیلم را زد|3.24
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33459113.mp3|روابط دوستانهی بین المللی|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25223386.mp3|این قیمتها محتملا نوسان خواهد کرد|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23678810.mp3|نفس کشیدن خانم تمام سلولهای بدن به اکسیژن نیاز دارن برای زنده موندن|7.92
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30993966.mp3|برای این نوع خدمات نیاز چندانی نیست|3.78
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33778267.mp3|حاشیهٔ آن کتاب را تذهیب کرده اند|4.572
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29311079.mp3|دولت نباید اختیاراتی را که به آن داده نشده است غصب کند|4.464
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31022074.mp3|بوشهر برای قبول کشتیهای بزرگ مجهز است|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24814717.mp3|از دورترین زمان تا به امروز|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26651514.mp3|پلیس خانهی قاتل را جستجو کرد ولی مدرکی به دست نیاورد|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25029072.mp3|همهی فلاکتهایی که مسکینان را رنج میدهد|4.428
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26537689.mp3|پیشخدمت مهمانان هتل را به اتاقشان راهنمایی میکند|5.076
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29070634.mp3|تیم ما در دورهی پایانی شرکت خواهدکرد|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27580969.mp3|جزئیات آذوقه رسانی به کلیهی نواحی قحطی زده بسیار پیچیده بود|6.228
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28864157.mp3|حسین تابستان های خود را در قمصر میگذراند|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28658622.mp3|شرحی که هما داد کنجکاوی ما را فرونشاند|3.6
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28970925.mp3|تظاهر کنندگان دهشتزده متفرق شدند|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24808326.mp3|از رنگ پریده و صدای لرزانش دلواپس شدیم|5.256
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32269018.mp3|خدایا گناهان مرا ببخش|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28448849.mp3|پیامدهای این رویداد متعدد بود|3.924
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33778262.mp3|او با عرض معذرت جلسه را ترک کرد|5.184
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32200216.mp3|تپهها و نواحی بلندتر|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18226347.mp3|اگر اسم کاملش رو گفتي|2.976
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30824030.mp3|سبک پررنگ و آب|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18226344.mp3|پس معلمان شیکاگویی چه کار کردند؟ آیا از طریق مدیریت به تغییر دست زدند؟ آیا فشار وارد کردند؟ آیا توی چشمان مدیریت نگاه کردند و گفتند، «این راه اداره یک کسب و کار نیست|9.576
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24774677.mp3|قهوهی زیاد او را عصبی میکند|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24093629.mp3|او قمارباز کودنی بود|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31355583.mp3|پاسخ شما درست نیست|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30781174.mp3|زیر ضربات شدید مشت بر پشت افتاد|4.032
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22251786.mp3|سایت آواهای مشترک در مرورگر فایرفاکس بدون فیلترشکن|7.464
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28753066.mp3|پیرمردی علیل|1.98
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22782172.mp3|عربستان سعودی|3.264
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25153346.mp3|آیندهی نویدبخش جان در پزشکی|4.392
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28735473.mp3|ریتم تانگو|2.268
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28448866.mp3|اژدر کشتی را غرق کرد|3.42
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27941849.mp3|پس از عزیمت مبلغین مذهبی، بومیان دوباره کافر شدند|6.876
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32830734.mp3|با تانی به طرف در رفت|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25197330.mp3|اشرافی بیعنوان|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30391418.mp3|شیب صحنهی تئاتر|2.304
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27883220.mp3|بمبارانهای متمادی به صنایع آلمان آسیب رساند|4.932
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24477659.mp3|با آگاهی تمام کوشیدن|3.672
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30726855.mp3|با دیگران چنان کن که خواهی با تو آنچنان کنند|5.04
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25854637.mp3|جسد مقتول را قطع عضو و ناقص کرده بودند|5.292
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23745789.mp3|تنیس|2.064
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25274048.mp3|چنگال کوکو|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33360505.mp3|پاهای شهوتانگیز آن رقاصه|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28679304.mp3|آن مسافرتهای تئاتری او را هنرپیشهی ورزیدهای کرد|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28439161.mp3|چرخهای که از تولد آغاز و به مرگ ختم میشود|5.688
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30395360.mp3|رسید مژده که ایام غم نخواهد ماند|4.176
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24882837.mp3|انسانهای آغازین در هماهنگی با طبیعت زندگی میکردند|6.156
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30465072.mp3|صحنه پردازی از اکبر روحانی|4.284
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31318479.mp3|پهنای بنا از بیرون به بیرون، عرض ساختمان از بیرون|7.128
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30379135.mp3|بخشهای مختلف اقتصادی|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_36441976.mp3|اینطوری در هزینههای خونه هم میشه صرفهجویی کرد|3.96
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30966819.mp3|پرندهای بر شاخهی بیبرگ نشست|3.204
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30195688.mp3|بر ضد رئیس خود تحریک میکرد|3.492
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24882972.mp3|آنها برف جادهها را پاک کردند|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25282345.mp3|انبوه مردم کنجکاو با فشار و ازدحام به محل جنایت روی آوردند|5.148
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25245884.mp3|دیروزهای ما راه سفها را بهسوی مرگ خاکی روشن کردهاند|6.84
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27884463.mp3|به راست راست|2.7
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28827082.mp3|بررسی دقیق علل سرطان|4.392
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29310923.mp3|به دلم برات شده بود که اتفاق بدی روی خواهد داد|4.104
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26631541.mp3|ریزش معجرهآسای آب از سنگی که پیامبر به آن دست زده بود|6.84
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33143965.mp3|ایران پوشیده از سه رشته کوه اصلی است|3.816
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23745329.mp3|هر دوچرخه مرسومی که بخرید، ترمزی به اندازه کافی قدرتمند دارد|6.336
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32411138.mp3|این اتومبیل معرکه است|3.852
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31289341.mp3|در محل آتشسوزی حاضر شد|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30643594.mp3|توفان خود بخود فروکش کرد|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30705386.mp3|به سختی از رود ژرف رد شدن|3.708
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_18226211.mp3|ما يه نژاد کمياب هستيم|4.344
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23437901.mp3|ها ویكتور خارا نه می دونی چه جوری کشتنش؟|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26606268.mp3|تبلیغ خوب در فروش کالا بسیار موثر است|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30705516.mp3|صداهایی که از بیرون میآمد حواسم را پرت کرد|4.788
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32278638.mp3|سرنوشت چنین مقدر کرده بود|3.204
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31000190.mp3|پیاده روی تند|4.788
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28740044.mp3|او چند سال در زندان بود|2.34
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24617355.mp3|اختلالات همراه با تشنج|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28428835.mp3|پیراهن نو به او میآید|3.276
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25099563.mp3|اعتصابات زیاد پیشرفت اقتصادی آنان را متوقف کرده است|5.508
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24067482.mp3|او موفق به زیاد کردن دارایی خود شد|5.94
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30482604.mp3|حرفهای آنها را شنیدم|2.556
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28815975.mp3|تاریخ ازدواج را تعیین کردن|3.096
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31355700.mp3|آنها به نفع دکتر کمالی فعالیت انتخاباتی میکردند|4.464
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28353213.mp3|تهیسازی لولهها از رسوبات|4.824
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33850225.mp3|مداد به ابرو کشیدن|2.16
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31081332.mp3|اما به گفتههای من توجهی نکرد|3.744
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30360227.mp3|شوخیهای او تقریبا زننده بودند|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32702144.mp3|جعبه به مکعبهای کوچک تقسیم شده است|2.916
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24840341.mp3|او از نوعی شجاعت حیوانی برخوردار بود|5.148
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22993996.mp3|صد سال تنهایی رو خوندم|3.192
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22741767.mp3|فکر کرد|2.544
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23936013.mp3|خوشحال میشوم با نظرات خود، این نوشته را کاملتر کنید|5.784
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27232114.mp3|جنگ برایمان مشکلات زیادی به بار آورد|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_35007772.mp3|تصویر مادرم در اتاق نشیمن آویخته است|4.932
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27599248.mp3|چه برآنها گذشت؟|2.88
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30420496.mp3|ضبط صوت|3.168
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28414376.mp3|رهبر ارکستر پر تحکم|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27975888.mp3|او رومیزی را تاکرد و در چمدان گذاشت|5.4
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27591843.mp3|خاتمهی زمانبندی شدهی فعالیتهای شرکت در کرمان|5.328
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_22767568.mp3|یعنی ارتباط ادبیات را با سایر هنرها نیز بررسی میکند|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28781181.mp3|آنها ما را به گردشی جهت بررسی کاخها بردند|6.264
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23712107.mp3|این دوران خاص رو از دست ندین|3.864
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33047123.mp3|او چند مطلب مهم را پیش کشید|3.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25141391.mp3|آنها باهم فرار کردند|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33170892.mp3|چون او را متهم میکنی مسئول اثبات ادعای خود هستی|5.688
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28747836.mp3|اشتباه لپی کردم و جمال را جمیله صدا زدم|5.184
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29309695.mp3|او مرتب راجع به سفرهای خود ور زد|4.284
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32524806.mp3|خبره در موسیقی|1.872
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31733396.mp3|اکبر به قول خود وفا کرد|3.996
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27591782.mp3|چون در اینجا کس و کار ندارد دلش تنگ شده است|5.796
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30420475.mp3|پدرم معمولا هنگام ریشتراشی سوت میزد|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_29849034.mp3|سربازان با بینظمی میدان نبرد را ترک کردند|4.752
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23402702.mp3|مادربزرگم قبل رفتن به خانهی بخت دم گوشم گفت دست مادرت را ببوس|6.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31332089.mp3|سخنان دوپهلوی دیپلمات|2.7
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30076859.mp3|این کفش اندازه نیست|2.808
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23677637.mp3|امروز از لحظه سال تحویل چند روزی میگذرد|4.608
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31127149.mp3|مشاهده شدن|2.088
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33151471.mp3|ژاپن بسیاری از رسوم غرب را اقتباس کرده است|5.508
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30007056.mp3|سربازان با اشتیاق آخرین خبرهای جبهه را دریافت میکردند|5.004
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31858428.mp3|زندگی مادی|2.088
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27592874.mp3|چهرهی پر چروک و مصمم او به ما قوت قلب میداد|5.616
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31286785.mp3|به مجرد دیدن او ازجا دررفت|2.988
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30492455.mp3|صدای تلق تلق شستن ظرفها|4.536
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28747853.mp3|بدون مقاومت به آن تاریکی خوش ظاهر وارد مشو|4.644
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_24617185.mp3|پر از هیاهو و خشونت و عاری از هر گونه معنی|4.248
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_33194720.mp3|پند بدی به من داد|2.448
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32411141.mp3|آموزش رسمی، آموزش مدرسهای|5.04
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32239479.mp3|او هر روز لباسهای خود را عوض میکند|3.204
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31133839.mp3|او از جملگی تشکر کرد|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30080486.mp3|بوی نافذی که مدتها در لباس میماند|4.464
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_23646909.mp3|با تنهایی که از درون او را آزار میداد،|4.104
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30626385.mp3|او ظاهر مستها را داشت|3.456
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28735433.mp3|به مقدار کم خرج کردن|2.952
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27591845.mp3|پرورشگاه اسبهای تخمی|4.356
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30962460.mp3|پارچه را روی سطح فوقانی میز کشید|3.528
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_31402888.mp3|شرط لازم آزادی|2.628
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30195727.mp3|او با یک لهجهی ساختگی اصفهانی حرف میزد|4.068
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_32094332.mp3|او شجاع است|3.024
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28890524.mp3|آنان کتابهای زیادی منتشر کردهاند|3.132
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30441331.mp3|حدس بررسی شده، حدس قریب به یقین|4.464
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25127892.mp3|با سرعت نور حرکت کردن|3.348
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30780040.mp3|در جامعهٔ کهنه طبقات حاکمه زحمتکشان را بیرحمانه استثمار میکردند|6.84
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_26947801.mp3|پیشنهاد صلح|1.944
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_28540530.mp3|پول در برطرف کردن بسیاری از مشکلات موثر است|5.76
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_30738739.mp3|از پلهها اینقدر محکم و پر سر و صدا بالانرو|4.464
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_27979619.mp3|تدارک یک سفر اکتشافی را دیدن|3.636
+/home/ashankwi/commonVoiceData/fa/trainFiles/common_voice_fa_25274014.mp3|از قدرت مالی من خارج است|5.112

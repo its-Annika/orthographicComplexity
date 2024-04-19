@@ -1,0 +1,799 @@
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305124.mp3|برف می بارد|4.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479486.mp3|جستجوی خوشبختی|2.988
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18639793.mp3|برای کتاب خریدن، لباس خریدن پسرم مسیحا رنگهای مختلف لباس دارد|8.016
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479453.mp3|برداشت شخصی|2.916
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177052.mp3|درصد بالایی از جمعیت شاغل نیز در همان نزدیکی تمورث اشتغال دارند|7.38
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19233619.mp3|نری ها؟ازاده به لج قدسی به سمت داخل می رود|5.136
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19217594.mp3|فکر کنم مجبوریم بخوریم|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917071.mp3|کانادا|2.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433493.mp3|ایستگاه تاکسی|3.276
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433737.mp3|خدای بسکتبال|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18869190.mp3|قطر قصد دارد از سازمان کشورهای صادرکننده نفت (اوپک) خارج شود|7.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21593385.mp3|تِمپِرا شيوهاى است قديمى در نقاشى|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21358183.mp3|به این زودی نگو دیره به این زودی نگو بدرود|4.368
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479465.mp3|اهمیت خویشتن شناسی|3.708
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868201.mp3|تو بسیار باهوش هستی|3.192
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305123.mp3|دفتر بلیط کجاست؟|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869826.mp3|فوران آب پر فشاری که در هوا قوس ایجاد کرده بود|7.74
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782501.mp3|آریانوش|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868196.mp3|ما شاه میگو نداریم|3.288
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28650205.mp3|بخش خطرناک و بی سکنهی کرانه|5.328
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21593378.mp3|بوی الکل میوه او را جلب میکند|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211271.mp3|باشم ولی ،عاشقتم ،مرد|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141618.mp3|خبرنگاران پشت درخت کمین کرده بودند|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873487.mp3|بیایید تو|3.24
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345941.mp3|تصمیمی که نمیشد او را از آن منصرف کرد|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294628.mp3|این ساک را باز کنید|2.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19228779.mp3|برای ثبت تصمیماتشان، و بطور چشمگیری اشتباهات بیشتری انجام دادند|7.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553265.mp3|من واقعا برای این اشتباه معذرت می خواهم|5.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731764.mp3|آیندهی ما منوط به آن است|6.3
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22157380.mp3|مورچهها كه ضعيف هستند ولی برای زمستان خوراک ذخيره میكنند|5.928
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22158030.mp3|یه عروسک ناز با یه چمدون|3.6
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433750.mp3|او در این باره صحبت کرد|3.78
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18593835.mp3|حالا، این موضوع به ما فرصت ایجاد چند سناریو را داد،|7.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382947.mp3|هر چند وقت یک بار می نوشید؟|1.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277016.mp3|من یکی از لنزهایم را گم کرده ام|4.584
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858959.mp3|چه ساعتی قایق به وینا می رسد؟|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26176990.mp3|این قوانین در این قانون اساسی قدیمی ارجاع شده است، اما شامل نمی شوند|7.488
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298806.mp3|من می خواهم کمی نوشیدنی سفارش بدهم|3.792
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18626013.mp3|آهای شما، حالتون خوبه؟|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479467.mp3|این گونه سوانح|3.168
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345932.mp3|او دوست دارد خرگوش شکار کند|3.42
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649859.mp3|شاهکار مهندسی|3.168
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869770.mp3|مدرسه پسران|4.428
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177056.mp3|اگرچه هنوز هم به میزان فروش اولیه نرسیده بود|5.22
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868193.mp3|آیا به تئاتر یا اپرا بیشتر علاقه دارید؟|4.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479452.mp3|خیلی به ما خوش گذشت|2.844
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012878.mp3|او ساده لوحی یک طفل را دارد|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917072.mp3|آرشام|2.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19216603.mp3|مسلما میتوان با یادداشت دستنوشته واقعه را گزارش کرد|5.952
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18572674.mp3|جایی که آدمها میتوانند بیایند و ایدهها و راهحلهایشان را به اشتراک بگذارند|6.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993067.mp3|ایرانی|2.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19300394.mp3|اینجا توقف کنید، لطفا|3.792
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481249.mp3|کنار ایستگاه اتوبوس|3.288
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19300393.mp3|او کمی برنج می خواهد|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19213061.mp3|عضلات ِ بدنت رو شل کن|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18563890.mp3|اون موضوع صحبت می کنیم|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20941369.mp3|اظهارنامه خود را امضاء کنید، لطفا|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779396.mp3|بَهرَمان|2.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19261796.mp3|آنها یکسری اسناد نشان دادند که باید برای بررسی موانع امنیتی، شما یک متخصص کامپیوتر باشید|8.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19247371.mp3|ساقههای شکسته خیزران اطراف جسد همه خونی بود|6.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18633742.mp3|تو اسفند شهر خوشحاله|4.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141594.mp3|آن کتاب لعنتی را کجا گذاشتی؟|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557783.mp3|همان مثل همیشه|3.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345942.mp3|ثروتش سر به میلیون میزند|4.428
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18869705.mp3|مدتی گذشت قحطی نیامد و موسی از خداعلت را پرسید|5.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19244806.mp3|مثه اینکه از پست برام یه چیزی اومده|6.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22158010.mp3|در زمين چهار موجود كوچک و دانا وجود دارند|4.752
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745207.mp3|به عنوان مثال، به مساله به روز رسانی درایورها دقت کن|5.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18625391.mp3|نه نه حتما پدر میتونه|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858942.mp3|پارکینگ رایگان|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19431086.mp3|همسایه من بسیار پرسروصدا است|4.56
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993069.mp3|اگر برای از یک کمپانی سرمایه محور کمک نگرفته باشند|7.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536145.mp3|آیا این قایق بادبانی برای موارد اضطراری بیمه شده است؟|7.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917075.mp3|پیامبری که نشانهها به او الهام میشود و میتواند آنها را|6.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18562644.mp3|ضمیر من را بدانید  آقا، خانم، ایشان|4.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209853.mp3|یه مادرشوهردارم میگفت اگه طلاهامو گم نمیکردم میفروختم و میدادم بهتون و چقد افسوس میخورد که نمیتونه کمکمون کنه|9.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780862.mp3|تاجیکستان|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433499.mp3|بادهای سخت شکوفههای نازنین بهاری را به لرزه در میآورند|5.508
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141544.mp3|اشغال کنندگان اعمال وحشیانهای را مرتکب شدند|6.12
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19285064.mp3|من شش تا تخم مرغ می خواهم|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18544780.mp3|هیچ یک از آنان کاری به سنگ نداشتند|4.584
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868205.mp3|در ذهن تو چیست؟|3.048
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19547657.mp3|داستان خوبی دارد|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345939.mp3|پرداخت وامها یا اقساط نکول شده|6.3
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433501.mp3|چمدانی که در آن خیلی چیز چپاندهاند|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917052.mp3|کوبیده|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22157376.mp3|سایه ها را با محوکن و قلموی مناسب سیاه قلم|6.072
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19547651.mp3|هفت صبح دنبالم بیایید|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536166.mp3|آیا واگن رستوران وجود دارد؟|4.944
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471531.mp3|شراب خانگی خوب هست|4.464
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18572537.mp3|الگوها و رفتارهایی مثل این روزانه بر افراد با خود ابرازی ضعیف در همه زمینههای کاری تاثیر دارد|8.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869827.mp3|او در تجمل و راحتی زنگی میکرد|5.976
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21581298.mp3|من یه ذره هم پشیمان نیستم، چون خودش اینطور خواسته|6.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012887.mp3|پدرم هر ماه ده تومان پول توجیبی به ما میداد|3.492
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433732.mp3|از آن روز به بعد|2.88
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210880.mp3|بعضی وقتا یه خواب خیلی قشنگ میبینی|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083205.mp3|وسیله نجات غریق|8.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294490.mp3|بسیار حق با تو است|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21584160.mp3|همیشه عاشق آسمان شب بودهام|3.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19234391.mp3|ما همه جوابها را نمیدانیم|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649862.mp3|این طور حرف زدن تو را به جایی نخواهد رساند|4.68
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20988657.mp3|سازمان هواشناسی کشور|2.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18614167.mp3|کار ما به عنوان همپیمان این است که ریزخشونتها را بشناسیم و انجامشان ندهیم|6.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19212858.mp3|امروز به زور می تونی یه توهین تو کامنتاش، تو هر پیجی پیدا کنی|5.616
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18615654.mp3|و نه فقط این، بلکه نسلهای آینده را که حتی توانمندی بالاتری دارند، به خطر میاندازیم|9.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869767.mp3|آنان میکوشیدند اعدام افراد محاکمه نشده را توجیه کنند|8.748
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19209069.mp3|باید آیندهای متحول و مخرب را پیشبینی کنیم اگر تفکر خارج از جعبه داشته باشیم|8.256
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149981.mp3|چوب تراشه شده|3.636
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382954.mp3|می توانی چراغ را خاموش کنی؟|2.976
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177074.mp3|شش جزیره در بندر بمبئی وجود دارد|4.608
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26176989.mp3|تاج بعدی به صورت مبدل به عنوان کلاه قدرت ظاهر میشود|6.3
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18629630.mp3|تو نمره اونو عوض کردی|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433749.mp3|با خضوع و خشوع دعا کردند|3.96
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292817.mp3|نویسنده این اختراع کیست؟|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553264.mp3|من با دوستان زندگی می کنم|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18616500.mp3|زنها می خوانند و سر خوشی می کنند|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961968.mp3|بخش جامههای پیش دوخته|3.6
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18629650.mp3|نه می خوام ریختت رو ببینم|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294630.mp3|چطور باید اقدام کنم؟|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21581334.mp3|بیمارستان مخصوص بیماران مبتلا به کرونا|5.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292887.mp3|هرگز نبوده ام، اما خیلی دوست دارم یک روز بروم|5.136
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481299.mp3|می توانیم کمک داشته باشیم بار ما را بیاورد؟|3.96
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20988630.mp3|چهجوری این کارو کردی؟|3.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141622.mp3|امیدواریم که این مذاکرات سرآغاز یک صلح پایدار باشد|5.076
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083309.mp3|من سفارش داده ام، متشکرم|2.544
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18635967.mp3|به انتهای صحنه می رود همه ساکت می شوند|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21592704.mp3|ما ابزار، دانش و منابع در اختیار داریم|4.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19547663.mp3|چترم شکسته است|5.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209609.mp3|تو جدي کالسکه ميخواي؟|3.216
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18616464.mp3|میشه پروژه رو با هزینه کمتری جمعش کنیم؟|6.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21592689.mp3|یکی اینو از برق بکشه|3.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745236.mp3|امروز یک نفر دیگر دستگیر شد|4.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21592719.mp3|موقعی که به داروخانه میرفتم محصولات قاعدگی بخرم|4.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961933.mp3|او مسئول فرستادن کالا است|4.356
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26176988.mp3|ساختمان اصلی در بخش استنفورد هال واقع در ایالت لایسترشایر است|6.588
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19547654.mp3|کیسه بیمار، لطفا|4.464
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18613865.mp3|آره دلم می خواد، چه جورم|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873498.mp3|چه موقع به بوینس آیرس می رسیم؟|4.368
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21581300.mp3|بیخودی دنبال کلمات نباشید|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305136.mp3|فکر می کنم باتری جدید نیاز دارد|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083249.mp3|من ماهی مرکبی سرخ شده خواهم خورد|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345896.mp3|جای دلواپسی ندارد|4.716
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780851.mp3|داد زد|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294622.mp3|مزهاش چطور است؟|2.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19300915.mp3|این چیزی است که من نیز فکر می کردم|4.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868198.mp3|امیدوارم تمام آرزوهایت برآورده شوند|4.128
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745234.mp3|شاید بهترین مثال، حق انتخاب بسیار وسیع در لینوکس باشد|5.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19208110.mp3|میخواستند دنیا را تغییر دهند|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782502.mp3|آفتاب|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305133.mp3|من آسم دارم|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649863.mp3|شراب قرمز|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277013.mp3|چه کسی داور است؟|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858956.mp3|آیا لورا را دوست داری؟|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433502.mp3|او با دوربین خود آسمان را جارو میکرد|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277011.mp3|تا حالا ایتالیا رفتی؟|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23746289.mp3|زر نزن|3.216
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19538190.mp3|ما نرخ ویژه برای تمدید اقامت پیشنهاد می دهیم|5.088
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19216563.mp3|چه زحمتی کشیدیم واسه برگشتن اقا سیاوش هر چی بکنیم کم کردیم|6.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18891250.mp3|کت شلوار کهنه نداره همونو بیارین از روش اندازه کنن|5.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869787.mp3|محترمانه|3.348
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18635704.mp3|چون تو توی تیم من هستی|3.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18633699.mp3|دسترسی به کار، کنترل زاد و ولد، سرمایهگذاری کلان در حوزه زنان در سراسر جهان|7.584
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557782.mp3|آیا با دست قابل شستن است؟|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19222330.mp3|جواد جون برو من جلوی اینا رو می گیرم|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433455.mp3|دولت پول زیادی صرف راهسازی میکند|4.248
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211061.mp3|من با این یارو همکارم|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18706124.mp3|بر اساس یافته های اخیر|3.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20988640.mp3|اداره پست|2.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141593.mp3|بکن|3.06
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471516.mp3|آیا باید ماشین را با باک پر برگردانم؟|6.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382956.mp3|من سیبزمینی خواهم خورد|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731789.mp3|ابری که واقعیت را نهان میسازد|5.256
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481276.mp3|تقریبا خالی است|3.0
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21593366.mp3|هر لقمه غذایی که میخوریم از طبیعت میآید|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858943.mp3|من شماره رمز کارتم را فراموش کرده ام|5.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873501.mp3|لطفاً این یکی را برای من نگه دارید|5.64
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149596.mp3|او درست هشتاد سال دارد|5.4
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537408.mp3|میتوانم پالتوی تو را بگیرم؟|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141542.mp3|آنها مرا در زندان نگهداشتند|4.86
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19227868.mp3|شاید یکی از مجلات خریدارش باشد|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382955.mp3|چه چیزی تو را به برزیل آورد؟|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18554813.mp3|تو چی میگی آقای پلیس؟|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21578140.mp3|تنها با رد شدن از کنار گلها پژمردهشان میکنیم|6.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345895.mp3|تاریخ پرتاب بعدی سفینه فضایی|5.076
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18577915.mp3|«هی، تلفنت را به من بده|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917067.mp3|کیش|2.616
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19215460.mp3|حتما یه کاسه ای زیر نیم کاسه است|5.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873490.mp3|من می خواهم یک بند ساعت چرمی ببینم|5.976
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382953.mp3|من لباس ها را دوست دارم|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471515.mp3|این پدر او است|5.544
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18626011.mp3|هی ، ببین ، گوش کن|3.912
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433748.mp3|جمعیت ثابت|2.808
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18578430.mp3|آره ، تنهایی خیلی سخته|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19222303.mp3|لطفا بزارید بیام بیرون|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731782.mp3|خانهی بیزن به چه درد میخورد|3.78
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28650204.mp3|پردهای از سکوت|3.06
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012873.mp3|احتمال برنده شدن او زیاد است|3.708
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294626.mp3|می توانم تاریخ رزرو را تغییر دهم؟|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19208112.mp3|بسته به نوع قرارداد رقمها متفاوته مثلاً برای نیسان ایكس تریل تو كانادا میتونید|9.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18625840.mp3|اقای حسینی، اگه امتحان نکنین، نصف عمرتون فناس|6.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782514.mp3|بعد نتیجه می گیرد که در شعر هدف خود شعر است|7.08
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292821.mp3|لطفاً به من پیامک بزن|3.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780850.mp3|آروین|2.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28150002.mp3|چکیدهی چوب|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868207.mp3|بسیار از کلمات زیبای شما قدردانی می کنم|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_39469265.mp3|عهده برائى|2.7
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305134.mp3|هنوز چیزهای زیادی برای مرور دارم|4.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18561657.mp3|شعار بچگی ما این بود که دخترها موشاند و پسرها شیرند|4.896
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210493.mp3|کارگرهاش دارن خونه ی منو خراب می کنن|4.584
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18615684.mp3|اما دوستان عزیز، حتی این هم کافی نیست|4.896
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19300395.mp3|دیوالی به شما مبارک|4.392
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18663111.mp3|میری کارتو می کنی و خلاص|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745235.mp3|طرز نوشتن و بیانت حرف نداره|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18544771.mp3|دکتر ریچارد بروک نیستن|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993057.mp3|قزوین|2.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26176991.mp3|Boondocks یک رستوران گربه ماهی معروف بود که یک دهد قبل بسته شده بود|8.316
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19213478.mp3|در انجا زمانی که شما را قربانی نکردند مردم قبیله مرا برای قربانی کردن انتخاب میکردند|7.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211567.mp3|لوکس فروشی قدم می زدیم|3.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553266.mp3|آیا نسخه دارید؟|3.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277021.mp3|هلوها کی میرسند؟|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19247343.mp3|بله که با شما بودم|2.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731776.mp3|آرامش مطبوع آن دهکده|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19227865.mp3|این خانومه جز زن های سنگین وزن محسوب میشه و مامان من جز سبک وزن ها|7.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18527443.mp3|این کاریه که من میکنم|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18625378.mp3|براش میوه پوست کندم،گوشیش رو براش زدم به شارژ|5.136
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211137.mp3|هنوز برنامه مهم مونده|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19233568.mp3|بچه ها ، بیایید بیرون|2.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211545.mp3|ایران باید اخرین توپ رو به سمت دروازه مراکش ارسال میکرد|6.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961946.mp3|رواج یک رسم اجتماعی|3.528
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23746473.mp3|در عین حال لازم نیست تک تک چیزهایی که بلد هستید را ذکر کنید|6.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18557104.mp3|دوچرخه رو بهم گفتی |4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20941362.mp3|اگه مامور نبودی جیگرش رو داشتی از پونصد متری من رد شی؟|4.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21584159.mp3|اين سحابیها به نام سحابی زحل و سحابی مارپیچ خوانده میشوند|5.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294508.mp3|هفتگی یا ماهیانه به من پرداخت خواهد شد؟|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779402.mp3|برای اولین بار موقعیت اجتماعی آنها در اینترنت|5.136
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19285067.mp3|قسمت مبلمان کجاست؟|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19260441.mp3|که همین کار رو هم کرد|3.216
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649871.mp3|به ترتیب شایسته وارد تالار شدند|5.04
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19212861.mp3|اخه برام جالبه اون چیزای که ازشون می شنویم با اون چیزای که خودمون می بینیم|5.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858945.mp3|اینجا از دکتر نسخه دارم|5.376
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19235671.mp3|من ام گفتم کو گوش شنوا زهرا خانوم رو که می شناسی|6.96
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19209643.mp3|مدلسازی، تعامل و گفتگوها ما را قادر می سازد پنج تحولی را تعیین کنیم|8.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19247335.mp3|و اگر نمیتوانیم کنترل کنیم اطلاعات ما را چه کسی داشته باشد|6.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18561774.mp3|در خلال صحبتهایش خود را با کاغذها سرگرم کردم|5.136
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19300331.mp3|من هم، از ملاقات شما خوشحالم|3.552
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21578405.mp3|موج فزایندهای از ناشکیبایی|5.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649872.mp3|انواع وسایط نقلیه را به کار میگیرند|4.86
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433747.mp3|بطری خالی را شستن|3.42
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858944.mp3|هیچ مغازه محلی وجود دارد؟|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536148.mp3|من بنگالی دوست دارم|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149598.mp3|پوشش ماشین تحریر|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18631853.mp3|پاهای خیلی خوشگلی داری|3.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779392.mp3|اِسپنداد|3.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18527421.mp3|اگه پرنده ی من الان اینجا بود|5.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345929.mp3|اصغر لکنت زبان دارد|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083207.mp3|تعطیلات مبارک|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18631857.mp3|آیا از طریق مدیریت به تغییر دست زدند؟ آیا فشار وارد کردند؟|5.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209866.mp3|من قضيه رو تعريف ميکنم|2.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18891247.mp3|اینها همه مهارتهایی است که یک کشور نیاز دارد|6.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557778.mp3|من هم امیدوارم|4.128
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20934440.mp3|مسکن و شهرسازی|3.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537414.mp3|رنگین کمان هفت رنگ دارد|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18527267.mp3|لابد اون گاوا یه حسابی ازت بردن که رئیس شدی|4.656
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19212907.mp3|تو چشم نداری یه مرد خوب ببینی|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21578147.mp3|خانم ببخشید چند کیلویی شما|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18558956.mp3|آنها شکاک و حتی نگرانند از مودب بودن یا خوب به نظر رسیدن|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18635714.mp3|هیچی فقط اینکه اون|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012879.mp3|با سرعت در جاده میراندیم|3.204
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557791.mp3|چقدر می خواهید پرداخت کنید؟|3.048
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433500.mp3|به سگ پیر نمیتوان هنر تازه آموخت|3.888
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18631810.mp3|منظورم اینه تا اونجایی|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479493.mp3|او را از شهر بیرون کردند|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19244563.mp3|به افراد در استخدام خود امکان دسترسی به سازوکار خبررسانی بهتر و بمراتب موثرتری را بدهید|8.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19207353.mp3|همه از ترس توی شکم هم می لولند و به سرعت جاروخاک انداز برایش می آورند|7.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433771.mp3|ترجمهی دقیق|2.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18613872.mp3|کی میاد از خاطره رفتنش به پارک شهر حرف بزنه ؟|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780853.mp3|به بررسی متون ادبی و آثار هنری همعصر میپردازد|7.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19216804.mp3|خوب اون موقع نداشتم|5.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21578399.mp3|قوم مایا از مشهورترین قبایل سرخپوست مکزیک بودند|7.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21592717.mp3|کافی نیست|2.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210347.mp3|تا دلت می خواد داد بزن، فسقلی|4.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177057.mp3|تنها یک اقدام نظامی برای این حکمران ثبت شده است|5.436
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210718.mp3|بود، عمرش به ازار قد نداد، پسرشم که چی بگم|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345931.mp3|خطر جنگ کم شده است|3.528
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18774210.mp3|رفته توکسی نیست تو حیاط|5.016
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298828.mp3|او تارت بلوبری می خورد|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557780.mp3|میخواهم مقداری ارز خارجی بگیرم|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481278.mp3|گواهینامه رانندگی معتبر دارید؟|3.312
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433769.mp3|از خدمت به مهمانان ناخوانده فروگذار کرد|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18572704.mp3|آیا مطمئن هستید که آنها به نظر خیلی طولانی نیستند|5.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18663114.mp3|فرق آشناداشتن و نداشتن تو ایران، فرق بین کاتیا و کلثومه|6.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779408.mp3|موریس|2.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19216564.mp3|دلیل اول استرس است|3.768
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298805.mp3|درست آنجا است|2.52
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083206.mp3|او با مادرش است|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382951.mp3|چرا داری گریه می کنی؟|5.016
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961969.mp3|از سخنرانی من دربارهی شکسپیر خوششان آمد|4.86
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868206.mp3|آيا تخفیف دارد؟|2.76
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298830.mp3|بیا با هم تقسیم کنیم|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209825.mp3|قبل از اينکه پرواز کني|2.016
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18274162.mp3|ان مرد نگونبخت میرفت|3.84
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19207539.mp3|خوب ادمها هم عوض شدن دیگه|4.944
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19285063.mp3|آیا می توانم مستقیماً شماره بگیرم؟|4.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19260452.mp3|عباسی احساس می کند تحقیر شده|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012877.mp3|بخش خدمات اقتصاد ما رشد سریعی داشته است|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305127.mp3|می توانم مدارک بیمه شما را ببینم؟|5.256
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557785.mp3|مسافرت چطور بود؟|2.952
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471514.mp3|بار چه ساعتی می بندد؟|5.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779395.mp3|آشور|3.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_39517921.mp3|تولید فراوان اتومبیل|2.52
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345897.mp3|بیمه نامهی عمر برای یک نفر|5.688
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19547652.mp3|آیا کتاب را دوست داری؟|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18612433.mp3|صدای گرفته و زخمتی به گوش می رسد|4.656
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210727.mp3|آب پاکی رو دست رئیست ریختم|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18617881.mp3|مدام احساس خستگی میکنید؟|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141596.mp3|اگر معلم خیلی به شاگردانش رو بدهد کلاس بههم میخورد|6.48
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536170.mp3|مدرسه ابتدایی این نزدیکی وجود دارد؟|4.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869785.mp3|دومین سال اقامت من در سان دیگو|6.084
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26176947.mp3|او از دکتر بروکر کمک میخواهد ولی بیفایده است|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779405.mp3|آذرخش|2.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294619.mp3|به مدت یک سال|2.976
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433751.mp3|تصمیم ما راجع به نخریدن نقاشی شما ربطی به کیفیت کار شما ندارد|8.1
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19264524.mp3|نمیدونم چه حسی بهتون دست میده|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277019.mp3|بندرگاه کجا است؟|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18554796.mp3|یه دونه از اینا که تختم رو باهاش شریک بشم|5.376
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18593855.mp3|باید راجع به خیلی چیزای دیگه صحبت کنیم|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745212.mp3|اما خیلی هم سخت نگیرید|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19547658.mp3|آیا مسری است؟|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294493.mp3|من یک دسته گل رز قرمز می خواهم|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553262.mp3|روز نامطبوعی است|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18557124.mp3|بدون آنکه باز سوالی کرده باشم با عصبانیت شروع کرد|5.376
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21358189.mp3|عربستان سعودی از بزرگترین تولیدکنندگان و صادرکنندگان نفت خام در جهان میباشد|6.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471522.mp3|هیچ مغازه یا کافه ای نزدیک این خانه وجود دارد؟|6.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19213037.mp3|بیا اینور دارن می یان|3.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18562641.mp3|تمرکزتان را ازدست دادهاید؟|3.84
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305135.mp3|از گوش کردن به رادیو لذت میبری؟|4.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917053.mp3|دوش گرفت|3.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536167.mp3|کارت شناسایی ام را دارم|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433490.mp3|زمین تنیس|1.98
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26955682.mp3|رستم مثل یک قهرمان شمشیر خود را بهکار برد|4.608
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083208.mp3|آیا دست ساز است؟|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782505.mp3|گینه استوائی|3.0
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731790.mp3|ابرهای خاکستری رنگ|4.608
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26176948.mp3|پبرهولم به عنوان یک آزمایش بیولوژیکی شناخته میشود|5.76
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779411.mp3|کامرون|2.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19239791.mp3|ما این اطلاعات را از بیش از بیست هزار کارمند در سرتاسر دنیا گرفتیم|7.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479469.mp3|از دانشجویان خواست که رفتار خود را اصلاح کنند|5.4
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294489.mp3|کولر چطور کار می کند؟|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20978361.mp3|سوپ روز چیست؟|2.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294499.mp3|مواظب باش، بشقاب بسیار داغ است|5.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345868.mp3|اسبی با تهیگاههای فرو رفته|6.156
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18635969.mp3|اخیراً موضع سختگیرانهای علیه زندانهای خصوصی در آمریکا داشتند و چقدر هم بجا بود|6.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19222345.mp3|پس آنچه لازم است کمی فشار است|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873489.mp3|ساعت یک و ربع است|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18625399.mp3|من یک مقدار خشمگین شدم|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18572544.mp3|سلام آقای محمدی|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149982.mp3|اطلاعات تمام و کمال|4.428
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993068.mp3|حامیان سرسخت این فنآوریها را نیز وادار به عقبنشینی کرد|6.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553270.mp3|نمی توانم بگویم مرا زیاد جذب می کند|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18615643.mp3|اهداف امیدوارکننده اجتماعی و اقتصادی را بطور جدی در نظامی حیاتپذیر بر روی زمین دنبال میکند|9.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012876.mp3|افتادن از پلهها او را تا آخر عمر شل کرد|3.888
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553259.mp3|می خواهم این را به ژاپن بفرستم|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479450.mp3|اختلاف نظر ناچیز|3.312
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211140.mp3|بنابراین، افراد به دلایل گوناگون همپیمان هستند|6.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209607.mp3|نه يه وسيله سرگرمي که|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345865.mp3|اشعار حافظ مفهوم ژرفی دارد|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537407.mp3|آسمان ابری است|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780861.mp3|امیرسهیل|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19280257.mp3|اینجا شما اطلاعاتی از اهداف توسعه پایدار در اختیار دارید|6.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21055842.mp3|بنیاد پانزده خرداد|3.12
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19215538.mp3|قول بدی به هیچکس نمیگی|4.8
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779407.mp3|مانند کتاب ادبیات از خلال هنر که نویسنده آن|5.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18629671.mp3|جدیدابرای سرخ کردن،روغن کنجد گرفته|4.464
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177053.mp3|فکر کنم همین بود|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481297.mp3|من میوه های رسیده دوست دارم|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553269.mp3|بهاری است|3.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21055915.mp3|کانون پرورش فکری کودکان و نوجوانان|4.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277012.mp3|غذای شما تقریبا آماده است|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22781654.mp3|کیف|2.544
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19261828.mp3|و یک معلم مدرسه راهنمایی، که به آنها در مورد تکنولوژی دیجیتال آموزش میدهد|7.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18274156.mp3|ایا اسبی در ان جا بود؟|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18626004.mp3|اون قدر خوشحال بودم که اون خواب واقعی نیست که باعث شد قدر اون چیزی که دارم رو بدونم|6.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731778.mp3|این کودکان دارند به سرعت یاد میگیرند|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18554823.mp3|با  کیت  آشنا میشین|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19300396.mp3|هیچ ابزاری می نوازی؟|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21581297.mp3|اینجا سواحل شرقی ایالات متحده است|5.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537401.mp3|برای بیرون بر است|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537409.mp3|سیب قرمز است|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18619322.mp3|نمیتواند در همه جا باشد|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745208.mp3|اپلای کردن برای گوگل؟|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19264412.mp3|تو به زندان افتادی این امر چه خیر و صلاحی برای تو داشت؟|5.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481272.mp3|لطفاً لیست شراب ها را به من نشان دهید|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869829.mp3|مخچه|3.24
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18554799.mp3|و از کجا آغاز میشود؟|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993061.mp3|ایرانشهر|2.136
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553261.mp3|بلیط ها خیلی ارزان بودند|4.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18593860.mp3|خوب قرارت چطور پیش رفت|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873497.mp3|به من اطلاع بده|3.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21592705.mp3|در خورش فسنجان آلو نیز میتوان ریخت|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961943.mp3|چند گزیده از شعر او را برایتان می خوانم|3.996
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18639803.mp3|ده تا چهار راه رو بدو|3.552
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779410.mp3|نیجریه|2.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537406.mp3|آخرین ورود پنج بعد از ظهر است|4.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298694.mp3|می توانید ریش مرا مرتب کنید، لطفا؟|4.32
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22158022.mp3|اخبار پزشکی ، کتاب و فیلم های جراحی|4.896
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22157374.mp3|کمتر کشوری مانند ایران شرایط نیمه استعماری را تجربه کرده است|6.96
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780852.mp3|مثلاً در ادبیات عرب اثری داریم به نام الموازنه|7.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961937.mp3|او بعد از حسن وارد شد|3.528
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961972.mp3|او چوگاندار خوبی است|3.348
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18546048.mp3|میدانید؟ آنها درست میگویند|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731766.mp3|این هتل دارای آخرین تسهیلات میباشد|6.156
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479451.mp3|سفر نوروزی ما به طور تعجبآوری ارزان تمام شد|5.868
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782507.mp3|اوکراین|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557790.mp3|بعداً برایت پیام می فرستم|2.952
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18616467.mp3|برا پیدا کردنش عمرمو گذاشتم|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21581178.mp3|بیماری کم خونی داسی شکل|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20941375.mp3|به زودی می نویسم|2.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869763.mp3|پنج رای ممتنع داده شد|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28650208.mp3|سایر مسایل ما در مقایسه با این فاجعه هیچ است|4.86
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779403.mp3|اَرکین|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345866.mp3|آنها نه نفر را در اتومبیل پنج نفری چپانده بودند|7.596
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292157.mp3|می توانیم به سرسرای تاتر برویم|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18544779.mp3|آنها یک کارگروه تشکیل دادند که افراد در آن بهصورت نیمهوقت کار میکردند|6.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21584107.mp3|در مواردی که جوش خوردن استخوان با تاخیر صورت گیرد|5.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26176950.mp3|همه برندگان نهایی یک جام، یک پچ و جوایزی دریافت می کنند که توسط کسب و کارهای محلی اهدا شده اند|9.648
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433773.mp3|پول کمیاب، پول گران|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141595.mp3|اهمیت آن نامه را نادیده گرفت|4.428
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18891267.mp3|درباره یه مدیری به اسم|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537402.mp3|چه جور کاری می کنی؟|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779404.mp3|هنرهای برنامهریزیشده پدید آمد|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780854.mp3|بست|2.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083297.mp3|من بوقلمون برشته سفارش دادم|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294501.mp3|صبحانه آماده است|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18546052.mp3|چون تو کشورای دیگه آزادی پوشش هست|4.896
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19227533.mp3|در خانه، آنلاین، در مدرسه در گروهایشان|5.112
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873488.mp3|موزه چه ساعتی باز می شود؟|5.112
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18625393.mp3|بهم غذا دادین و اجازه دادین که دوباره قدرت بگیرم|5.016
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20934458.mp3|داشتی با صدوبیست تا میرفتی|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19215508.mp3|من با دامپزشک حرف زدم|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731792.mp3|ادامهی تب|3.168
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433770.mp3|ارتش ما یک نواره دیگر از سرزمین دشمن را گرفت|6.228
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479468.mp3|بخشی از حضار|2.808
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18557128.mp3|اینکه از خودم گذشتم به خاطربچه هام،برای خودم چیزی نخریدم اماهمیشه واسه بچه هام هزینه کردم|9.216
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782503.mp3|سوئد|2.28
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20988651.mp3|شورای گسترش زبان و ادبیات فارسی|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471527.mp3|بله، او را دوست دارم|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868191.mp3|پایین تر از یخ زدگی هست|5.136
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19207970.mp3|از طریق صاحب شدن مدیریت موسسات تجاری است تا تغییر ایجاد کنند|6.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961945.mp3|حقوق انسان مستضعف|3.168
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553267.mp3|از صبر شما متشکرم|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731765.mp3|تیپ پشتیبانی|5.076
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21593413.mp3|از این ستون به اون ستون فرجه|2.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18891251.mp3|متاسفم نا خودآگاه بود|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993062.mp3|صدا و سیمای میلی|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19229347.mp3|چرا چرند میگی|2.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471530.mp3|اوه خدا، چه بهم ریختگی|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23746471.mp3|همین کار را با فدورا و اوپن زوزه و دبیان و مینت هم بکنید|7.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18668907.mp3|نه ، زمین گیرم می کنه|3.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873477.mp3|نود و چهار، نود و پنج، نود و شش|5.04
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149983.mp3|بلادرنگ خانه را خرید|4.5
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19300329.mp3|مقدار زیادی یخ، لطفا|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292158.mp3|به کمک تو نیاز دارم|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19300903.mp3|منتظر شنیدن خبری از تو هستم|4.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18616513.mp3|من کنکور رو دادم بعده کنکور خیلی خشحال بودم چون امتحان رو عالی دادم|8.016
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19244600.mp3|تنها تصور نمایید که کودکان شما در حال مشاهده تصاویر پرشور قرار ملاقات شما هستند|7.608
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19222353.mp3|من داشتم جیغ می زدم|3.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292819.mp3|کجا باید هواپیما عوض کنم؟|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18661868.mp3|همانطور که ما با این آزمایش نشان دادیم، رسیدن به رضایت آگاهانه نزدیک به غیر ممکن است|6.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18614325.mp3|اون جورابش رو انداخت ؟|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21593377.mp3|هر عذرخواهی چهار قدم دارد|3.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18562610.mp3|باید به اهداف توسعه پایدار در میان مرزهای سیارهای دست یابیم|8.088
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536179.mp3|بیایید برای نوشیدن قوه استراحت کنیم|4.896
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141540.mp3|خشم او تظاهر محض بود|4.788
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211552.mp3|من که چند ساله به اون سفارش لباس نمی دم|5.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294504.mp3|این تراژدی است؟|3.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292824.mp3|متأسفم، اما این آخری است|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209822.mp3|من ميخوام با تو برقصم|2.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305126.mp3|من تنها هستم|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782513.mp3|پا به عرصه گذاشت که هدف صاحبان آن|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292823.mp3|آیا این مجسمه ها خیلی شکننده هستند؟|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345940.mp3|ماهیتابه دو طرفه|2.988
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21593404.mp3|گویند مرا که دوزخی باشد مست قولیست خلاف دل در آن نتوان بست|6.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993072.mp3|اکنون با آخرین فنآوریهای روز دنیا|5.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_39518446.mp3|محترم|2.124
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21581301.mp3|میخواهم زبان پرتغالی یاد بگیرم|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177075.mp3|بنابراین وی نوه پپین لندن بود|4.68
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18618399.mp3|یا میتواند میان فرزندانتان باشد، پس فرزندانتان با فرصتهای برابر رشد میکنند|8.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012874.mp3|تن بزرگ|2.448
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292156.mp3|بلیط ها گران هستند|2.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012881.mp3|اه، دوباره دستم را بریدم|2.772
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209824.mp3|اميدوارم که اتفاقي|2.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20978359.mp3|و تو را تنگدست يافت و بىنياز گردانيد؟|6.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277025.mp3|می توانید لطفاً غذا را بدون نمک آماده کنید؟|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18544767.mp3|با منی؟ مرتیکه میفهمی چی داری میگی، بابا می بینی باگریه بهم فحش داد|6.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873481.mp3|این لکه ها پاک نشده اند|5.4
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294491.mp3|من با زنم زندگی میکنم|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18625398.mp3|امنه بالاخره تو این پسره رو دیدی یانه؟|4.656
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209868.mp3|يعني جدي قبول مي کني ؟|2.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433453.mp3|حضور او در مهمانی|5.796
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18619323.mp3|مسلما اونکارو می کنیم|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18557138.mp3|ولی در این اتاق بخصوص، احساس یک تازه کار در بین نابغههای تکنولوژی را داشتم|7.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745211.mp3|اما قهرمانان، پیران، مورخان و سخنگویان زیادی دارد|6.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20941378.mp3|کشاورزی|2.256
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782512.mp3|افغانستان|2.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649873.mp3|آمریکا و ژاپن و شیوههای متفاوت زندگی آنها|5.616
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731779.mp3|ادارهی بندرداری نیویورک|4.428
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19247314.mp3|جمله ی اقا دربست میری؟برای راننده تاکسیا حکم عزیزم دوستت دارم برای دختراست|9.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19457331.mp3|من توفو را امتحان خواهم کرد|3.312
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19207537.mp3|هرچی که هست سایه بالا سرمه بهتر از توئه که شوهر تو فراری دادی با دوتا بچه تو دامنت|8.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19244595.mp3|یه روز باید از خوبی های مامانش بنویسم،اینجوری یه طرفه به قاضی رفتنه|5.28
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294502.mp3|روزهای هفته چقدر دیر باز هستید؟|5.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19239801.mp3|سعید من یه سوال دارم|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20941374.mp3|به پشت می خوابید یا به جلو؟|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382957.mp3|آیا راهنمای صوتی نپالی وجود دارد؟|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22157977.mp3|كنيزی كه جای بانوی خود را بگيرد|4.512
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012885.mp3|اتاق بسیار سرد|2.772
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210131.mp3|فین حالا من کایلا را خاموش میکنم|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481300.mp3|کجا می توانم برای گشت و گذار ثبت نام کنم؟|3.84
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433734.mp3|تصمیم من برای بازنشستگی|4.14
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479488.mp3|تنبیهات و جریمههای تبهکاری|4.464
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471512.mp3|ممکن است دوباره آن را چک کنید؟|8.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19244553.mp3|می دونم عزیزم متاسفم|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18562629.mp3|چی اینقدر بوی بد میده؟|3.168
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292886.mp3|آن را بسیار دوست دارم|4.464
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209864.mp3|ماشینو گذاشته بیرون اومدن کاپوتشو دزدیدن فقط|5.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22157971.mp3|دوربین کنترل سرعت|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18618911.mp3|ولی باید واقعاً این مأموریت را جدی بگیریم|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868203.mp3|یک رژ لب، لطفاً|2.592
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19280256.mp3|تو باید اونو برگردونی|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19235675.mp3|سیر ها خودشونو نمیخورن|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149599.mp3|جویبار کوهستانی|4.14
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292888.mp3|تازه فارغ التحصیل شده ام|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19247344.mp3|خودش را جمع و جور می کند و با خوشحالی با من بودی پسرم؟|6.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23746475.mp3|در ازای پرداخت ماهانه|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18891271.mp3|برای مثال، در مورد مدیران بیادب، وقتی در موضع ضعف قرار گرفتند|7.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433772.mp3|خبر نگاران مجهز به پرسشهای متعدد|4.716
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19220096.mp3|من ایده های خاصی دارم|3.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209852.mp3|گمون نکنم اونم زیاد از اینجا فاصله داشته باشه|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993063.mp3|شمالی|2.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345893.mp3|پویاسازی مجدد صنایع کشور|4.896
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649860.mp3|شراب نوع عالی|2.916
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21578050.mp3|بهتر است که مسواک در جايی خشک مانند آشپزخانه نگهداری شود|7.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18577842.mp3|خوب ، فکر کنم باید برم|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471513.mp3|من ایستگاه بعد پیاده می شوم|8.016
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22781657.mp3|قرض گرفت|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481273.mp3|ابرها دارند جدا می شوند|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19207419.mp3|من انتخاب کردم میدونم|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26955687.mp3|پرندگان با صدای بلند جیکجیک میکردند|4.5
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19264505.mp3|خدا خیرت بده مادر دستت درد نکنه|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18615644.mp3|نشون به این نشون که گفتی برادر زاده شوهرته|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083300.mp3|ما یک اتاق دو نفره با یک تخت اضافی نیاز داریم|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19221291.mp3|امروز هیچ کاری نکردم و فقط از اتمسفر پاییز لذت بردم|4.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20978368.mp3|شورای همکاری خلیج فارس|4.944
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19208173.mp3|نقطه دیگه زندگی نمیکنم|4.344
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858902.mp3|من می گویم که شما تماس گرفتید|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536177.mp3|خیابان لا رامبلا کجا است؟|5.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19261799.mp3|رفاقتا بوی شاش گرفته و این بر می گرده به عوضی شدن آدما|5.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18562785.mp3|هی کاری به عقاید مذهبی من نداشته باش ، باشه ؟|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993058.mp3|نام نیک|2.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294624.mp3|دارم اتاقم را تمیز میکنم|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19285066.mp3|بیست و پنجمین سالگرد عروسی تان مبارک|5.616
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345894.mp3|او استعفای خود را تسلیم کرد|4.068
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19431085.mp3|چه مشاهده کردی؟|4.32
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993054.mp3|پاییز هزار رنگ و دل تنگ منو و عطر نفسهای یار|9.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23746287.mp3|متخصص سیستم عامل است؟|4.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745233.mp3|آپلود فایلهای شخصی|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305137.mp3|هیچ باری را ثبت می کنید؟|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21593362.mp3|من هر روز این مسیر رو با تاکسی میام|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18552406.mp3|میخواهم کمک کنم خاطره خود را بدل به مدرک کنید|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382949.mp3|من گوشه آکسفورد استریت و تاتنهام کورت رود هستم|9.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18616504.mp3|این کتاب اولین جلد از مجموعه روایت تجربه است|7.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19217596.mp3|کدوم رو انتخاب میکری؟|3.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18558656.mp3|تغییر ایدئولوژی یا تغییر شرایط فعال یا انگلیسی آن، اکتیو مژر میشد|8.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961935.mp3|روم باستان، آن میانگاه قدرت جهانی|4.968
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18577914.mp3|من به کیوی آلرژی دارم|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479454.mp3|اتومبیل راندن|2.7
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553256.mp3|کدام آبجو را دوست دارید؟|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28150005.mp3|رسیدن کمک، روحیهی آنها را قوی کرد|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19227534.mp3|خیلی سریع بود سریع بود|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382952.mp3|اتاق شما در طبقه چهارم است|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382961.mp3|تولد شما کی است؟|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868208.mp3|ما حراج کرده ایم|2.736
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19538192.mp3|دریا تقریبا آرام است|3.24
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177073.mp3|گونه های ماهی موجود در این منطقه تخم های چسبنده ای را در علفها می گذارند|7.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149595.mp3|تونل کندوان کوههای رفیع را میشکافد|7.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433504.mp3|این گلدان به خاطر قدمتش ارزش دارد|3.888
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536149.mp3|من فقط می گردم، متشکرم|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780860.mp3|شانزده|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19538194.mp3|آنها کمی نارنگی می خواهند|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869791.mp3|مختوم|3.528
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20988632.mp3|برای این قضیه هفتهها وقت صرف شده|3.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858904.mp3|هشتاد و چهار، هشتاد و پنج، هشتاد و شش|6.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292885.mp3|اتاق سیگار دارید؟|2.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141621.mp3|ادارهی مرکزی ما در تهران است|4.428
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_37012886.mp3|مرغ|2.34
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553257.mp3|در دفتر کار می کنم|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731793.mp3|از شما طلب بخشش میکنیم|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19264539.mp3|باعث شد حالم بدتر بشه|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745232.mp3|قابل اعتماد است|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292159.mp3|کدام قطار را باید سوار شوم؟|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557786.mp3|آیا طولانی اینجا بوده ای؟|3.48
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858957.mp3|میتوانید این را تعمیر کنید؟|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649861.mp3|آنها انتظارات مالی زیادی از من دارند|4.5
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18891262.mp3|همینو می خواستین؟ شد یدفعه دور هم جمع شیم پای این مردا رو تو مجلسمون وا نکنین|8.256
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19260425.mp3|اون موقع می تونه چادر زدن بهم یاد بده|4.584
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177078.mp3|با این وجود، آنها به نوبه خود او را دوست دارند، زیرا او به نوبه خود آنها را دوست دارد|7.308
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18612220.mp3|پارلی کار جمعآوری ضایعات پلاستیکی از اقیانوس را دارد|6.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298807.mp3|چطور این سمبل را تایپ کنم؟|3.768
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18661869.mp3|منم گفتم لابد داداشت که پشت سرته میخواد استخونامو بشکنه|5.424
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917051.mp3|و فناوری در تحول انواع مختلف هنر تواناتر میباشد|7.584
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21578132.mp3|و باید آن رابطه را ترمیم کنیم|4.464
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479466.mp3|او به کراوات خود ور می رفت و با دلواپسی در انتظار بود|6.48
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18891290.mp3|عالی شد از این به بعد منو جزعی از خانواده خودتون بدونید خنده وحشتناکی می کند|7.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18546035.mp3|و یه مادر و پسر هم به شوهرجان دلار دادن و پول با ارزشمون رو گرفتن|7.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294620.mp3|غذای مخصوص امروز روی تابلو است|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961971.mp3|او را دیدم که سلانه سلانه بهخانه میرفت|3.888
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22781656.mp3|بَردیا|2.376
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19221284.mp3|دولت باید بستر امن اینترنت را ایجاد کند با حصول اطمینان از نحوه اجرا و قوانین به روز|7.656
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782511.mp3|ایستاد|2.256
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779409.mp3|شعر باید به موسیقی نزدیک بشود|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19209822.mp3|جویی نخور  خیلی داغه|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19229253.mp3|فرصت و صدای بیشتری میخواهند، که بتوانند جمع شوند و به همدیگر کمک کنند|9.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18546054.mp3|باشه می تونی بیای تو|3.216
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18619298.mp3|کارول ، ما چطور بودیم؟|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993070.mp3|کد منبع برنامه به یک یا چند زبان نوشته شدهاست|5.376
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961944.mp3|ابزاری که اینجا و آنجا افتاده بودند|3.78
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19209750.mp3|امید برای آینده داشتند|3.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18632583.mp3|تیمی که تو دوپنجره نقلوانتقالات محروم بود پنج تا از ستارههاش رو از دست داد|7.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19219947.mp3|قدسی خانوم و پروانه تو راهن|4.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20934460.mp3|حالا به خود ما هم کلک میزنی؟|4.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18572547.mp3|خوب ، اینو معذرت میخام|3.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19227902.mp3|والا حرف منم هست داره ازبین می بره خودش رو|4.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19457328.mp3|می خواهید شراب را امتحان کنید؟|3.312
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869828.mp3|تو نباید قتل بکنی|4.5
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873479.mp3|چرا کار نمی کنی؟|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19228781.mp3|اقای حسینی، شما دارین میرین امریکای جنوبی؟|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731781.mp3|از اعقاب یک خانوادهی اشرافی|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19209749.mp3|خبر خوب اینكه ما چنین رسمى براى ختنه سورون نداریم|4.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18629613.mp3|یا یه اهانت باورنکردنی|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433496.mp3|ایالت ویرجینیا|3.168
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26177077.mp3|پولی ویالها را پنهان کرده و اطلاعات را از جو را دریغ میکند|7.38
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873499.mp3|لطفاً یک کارت ویزیت با آدرس هتل به من بدهید|5.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209865.mp3|این عدد سرسام آوری است|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28150003.mp3|او انگیزش کافی ندارد|4.428
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19264537.mp3|اصلا دوست ندارم اسباب مزاحمتتون بشیم|5.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210277.mp3|آره ، ولی اهمیتی نداره|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294625.mp3|می توانم ورزش انجام دهم؟|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19259079.mp3|مسئولین ژاپن به دلیل گل نزدن از مردم ایران عذرخواهی کردن|6.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141543.mp3|اتوبوسی که خلوتتر است|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731767.mp3|از فضا میتوان نقل و انتقالات قشون را مشاهده کرد|7.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292155.mp3|از مرکز شهر چقدر دور هستید؟|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961970.mp3|پس از بازنشستگی یگانه دلبستگی او گلکاری بود|4.788
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19457330.mp3|می توانید از طریق ایمیل با من تماس بگیرید|3.72
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18274146.mp3|ایا ما هم همین جوریم؟|2.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433458.mp3|برای توجیه جنایات خود به کودکی مذلتبار خود اشاره کرد|5.436
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28150004.mp3|او در هوای سرد سوزدار، لخت بیرون رفت|5.508
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345863.mp3|توفان باران، رگبار|6.768
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20988628.mp3|هیچ پولی ندارم|2.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294506.mp3|نه، گرم است|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083313.mp3|نیم پز، لطفاً|2.544
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858958.mp3|می خواهم ماشین را امتحان کنم|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993065.mp3|مرودشت|2.376
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20988639.mp3|شورای شهر|2.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210426.mp3|و آن واقعاً مشکل است|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26955695.mp3|چون خودش نمیتوانست بیاید یک نفر را به جای خودش فرستاد|5.22
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26176949.mp3|ساعت شما یک ساعت عقب است|4.068
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869825.mp3|مدارس ابتدایی به دلیل آلودگی هوا تعطیل اعلام شدند|6.804
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18616517.mp3|واقعاً؟ این خیلی خوبه|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21593401.mp3|او ریاست اداره صلح بانی سازمان ملل را بر عهده داشت|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731791.mp3|ارزش یک دلار امریکا|4.248
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18633697.mp3|هیچ لباسی پیدا نمیکنیم|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869772.mp3|سخنرانی روحیه پیروانش را تقویت کرد|6.408
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869792.mp3|پس از محرز کردن ادعا، کار را ادامه داد|5.94
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20978365.mp3|هیچکس او را نمی شناسد|2.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18561915.mp3|بدرفتاری با کارگرها، سیل، خشکسالی و قحطی|6.96
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18552399.mp3|می خوای من بجاش یه دور بچرخونم شاید باز شه بختمون؟|5.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557787.mp3|لطفاً این را اتو کنید|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18615670.mp3|این تنها راهی خوبی بود|4.464
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20934413.mp3|سازمان جهانی هواشناسی|4.224
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18562640.mp3|مگه تو خبر نداری شب و روز برات بی تابم؟|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19227531.mp3|خودت که میدونی چی میشه|4.296
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22214044.mp3|برخورد یک دستگاه مینی بوس با یک سواری حادثه آفرید|7.944
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19216604.mp3|همچنین شغلهایی که هنوز ابداع نشدهاند|4.872
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868200.mp3|یکی از لامپ ها کار نمی کند|3.432
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141541.mp3|آقا رامین، رامین خان|4.176
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479492.mp3|آیا موفقیت مربوط به عوامل محیطی یا عوامل موروثی است؟|7.092
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149984.mp3|او مسئولیت اعمال زیردستان خود را به عهده نگرفت|6.66
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_24731768.mp3|آرزوی او برای آرامش و تنهایی|5.508
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19235673.mp3|از رفتار دیگری که فجیعانه نامناسب با محیط کار است|5.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557788.mp3|من یک کمربند متناسب با این بلوز می خواهم|4.272
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19538191.mp3|یک بلیط دو طرفه کودک برای مینسک می خواهم|6.072
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869764.mp3|با چنگالهای مرگ این غولهای ربات|6.516
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18618858.mp3|تو بهش اعتماد نداری ؟|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18635953.mp3|گـلای آزالیا مو می خوره|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19270531.mp3|عکس العمل دوستام وقتی که می خوام تنها سلفی بگیرم|4.152
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537405.mp3|کیفم را گم کردم|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26955694.mp3|ژاپنیها سی درصد بازار کشور را به دست آوردند|4.788
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19259078.mp3|میتوانیم اقداماتی انجام دهیم که افراد دور و برمان را بالا ببریم|6.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19471523.mp3|آن چه رنگی است؟|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19536146.mp3|خریدار نقد هستید؟|4.656
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782504.mp3|سعی کرد|2.472
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294621.mp3|می توانیم کمی زودتر آن را ترتیب دهیم؟|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19212650.mp3|بوی گل ها هم حس خوبی بهم داد|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18632582.mp3|من اون رو یک شبه نوشتم|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21584108.mp3|پس امید این است که عفونت در شما کمتر جدی باشد|5.496
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993060.mp3|قسمتی که خودشان به آن نیاز دارند را توسعه میدهند|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19547661.mp3|موتور خیلی داغ می شود|3.264
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_39469815.mp3|ابزار کار یک مکانیک|2.34
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18209608.mp3|رفيقمو واسه شام آوردم|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141620.mp3|آرام باش|2.52
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993066.mp3|پنجره را باز کنید|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557789.mp3|کدام راه به مرکز شهر است؟|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18274161.mp3|مدام گوشهگیرتر میشوید؟|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382959.mp3|کجا به دنیا آمدی؟|2.976
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211546.mp3|من حرف مفت زیاد میزنم|3.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18615625.mp3|زاهد گفت «اگر گندم مرا زودتر آرد نکنی دعا می کنم الاغت سنگ بشود»|8.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993059.mp3|ابهر|3.336
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18617878.mp3|ولی همین علی اقا سوپری، می گفت الان چند روزه مونس خانم صبحها می یاد|6.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19547656.mp3|میتوانم با سارا صحبت کنم؟|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649869.mp3|انضباط کم|2.7
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18633744.mp3|واردات رب گوجه از افغانستان|4.056
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19270526.mp3|و بله، این کار مستلزم استانداردسازی در نحوه اندازهگیری عاطفی از سوی ما است، که مشغول آن هستیم|9.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18577837.mp3|بسکتبال چطور پیش میره؟|3.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149597.mp3|رادیو خبرهای مندرج در روزنامه را کهنه نمامیکند|7.236
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19229257.mp3|نه خیر سوال بعدی ؟|2.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298798.mp3|هرگز دوباره مشروب نخواهم خورد|3.696
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782510.mp3|افسانه|2.712
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780863.mp3|که آوازه خوانان در خلال چهار قرن نخست آن را میخواندند|6.936
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18561932.mp3|هی، چه تابلو آب قشنگی|4.08
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277015.mp3|ساندویچ دارید؟|3.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083247.mp3|دستگاه فتوکپی کار نمی کند|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537413.mp3|این پرنده فوقالعاده نیست؟|4.944
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782506.mp3|امیرباقر|2.856
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19858941.mp3|شما باید برای خودتان یک شغل جدید پیدا کنید|6.144
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_31869789.mp3|جنبههای زنندهی زندگی|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21584110.mp3|خیلی ممنون لطف کردین|4.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21581336.mp3|از مشارکت شما سپاسگزاریم|4.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18578438.mp3|برخی از برنامههای معروف دنیا برنامههای دوستیابی است|4.896
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19264525.mp3|هر روز، ما در مورد جوانهایی میخوانیم که ایدهها و آرزوهایشان را بکار میگیرند|7.656
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22782508.mp3|الجزیره|2.472
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19537403.mp3|اولین آزمون چه موقع است؟|3.864
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_20083245.mp3|او خوک می خورد|3.576
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18618387.mp3|خیالمون راحت باشه؟ یه عروسی افتادیم دیگه؟|6.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19210310.mp3|به خاطر مشکلاتمون تو روابط با کشورای دیگه یا شاید مشکلات مالی نتونستیم|8.184
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28650207.mp3|اختلافات رفع نشدنی|3.78
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21055841.mp3|شب برنامه چیه؟|2.712
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19481256.mp3|جاده در دست تعمیر|3.072
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779406.mp3|پتاژ|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18577836.mp3|بر این عقیده است که اسکلت هیولا واقعی نمی باشد|7.824
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28650209.mp3|سایش دو چیز جامد حرارت ایجاد می کند|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19868202.mp3|من ویزای توریستی دارم|2.928
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18616466.mp3|کله اش رفت تو قیف رو سیاهی|5.544
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277017.mp3|فکر می کنم یک اشتباه در صورت حساب وجود دارد|4.896
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19215506.mp3|پس چی شده؟ من رفتم چوب بیارم چرا نگرفتیشون؟|6.096
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22780864.mp3|بریانی|2.784
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28149985.mp3|پیری چشمهای او را کم نور کرده است|5.328
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23993064.mp3|منطقی است که در توسعه دادههای عمومی مربوط به کار خود، مشارکت کنند|6.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21578048.mp3|دولت بدون روزنامه و یا روزنامه بدون دولت داشته باشد|6.984
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_30961947.mp3|این قرارداد ارزش کاغذی را که روی آن نوشته شده است، ندارد|5.688
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19553268.mp3|امکان دارد به من بگویید چطور به این هتل بروم؟|5.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19382958.mp3|زود باز خواهم گشت|3.456
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19244834.mp3|ممکنه هیچی گیرمون نیاد|4.536
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18629628.mp3|حیف شد اگه بچه من پسر بود اسمش رو میذاشتم فرزاد|5.664
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18895334.mp3|آدما عوض نمیشن فقط ما موفق میشیم بشناسیمشون|6.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_25141619.mp3|اگر گوشت را در یخچال نگذاری فاسد خواهد شد|5.22
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_39517819.mp3|من که مکانیک نیستم|2.232
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19557792.mp3|من سوپ پیاز فرانسوی می خواهم|3.96
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28150001.mp3|رفتار وقیحانهی آن زن|4.428
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19207358.mp3|با تمسخر لابد میخوای با جارو خاک انداز پرتم کنی بیرون؟ آره؟ وای ترسیدم|7.704
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22779393.mp3|شیشلیک|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873491.mp3|در چه سنی بچه ها مدرسه را شروع می کنند؟|5.808
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28479490.mp3|به خاطر بر هم زدن نظم عمومی بازداشت شد|5.688
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_23745213.mp3|برای انتخاب یک توزیع، اول از همه باید هدف خود را بشناسید|5.304
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298690.mp3|آیا هیچ چیزی ارزانتر دارید؟|4.104
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19294617.mp3|می خواهم یه میز رزرو کنم، لطفاً|4.416
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28649870.mp3|بیماری جزئی|2.52
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917070.mp3|ایسلند|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18661867.mp3|بهتون قول میدم همین شجاع دل که خودم باشم توسه سوت دمبشو بگیرم و پرتش کنم بیرون|6.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_21578047.mp3|تو غَرّه بدان مشو که می مینخوری صد لقمه خوری که می غلامست آنرا|9.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917065.mp3|که بر پایه مقایسه نوشته شده است یا مانند رومی ها که|6.216
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19292889.mp3|می توانید لطفاً ملحفه ها را عوض کنید؟|3.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18618146.mp3|بینگ؟ فامیلی عالی هستش|4.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19873480.mp3|من کمی بیشتر سیب زمینی سرخ کرده می خواهم|7.776
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18619386.mp3|من خیلی دلواپس بودم،ولی چارهای نبود،نمیتوانستم حرفی بزنم|6.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_32345938.mp3|پلکان برقی بالا سوی|4.068
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277020.mp3|خیلی سرم شلوغ بوده است|3.624
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18629652.mp3|این؟ خوشحالم که پرسیدی|2.904
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_22917069.mp3|امیربهزاد|3.504
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298799.mp3|چقدر لازم دارید؟|3.024
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19211582.mp3|یا این تعاملات روزانهای که او با کارکنانش داشت، در راهرو، در غذاخوری یا در جلسات|7.584
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19305131.mp3|تو اینطور فکر نمیکنی؟|3.744
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18619389.mp3|اگر می توانستید کدام قانون را تغییر می دادید؟|5.064
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19277024.mp3|من کمی از اینها می خواهم|3.384
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19298693.mp3|او سربیت دوست دارد|3.288
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18561924.mp3|تحقیر نکردن یک فرد همانند احترام گذاشتن به آنها نیست|4.872
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_18774251.mp3|یه بسته از سلطان تشک|4.464
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_26955680.mp3|جالب توجه این است که|3.816
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_28433735.mp3|به هم زدن خلوت یک زوج تازه ازدواج کرده|5.148
+/home/ashankwi/commonVoiceData/fa/clips/common_voice_fa_19229271.mp3|من حتی بامزه هم نیستم|5.184
