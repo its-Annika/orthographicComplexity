@@ -11,4 +11,4 @@ echo "test"
 python3 findVoices.py /home/ashankwi/orthographicComplexity/ASR_Data/$1ASR_Files/$11Test/audio_paths /home/ashankwi/commonVoiceData/$1/test.tsv
 
 echo "dev"
-python3 findVoices.py /home/ashankwi/orthographicComplexity/ASR_Data/enASR_Files/en1Dev/audio_paths /home/ashankwi/commonVoiceData/en/dev.tsv
+python3 findVoices.py /home/ashankwi/orthographicComplexity/ASR_Data/$1ASR_Files/$11Dev/audio_paths /home/ashankwi/commonVoiceData/$1/dev.tsv
