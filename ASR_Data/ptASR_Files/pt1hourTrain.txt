@@ -1,0 +1,895 @@
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19287137.mp3|Tomar drogas que são confusas por si|5.784
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24881725.mp3|Abelar Ramos Pontes|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19811275.mp3|Duas senhoras e uma menina em seus pijamas abrindo presentes|6.048
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36967692.mp3|extintivos|1.44
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21962745.mp3|Eu toquei a campainha mas não acho que esteja funcionando|4.464
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36469651.mp3|Em que ano essa música foi lançada|2.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36469514.mp3|São Miguel do Aleixo|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27386932.mp3|O homem foi preso pela polícia na Hungria|3.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33309650.mp3|Por qualquer preço|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21692938.mp3|O prêmio mais confiável do mundo|3.912
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19551466.mp3|As mãos de uma criança com mangas roxas usam clipes jacaré|6.624
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33642316.mp3|Há também casos que demonstram medos e relutância gerados pela colaboração dos cidadãos|8.028
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20679300.mp3|Boa vontade prata que soa bem|4.104
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37070817.mp3|incidentemente|1.548
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20464485.mp3|Volte para sentar à esquerda|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19287125.mp3|Chanceler do Tesouro|3.312
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35966977.mp3|Solânea|1.8
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20591789.mp3|Abacaxi não é bom|4.008
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21537275.mp3|Um rapazinho tem a mão na parte de trás das calças enquanto anda|5.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27401064.mp3|Seria necessário descer de ônibus até a loja para chegar a tempo|6.192
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32377150.mp3|Eles vão sentar|2.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20400608.mp3|A doença que cura o sono doença do vinho|4.464
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32884982.mp3|Tavares|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36069765.mp3|Lua coberta nebulosa ou arranhada|4.968
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36716603.mp3|Atenciosamente satan|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_29790461.mp3|Todo recémnascido é lindo todo noivo é bom cada falecido é um santo|6.12
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37076735.mp3|apreciar|1.152
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23967305.mp3|Votuporanga|2.688
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27143212.mp3|Meu pai é dentista|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20659686.mp3|Há uma pessoa ajoelhada no chão|3.264
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33485029.mp3|Vindo de um danado|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36468967.mp3|Ele de fato encontrou o relógio perdido|3.564
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28717097.mp3|Marajá do Sena|2.304
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19420441.mp3|O picolé está por dois reais|2.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35319951.mp3|empenhandose em demonstrar sua imoralidade em condenar fulminar envergonhar e aniquilar|8.424
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19575528.mp3|Um homem está de pé olhando para uma parede de vidro|6.504
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36461157.mp3|Maracanã|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19366350.mp3|Quem não tem cão caça com gato|4.848
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25460577.mp3|Minha vida é um livro aberto|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36968470.mp3|virabrequim sapata tambor bronzina biela capô capinadeira varredora|5.544
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32645754.mp3|Assine com letras maiúsculas|4.608
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27453864.mp3|Quando a ave passar retire o manto|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20647681.mp3|Eu estava lá|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36909890.mp3|cardan imiscíveis sedimentação laboratoriais microcentrífugas centrífuga citoplasma insolúveis|10.368
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27387518.mp3|Jamais permita que te ofendam pela sua cor racismo é uma atitude vergonhosa|7.632
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32920258.mp3|Quem não tem teto de vidro que atire a primeira pedra|6.3
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32233206.mp3|Eu estou indo para o pub hoje à noite|3.42
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32451983.mp3|Santa Rosa do Purus|4.212
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20464592.mp3|Desligar|2.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36921326.mp3|Parece que o socialismo cresce|2.844
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21913701.mp3|A nova loja vai começar a construção|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27639581.mp3|O caminho do inferno é pavimentado com boas intenções|5.184
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27989598.mp3|Depois do ano o mesmo dinheiro|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25030617.mp3|A conta dele foi hackeada|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19331367.mp3|O ar entrava ou saía pela borda com um fino som crepitante de|5.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27034067.mp3|Selecione os alunos que irão competir em campeonatos posteriores|4.896
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27643494.mp3|Estas são as opiniões dos americanos mas seu erro é manifesto|5.472
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31224527.mp3|Novo Tiradentes|2.628
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27645269.mp3|Noventa e três por cento dos cidadãos concordaram|4.14
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38495128.mp3|Nova Zelândia Saara Ocidental Reino Unido Romênia Laos Guiana Bielorrússia|5.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32103431.mp3|Maraã|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32341418.mp3|Taquaraçu de Minas|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32062313.mp3|Em nossas mãos aqueles de todos pessoas e instituições existe a possibilidade de melhorar|7.128
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19475176.mp3|Eu estou indo para o deserto o homem respondeu voltando a sua leitura|6.0
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36258013.mp3|Mulher asiática com bolsa olha para longe na rua cheia de gente|5.148
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30609178.mp3|Se você não for à escola o burro irá embora|5.4
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21737230.mp3|Dinheiro faz dinheiro|3.624
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36867757.mp3|radiodifusão|1.836
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32302432.mp3|Quem é para cuidar de outra pessoa ele tem o suficiente para lidar|6.408
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24762318.mp3|Conclua a cidadeirmã|2.772
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20465071.mp3|Tudo pronto para a grande noite|2.784
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24751377.mp3|Chapadinha|2.628
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20491875.mp3|Vamos montar um bazar em breve|5.568
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27195998.mp3|E eles fizeram|2.988
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19839440.mp3|Cinco pessoas usando equipamentos de mergulho estão reunidas em águas calmas|6.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32837544.mp3|Botuverá|2.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20496283.mp3|Eu não fui a este aeroporto há anos|5.064
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35967213.mp3|Tensão institucional preocupa mercado financeiro|5.94
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20464452.mp3|Duas pessoas caminham por uma calçada entre edifícios|5.496
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36816335.mp3|Boa fé e más colheitas acabam com as casas|5.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25785325.mp3|Comunicaremos de forma não violenta|5.04
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20905448.mp3|Um cão marrom com um colarinho preto fica ao lado de um arbusto|5.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30609079.mp3|Monteiro Lobato|5.22
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38531706.mp3|A fila estava dobrando o quarteirão Não sou louco de ficar lá|5.292
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21917852.mp3|Infelizmente ninguém pode garantir as sanções que afetarão a comunidade|6.0
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23149547.mp3|Vamos gostar|2.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35134038.mp3|Sobre o Direito de Herança em Face dos Contratos e da Propriedade Privada|6.48
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36816350.mp3|Parece chocado|3.312
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22044874.mp3|Revise as declarações fiscais com vista à sua apresentação|4.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25318487.mp3|Cristina Gilmar Izabel e Adílson|4.32
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28441335.mp3|São José da Vitória|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20359234.mp3|Existe alguma possibilidade de expansão|3.576
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36466117.mp3|Os governos devem temer o povo e não o contrário|4.14
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28597041.mp3|Soledade|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25086496.mp3|O islã defende sua visão de mundo|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_34755694.mp3|Ir a Hualien para andar de bicicleta|4.572
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20400481.mp3|Luke Eu sou sua irmã|4.32
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19353273.mp3|Adivinha o resultado das primeiras pontuações|3.984
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36257233.mp3|Sete jogadores de futebol em um campo verde vestindo camisas vermelhas|5.544
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25882700.mp3|Tenho trinta anos|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32308475.mp3|Japonvar|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33463513.mp3|Jenipapo de Minas|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21752434.mp3|Você não me entende|2.784
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19802212.mp3|criança está jogando uma bicicleta|4.248
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19588961.mp3|O menino de camisa azul chuta a bola de futebol|6.144
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25336908.mp3|O Fernando tinha milhas da Latam e da Gol|3.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36294094.mp3|O modelo operacional é muito distinto|3.42
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32865568.mp3|Todo mundo fala de dignidade nos dias de hoje|5.04
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30149253.mp3|Brodowski|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19287158.mp3|Dois cachorros correm pela neve|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24995177.mp3|O empenho foi grande|2.448
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24756891.mp3|A análise das amostras de sangue detectou a presença de cocaína|5.724
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19464872.mp3|Eu quero ver o código Da Vinci|5.184
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21963411.mp3|Dê quatro estrelas ao livro atual|3.12
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37250911.mp3|tubo de ensaio chato redondo proveta graduado volumétrico pipeta graduada volumétrica|7.02
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27046193.mp3|A situação de incapacidade temporária do trabalhador durante o período experimental perturba o cálculo|7.056
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_34886932.mp3|Itarantim|2.16
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24837757.mp3|Antônio Carlos Amancio Ponce|3.6
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35969952.mp3|Resolve a não conformidade detectada relacionada aos procedimentos atribuídos como um gerente|7.668
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20386358.mp3|Eu vou parálo frio|3.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27645719.mp3|Qual será a taxa de juros do financiamento|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36932297.mp3|beneficiário de gratuidade da justiça|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31224620.mp3|Álvares Machado|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30694449.mp3|Deus dá o frio de acordo com as roupas|4.68
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27026511.mp3|Preparação de superfícies a serem cortadas|4.5
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31218055.mp3|A Mãe de Deus na cama veste a namorada com o marido|4.968
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22724637.mp3|Demorou muito tempo|2.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33292086.mp3|Avaí|2.304
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28441380.mp3|Pode ir a Taipei para emprego|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30618435.mp3|Quem vai com um lobo aprende a ter pena|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20498400.mp3|Eu não cheguei até os trinta e quatro|4.632
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32847878.mp3|A enorme altura dos inimigos foi a única impressão que sobreviveu na memória|6.876
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24978946.mp3|Carolina Ribeiro Silva|2.592
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22096029.mp3|Ligue para a minha mãe|2.256
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36060564.mp3|Santo Antônio do Grama|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36872131.mp3|impugnação|1.764
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23947763.mp3|Antônio Reinaldo de Almeida|3.144
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24600647.mp3|Antônio Vicente Rodrigues|3.42
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37247072.mp3|biotecnologia colonização agropecuária linha férrea cooperativas agropecuárias apuramento|7.38
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28677161.mp3|Uma inteligência aguda para me destruir|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25135396.mp3|O funcionário sugeriu que pedíssemos a sopa|4.572
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28612855.mp3|Ele diz sim|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19826738.mp3|Uma mulher loira está olhando para baixo enquanto outros se sentam em segundo plano|8.208
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21895980.mp3|Uma mulher de shorts pá de neve|4.056
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20678090.mp3|Eu posso limpar os óculos na janela se você quiser disse o menino|6.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33367273.mp3|Mirinzal|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36108136.mp3|Bituruna|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25065124.mp3|Essa avaliação é devolvida aos serviços sociais básicos que estão monitorando a situação|5.94
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20523641.mp3|A nostalgia não é o que costumava ser|4.08
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21903627.mp3|Você pensou que eu não iria me deixar usar|4.848
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22412841.mp3|Eu tenho pernas macias|2.856
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31257023.mp3|Imbaú|2.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36872204.mp3|ouvidas|1.836
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25336717.mp3|Nós podemos construir um exército de robôs assassinos|5.616
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38492853.mp3|Ô guri vai atrás da guria|2.016
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36529656.mp3|Dêlhes um pouco de terceiro grau|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36402691.mp3|Vamos indicar alguns filmes para você|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24994830.mp3|Augusta Letona Cardenas|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27102548.mp3|Meu ator favorito é Johnny Depp|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32243794.mp3|A cena da neve no caminho é uma obrigação|4.392
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21962293.mp3|Excesso de trabalho não vai matar pessoas|4.968
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32946711.mp3|Buriti Alegre|3.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38492925.mp3|Vietnamita hauçá persa iraniano árabe suaíli javanês italiano punjabi guzerate tailandês|8.676
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28307701.mp3|Não apoiado não tem razão|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21896086.mp3|Ele pegou uma das pedras|2.424
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36069649.mp3|o tom é dado por uma caterva de arrivistas e mercenários da burguesia|5.076
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22252392.mp3|Uma mulher segurando um guardachuva preto em um dia ensolarado|4.944
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33318085.mp3|E o que é isso|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24949197.mp3|Ele não foi tolo em comprometer seu futuro em um seqüestro de entusiasmo juvenil|6.048
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30608275.mp3|Santo Antônio dos Lopes|3.42
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38492937.mp3|A reunião preparatória das deputadas autodeclaradas transexuais e avanços da representatividade|6.264
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28594990.mp3|Lua nova cercada trinta dias úmidos|6.012
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21713683.mp3|Não são considerados aqueles que ainda são exigidos pelos regulamentos|6.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36872565.mp3|Motorola MotoG Iphone|3.132
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35160511.mp3|Cara ela não tem nada a ver com essa história|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20400482.mp3|Isso é tudo que você é|3.216
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19420465.mp3|Fernanda é jogadora de vôlei|2.544
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24047534.mp3|Charles Silva de Lima|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38221783.mp3|isopícnica gradientes macromoléculas cloreto de césio adenina timina guanina citosina sacarose|9.36
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32377134.mp3|Entre a primeira perna almoço cafés e o retorno os cinco foram feitos|7.956
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36527364.mp3|Morto ou vendido tudo quebra|3.168
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32103897.mp3|Ela é como você mas quem sabe porque|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31334651.mp3|Casa sem mãe rio sem mar|3.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20681174.mp3|O brilho no topo tornavao impróprio para ler|4.752
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32812024.mp3|Jandaia do Sul|1.98
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21971476.mp3|Estas são mensagens privadas de um emissor para um único participante|5.64
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20557010.mp3|Seu compromisso foi alterado|4.464
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36550040.mp3|Inclui fornecimento e instalação de ancoragens suportes de cabos|4.86
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27983904.mp3|Arcabouços literários perpetuam as contradições do preconceito linguístico|5.796
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20591673.mp3|Receita de bolo de abacaxi|4.224
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32308646.mp3|Não sei o que eles querem comigo|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28710548.mp3|A melhor garantia é ter o saco para o navio|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23128699.mp3|Meu propósito hoje|2.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27989610.mp3|Liberdade para fazer modificações e distribuir melhorias Também inclui acesso ao seu códigofonte|7.128
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20523616.mp3|Eu vou te ver depois|3.048
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35970211.mp3|Brasnorte|2.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23168583.mp3|Dificuldades e desafios são a força motriz por trás de nós|5.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32509574.mp3|O vinho de agosto não faz suco|3.672
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36000292.mp3|Friedrich Engels|2.592
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21252010.mp3|Eu tenho contas médicas para pagar|3.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36116248.mp3|Bom ano ou ano ruim quatro caem em um banco|4.068
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19590031.mp3|Verifique se o site é financiado por anúncios doações ou outros|4.152
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30135399.mp3|Murutinga do Sul|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19589956.mp3|Três pessoas estão desfrutando de cadeiras de massagem vibratórias|4.056
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31891401.mp3|Santo Antônio do Caiuá|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36589100.mp3|Havia trinta meninas no campo de futebol|3.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24600453.mp3|Carmo Ferreira do Nascimento|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30609371.mp3|Os documentos foram requisitados para cassação da chapa|4.428
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33119162.mp3|Encolha os ombros|2.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37239583.mp3|estupefaciente óxido nitroso analgésico raves alucinógeno|6.084
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28646369.mp3|Também chamadas de fake news ou notícias falsas|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24837817.mp3|Quem buscou|1.476
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20448607.mp3|Obrigado pela sua colaboração|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32062415.mp3|Este compromisso se concretiza com a implementação do Programa Educação Inclusiva|5.184
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21903639.mp3|Um jogo de futebol está sendo jogado fora|4.512
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20464572.mp3|Pessoas acenando bandeiras americanas enquanto em roupas de inverno|6.336
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19495572.mp3|Especialmente participando da tarde|3.144
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30619865.mp3|Em suma como dizemos muito pouca imaginação e repetição de esquemas|4.68
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_29980127.mp3|Buriti do Tocantins|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28786517.mp3|Isso parece|2.628
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27071630.mp3|Ambientes de moradia dispensariam longas viagens em tempos de pandemia|6.768
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24949054.mp3|Vou colocar minhas mudas de hortelã no sol|3.708
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36868660.mp3|litigante de máfé|1.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20911393.mp3|Vá encontrar um restaurante e entre e coma|5.352
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28486439.mp3|Ana Laura e João Lucas|4.068
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_34764164.mp3|Se em outubro nunca veio no mundo da lã não haveria|4.428
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22527974.mp3|Transferir e depois retirálo|4.104
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33643909.mp3|Pracinha|1.656
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28463718.mp3|Um monte de casais sentamse fora em um parque durante o dia|4.896
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25791101.mp3|Meu filho estava totalmente cansado quando nasceu|4.788
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27942282.mp3|Haverá longos períodos de sol no sábado|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25282644.mp3|E lá estava você na cama|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33289484.mp3|Cajari|2.556
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19400844.mp3|O número cinco me parece certo|3.936
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36919873.mp3|ordenado paralelas paralelepípedo geométrico|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21903642.mp3|Eu podia ver algo em seus rostos|3.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22375963.mp3|Vai chover hoje|2.016
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28463016.mp3|São João de Iracema|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36862726.mp3|mitigação do rastreamento|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36060329.mp3|A resolução pode ser contestada da maneira determinada na base oito|5.184
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37148330.mp3|Netek é uma marca de unidade de estado sólido|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24601942.mp3|Não foi isto que ele disse|2.988
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27645426.mp3|Podemos estacionar esta caravana|2.448
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20464577.mp3|Você poderia salvar a vida desse pobre diabo|3.936
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22270428.mp3|O Egito é um país que é frequentemente mencionado na Bíblia|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28667070.mp3|Lagoa do Tocantins|2.988
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28877340.mp3|Tanque dArca|2.304
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22750372.mp3|Visita de experiência de trabalho|3.864
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27102917.mp3|Que coisas indecentes estavam lá|4.284
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37818512.mp3|Evangelho de Marcos Biblos Gebal papiro baixorelevo Corsabade|6.624
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27196031.mp3|O que é o islamismo|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28463782.mp3|São José dos Pinhais|2.484
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20328740.mp3|Camelos são traidores Eles andam milhares de passos e nunca parecem se cansar|6.984
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36550702.mp3|Resolução da Conferência de Varsóvia|3.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27675803.mp3|Ele viu lágrimas em seus olhos|2.952
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21985702.mp3|Não houve substituição de forças armadas perdidas na luta|5.256
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20852351.mp3|Eles não aceitariam isso|2.28
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36872069.mp3|democratização doutrina extermínio narcotraficantes exsecretário|6.264
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28306842.mp3|uma esposa que é outra pessoa|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27033389.mp3|O mínimo que posso fazer por você é darlhe três euros|5.076
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37552540.mp3|corolário óptica tomografia computadorizada ultrassom sismologia meteorologia oceanografia fonética cartografia|8.676
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20900113.mp3|O custo do investimento não pode ser recuperado|5.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32062476.mp3|Ela estará de volta para as duas horas|2.952
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33309803.mp3|Buriti dos Lopes|2.592
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19594529.mp3|Duas meninas lutam pela bola em um jogo de futebol|4.296
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35822712.mp3|Ela tem que ir|2.556
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36017092.mp3|Teixeirópolis|2.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36857918.mp3|automatiza compiladas navegador web shells scripting mainframes script sed unix bash|7.776
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33309638.mp3|Gastão Vidigal|2.988
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36874576.mp3|hortaliças tomate eucalipto seringueira tandem carroceria microbata autônomo milímetros fruticultura|9.288
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28712438.mp3|Araçás|2.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33485124.mp3|Tangará|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33644399.mp3|Mirangaba|1.512
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35887193.mp3|Maracaju|2.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31185568.mp3|Novo Aripuanã|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20063605.mp3|Você sabe o que|2.712
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24441509.mp3|Que legal|2.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20673418.mp3|Ela diz que não é nada para se preocupar|4.392
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21537434.mp3|E o murmúrio durou mais que um simples juramento|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19401341.mp3|Um homem barbudo sendo espancado por um policial|5.544
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24994987.mp3|A cúpula da corporação não ficou satisfeita|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27034162.mp3|Mas os donos dessa empresa têm o rei na barriga|6.372
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22097351.mp3|Não acho que é necessário mas você pode se quiser|4.272
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36068848.mp3|Os pós limpos têm poucas impurezas|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19433368.mp3|Duas mulheres em ternos azuis que sentamse no pavimento|4.776
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27117463.mp3|Ponha os damascos e figos no pote|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36549040.mp3|Isso vem de muitas causas materiais que precisam ser desenvolvidas|4.5
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19377226.mp3|A juíza Debra me enviou|3.048
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19386659.mp3|Droga|2.184
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25805522.mp3|O não cumprimento desta prescrição resultará no cancelamento da autorização|6.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28425142.mp3|A nova lei foi retroativa|3.708
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21737851.mp3|Ele encolheu os ombros|3.216
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36002375.mp3|ateísmo militante|2.988
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36968825.mp3|gestão comercial planejar implementar eficaz eficiente|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33488889.mp3|Probabilidade de danos ocorridos|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33485573.mp3|Rebouças|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35877695.mp3|Palma Sola|1.116
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32103918.mp3|Avisei à Marina sobre sua ausência na aula passada|4.896
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21479121.mp3|Mendigos não podem escolher|2.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35967176.mp3|Eu acho que ela veio em uma longa caixa vermelha|5.328
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38553676.mp3|A Frente Popular é heroica|3.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35966747.mp3|Você já esteve em Cingapura|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25187563.mp3|Antônio Wilson de Souza|2.7
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38531902.mp3|Ela cumpriu as exigências e requisitos para o sacerdócio|4.968
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36921372.mp3|Equações incógnita refletida espelho regressão linear poliedro convexo vértices arestas|7.776
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21853048.mp3|São cerca de cinco|3.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27353524.mp3|Aceite sua primeira esposa|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32331398.mp3|Angicos|3.06
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28859393.mp3|Central|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36816452.mp3|Que dificuldade|3.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32885479.mp3|Alto Alegre dos Parecis|4.356
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19594478.mp3|Eles se sentiram alegres quando o navio chegou no porto|5.136
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20559617.mp3|A multidão balançou um pouco enquanto eu lhe dava uma cotovelada|5.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33450786.mp3|Marcolândia|2.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32243772.mp3|Remígio|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36529999.mp3|Iati|2.232
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31185671.mp3|A filha e a herança para a velhice|4.212
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27026841.mp3|Ele conterá a documentação detalhada no dia especial depois de amanhã|7.128
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26174849.mp3|Todos os homens morrem mas nem todos os homens vivem|5.256
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33644173.mp3|Cruz do Espírito Santo|2.772
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36920285.mp3|Tailândia Singapura Países Baixos Colorado Espanha Madrid|6.048
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20515256.mp3|A editora era desconhecida|4.8
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19802258.mp3|Um homem em uma camisa sem mangas descansando na calçada|5.328
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19887557.mp3|Grupo de crianças e alguns adultos se reuniram fora dos edifícios de pedra|5.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35202229.mp3|à destruição do regime social baseado na opressão do trabalhador|5.076
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20330862.mp3|Nós vamos usar JavaScript para lidar com o site|5.592
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28631458.mp3|Mercedes|2.628
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37247078.mp3|inseguras travamentos criptografia redesenho certificado gama cabeçalhos tokens binário privativas reprojetada|9.432
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24003247.mp3|Antônio Rodrigues Braz Machado|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27031401.mp3|Quem vê é só o que vê|3.78
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22712383.mp3|Observe o tempo sozinho|2.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24991102.mp3|Mas no momento em que você tenta morrer|3.06
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24980249.mp3|Qual o seu Telegram|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21574492.mp3|Fala sério|2.472
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32886237.mp3|Estou ocupada agora Não quero pois lidar com interrupções|7.2
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25460893.mp3|O musgo verde cresce no lado norte da represa|6.624
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32865838.mp3|Cambuci|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23655476.mp3|Lá você pode aprender muito a partir daí|5.184
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28637520.mp3|Colinas|2.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22376126.mp3|Você vai sair e me deixe lidar com isso|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28400098.mp3|Pelo menos doze roteiros foram encontrados neste baú|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25424207.mp3|Este acordo não está sujeito ao direito internacional e não é juridicamente vinculativo|5.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21971256.mp3|Ela está sentada na cama e segurando uma canção de ninar|4.896
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33309421.mp3|Mirante da Serra|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20647460.mp3|Dois homens com uniformes azuis de futebol praticam futebol|4.944
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_34156398.mp3|Paim Filho|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33630741.mp3|As diferentes variantes dialetais especialmente valencianas e baleares foram muito levadas em conta|7.704
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19594490.mp3|Por favor use barras normais não barras invertidas|4.824
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36280853.mp3|Paraíso do Sul|2.016
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30618587.mp3|Com qualquer um|2.268
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28684325.mp3|Minas Novas|2.628
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28710436.mp3|Não alcanço a razão de tais personagens|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35133301.mp3|estradas de ferro|2.268
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20640144.mp3|Feche a porta quando sair|2.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36115543.mp3|Felicidade é uma coragem|2.556
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19594595.mp3|Você sabe o que eu quero|2.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33642919.mp3|Cana Verde|2.052
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25181626.mp3|Eu gostaria de saber quem você é|3.78
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25460575.mp3|O que há de errado é que não há escassez no caso|4.86
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24692936.mp3|Antônia Benicio Araújo|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32341489.mp3|Bernarda ficou surpresa|4.248
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32172204.mp3|Aratiba|2.448
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32645757.mp3|Os botões estão empilhados|3.06
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27034041.mp3|Não foi tão fácil encontrar o que os credores pediam tão facilmente|8.388
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36461667.mp3|Os parâmetros são selecionados no conjunto de testes|5.652
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27908045.mp3|Portanto é essencial depurar o sistema legal e continuar promovendo sua simplificação|9.18
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23967190.mp3|Carlos Alberto Oliveira Idagua|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27908100.mp3|As casas são feitas de tijolos de barro vermelho|5.796
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19377331.mp3|Bem ele está em vermelho|2.424
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26638170.mp3|Esta é a minha sentença que mão e sinal|4.896
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27147600.mp3|Faça fotocópias e envie faxes|4.608
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27034542.mp3|Faça o que você faria sozinho|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33309734.mp3|Leme do Prado|2.232
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25027911.mp3|Redenção|1.404
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20142110.mp3|Podese ocupar com foco em seu trabalho|4.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25331711.mp3|A empresa não se manifestou|2.7
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20063252.mp3|América a bela como sintetizada por esta cena de ilha de doces|6.12
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21537388.mp3|Eu não posso fazer mais|2.784
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36046725.mp3|Rãs cuspem nas abelhas|1.908
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21252210.mp3|Você não tem qualquer sentimento|3.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36402589.mp3|Não faça um projeto do governo fora disso|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20557434.mp3|Ela é aquela a quem todo mundo vende coisas|6.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21737566.mp3|Lista de contatos|2.424
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20523478.mp3|Sacramento em Calafornia provavelmente terá conexão de alta velocidade em breve|7.056
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19836054.mp3|Um grupo de crianças andando em um bairro|4.032
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25712441.mp3|Tratase de compartilhar em última análise uma revolução ética|6.3
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22096221.mp3|Eu cobrirei o método que uso e descreverei algumas alternativas|7.128
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32834666.mp3|Vargem Alta|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32172422.mp3|Miraguaí|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23951152.mp3|Alessandro Lima Rodrigues|2.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38492918.mp3|Quero um abará com salada e um pouquinho de pimenta|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28285916.mp3|A prova ainda vai ser periciada|4.608
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28415011.mp3|A raiz de todo mal está no egoísmo|5.22
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22755875.mp3|As crianças estão brincando em uma fonte|5.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28677883.mp3|Santa Bárbara|1.98
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19945434.mp3|Fila de cavalos de plástico que formam um passeio infantil com uma criança andando|6.936
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21914011.mp3|Uma garota saltando para o ar em frente à casa Branca|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37250834.mp3|concedido|1.044
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23149540.mp3|Olhando para a netinha|3.672
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23646492.mp3|Eu comecei a correr no ginásio na semana passada|4.656
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32827742.mp3|O amor nunca foi bem|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21825001.mp3|Essas últimas palavras foram uma forte declaração|4.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21903619.mp3|E me pegue uma caneta|3.144
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21962290.mp3|Meu cachorro é um alsaciano que chamamos de papoula|6.48
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24999164.mp3|Não faz isso|2.484
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20456370.mp3|O que é que você está procurando perguntou o antigo comerciante|6.0
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23168070.mp3|No blog de flores|2.856
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35903645.mp3|Jataúba|1.62
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35335489.mp3|com indústria secundária sem a correspondente indústria pesada|4.968
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22724588.mp3|É também uma nova experiência na minha vida|3.936
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35948021.mp3|Colina|1.728
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35002271.mp3|Ribeiro Gonçalves|2.448
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23947775.mp3|Claudeone Azevedo de Araújo|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24441520.mp3|Telêmaco Borba|2.196
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19401074.mp3|Depois de alguns dias descobri que a tia é velha|4.224
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21816882.mp3|Café e lanche|4.344
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25186225.mp3|Débora Fernanda Sheila Rivaldo e Simone|3.708
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20799621.mp3|O manejo de Shihlin Beitou é ruim|4.464
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37638459.mp3|hipossuficiente|1.26
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32331338.mp3|Congratulações e júbilo|3.996
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32865034.mp3|Itueta|2.448
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36867439.mp3|Flexibilização de direitos|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32812049.mp3|Uma palavra de conselho pegue o seu cabelo porque está muito frio na casa|5.328
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25510686.mp3|Espere|2.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24994038.mp3|Aquele que tem dinheiro tem vícios|3.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27033417.mp3|Grau Licenciatura em Química ou Bioquímica ou Biologia ou grau equivalente se houver|9.468
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21963240.mp3|A forma segue a função|2.832
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31891257.mp3|Os espinhos quando nascem já são picos|4.716
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35966798.mp3|Arraial|1.98
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35966946.mp3|Moita Bonita|2.628
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38495251.mp3|Está céu limpo o que é bom Ontem choveu a potes o dia inteiro|4.248
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32795903.mp3|Campo Verde|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20431577.mp3|Um cão com uma bolsa de água está andando através da água verde clara|5.616
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36099246.mp3|Graça|1.512
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37575787.mp3|unilaterais|1.368
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36526237.mp3|Eu quero reservar um bar de ostras para um na cidade da Marinha|5.328
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21491186.mp3|E o que ela disse|3.264
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35954136.mp3|Contra os Impostos|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28200327.mp3|Cada minuto de detalhe na vida|4.068
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38563244.mp3|Na estação de trem estava ocorrendo uma exposição de arte moderna|5.4
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19837094.mp3|Músicos tocando seus instrumentos em uma mesa|4.392
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25988034.mp3|Samara e Letícia estão namorando há seis meses|3.852
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19353177.mp3|Cão colorido claro que corre com uma bola em sua boca|4.416
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36967785.mp3|neurorreceptores recaptação nas sinapses homeostase|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36872218.mp3|descartada memória tipada estaticamente contrapartida abstratas hexadecimal montador|7.92
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20799516.mp3|Quem é seu autor favorito|3.072
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28400586.mp3|Por favor também tenha paciência comigo|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25061880.mp3|Protesto contra isso|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19352980.mp3|Com preocupação o sinal de rádio ficou mais fraco|4.344
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32308395.mp3|Não sei em que dia você costuma ouvir que estava cantando|7.56
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20142970.mp3|Uma mulher com dor no quarto dela|3.6
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28400893.mp3|Caetés|2.016
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28414811.mp3|Esses problemas também nos afetam|4.428
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20558503.mp3|Onde você mora|3.144
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21537343.mp3|Um grupo de amigos discutindo o que fazer no evento|4.224
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32762921.mp3|Os comentários me levaram a caça selvagem|4.5
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32248811.mp3|Aqui vivemos uma explosão de burguesia com aspirações|5.4
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20705663.mp3|De repente bebê chorando|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37250231.mp3|desentranhamento das contrarrazões|2.304
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19594515.mp3|Esse comportamento das redes neurais é chamado às vezes de sonhar|5.616
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20683083.mp3|O lucro não é alto|2.544
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33868510.mp3|Bentinho mal tem quinze anos|3.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24991617.mp3|Fiz doze peças de artesanato hoje|3.42
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36788169.mp3|Então você quer adicionar um terceiro|2.952
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22755763.mp3|Dois homens em uma mesa discutindo alguns papéis|5.016
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28463794.mp3|São Manuel|1.908
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36107689.mp3|Janiópolis|2.124
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35970205.mp3|Da experiência deriva o contraste|3.312
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33485519.mp3|Nada é mais importante do que a paz|3.06
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19375803.mp3|Se montar uma locomotiva é conveniente e barato|3.864
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19426333.mp3|O que você está fazendo aqui um dos números exigidos|4.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33367306.mp3|Coma e beba e não acredite|3.708
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30711447.mp3|Sapezal|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32308782.mp3|Maratá|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21918952.mp3|Venda de eletrodomésticos de alta qualidade|3.792
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33456790.mp3|Sua voz é afogada pelo rugido súbito dos maus espíritos|6.48
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22375951.mp3|Eu balancei a cabeça|2.424
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30609317.mp3|Buritis|2.16
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23167627.mp3|Eu não sei porque estou sozinho|3.336
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32254098.mp3|Sertanópolis|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36868412.mp3|Agropalma Equatorial Extrafarma Leolar Projeto Jari|6.12
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27034555.mp3|Quem faz uma enseada faz uma cesta|5.76
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19375868.mp3|O homem salta da cadeira|2.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35192641.mp3|Determinase a competência no momento do registro ou da distribuição da petição inicial|9.792
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36541213.mp3|Salitre|2.124
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25214330.mp3|Quanto mais temos mais queremos|2.988
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20497065.mp3|Eu quero ver o Michel Strogoff|3.288
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25331709.mp3|Ela finalmente adoeceu|2.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36968826.mp3|arrestados|1.116
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24601936.mp3|União da Vitória|2.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28303392.mp3|Temo que a piada esteja em nós|2.556
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25988099.mp3|Esvazieos com cuidado ajudando com uma faca ou pincel similar|4.932
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20652914.mp3|Dois homens em maquiagem de palhaço estão realizando um esquete musical no palco|7.704
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30316024.mp3|Frei Rogério|2.592
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33644419.mp3|Sátiro Dias|1.98
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20496824.mp3|Desobediente|2.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19754115.mp3|Isso é outra questão|4.68
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36918894.mp3|expediente|1.404
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36918009.mp3|Ho Chi Minh|2.016
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38381213.mp3|H|1.116
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31224499.mp3|Amantes e ladrões buscam a escuridão e os cantos|4.86
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33485002.mp3|Deve ser melhor em alguns dias|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27624272.mp3|Mas sua profecia estava no caminho certo|4.32
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37627289.mp3|central|1.08
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24978829.mp3|Antônio Mauricio do Nascimento|3.132
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37241936.mp3|defeito|1.044
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35907594.mp3|lutar com êxito contra a burguesia|3.708
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21491211.mp3|Cabelo pendurado entre os dedos|3.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25282906.mp3|Um cão branco com um colarinho azul corre carregando um brinquedo amarelo|6.84
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23901211.mp3|Paulo tinha um cartão Visa e um Mastercard|4.224
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26174744.mp3|Ninguém se atreve a mencionar a resistência|4.752
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23951155.mp3|Várzea Grande|2.256
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30518879.mp3|Cumari|2.016
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22527858.mp3|Eu acabei de ver a ilusão|3.984
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19375327.mp3|um homem andando e uma mulher andando segurando uma menina|4.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25081126.mp3|Aparecido José Adelmo de Oliveira Santos|4.248
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32424768.mp3|Exteriorização magnética|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22712380.mp3|Eu quero perguntar a ele cara a cara|3.504
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19746066.mp3|Ele tem o suficiente para quem está contente|4.44
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36868005.mp3|diodo semicondutor unijunção junção bipolar termiônicos arseneto termiônica integrados dopante dopagem|9.504
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20328705.mp3|Quatro pessoas estão usando os instrumentos musicais|4.968
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19785729.mp3|Como você pode dizer isso no funeral|4.944
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24918980.mp3|Antônio Lopes de Freitas|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19512651.mp3|Não foi um momento perdido|2.544
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22706072.mp3|duas senhoras asiáticas conversam|3.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36868225.mp3|corresponsável|1.98
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36909961.mp3|Alcatel Deepin Ankai Baidu Bilibili|5.94
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21896461.mp3|Não é uma meta tão difícil assim|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37046781.mp3|reversíveis acionamento irrigação|3.132
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23675565.mp3|Deixeo correr ele vai parar|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19426285.mp3|Você pode compartilhar seu link do canal do Youtube|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19375328.mp3|Isso sempre me deixa bem aqui|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35885059.mp3|Passo do Sobrado|2.376
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20078662.mp3|Dois cães marrons andando pela neve|4.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35133432.mp3|não vê de forma aguda as contradições existentes na sociedade americana|6.768
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28831774.mp3|Camilo estremeceu como se fosse a mão da própria sibila e levantouse também|8.496
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22681015.mp3|Uma mulher está assistindo a maré|4.728
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30313574.mp3|Isto é atualmente o multilinguismo é a norma mais comum|4.32
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37247108.mp3|acetileno bruto obtenção siderúrgicas fertilizantes petroquímica interiorização|6.948
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31891448.mp3|A seda está vestida ou é muito pobre ou é muito rica|5.4
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33309633.mp3|Catanduvas|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28831636.mp3|Nova Canaã Paulista|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23951296.mp3|Jorge anotou a senha da Ana|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32382328.mp3|Quanto tempo o próximo ônibus passará|4.86
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24936986.mp3|as primeiras gravações eram feitas em discos|4.788
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35923327.mp3|Circular Privada do Conselho Geral da Associação Internacional dos Trabalhadores|6.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24949163.mp3|Você daria um desgosto para sua mãe|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36098876.mp3|Uru|1.656
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21252277.mp3|Abra o navegador|3.168
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25086432.mp3|A questão não era essa|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37638654.mp3|fisiológicos epilepsia metabólicas paranoide irritabilidade cansaço catatônico|6.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32858003.mp3|Jundiá|3.348
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19745886.mp3|O que você deseja|4.248
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36099326.mp3|Queiroz|1.908
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23109426.mp3|Não é possível entrar em contato ou recusarse a visitar|6.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37246359.mp3|executado oposta desfazer execução exequente dívida contestação|7.092
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35957710.mp3|Mormaço|1.656
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20647360.mp3|A televisão pifou|4.104
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36816413.mp3|Antônio Rubemar Ferreira Cavalcante|3.924
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19887575.mp3|Seu computador de repente mostra uma tela azul da morte|4.944
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25532819.mp3|Vamos colocar dois exemplos|2.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20142212.mp3|Duas mulheres estão sentadas em uma mesa com três laptops|5.424
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32222380.mp3|Vinho e inimizade descobrem a verdade|4.86
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20330812.mp3|Duas pessoas estão em um palco tocando instrumentos de cordas para uma pequena multidão|7.104
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35947973.mp3|Eu não tenho muito tempo|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19426269.mp3|A curiosidade do vento foi despertada algo que nunca havia acontecido antes|6.144
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36862925.mp3|equitativo|1.872
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22045569.mp3|Um homem faz um truque de salto em uma moto|3.552
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21346081.mp3|Um homem mais velho toca violino de forma muito criativa|5.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19401318.mp3|Quero falar com você|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25135499.mp3|Benigno Dias do Nascimento|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38531961.mp3|Anuncie nas redes sociais|2.556
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27031731.mp3|O músico que se levantou nunca começa e nunca termina|4.968
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27025630.mp3|É errado cantar com o estômago vazio|4.752
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24937056.mp3|Qualquer pessoa que tenha alguma marca que possa identificar o autor será anulada|6.66
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27101901.mp3|As condições para recrutamento são muito boas|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21798111.mp3|Fortalecer a proteção de adolescentes|2.76
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21887347.mp3|Um homem de camisa azul andando de moto no Japão|3.792
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22730957.mp3|Solitário nas ruas contando com caridade para viver|4.704
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24881524.mp3|Antônio Liberato de Oliveira|4.068
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20559635.mp3|Tem que ser gentil comigo|2.424
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32451442.mp3|Ele cozinhou o inimigo|3.492
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35970435.mp3|A zoologia busca compreender o reino animal|3.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21913600.mp3|Pare até que o extra saia|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25335855.mp3|Um cachorro preto recupera um pássaro|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21491241.mp3|Ele é a própria imagem de seu pai|3.936
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33119337.mp3|Porangaba|2.484
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19347131.mp3|Se você puxar toda a pilha cairá|4.104
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19375790.mp3|Como ela é|2.304
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19474186.mp3|Tudo o que eles queriam era comida e água|4.296
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28570380.mp3|João Costa|2.16
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19412358.mp3|Os pacíficos herdarão a terra|3.912
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36790923.mp3|Poções|1.44
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36921423.mp3|juramentado|2.124
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36053330.mp3|Vacinese contra meningite|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30584157.mp3|Mogeiro|2.196
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32857959.mp3|Era hora de tirar os desperdícios e alegrias da temporada anterior|6.516
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25052016.mp3|Todas as faturas recebidas são creditadas no mês seguinte|5.688
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21662997.mp3|quero comer em algum lugar ventoso no Novo México|5.616
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21818494.mp3|O arquivo foi encriptado|3.624
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35877579.mp3|mobilizar o povo das forças de esquerda sob a palavra de ordem pela luta|6.876
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21737685.mp3|As últimas notícias sobre Futebol mercado modalidades os resultados e classificações|8.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30608819.mp3|Tempo mostra|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27646386.mp3|Minha filha tem três anos|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30694444.mp3|Rodolfo Fernandes|3.168
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21895997.mp3|Quem é seu amigo perguntou o chefe|3.312
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38381346.mp3|O cachorro corre|1.332
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32302427.mp3|Trovões demais no frio no final do frio|4.68
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35954764.mp3|Sebastianópolis do Sul|3.348
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25002206.mp3|Maria se casou com José|3.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25330396.mp3|E assim ele viveu feliz até o fim de seus dias|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33317894.mp3|São Gonçalo do Abaeté|2.628
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37246938.mp3|prestação de fazer de não fazer ou de dar coisa|3.312
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32302435.mp3|Dois pássaros em um pico não se ligam|4.428
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19287061.mp3|Os limites eram bem definidos|2.832
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36955729.mp3|antígeno passiflora simeticona betacoroteno climatização|5.616
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23947856.mp3|Cecilio Pereira da Silva|2.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30179440.mp3|Simbiose industrial que promove a eficiência dos recursos materiais além da água|7.776
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20523824.mp3|Eu nasci no mesmo dia que Deodoro da Fonseca nasceu|4.032
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36898933.mp3|saláriomínimo|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25492306.mp3|Ou seja o boom imobiliário não trouxe mais riqueza em relação ao país|5.94
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24724791.mp3|Ainda há muita coisa depois de todos terem comido|4.32
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32103298.mp3|As obras os ricos os tornam pobres|4.248
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36865977.mp3|taquigrafia|1.908
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36918265.mp3|disponibilizados|2.196
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25341150.mp3|Essas mulheres estão coletando sujeira por algum motivo desconhecido|5.436
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20652944.mp3|Muito obrigado|1.944
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35885119.mp3|nazifascismo|2.196
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36466070.mp3|Somos todos de barriga e não somos de um templo|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19357763.mp3|Eu tenho uma aranha de estimação|3.336
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19353073.mp3|Nós a localizamos|3.216
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36968116.mp3|confissão|1.044
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32391764.mp3|Atalaia|2.7
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20330754.mp3|Recomeçou recentemente|3.864
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32874980.mp3|Desenvolve e gerencia a Rede de Bibliotecas Especializadas em Ciências da Saúde|6.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33020453.mp3|Pegamos os bisturis para a cirurgia de apendicite|4.68
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33292226.mp3|Cafeara|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24047486.mp3|Arminda Pereira dos Santos|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24995207.mp3|Não venham abusar da ignorância daqueles que nos escutam|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36550669.mp3|Os amigos que me restam são de data recente|3.348
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36466322.mp3|Larissa é muito inteligente|4.968
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21821416.mp3|Digame os horários dos filmes animados no bairro|4.728
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28297974.mp3|A chuva se moverá para a direção noroeste na parte da tarde|4.68
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21479089.mp3|Eu preciso comprar um novo telefone|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20649201.mp3|Posso emprestar alguns de seus desenhos animados|5.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26460984.mp3|O Parque Natural da Túria fica a cerca de cinco quilómetros de distância|4.644
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27635954.mp3|Não toleraremos falta de respeito nesta escola|5.4
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28652135.mp3|Gravatal|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37655042.mp3|impugnar|1.188
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32243849.mp3|Rio dos Índios|2.952
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20467308.mp3|O registro de imagens pode ser facilmente incorporado em dispositivos incorporados de baixa potência|7.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27547327.mp3|A lua nova de janeiro tem muita chuva por último|4.932
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33021886.mp3|Pressupõe um novo condicionamento físico|4.896
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28684359.mp3|Se você não ganhou dinheiro por quarenta anos nos anos sessenta não fará nada|7.02
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37248947.mp3|feltro paralama alargador funil engraxadeira volante neblina pedal do freio garfo forquilha chassis|8.784
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_34757262.mp3|As informações técnicas fornecidas até agora são muito ruins|4.896
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21742628.mp3|A goteira inundou a casa inteira|4.992
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36967700.mp3|deliberação|1.296
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25201489.mp3|Que horas eles vêm|2.628
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24005036.mp3|Brigida da Conceição Fortuna dos Santos|4.32
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19417040.mp3|Eu me sinto bem agora|2.568
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20681425.mp3|Os semteto parecem gostar de sopa|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35957590.mp3|Não há mais nada no caminho antigo|2.592
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28463689.mp3|Eu gosto de como o Atom me permite instalar novos plugins|3.996
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19360546.mp3|Bolsonaro será o melhor presidente que o Brasil já teve|6.216
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24994829.mp3|Emanoel Carla Adaílton Douglas e Rodrigo|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19331209.mp3|Todos contribuem para os outros|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19818141.mp3|O que é que você deseja saber|2.856
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20483962.mp3|Como está o tempo em Austin Texas|5.952
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19287042.mp3|Você certamente entregou as mercadorias|4.08
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27028507.mp3|Supervisiona a transmissão de casas com proteção oficial|6.012
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36549061.mp3|Afinal a ideia que saiu temporariamente|3.384
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22376071.mp3|Antes de você desistir tente de novo|3.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36898830.mp3|mal de parkinson|1.548
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21963409.mp3|Eu tenho uma continuidade por um mês inteiro|3.72
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20431829.mp3|Dois cachorros brigam por alguma coisa|3.504
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20515339.mp3|Que horas são em Londres|4.2
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20559693.mp3|Um homem em Seattle tem um sinal implorando por dinheiro|5.496
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30608827.mp3|Deságua no interior da gruta|4.716
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25586202.mp3|Depois de frio coloque o açúcar por cima e sirva|4.212
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32857987.mp3|Palestina de Goiás|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28631256.mp3|A versão original em inglês do livro está na web|6.516
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36968159.mp3|conjugadas diluição abatimento subníveis blocos encerramento abatido galerias|6.156
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36469691.mp3|Eu sou republicano não sou liberal|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36791033.mp3|Cuidese|2.196
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36469535.mp3|Eu te devo muito|1.656
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35917426.mp3|Aveiro|1.692
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24995453.mp3|Brumado|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36909878.mp3|estouro programafonte analisador sintáticas delimitador|7.38
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28419962.mp3|A Luísa procurou um emprego na Schincariol|4.464
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19435376.mp3|Tudo no universo evoluiu disse ele|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19745885.mp3|Não não exclua as mensagens Ainda não as li|6.672
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20799811.mp3|Hong Kong é muito ventoso|2.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37800924.mp3|gambé ganso garfar gato brabo gelada gererê goma gororóba grampo groselha grude|7.308
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20497485.mp3|Betty ficou surpresa|3.504
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30619959.mp3|Nós viemos dos Guiamets|2.772
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37575804.mp3|Parágrafo|0.9
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37248942.mp3|servopneumática desgaseificação triaxial cíclico esclerômetros adensamento triaxiais estático dinâmicos|9.108
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37148309.mp3|licitação|1.332
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26043403.mp3|quem quer aprender melhor que comesse a se dedicar mais aos estudos|6.048
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20673992.mp3|Em sua mão ele agarrou uma cobra pela cauda|4.728
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32308599.mp3|Vamos guardálos juntos|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33290935.mp3|Dário Meira|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24791019.mp3|O Fábio usou milhas da Gol|3.168
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22526139.mp3|Sem planejamento financeiro|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20866070.mp3|Nossos olhos não crescem mas nossos ouvidos e nariz crescem para sempre|6.192
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27102700.mp3|Ela está com muito frio|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20852220.mp3|Um homem atravessa a rua ao lado de uma estação de metrô|4.584
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20142890.mp3|Um garoto de cabelos loiros está olhando para um robô humanoide de aparência estranha|7.104
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25185849.mp3|Há um melão ao lado dele|2.844
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30525392.mp3|Montes Altos|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20705648.mp3|Se nossos instrumentos tivessem permitido isso talvez pudéssemos ver o caminho de volta quando|7.944
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25269956.mp3|O Antônio chamou seus amigos para tomar chimarrão no no Parcão|5.22
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28463572.mp3|São Francisco do Maranhão|2.52
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_34757132.mp3|Dom Macedo Costa|2.7
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36973634.mp3|prevista|0.9
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19821744.mp3|Um homem está colhendo vegetais da terra marrom|3.864
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22256181.mp3|O cão grande está olhando através da cerca para o pequeno cão|5.064
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33291422.mp3|Senador Pompeu|2.592
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19475218.mp3|A cabeça está melhor|2.856
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32103563.mp3|Quando a gaivota passa pelo jardim entre na lenha atire e feche a porta|6.876
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36932308.mp3|Pantaleão Pantoja Vigliar|3.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25077816.mp3|O material vai passar por uma perícia|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36060158.mp3|Sambaíba|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25563115.mp3|Isto significa considerar este subsolo como um bem público não sujeito à propriedade privada|6.48
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32762924.mp3|Novo Cabrais|3.06
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19754118.mp3|Ele não tinha ideia de como ele iria se transformar no vento|6.168
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27071746.mp3|Na mesa ninguém envelhece|3.852
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35175280.mp3|Transcrição autorizada|3.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24698898.mp3|Paracatu|2.16
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28710449.mp3|Nunca vi em Taiwan|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38493205.mp3|Tome cobertura e reaja contra o inimigo|2.412
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19338564.mp3|Dizem que a fé move montanha|3.264
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33630830.mp3|Quando August chora o vegetal é bom|4.032
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32356130.mp3|Orizona|3.42
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33531586.mp3|Mira Estrela|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20523696.mp3|Eu os perdi na quintafeira passada|3.792
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27028332.mp3|Nós viemos de Ullastret|3.708
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20679236.mp3|Conferências sobre software livre|3.624
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32265297.mp3|Santana do Acaraú|4.14
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25287324.mp3|Dois cajados foram encontrados intactos|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33451035.mp3|Santo Antônio do Itambé|3.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36872109.mp3|breves|1.728
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25201743.mp3|Mas esse pagamento vai muito além da minha generosidade respondeu o monge|5.832
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28285479.mp3|Duas galinhas brilhantemente coloridas estão fora de um bar|6.048
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24995472.mp3|Monte Santo|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25282601.mp3|Nada tem um gosto tão bom quanto se sentir magra|4.428
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37818729.mp3|Napoleão Bonaparte Holanda Inglaterra França Índia China Malásia Indonésia|6.156
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32233231.mp3|Itapirapuã|2.592
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35134095.mp3|e fundamentadas todas as decisões sob pena de nulidade|5.328
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20496790.mp3|Eles têm que jogar muitas coisas no escritório|4.512
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36872105.mp3|contencioso|2.088
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27028687.mp3|Um homem sem pátria é como um solo sem sementes|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33367279.mp3|Nova Ibiá|2.952
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23947730.mp3|Caio Cezar Guimaraes Soares|4.224
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21918745.mp3|Afirmado pelos meios de comunicação nacionais e estrangeiros|4.68
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36469454.mp3|Um cachorro marrom atravessa a grama segurando algo em sua boca|4.86
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28631679.mp3|Laranjal do Jari|3.924
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36874411.mp3|amônia anidra dolomítico nitrato de cal cianamida neutros nitrocal cloreto|7.452
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_34970414.mp3|Para o Natal cada ovelha no seu quintal|2.88
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20003936.mp3|Um homem pulando em uma placa de esqui|4.056
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35966618.mp3|Bastos|2.016
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30315380.mp3|Marechal Cândido Rondon|2.448
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36920533.mp3|adjudicação|2.952
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33367142.mp3|Abastecer tampa e quadro tipo A na calçada|6.372
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24005056.mp3|Quem te falou isso|2.736
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_34156402.mp3|Campos Novos Paulista|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20400432.mp3|A felicidade pode ser suficiente para muitos o suficiente para qualquer um|6.792
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32885328.mp3|Proselitismo religioso|3.42
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24992277.mp3|Passo Fundo|2.232
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20431596.mp3|O flanelinha sentiu o coração apertado mas não deixou de sair|5.064
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32885396.mp3|Entrevista exclusiva|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33531616.mp3|O Sr Roblek virá a tempo|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36955706.mp3|inestimável ou irrisório|2.304
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27035006.mp3|A soberania da União é um trabalho artificial|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31891443.mp3|Adota uma forma de foice ou sabre mais ou menos fechada|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20129961.mp3|Isso é bem verdade|2.568
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37247159.mp3|apenso|1.116
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35133537.mp3|Luiz Carlos Prestes|2.7
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33367305.mp3|Vira|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28293694.mp3|As algemas estão todas trancadas na velha caixa|6.264
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30609145.mp3|Pouso Alto|2.7
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19366338.mp3|Você tem um espelho|3.36
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28684321.mp3|Santa Cruz|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32800949.mp3|Mairinque|3.456
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21819971.mp3|Sua equipe fará o trabalho de limpeza|4.056
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19748889.mp3|Um garoto anda de scooter Segway por uma praça da cidade lotada|5.256
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21903629.mp3|Você ainda está usando o Google Tradutor|4.368
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20842717.mp3|O ritmo está quase caindo no chão|3.672
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35160640.mp3|a satisfação das necessidades econômicas mais imediatas|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33471379.mp3|Este portal nasce em paralelo com a distribuição|6.156
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19455514.mp3|Mulher inclinouse falando no telefone|3.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26015678.mp3|Exercício de trabalhos semelhantes ao conteúdo técnico e especialização do site solicitado|7.308
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36133094.mp3|São Tomé das Letras|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19401115.mp3|Um homem que está ao lado de um carrinho de cachorroquente|4.056
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20448552.mp3|Eu não conseguia parar de olhar para ela|3.936
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23646454.mp3|Se você continuar assim seu corpo será quebrado|4.896
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19893310.mp3|A capa da revista mostrou um cachorrinho fofo|4.104
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23670252.mp3|Fale com eles sobre as condições|2.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19798303.mp3|Foi completa idiotice|3.648
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25318483.mp3|Vou contar a ela o que penso dela|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35971307.mp3|Capela Nova|1.908
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25028041.mp3|Carlos Henrique Rodrigues da Silva|2.484
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21842619.mp3|Trabalhando em uma fábrica fazendo chapéus|4.008
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37818747.mp3|Jordão litorânea Israel israelitas israelenses|4.464
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25988054.mp3|O proprietário afetado compartilhará a parte atribuída com o detentor do direito|6.48
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35133426.mp3|Os trabalhadores rurais desde o médio e pequeno sitiante até o arrendatário|5.94
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20653043.mp3|Fale com a mão que escreveu todos os disse o sol|5.856
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23951154.mp3|Itaguaí|2.136
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35820802.mp3|em toda a parte oprime e submete o trabalhador|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20610107.mp3|Você apostou seu baixo dólar que nós faríamos|6.816
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19359775.mp3|Será derrubado pelo tufão|3.576
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27147677.mp3|Ele era um garoto muito atraente fisicamente e intelectualmente|6.192
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28736667.mp3|Novo Horizonte do Norte|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28570333.mp3|Montanhas|2.448
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25337237.mp3|Você ainda não me disse|2.124
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37251328.mp3|incontroverso|1.332
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24441903.mp3|O jogador foi xingado de viado|3.636
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19839118.mp3|Uma criança está na praia ao lado de uma cadeira dobrável de lona vermelha|5.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20669449.mp3|Eu não sou muito bom nisso|3.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32341724.mp3|Salinópolis|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25199334.mp3|Você mesmo disse que ele não confia facilmente|2.988
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_38221738.mp3|A socialdemocracia faz de tudo para sabotar o espírito revolucionário popular|5.328
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19791519.mp3|um homem pulando de um prédio para outro próximo|4.104
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19424729.mp3|Foi uma espécie de fascínio que paralisou minhas ações|5.16
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32103792.mp3|foi preciso fazer um vomitório especial|4.32
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36109113.mp3|Estrela dOeste|1.944
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27027279.mp3|Está estabelecido em um único blog todos os dias|3.888
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20799583.mp3|Em alguns lugares o chão estava coberto com o sal de lagos secos|5.976
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24999185.mp3|O segundo filho também nasceu|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24015409.mp3|Fortaleza|2.556
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21361141.mp3|É assim que sempre é disse o velho|4.344
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36816346.mp3|Sumé|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33367290.mp3|Não funciona se o moinho estiver em pé e a língua estiver silenciosa|6.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25461145.mp3|Se chover até abril tempere o cogumelo|4.536
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20705646.mp3|Sacos baratos e baratos estão sendo vendidos em todos os lugares neste mercado|7.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19589965.mp3|Uma mulher segura uma lâmpada acesa|2.904
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37241933.mp3|respectivo|1.548
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25362408.mp3|Enquanto você viver  viva|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26553254.mp3|Eu tenho a sensação de ser provocado|3.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20467324.mp3|Os meninos balançam em um balanço verde fora de uma estrutura de madeira velha|6.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19375830.mp3|Eu não comecei a fechar o dia de novo|3.216
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32243729.mp3|Santo Antônio dos Milagres|3.132
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25135497.mp3|Colombo|2.808
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37043297.mp3|Planificação|1.188
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19818115.mp3|O nome Brian Anderson significa alguma coisa para você|4.176
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21574508.mp3|Volume baixo|1.992
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33293216.mp3|Figueirópolis|2.484
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36409473.mp3|De repente ele lembrou que em Tarifa havia uma mulher idosa que interpretava sonhos|7.812
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_28831541.mp3|Cristópolis|3.96
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27033689.mp3|Chamase Gouvêa|3.06
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32424915.mp3|Entre Ijuís|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26716520.mp3|Bienal de São Paulo|3.06
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19791513.mp3|Um homem em um colete de construção está olhando para um veículo|4.848
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_24015352.mp3|Aureliana Rodrigues de Castro|3.564
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20482409.mp3|Os dois estão se afastando|3.936
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22718466.mp3|Os resultados dos testes dos pais enganados são bons|4.944
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21919162.mp3|Pontos de vista e instalações de segurança serão a única grande infraestrutura permitida|6.744
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36461116.mp3|Travesseiro|3.672
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37004052.mp3|giro apólice quebra armazém atacadistas balsa bitrem reboque blocagem logística|6.948
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20142181.mp3|Este serviço deve ser oferecido em um espaço que garanta confidencialidade e discrição|7.512
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_33643027.mp3|Pouso Novo|2.124
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32243770.mp3|O rodaque de chita veste caseira e leve parecia nele uma casaca de cerimônia|9.72
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21479202.mp3|Você sabe o que quero dizer|2.496
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_23670238.mp3|Formatura nacional de hoje|3.096
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19748661.mp3|Um homem mais velho está bebendo e segurando um martelo gigante|5.496
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20799727.mp3|Duas mulheres sorriem enquanto está sentado em uma mesa|5.112
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_22227009.mp3|A avaliação será a média aritmética das três questões escolhidas pelo oponente|6.696
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27713825.mp3|Vou pedirlhe para falar sobre isso instantaneamente mas não por email|5.58
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36046898.mp3|Montanha|1.368
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19551478.mp3|Eu não pude|3.312
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35133403.mp3|defesa nacional|2.34
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19435866.mp3|Um cara voa pelo ar em sua bicicleta em um parque de skate|5.184
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20432054.mp3|Você deveria ver o email dele|2.544
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20063288.mp3|O bebê coloca o pé direito na boca|3.24
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_25192862.mp3|Que roubo|1.872
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_32884826.mp3|Prestaram socorro àquela pessoa imediatamente|5.868
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21962407.mp3|Você tem a chave|2.952
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_27620144.mp3|O que quer dizer|2.448
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20523914.mp3|Você tem certeza de que está confortável|4.344
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21252259.mp3|Abra o firefox|2.784
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_26943818.mp3|Dizse que a descrição do passado não é suficiente|4.644
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20956050.mp3|Um adulto e uma criança que anda ao ar livre no outono|6.024
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_21798045.mp3|O que eles têm que comer|2.112
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19401102.mp3|Inadvertidamente|2.664
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20064280.mp3|Quatro caminhantes estão subindo uma montanha cheia de neve encimada por penhascos íngremes|6.528
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30618588.mp3|Eu olhei para ele dos meus olhos|3.276
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_30197302.mp3|Rosto largo e olhos grandes cara de coruja|4.068
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37226661.mp3|inflamabilidade Tasmânia dermatites|3.564
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_35954069.mp3|Dando o máximo de si mesma|2.916
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_31891698.mp3|Madeira de oliveira fogo de cavaleiro|3.78
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_20911383.mp3|Você poderia comprar uma escova de dentes|3.984
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_37763475.mp3|subsolo nióbio tantalita manganês balança comercial mineradora|5.796
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_19470802.mp3|Estou de bom humor agora|2.304
+/home/ashankwi/commonVoiceData/pt/trainFiles/common_voice_pt_36541311.mp3|Você não disse a ela|2.628

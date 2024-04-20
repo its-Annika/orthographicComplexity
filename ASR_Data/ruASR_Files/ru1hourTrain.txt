@@ -1,707 +1,701 @@
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19103771.mp3|Приверженность Испании нераспространению и разоружению в области обычных вооружений не подлежит сомнению|10.392
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18961276.mp3|Мы благодарим делегацию Соединенного Королевства за организацию этой важной дискуссии|6.816
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25426764.mp3|Я читаю учусь вообще стараюсь стать в уровень с современными требованиями|5.148
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25926173.mp3|Сейчас нам необходимо углублять процесс европеизации|4.536
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25405352.mp3|Тому с полгода как ее матушке а моей сватьюшке сделался удар|6.3
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26085250.mp3|Я прошу его назвать Корейскую НародноДемократическую Республику «Северной Кореей»|6.48
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30642645.mp3|Она похожа на мертвую лошадь|3.132
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20957689.mp3|Все переглянулись ничего не сказав и стали смотреть альбом Анны|4.344
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23009422.mp3|Что случилось на самом деле|3.096
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20362106.mp3|Больше медлить нельзя|3.072
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18919365.mp3|– Я тебе знакомых не выбираю – с отчаянием защищалась Женя|5.496
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18913425.mp3|Из трубы валил густой дым|2.544
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30635129.mp3|Чуть тише|1.908
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36724002.mp3|Тихо Здесь стоит уж слишком гробовая тишина чтото явно не так|5.4
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26109371.mp3|Весна осадила нас в татарской деревушке|4.356
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36724044.mp3|И он ждал ее в ее гостиной|2.268
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20984641.mp3|Канада последовательно призывает ко всеобщему присоединению к Договору о нераспространении|8.112
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37210527.mp3|И день и силы посвящены труду и в нем самом награда|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19518930.mp3|Сделать это еще не поздно|2.976
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26078565.mp3|Укрепление национального потенциала постконфликтных стран должно лежать в основе всех наших усилий|6.588
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35042546.mp3|Он сидел с молодым военным и подле них были два перевернутые стула|6.3
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27099291.mp3|– Что я могу для тебя сделать Говори|4.752
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22911311.mp3|Я когда ее вижу у меня прямо ноги подкашиваются|3.792
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19471671.mp3|Семь раундов межправительственных переговоров прошли практически безрезультатно|4.776
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30503355.mp3|однако|2.52
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21644902.mp3|И так оба не высказав своего мнения они разошлись|4.257875
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19576350.mp3|Экономическое положение страны еще более усугубилось в период гражданской войны|5.328
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36777714.mp3|А жена его просто неприличная дама|3.888
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22227351.mp3|Нельзя неразумно недопустимо продолжать вести себя как обычно как будто все в порядке|6.864
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20546656.mp3|Греция осознавая важность своей миссии будет продолжать принимать активное участие в этом процессе|7.656
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873573.mp3|Восемьдесят два миллиарда восемьсот тридцать один миллион сто восемьдесят четыре тысячи шестьсот четырнадцать|7.56
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18892699.mp3|Верьте в нас|2.304
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18988198.mp3|На это указывает процесс последовательного удовлетворения чаяний народов Ближнего Востока в ходе «арабской весны»|8.424
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32965976.mp3|Вот что я хотела сказать|3.168
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19798752.mp3|Израиль присоединяется к международному сообществу и готов продвигать эту работу|6.0
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18881295.mp3|Необходимо совершенно точно установить кто несет ответственность за происходящее|5.64
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19644637.mp3|Взаимоотношения между страновыми структурами и названными субъектами нуждаются в более четком прояснении и укреплении|7.368
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26119409.mp3|Я стал смотреть на продолжение ужасной комедии|4.428
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32940903.mp3|От окон зарево|2.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25334563.mp3|Такова мысль которая исходит не из столиц а от граждан от наших людей|4.896
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37758902.mp3|Я хотел бы сосредоточиться в частности на ключевой роли в этом деле молодых людей|7.272
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35203711.mp3|В драке не оправдываются и не извиняются|5.328
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18966295.mp3|Что надо было бы заняться всерьез изучением теории этого процесса|5.904
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20177327.mp3|Мы работаем вместе над конкретными предложениями и решениями и над их реализацией|7.296
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18980650.mp3|Забудьте об этом  я взяток не беру|5.088
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36979519.mp3|Тень бедствий пала и на родных|3.996
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36763195.mp3|А то это меня уже начинало огорчать|3.96
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20876330.mp3|Китай надеется что сегодняшнее заседание будет активно содействовать многосторонним переговорам по разоружению|6.264
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19847143.mp3|Кроме того дружественные страны помогли нам приобрести на очень выгодных долгосрочных условиях важное оборудование|7.608
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27159089.mp3|Сотрудник может продолжать работать за персональным компьютером|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27400606.mp3|Есть ли там признаки начинающейся гражданской войны|5.256
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26826625.mp3|Я взял слово потому что хотел предложить несколько кратких дополнительных комментариев и замечаний|7.56
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22159685.mp3|Весловский сделал промах и дупель пересел в некошенный луг|6.12
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21570241.mp3|И поэтому мы продолжаем действовать вопреки здравому смыслу|4.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24548426.mp3|Вместе с тем Беларусь признает наличие определенных пробелов в ныне действующем космическом праве|7.02
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33622841.mp3|Она страдала жаловалась и торжествовала этими страданиями и радовалась ими и любила их|5.58
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18891074.mp3|На этом Совет Безопасности завершает нынешний этап рассмотрения данного пункта своей повестки дня|6.024
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19574464.mp3|Технический прогресс открывает людям беспрецедентные возможности для добровольческой деятельности|6.504
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27298990.mp3|В нем не было ничего искусственного напускного или неискреннего|5.796
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19336475.mp3|Я прибыл сюда с посланием от смелого и гордого народа|3.696
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22402751.mp3|Собственное толкование Азербайджаном этого доклада противоречит разъяснениям и рекомендациям представленным ранее сопредседателями Минской группы|10.44
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36698071.mp3|Нидерланды  бывшая Голландия|2.916
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31471443.mp3|Росла росла и через четыре года стала взрослой барышней|7.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27302043.mp3|Я не могу вам отказать хотя мы и решили пока его отложить|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30649943.mp3|Признала себя виноватою|3.78
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362660.mp3|Они погубили свои карьеры изза женщин|3.42
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20705487.mp3|Моя дочь по закону  не моя дочь а Каренина|4.728
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20376609.mp3|Мы заслушали последнего оратора в моем списке|4.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25248728.mp3|Помимо этого вряд ли эффективно использовалось время|4.14
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868434.mp3|Африка взяла на себя ответственность руководящую роль и управление этим процессом|5.592
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21930400.mp3|Мы намерены и далее оказывать такую помощь|3.624
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36825906.mp3|От нетерпения дело долго не могло уладиться|4.428
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26860812.mp3|Это поможет нам ибо мы составляем доклад данного органа|5.976
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22268035.mp3|Так оно и произойдет и она будет предоставлена|5.856
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30145701.mp3|Все опять сели к столу и продолжали пить|5.616
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26562587.mp3|Терроризм  это враг всех цивилизованных народов|3.456
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21277749.mp3|Надеемся что это наше предложение приемлемо для других делегаций|6.312
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868378.mp3|Недавно была успешно проведена Лондонская конференция по Сомали|4.848
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18896719.mp3|Разве можно оставаться сторонним наблюдателем перед лицом вооруженного вторжения со стороны иноземных агрессоров|6.192
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32977954.mp3|Она брюнетка и ей не будет итти У меня это всё рассчитано|5.976
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25692268.mp3|Милости прошу к нашему шалашу я пирогов покрошу и откушать попрошу|4.644
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879376.mp3|В нынешних обстоятельствах проблему существующих запасов нужно улаживать самым непосредственным образом|7.584
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24967896.mp3|Они также являются путем к укреплению режима нераспространения|5.544
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932778.mp3|Почему гражданское общество должно платить столь дорогую цену|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921844.mp3|Благодарю посла Венгрии за его заявление|3.096
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30014207.mp3|банка|1.728
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20984713.mp3|Чем дольше мы выжидаем тем больше может поистине ухудшиться международный контекст в плане безопасности|8.184
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20792916.mp3|В данной связи в этот день в Комитете образовалась вакансия|5.424
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36862139.mp3|Они судили бы справедливо|3.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921374.mp3|Это крайне важно для обеспечения безопасности и защиты прав женщин мужчин и детей|5.184
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35177935.mp3|Это было не то чего она ждала|2.268
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19360221.mp3|Иначе эта резолюция могла бы быть принята на основе консенсуса|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19091864.mp3|И позвольте мне господин Председатель заверить вас в полной поддержке нашей делегации|7.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31912250.mp3|Теперь это прошло|3.348
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821551.mp3|Оглядев горницу Левин вышел на задний двор|4.248
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28915998.mp3|Это моё предположение|2.772
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20389808.mp3|Создание Совета по правам человека стало важным этапом продолжающейся реформы Организации Объединенных Наций|8.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19548314.mp3|В этом плане позвольте мне особо остановиться на трех уроках извлеченных из прошлогодней дискуссии|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37103743.mp3|Одно ему в мире кажется злом  это алиментщица|4.068
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22797140.mp3|Деньги меня не волнуют|3.168
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868415.mp3|Однако в проекте программы работы приоритет отдается вопросу о переговорах по ядерному разоружению|6.96
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25634532.mp3|Доступ пользователя к своим файлам и данным|4.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30601725.mp3|Он теперь как и Васька по пятам ходил за ней|4.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34918277.mp3|На привале мы расставили палатки и разожгли костёр|3.996
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21507912.mp3|Арабы дали положительную оценку этим параметрам|3.384
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30582126.mp3|Она любила его спокойный ласковый и гостеприимный тон в деревне|5.76
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18987697.mp3|Нашли его при помощи фоторобота|3.504
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21571171.mp3|Мы также испытываем оптимизм необходимый для того чтобы еще решительнее заниматься вопросами развития|6.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20976785.mp3|И соответственно мы не будем предлагать какихто поправок|5.544
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18858650.mp3|Никаких возражений это должно быть сделано немедленно|4.224
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19100737.mp3|Благодарю посла Индии за его выступление и предоставляю слово послу Венесуэлы|6.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879313.mp3|В следующий четверг мне будет уже семьдесят семь лет так что жизнь очень длинная|5.712
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28254638.mp3|Мы же считаем такие попытки совершенно бесполезными|4.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18896843.mp3|Привет по ящикам не понял они для красоты стоят|3.888
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30676590.mp3|– И из этого дома человек ушел в Красную Армию|5.4
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20878206.mp3|Как мне думается Генеральным секретарем было сделано очень важное заявление которое содержит несколько тезисов|6.888
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20602153.mp3|Стоящие перед нами задачи требуют международной решимости и совместных действий|7.272
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26402268.mp3|Это показалось ему повидимому странным|3.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27470071.mp3|Стратегия уплотнения процессов|3.564
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27613420.mp3|Проституцию нельзя отделять от вопросов статуса и достоинства людей|5.184
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25692241.mp3|Быть такого не может|1.98
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27433692.mp3|– Скажи зачем – спросила его Женя|3.276
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27159349.mp3|Мы не откажемся от проведения этой принципиальной и твердой политики|5.688
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36687693.mp3|Я и слышать больше ничего не хочу об этом потерянном носке|3.528
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26139572.mp3|Индия также разделяет озабоченность международного сообщества гуманитарными последствиями безответственного применения кассетных боеприпасов|8.244
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27655762.mp3|Петр в печке пёк печенье да перепёк всю выпечку|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21276500.mp3|Мирное использование космического пространства повседневно играет кардинальную роль в нашей жизни|5.904
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33319616.mp3|Миссис Одри вчера не здоровилось но сегодня ей уже лучше|5.04
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25749118.mp3|Использование морской блокады|2.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25133913.mp3|Итак зачем нам нужен этот доклад почему он нужен именно сейчас|6.588
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30649871.mp3|Папа так и шлепнулся на стул не окончив тоста|4.356
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21935409.mp3|Наша экономическая модель всецело основана на экономической свободе|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35042101.mp3|А нынче он слишком был взволнован|3.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21950226.mp3|Бразилия готова взять на себя обязанности постоянного члена Совета|5.016
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28727180.mp3|Она оглянулась на него|3.096
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38751089.mp3|Если вы не уверены в предложении вы можете перейти к следующему|5.292
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33163895.mp3|И день за днем ужасно злить меня вот это стало|5.328
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18987713.mp3|При наличии хорошо продуманной программы трудоустройства молодежи фундамент прочного мира будет более надежным|7.464
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26345924.mp3|Я считаю такую практику полезной и надеюсь что и вы тоже считаете так же|7.596
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19659969.mp3|Народ Пакистана продолжает последовательно проявлять огромную самоотверженность терпение и великодушие|6.672
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19563965.mp3|Вовторых кто является главными действующими лицами|4.464
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30601627.mp3|Мы  только согласия вашего ждем|2.88
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25236822.mp3|Я уж не уверена зачем бы Вы требовали от координатора отчитываться определенным образом|5.976
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18864400.mp3|Китай приветствует этот обмен мнениями по активизации работы Конференции|6.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34918249.mp3|От окон густое солнце льется на спящий город|4.068
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20257000.mp3|Мы хотели бы пожелать ей всего наилучшего в ее начинаниях|5.088
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30322663.mp3|Милая дамочка шла довольно быстро и я чувствовал что мне ее не догнать|6.12
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28947759.mp3|Ты говорил что наше положение мучительно что надо развязать его|5.94
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30440169.mp3|Она заедет за мной|3.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18914097.mp3|А вон Тимур – сбросив платье показала она на усыпанный ребятами противоположный берег|7.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20984724.mp3|Сейчас по просьбе Председателя я зачитаю лишь наиболее важные положения устного заявления|7.632
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921370.mp3|– Брось карты тут к тебе какаято церемония пришла|4.944
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31054357.mp3|Вы рады папа|1.8
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18912272.mp3|Он всегда вперед лезет|2.184
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18911041.mp3|Я также приветствую присутствие господина Танина в Совете|5.424
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19043478.mp3|Темпы технологического развития создают серьезные вызовы для космической безопасности|5.64
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37578369.mp3|В связи с этим мы приветствуем ряд позитивных сдвигов произошедших за последний год|5.328
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31424089.mp3|– Послушайте – неожиданно просто предложила ему Ольга|5.256
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26072881.mp3|Я просил у него прощения но старик был неутешен|4.5
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19493051.mp3|Это трудный цикл по многим причинам|3.912
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18918916.mp3|Дунай протекает через десять стран|3.504
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18920772.mp3|Их нельзя перечеркнуть одним росчерком пера|4.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22708700.mp3|Господин Председатель я просил бы Вас принять решение по следующему вопросу|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23146564.mp3|Туда надо добавлять тертое яблочко|4.512
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20223209.mp3|Затем также появятся люди которых не испугают сумрачные просторы космоса»|6.552
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821491.mp3|А как вы сюда попали|2.88
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822234.mp3|Гладиатор поднялся не стукнув ничем взмахнул коротким хвостом и исчез из глаз Вронского|8.28
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30302059.mp3|Ах ну обыкновенное пятно посаженное зелёной краской|6.156
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31406620.mp3|Он очень мил|2.268
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23690659.mp3|Должна Вас огорчить у меня иная точка зрения нежели у Вас|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31379595.mp3|Еще лучше смотреть в таз с водой|5.04
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18993115.mp3|Многие на Западе опасаются усиления политического Ислама|4.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399195.mp3|А впрочем что же это мы говорим|3.132
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25579249.mp3|Поэтому реформа Организации Объединенных Наций носит неотложный характер|5.256
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26119399.mp3|Мы обязаны и впредь помогать народу Ливии в процессе примирения и восстановления|6.156
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22318904.mp3|Простоял бы и дольше но вдруг внизу послышались тихие осторожные шаги|5.136
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18910448.mp3|Не смотри на меня как будто я с Луны свалился|3.624
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868489.mp3|Мы должны проявлять стратегическое терпение и не отворачиваться от этого региона|5.52
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873668.mp3|– Оставь штурвальное колесо и беги прочь|3.312
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27345585.mp3|Поэтому Ассамблее следует начать рассматривать другие варианты продвижения вперед процесса многосторонних переговоров по разоружению|8.316
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873857.mp3|В экономическом плане дела у страны идут очень хорошо|4.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28915463.mp3|Он бедный целые ночи просиживал с туфлёй в руках|7.776
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28870817.mp3|Мне нужно всё знать|2.448
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20548790.mp3|Я хотела рассказывать Долли и хорошо что не рассказала|4.08
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26437000.mp3|Если она не сможет этого сделать необходимо будет принять какието другие конкретные меры|6.12
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27137325.mp3|– Кто|2.196
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25695197.mp3|Новая система будет обеспечивать доступ на основе потребностей пациентов а не их финансовых возможностей|5.616
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35218979.mp3|Он напрягает мысль чтобы снова приблизиться к людям сойтись с ними|5.868
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20976820.mp3|В отличие от языков ее невозможно было забыть|5.256
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822047.mp3|А толку что|2.448
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19581101.mp3|Не следует пытаться подчинить борьбу ливийского народа жесткому графику работы Генеральной Ассамблеи|7.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26085269.mp3|Ему подвели белого коня украшенного богатой сбруей|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19563590.mp3|Такое соглашение должно быть юридически обязывающим прочным и всеобъемлющим|5.28
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21587157.mp3|А теперь слово имеет уважаемый посол Швейцарии|4.32
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24967991.mp3|Их надлежит активизировать посредством наращивания ресурсов и прилагать беспристрастно при всемерном соблюдении суверенитета государств|8.856
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25246557.mp3|В этой связи Филиппины выдвинули свою кандидатуру на пост в Международном уголовном суде|5.724
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21950320.mp3|Следует также всерьез заняться рассмотрением всех остальных важнейших вопросов|4.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21251889.mp3|Благодарю представителя Словакии за его заявление и за теплые слова высказанные в адрес Председателя|7.944
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35093463.mp3|В эту пятницу мой последний рабочий день|3.636
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18931471.mp3|Внесение новых видов спорта в программу должно быть одобрено Международным олимпийским комитетом|8.544
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18937010.mp3|Я был председатель Верховного Совета|3.384
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26118629.mp3|Мне главное надо чувствовать что я не виноват|3.456
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30638929.mp3|Что силёнки не хватает|3.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22797026.mp3|Очень хочется произвести на Вас приятное впечатление|4.992
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22713348.mp3|Ведь мы же ничего плохого никому не сделали|3.264
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30649961.mp3|И грудь у нее неприличная|6.48
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33319766.mp3|Даже до луны расстояние советскому жителю кажется чепухой|5.184
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18858402.mp3|Очень трудно пробивалась социология|3.12
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19527981.mp3|Многие ораторы подчеркивали необходимость укрепления координации экономической политики|5.904
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18951648.mp3|У нас тут чтото на радаре|2.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879101.mp3|Скажем если вы сняли великое кино и положили его на полку|4.704
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20526914.mp3|Мы признательны за эту возможность проанализировать работу Совета за этот период|5.376
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31719405.mp3|Двоето не вернулись|3.78
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26119403.mp3|Делегация которая казалось была озабочена больше всего предпочла не воспользоваться этим зазором|5.94
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18913445.mp3|Позвольте мне задать Германии вопрос|3.624
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20900427.mp3|Настало время покончить с двойными стандартами в применении принципов международного права|7.368
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26085569.mp3|Мы также согласны с тем что можно убрать слова «и рекомендации»|5.616
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34913671.mp3|Он стал ходить взад и вперед с удовольствием глядя на лакеев|5.436
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26826991.mp3|Предложения Пакистана идут в принципе в двух направлениях|5.436
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30503451.mp3|И все чаще и чаще стали встречаться трупы|4.464
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29109841.mp3|Некоторые открыто говорили об этом давая точные объяснения которые казались им правдоподобными и ясными|6.768
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18914842.mp3|Сейчас я предоставляю слово представителю Сенегала который выступит от имени Группы африканских государств|7.656
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23407084.mp3|Приговор лжив|2.976
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19157512.mp3|Латинская Америка  это не Африка и не АзиатскоТихоокеанский регион|4.68
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19627063.mp3|Что касается Комитета по проверке полномочий то он рекомендовал признать полномочия Национального переходного совета|7.224
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23009301.mp3|Но я собираюсь его забрать так скоро как смогу|4.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35279756.mp3|Сейчас с моим пледом спит моя дочурка|3.06
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31423988.mp3|Кити молчала не поднимая глаз|4.356
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821571.mp3|Агафья Михайловна знала все подробности хозяйственных планов Левина|5.22
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30676645.mp3|Милый пойди к отцу|3.276
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30309032.mp3|Какая прелесть|3.06
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31331928.mp3|Очень мы сейчас им нужны|3.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26433340.mp3|Нельзя мириться с ее беззубостью|3.816
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28915718.mp3|Я давно уже узнал все тайны рая|3.924
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28968060.mp3|Скажите завтра в два часа|3.276
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897242.mp3|Алжир является столицей Алжира|3.0
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36698068.mp3|Курица слов не понимает и продолжает ржать|3.42
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868474.mp3|Секретариат получил просьбы от следующих сторон Кувейта Мальты и Черногории|6.072
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18970879.mp3|Вопервых мы высоко оцениваем работу проделанную Вами господин Председатель|4.896
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38407262.mp3|Я стал читать текст но ничего не понимал слова както прыгали в глазах|5.868
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23990578.mp3|«Рано Петр Андреич – сказал он мне качая головою – рано начинаешь гулять|6.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28967989.mp3|Сколь много в этом коварства|2.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19348204.mp3|Необходимо наращивать производство натуральных продуктов питания по низкой себестоимости чтобы содействовать их массовому потреблению|7.704
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21506125.mp3|Сейчас Ассамблея заслушает выступление эмира Государства Катар|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19578924.mp3|Экономический рост в странах Азии чрезвычайно позитивно сказывается на глобальной экономике|5.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19575360.mp3|Япония высоко оценивает руководящую роль Организации Объединенных Наций в координации международной помощи|6.792
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19563453.mp3|Это стало важным прорывом в процессе который Ангола приветствует|5.232
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25133898.mp3|Канада является участником семи основных международных документов по правам человека|7.2
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25981648.mp3|Эта тенденция поощряется Генеральным секретарем и пользуется поддержкой значительного числа государствчленов|8.064
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21902136.mp3|Через несколько дней Генеральная Ассамблея и Совет Безопасности выберут шесть судей|6.408
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31912137.mp3|Поезд останавливается|3.888
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821894.mp3|Заступников было мало|2.556
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19797698.mp3|Национальный комитет утвердил план действий по проведению Международного года кооперативов|6.024
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25112940.mp3|Ну что ж придется повысить напряжение|3.42
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26860782.mp3|Мы призываем государствачлены надлежащим образом отметить на международном уровне это историческое событие|8.748
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27613389.mp3|Региональная интеграция несомненно сыграла важную роль в стимулировании торговли инвестиций и развития|7.236
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22424255.mp3|Вот почему пользуясь этой возможностью мы хотели бы объяснить мотивы нашего решения|6.384
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21392247.mp3|При наличии возможностей Организация Объединенных Наций в состоянии достичь цели всеобщего и полного разоружения|7.944
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36698033.mp3|Кто же его поддержит|2.34
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18849422.mp3|Моя делегация также приветствует присутствие среди нас сегодня Высокого представителя по вопросам разоружения|6.912
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36444724.mp3|Облонский и Вронский оба видели обезображенный труп|5.328
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19067129.mp3|Совершенно очевидно что для выхода из тупика нет легкого решения|5.352
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32029599.mp3|Поезд уже двигался медленно и осторожно слегка вздрагивая и точно нащупывая дорогу|7.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18966376.mp3|Я считаю для себя большой честью служить Организации на посту Генерального секретаря|5.136
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36687602.mp3|Было слышно как собака обнюхивала дверь|3.132
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18931635.mp3|Кроме того утвердив этот проект резолюции мы тем самым примем итоги женевского обзора|7.992
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20376629.mp3|Мертвый сон охватил его|3.264
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31466265.mp3|Откликнись кто идёт|2.664
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31424078.mp3|Брошусь на землю камня корою в кровь лицо изотру слезами асфальт омывая|7.74
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36373174.mp3|Дабы никто не подслушивал наш разговор мы перешли с немецкого языка на белорусский|5.436
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22721896.mp3|Да там на воротах еще третьего дня наш знак поставлен|3.624
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18951592.mp3|Он нахмурился подумал|3.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27308973.mp3|Теперь я перехожу к вопросу торговли стрелковым оружием и легкими вооружениями|7.668
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18910158.mp3|Они  лидеры завтрашнего дня|3.504
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36761218.mp3|Кирила Петрович принимал знаки подобострастия как надлежащую дань|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27475570.mp3|Мы будем продолжать взаимодействовать с государствами обладающими ядерным оружием в этом плане|6.66
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18911446.mp3|Здесь люди поют… музыка|3.024
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18914839.mp3|Ольга вернулась к машине|2.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20957392.mp3|Мы также учредили системы контроля в отношении неинфекционных заболеваний и изучаем факторы риска|5.808
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18881337.mp3|Я провожу вас на пути к равнинам|3.048
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26096428.mp3|Рано утром разбудил меня барабан|2.988
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24802893.mp3|Пришло не по почте а в Скворешники через неизвестного человека к Алексею Егорычу|5.508
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932407.mp3|Вот и все|2.016
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26088775.mp3|Существуют конфликты разногласия и смерть|3.348
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28844107.mp3|У нас устроилось|2.916
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32386010.mp3|Однако они также обсуждались многие годы без какоголибо реального прогресса|7.056
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21570794.mp3|Так что нам так и так пришлось бы принять решение|4.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879201.mp3|Квантовую механику я знаю разумеется он переходит тоннельно потому что не скакать же ему|6.312
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23009164.mp3|Вы обратили внимание что у нас регулярно возникают перебои с товарами|5.448
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21919290.mp3|Мы особо отмечаем важную роль Комиссии по миростроительству|5.4
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20957581.mp3|Финансирование Миссии Организации Объединенных Наций по стабилизации в Гаити|5.568
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32033422.mp3|Поднимался ветерок и стало серо мрачно|7.02
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21293682.mp3|Реализация национальной стратегии развития Республики Таджикистан остается ключевым направлением в деятельности правительства|7.8
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19563848.mp3|Наконец мы воздаем должное Совету за успешное завершение первого цикла универсального периодического обзора|8.904
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28947338.mp3|раздался|2.556
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21667446.mp3|В прошлом здесь на данной Конференции было представлено еще по крайней мере три определения|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897372.mp3|Мы осуждаем эти неизбирательные нападения которые должны прекратиться|4.728
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34512471.mp3|Многоуважаемый профессор вылечите мою правую руку|3.888
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24548239.mp3|Многое еще можно и нужно сделать|4.284
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121818.mp3|Где бы стопу бумаги исписали я графу доложу потолкуем и в трех словах|5.832
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22424239.mp3|Всестороннее участие государств в этом процессе будет содействовать сохранению ими доверия к его результатам|6.624
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26426842.mp3|– «Изволь государь только девкато не сможет встать и придти к твоей милости»|6.408
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24548482.mp3|Сыта киска пуста миска|3.132
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932721.mp3|Недавние события в городе Хомс и в других городах вызывают особую тревогу|6.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20253291.mp3|Революция во имя свободы  это не самое трудное социальное преобразование|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897600.mp3|Мы попрежнему весьма обеспокоены состоянием защиты прав человека и гуманитарной ситуацией в стране|8.592
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932669.mp3|Помимо международных организаций должного внимания также заслуживает роль региональных и субрегиональных организаций|8.856
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19066696.mp3|Для предотвращения этой угрозы необходим новый международноправовой инструмент|5.952
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38403456.mp3|Мы поддерживаем право Израиля на существование|5.04
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18863894.mp3|И моя делегация твердо выступает за это чтото|4.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30642938.mp3|Особенно если они играют на деньги|3.06
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23879773.mp3|Он усмехнулся злобной усмешкою и приподняв свои цепи опередил меня и ускорил свои шаги|7.896
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26078712.mp3|Африканский континент также на протяжении долгого времени испытывал различные последствия трансатлантической работорговли|9.0
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25236787.mp3|Мы надеемся что он будет принят на основе консенсуса|4.14
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20412642.mp3|Сегодня нам предоставляется отличная возможность продемонстрировать волю к достижению успеха|8.376
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30661085.mp3|Он так грустен|2.988
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31642817.mp3|Решайтесь башня  нынче же вставайте все разворотив Париж с верхушки и до низу|7.74
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26826829.mp3|Мы готовы к этому|3.168
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29574542.mp3|Это было так неожиданно что у меня прошел даже всякий страх|4.608
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20474990.mp3|Он восклицал с какимито взвизгами и топал ногами|4.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879304.mp3|Она подошла к пыльному зеркалу в котором отражался висевший на стене портрет отца|6.264
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20548842.mp3|Пользуясь возможностью я хотел бы поблагодарить их за сотрудничество помощь и взаимодействие|5.304
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27522568.mp3|Вот теперь настала наша очередь|5.328
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28922053.mp3|Дальше карандашные строчки стерлись и подписи нельзя было разобрать|5.904
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26345926.mp3|Индонезия преисполнена готовности и впредь вносить свой вклад в реализацию рекомендаций этой целевой группы|7.956
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30731078.mp3|Мне отмщение и Аз воздам|4.068
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32027378.mp3|И всё это так неважно|2.916
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18896620.mp3|В настоящее время эта концепция является расплывчатой и плохо сформулированной|5.112
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25037002.mp3|Мы твердо убеждены в том что единая Палестина будет лучше служить интересам палестинского народа|8.028
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31029521.mp3|Неприятельский солдат|3.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31418893.mp3|Вот жена профессора сидит и кофе пьет|4.284
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32941192.mp3|И ей легко было вспомнить о Левине|4.248
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33649754.mp3|В сущности в чем состояла борьба|3.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22797151.mp3|Вы оказались удивительно прозорливы|3.72
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20778655.mp3|Вследствие этого под оккупацией находятся палестинские территории а не израильская территория|6.672
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26865144.mp3|Международное сообщество призвано реагировать более оперативно и эффективно|6.66
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30256244.mp3|Они помирились|2.7
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27345431.mp3|Традиционная виртуализация которая используется повсеместно разделяет физическую инфраструктуру|7.956
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30225334.mp3|Лариса|2.304
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23407476.mp3|– Я и не вступала|1.1755
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28915943.mp3|радио|1.8
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399158.mp3|И она с отвращением вспомнила про то что называла той любовью|4.716
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22950736.mp3|Я боюсь ее|2.664
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19591668.mp3|Присоединение к ней не следует увязывать с региональными или другими соображениями|6.0
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18930500.mp3|Ольга отрицательно качнула головой|2.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19805191.mp3|Просим зафиксировать нашу позицию в протоколе заседания|4.752
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23407177.mp3|За столиком|2.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25018962.mp3|Это говорит о стремлении всего мирового сообщества сделать наш мир безопасным для будущих поколений|7.308
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19797412.mp3|Германия будет продолжать настаивать на резолюции Совета Безопасности|7.224
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20189691.mp3|Однако именно развивающиеся страны остаются самыми уязвимыми|4.632
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20487502.mp3|Делегацию Республики Южный Судан сопровождают к ее месту в зале Генеральной Ассамблеи|6.12
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19593703.mp3|Засуха не должна перерастать в голод|5.568
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30614707.mp3|У нее не было сомнения что она поступила как следовало|6.048
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31691056.mp3|Тюмень  лучший город|2.808
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121561.mp3|Навстречу жене бежит хозяйская дочка|3.132
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20241260.mp3|Я очень признателен им за проделанную работу|4.896
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19952043.mp3|Вовторых мы считаем что промежуточное решение заслуживает нашего серьезного рассмотрения|5.976
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21586730.mp3|Перечень этих вопросов был наконец утвержден после напряженных усилий|5.232
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36763224.mp3|Я  как натянутая струна которая должна лопнуть|4.14
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21251906.mp3|И я заверяю вас в полном сотрудничестве моей делегации|4.896
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18875571.mp3|Где Гейка|2.4
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399064.mp3|В темноте она выглядит темнозеленой|3.528
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28870844.mp3|А девушку не спрашивают|2.16
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30567194.mp3|Машкин Верх скосили доделали последние ряды надели кафтаны и весело пошли к дому|6.948
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33116118.mp3|Он велел отложить дожидавшуюся карету никого не велел принимать и не вышел обедать|5.688
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32300020.mp3|Княгиня Бетси пришла ей на помощь|3.528
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36994350.mp3|Пользуюсь этим браузером последние три года удобнее ничего не видел|5.364
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22217867.mp3|Это слово  «предупреждение»|3.888
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27355173.mp3|Это обеспечивает равные возможности в условиях демократии открытости и свободы|6.156
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821156.mp3|Встреча с мужем на вокзале|3.528
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33433836.mp3|Мы загибали наши пальцы и считали|4.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22686014.mp3|И что важнее всего это возможность предстать перед лицом будущего|5.256
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18912791.mp3|Проводите меня до вокзала|2.544
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897519.mp3|Генеральная Ассамблея сообщила о своем растущем нетерпении по поводу заторов на Конференции по разоружению|8.352
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35202463.mp3|Он вынуждал их так сказать к массовой психологии|7.668
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28915965.mp3|Стало както неуютно|3.312
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20461448.mp3|По его убеждениям самая лучшая жизнь была деревенская|4.896
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20900550.mp3|А он всё больше и больше хочет уйти от меня|4.272
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35177740.mp3|Я взял ее из дома  и он дернулся шеей говоря это|4.536
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38055446.mp3|А мне можно заниматься любовью но так чтобы вечером не опоздать к партии|5.256
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36687680.mp3|Глупой комедии остановите ход|2.88
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879323.mp3|И не дожидаясь пока Ольга чтолибо ответит Женя бросилась к ней на шею|5.952
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18914598.mp3|Реализация мер определенных в ходе обзорной Конференции порождает и другие крупные вызовы|7.464
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18882165.mp3|Гарантируется свобода массовой информации|3.72
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399189.mp3|Это камердинер вбегал за забытыми перчатками|4.212
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18976871.mp3|Это будет еще лучше|2.928
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36724078.mp3|Если не дай бог у нас появятся летающие машины жить дома будет небезопасно|5.004
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30177148.mp3|И я нездоров немного|2.988
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18920906.mp3|Слушай это ты в тот сад лазил где живет девчонка у которой отца убили|5.376
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25695273.mp3|Нашим безусловным приоритетом остается разработка договора о предотвращении размещения оружия в космосе|5.94
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30661195.mp3|Это было так страшно что я выбежал на улицу и убежал чёрт знает куда|5.616
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31501275.mp3|Ведь совершенно ясно я слышал в мозгах свист|3.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19332866.mp3|Именно это мы и должны сделать|3.936
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19593669.mp3|Мы отвергаем такой сценарий мы не должны позволить втянуть себя в такой конфликт|5.568
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26790936.mp3|Право быть избранными имеют только те кандидаты чьи имена указаны в бюллетенях для голосования|9.288
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27879275.mp3|Это похоже было на плавание судна по бурному морю|3.852
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362695.mp3|Все громче смеясь сестра поспешно вышла а брат сказал уверенно и спокойно  Да|6.588
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33900275.mp3|Судно направляется в Голландию на продажу пороха|4.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20828131.mp3|Лига истощила свой потенциал сыграв эту достойную сожаления и сомнительную роль|6.144
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19575322.mp3|Организация Объединенных Наций перестала откликаться на проблемы человечества|5.04
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32316830.mp3|Значения нет никакого|3.996
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18892679.mp3|Для меня ее фильмы – маленькие жемчужины наблюдения за человеком|5.016
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32030115.mp3|Повидаться переговорить приехал|3.348
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18987831.mp3|А вот посмотрим|2.424
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25529131.mp3|Мне даже в голову не могло прийти что ты можешь так писать|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31054374.mp3|Он тоже полоумный но от него зависит судьба вашей сестры|4.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22797176.mp3|Мы горячо приветствуем повторное назначение посла Танина в качестве руководителя межправительственных переговоров|8.16
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25842944.mp3|В столовой он позвонил и велел вошедшему слуге послать опять за доктором|6.84
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32421176.mp3|КотдИвуар постепенно выходит из этого кризиса|4.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20450368.mp3|И перечислив еще многих княжна Варвара перестала оправдываться|5.544
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33900292.mp3|Савл  имя апостола Павла до его обращения|4.212
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18981556.mp3|И куда девать всю эту мелочь|3.696
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18914789.mp3|Я говорю что у нас есть в институте человек который давно занимается экстракцией|6.096
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23927352.mp3|В ноябре зима с осенью борется|3.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22714379.mp3|Голословные обвинения Корейской НародноДемократической Республики являются для моей делегации полностью неприемлемыми|7.944
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399168.mp3|Скупые на похвалу доказывают что они небогаты достоинствами|4.536
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30605784.mp3|Но теперь прошло|2.556
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32035131.mp3|Пакин перекрестился и на цыпочках вышел из комнаты|6.84
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19527882.mp3|Надеюсь что это будет содействовать продвижению вперед на основе коллективного волеизъявления государствчленов|6.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29577473.mp3|Дзержинск  интересный город|2.952
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20474867.mp3|Поэтому признание реальных озабоченностей и потребностей молодых людей  это сегодня абсолютный императив|8.304
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36874094.mp3|Я несчастна от разлуки с сыном|3.168
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26435299.mp3|При планировании и осуществлении ответных мер не следует забывать о самых уязвимых|5.148
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22160871.mp3|Алексей Александрович вернувшись от обедни проводил всё утро дома|6.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22714389.mp3|Спасибо вам за совместное с нами и с Олимпийским движением выполнение этой задачи|5.304
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921457.mp3|Потом оказалось что он там не один а целая куча народа там|4.464
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22973932.mp3|Мне вообще надоело сидеть за столом|3.696
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31912446.mp3|Ведь вы не хотите|2.916
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822059.mp3|Но как надо выходить и выдавать замуж никто не знал|3.636
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19282230.mp3|И в этом мы хотим заручиться поддержкой всех здравомыслящих людей|4.224
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19156627.mp3|Я выступаю от имени Франции Соединенного Королевства и нашего собственного правительства|5.04
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821184.mp3|От этой иллюзии зависит все|4.536
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821501.mp3|Он очевидно вполне теперь разделял мнение желчного помещика о русском народе|7.74
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33366341.mp3|Только после смерти отца он вероятно мог отдаться всецело своей проповеди|5.22
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35457794.mp3|Беседа Кознышева и харьковского профессора в присутствии Левина|3.816
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35041892.mp3|Левин погладил Ласку и посвистал в знак того что можно начинать|5.94
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22403947.mp3|Помимо других факторов они ставят под угрозу благополучие народов и их социальноэкономическое развитие|7.656
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21902164.mp3|Генеральный секретарь отреагировал на эту вызывающую тревогу ситуацию развертыванием инициативы «Каждая женщина каждый ребенок»|10.056
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22459379.mp3|Ядерное разоружение и нераспространение  это две стороны одной медали|5.376
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21715321.mp3|Это единственный вопрос который реально угрожает региональному и международному миру и безопасности|9.456
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19791150.mp3|Обе эти темы представляют для тихоокеанских островов большой интерес|6.696
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25857701.mp3|С нами сила крестная|2.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30558283.mp3|Перезагрузи страницу|2.844
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32309010.mp3|Государства субрегиона попрежнему страдают от разрушительных последствий распространения и незаконного оборота обычных вооружений|9.036
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19575132.mp3|Израиль сделал сильный упор на образование в Африке|4.296
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21222909.mp3|Хочется надеяться что начиная с понедельника информация от Бюро и секретариата будет поступать регулярно|6.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20494771.mp3|Впятых необходимо уважать права крестьянских общин и общин коренного селения|7.344
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27620727.mp3|Слово для выдвижения кандидатуры от имени Группы восточноевропейских государств имеет представитель Украины|9.072
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19536048.mp3|Для ускорения совместного развития нам необходима стабильная международная обстановка|5.88
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121846.mp3|Я должна сказать Вы можете забыть это|3.6
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25045070.mp3|Кроме того не вполне разумным представляется и правило требующее ежегодного принятия программы работы|8.928
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21551864.mp3|Положение в Афганистане|2.856
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21616115.mp3|И поэтому высочайшим приоритетом нашей делегации в работе этой Конференции является ядерное разоружение|7.224
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18926953.mp3|Благодарю посла Нидерландов за его заявление и за его добрые слова|5.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25414473.mp3|Фараонов фаворит на сапфир сменял нефрит|3.42
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27637377.mp3|Нам очень жаль что он оставляет свой пост|3.348
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868289.mp3|Ну|2.016
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31163574.mp3|– Значит и ты находишься под нашей охраной и защитой тоже|4.86
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37137671.mp3|Президента Соединенных Штатов Америки господина Барака Обаму сопровождают из зала Генеральной Ассамблеи|7.02
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18987320.mp3|По всем этим причинам Канада проголосовала против резолюции|5.064
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27399909.mp3|Снижение оборотов здесь  не выход|4.5
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31892087.mp3|Ярославль  интересный город|3.456
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33900302.mp3|Он сел в угол вытянул ноги на переднее место и задумался|4.644
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31383475.mp3|Я завтра еду|2.592
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25236797.mp3|Исполняющий обязанности Председателя Мы заслушали последнего оратора выступившего в порядке разъяснения мотивов голосования|8.676
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18989970.mp3|Этот шаг отвечает его интересам|3.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32420954.mp3|Но лоб его не разгладился|4.14
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21809399.mp3|Моя делегация поддерживает заявление сделанное Постоянным представителем Бангладеш от имени Движения неприсоединения|8.208
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28335463.mp3|Давно давно не видались»|2.988
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31405584.mp3|Еще один вопрос позволит ли хозяин вашего дома вводить в свой дом слона|7.848
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27500856.mp3|Все что от нас требуется  это от слов перейти к делу|3.924
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36853167.mp3|Мне главное не хотелось бы чтобы думали что я чтонибудь хочу доказать|6.048
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19581121.mp3|Наша страна обрела независимость в ходе истории которую трудно назвать милосердной|6.384
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26827466.mp3|Индия поддерживает дружественные и плодотворные отношения со всеми странами региона ЮгоВосточной Азии|8.208
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18954843.mp3|Число авторов данного проекта резолюции лишь подтверждает эту мысль|5.616
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19112223.mp3|Сейчас я хотел бы предоставить слово представителю Республики Корея|4.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19224439.mp3|Мир знает что мы сможем добиться больших успехов если будем действовать сообща|8.544
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26570013.mp3|Сейчас он проходит процесс ратификации в иракском парламенте|4.068
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26435297.mp3|В этой связи мы считаем универсализацию Конвенции важной и приоритетной задачей государствучастников|6.3
 /home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24967170.mp3|Вот какой урожай пожнут те кто поощряет вмешательство во внутренние дела государствчленов|6.948
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24802296.mp3|Но башкирец глядел на него с тем же выражением и не отвечал ни слова|5.652
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821634.mp3|Разве молнии велишь не литься|3.816
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18974548.mp3|Китай выражает им признательность в этом плане|4.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19043470.mp3|Тупиковая ситуация сохраняется уже слишком долго|3.84
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28915746.mp3|Она садится перед зеркалом совершенно голая|4.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18910341.mp3|Мы попрежнему глубоко встревожены хроническим тупиком|4.776
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362328.mp3|Нынче я ездил мирить их|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18875206.mp3|Сокращение запасов расщепляющегося материала для ядерных устройств настоятельно необходимо и ввиду их масштабов|7.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27109028.mp3|Я схватил его с трепетом|3.168
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32959462.mp3|Пестр как форель сын безузорной пашни|4.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36982236.mp3|Буквицы в вашей книге уж лучше бы были самыми обычными ничем непримечательными заглавными буквами|8.064
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18898855.mp3|Позвольте мне просто сказать что как мне думается сегодня были поставлены очень трудные вопросы|6.264
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27637451.mp3|И это остается действительным и сегодня|3.42
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18885547.mp3|Благодарю представителя Египта за его выступление и за добрые слова в адрес Председателя|5.952
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26317118.mp3|Они разжигают войны ведут к рабству и разрушению целых стран|6.3
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19507813.mp3|Я говорю вот об этой книге которую держу в руке|4.44
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21306243.mp3|Двадцатилетие независимости  это лишь мгновение в историческом измерении но наша государственность имеет тысячелетние корни|9.576
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37238668.mp3|Особую обеспокоенность у нас вызывает положение женщин и детей в этой стране|5.544
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33433967.mp3|А помните в Хапилове последний раз|3.708
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22973954.mp3|Какая польза приобретать весь мир если теряешь душу|5.136
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22950631.mp3|Но я не собираюсь этим заниматься|4.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868334.mp3|Все политические стороны должны быть привержены достижению устойчивого прогресса|5.832
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18980587.mp3|Еще один авианосец уже на пути к театру военных действий|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28335488.mp3|Поэтому мы поступили согласно традиции Первого комитета|4.32
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932148.mp3|Теперь я предоставляю слово представителю Армении|3.984
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18889535.mp3|Мы полностью поддерживаем расширение и осуществление планов по стабилизации освобожденных секторов|6.384
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19797286.mp3|Позиция Зимбабве основывается на общеафриканской позиции сформулированной в Эзулвинийском консенсусе|8.4
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36698142.mp3|Было бы здоровье а здоровье слава Богу поправилось|4.14
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26430897.mp3|Мы внесли ряд предложений во время заседаний в ходе предыдущей сессии|5.364
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21367957.mp3|Надеемся что сегодня как и в предыдущие годы Генеральная Ассамблея примет его консенсусом|6.504
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27639502.mp3|Перенесенные ими страдания нельзя забывать|4.68
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20461505.mp3|Начала было и вдруг расплакалась и выбежала из комнаты|4.896
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19024413.mp3|И поэтому моя делегация готова поддерживать ваши усилия в русле достижения этой цели|6.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22911360.mp3|Тогда вот вам первый факт это не война|3.336
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25770518.mp3|Непал поддерживает расширение членского состава Совета Безопасности в обеих категориях|5.796
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20421556.mp3|Мы будем заниматься этим посредством своего активного участия во всех региональных и международных конференциях|6.744
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822229.mp3|Он не мог понять значения этой перемены|3.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33215610.mp3|Я и горничная Поля почтительно стояли у двери и смотрели на него|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25386039.mp3|Я имею честь сообщить что Ирландия за прошедшие годы выполнила это обещание|6.048
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121144.mp3|Мне непонятна ваша речь|2.772
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18936983.mp3|Поэтому мы ожидаем предстоящей Стамбульской конференции на которой безусловно будет продолжена эта позитивная тенденция|9.264
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21616606.mp3|Мне весьма приятно отметить активное и конструктивное участие государствчленов в работе нынешней сессии|7.392
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34913525.mp3|Алексей Александрович проводил шурина совсем уже не так как он его встретил|6.516
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30635182.mp3|Я несчастлива|2.16
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30601806.mp3|Егор|1.98
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18987347.mp3|Сокращение донорского финансирования тоже отрицательно сказывается на усилиях по восстановлению|6.696
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18885596.mp3|А это − безотрадная перспектива|3.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25200921.mp3|К счастью мы добиваемся в Южной Америке хороших результатов|6.3
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28947340.mp3|Толпа кинулась за дворником|4.068
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33623055.mp3|России нужны люди нужна партия иначе всё идет и пойдет к собакам|4.86
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38256542.mp3|Нужно очень осмотрительно подходить к определению таких прав обращаясь к национальному законодательству отдельных государств|7.776
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18991153.mp3|Наше последнее взаимодействие было вполне успешным|4.656
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18912412.mp3|Письмо и доклад о работе совещания будут распространены среди всех членов Конференции|6.816
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21950155.mp3|Мы с нетерпением ожидаем его реализации в самом близком будущем|4.344
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31030352.mp3|Но ведь надо заработать сколько|3.636
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822011.mp3|Не называй меня задротом|2.376
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19869394.mp3|Прошло шестьдесят лет  и положение дел не сдвинулось с места ни сантиметр|6.84
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25755179.mp3|Иран на протяжении многих десятилетий находится на переднем крае полномасштабной войны с контрабандой наркотиков|7.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19574258.mp3|Испания согласовывает свою позицию со своими партнерами по Европейскому союзу|5.664
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22116852.mp3|В некоторых случаях мигранты подвергаются особой опасности сексуального насилия или эксплуатации|7.224
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26095804.mp3|Сенатор – наш гость|2.088
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20792897.mp3|Мы все народы мира желаем скорейшего разрешения этого конфликта|6.456
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19563517.mp3|Любительский и профессиональный спорт возможны лишь в условиях мира|4.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18864370.mp3|Слово имеет представитель Ирландии|3.048
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873835.mp3|Совет по правам человека является центральным компонентом системы защиты прав человека Организации Объединенных Наций|8.112
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32263652.mp3|Фокусники приехали|3.636
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18885658.mp3|Две фундаментальные величины одной и той же размерности отличаются на семнадцать порядков|6.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25755198.mp3|– Не все то ври что знаешь|2.664
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33622686.mp3|Наряду с другими эпическими сказаниями живущими в устах народа существует еще целый отдел повестей|6.696
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19643815.mp3|Государствамчленам в чемто удалось продвинуться вперед на реформенном направлении|7.104
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26944667.mp3|И эта новая Гаити выражает слова признательности всем собравшимся в этом зале|5.76
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19043582.mp3|Я дам слово секретариату|3.312
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29111420.mp3|Подъехав к лугу Левин остановил лошадь|3.888
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37759357.mp3|Минимальная громкость|4.356
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821540.mp3|На стене слева висела двойная полка на которой лежало неопределенно что|6.48
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34514699.mp3|Большинство браузеров больше не поддерживает этот формат|6.156
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30731081.mp3|Но время и работа делали свое|2.916
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20421526.mp3|Они приводят к росту безработицы и нищеты|4.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19066741.mp3|Предлагались различные сроки|3.096
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28968009.mp3|И постепенно мною овладевал ужас от этой массы людей заключенных в тесное пространство|7.128
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362667.mp3|И ничего возвышенного нет в моей голове|3.348
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24548383.mp3|Большое Вам спасибо|2.484
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33195546.mp3|Да в висках были седые волосы|4.716
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19341556.mp3|Вместе с тем процесс переговоров набрал позитивный импульс|4.344
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362686.mp3|взять|1.836
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24297925.mp3|Регулярно устанавливать обновления программного обеспечения|4.572
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23862973.mp3|Существует возможность запустить предлагаемую систему на уже существующем оборудовании|6.624
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26352712.mp3|Жаль ты всё пропустил|3.96
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19792484.mp3|Несмотря на важность этого вопроса он не получает достаточного внимания или поддержки|7.2
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20215581.mp3|Позвольте мне воздать должное Совету за его взаимодействие с властями ГвинеиБисау|7.656
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23009582.mp3|Вы даже себе не представляете|4.008
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21902184.mp3|И поэтому следует крепить мобилизованность на самом высоком политическом уровне|6.504
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19282213.mp3|Кроме того наши данные указывают на рост заболеваемости сердечнососудистыми и раковыми заболеваниями|6.312
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21368018.mp3|Факторы способствующие поощрению заинтересованности в развитии ядерной энергетики не изменились|6.48
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26118518.mp3|В доме коменданта был я принят как родной|2.988
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20426790.mp3|В самом лучшем случае они только не будут негодяи|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18898993.mp3|Бабушка родилась в местечке и порусски разговаривать почти не могла|3.864
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30661167.mp3|Я его видела|2.7
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21905382.mp3|Оно также включает создание зон свободных от ядерного оружия|6.576
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821442.mp3|На улице встретились две дамы поклонились друг другу и разошлись|5.04
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36698118.mp3|Таковы Эдгар По Помяловский Николай Успенский и множество других|4.896
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20461392.mp3|Мы сотрудничаем с нашими тихоокеанскими соседями и поддерживаем их усилия в этой области|6.984
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29363889.mp3|Как вы мне посоветуете|2.628
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23927387.mp3|Если вы не знаете что такое баг интерфейса нажмите красную кнопку до упора|5.856
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30601768.mp3|Разногласие в отношениях братьев к народу|3.636
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37832392.mp3|Надеюсь что наша дружба стоит выше этого|5.364
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879117.mp3|Без осознания этого мы ничего не добьемся|3.912
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399159.mp3|Анна поздоровалась с ним и остановилась|3.672
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38055085.mp3|Это нечестно это фальшиво это обман других и самого себя|4.536
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27095638.mp3|– Это Тимки Гараева дядя|3.924
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22460960.mp3|Софья Матвеевна вдруг запнулась и совсем стала в тупик|4.944
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22460882.mp3|Мы будем продолжать работать над достижением этой цели|3.984
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879091.mp3|Игра была в самом разгаре когда за оградой раздался резкий звук сигнальной трубы|5.496
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23940078.mp3|Попадешься опять в руки бунтовщикам так вряд ли от них еще раз отделаешься|4.824
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27500992.mp3|– Ба ба ба ба – сказал старик|4.356
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18864427.mp3|Человечество должно принять меры перед лицом этой ужасающей реальности|5.016
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32941105.mp3|Спор братьев по поводу хозяйственного плана Левина|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36556973.mp3|Губернские чиновники трепетали при его имени|4.788
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21207522.mp3|Мы позитивно оцениваем обсуждения в рамках подготовительного комитета|5.64
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36373210.mp3|Да развод  краснея повторил Степан Аркадьич|4.32
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20412660.mp3|Причины этого  правило консенсуса и отсутствие политической воли в числе прочего  хорошо известны|6.936
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20461379.mp3|Кити чувствовала что Анна враждебно смотрит на нее|5.256
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25263476.mp3|К сожалению народы мира уже давно утратили свой голос в Организации Объединенных Наций|7.308
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932170.mp3|А у тебя – вот… вот… и вот…|3.024
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26085449.mp3|Только у Вас почемуто не хватает мужества признаться в этом|5.148
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24704439.mp3|Увеличивается число убийств и похищений афганских госслужащих простых граждан и международного персонала|8.388
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821428.mp3|В написании этого отчества у Толстого нет единообразия|4.716
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18991064.mp3|Люди не хотят чисто косметических перемен дающих лишь слабый привкус демократии|5.904
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26990992.mp3|Проводимые правительство Фиджи экономические реформы уже дают позитивные среднесрочные результаты|7.056
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26864813.mp3|Конечно он хотел бы встретиться с шестью председателями|5.688
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18875841.mp3|Свыше половины этой суммы уже было предоставлено|3.84
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27016148.mp3|Нам известно что Организация Объединенных Наций небезразлична к этим серьезным проблемам|6.84
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25694849.mp3|В проекте декларации признается необходимость параллельных усилий в области профилактики лечения и научных исследований|6.624
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19559820.mp3|Я предоставляю слово представителю Бельгии для выступления по порядку ведения заседания|6.936
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22415744.mp3|У воды также есть свой противник врагом этого природного ресурса является глобальное потепление|7.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27368611.mp3|Слово имеет уважаемый посол Японии|5.148
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19404885.mp3|В этих условиях страдают и дети|4.44
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28882882.mp3|А это душит ее|2.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19535257.mp3|В настоящее время Палау имеет доступ к Интернету через спутник|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25426814.mp3|А между тем как я убежден не следует подрывать ее авторитет и послужной список|5.76
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18858551.mp3|Для храбрости Женя выкупалась и тихонько пошла отыскивать свою дачу|4.872
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36772676.mp3|Она вышла быстрою походкой так странно легко носившею ее довольно полное тело|6.12
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24931771.mp3|В нынешний проект резолюции включено лишь одно существенное изменение|6.12
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19574205.mp3|Следует ли в силу этого исключать переходный этап|4.032
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20256691.mp3|Насколько мы понимает эта практика теперь в основном прекращена|6.192
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38698883.mp3|Уверен что нет|3.132
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19024421.mp3|В связи с вашим предложением моя делегация хотела бы высказать коекакие конкретные замечания|6.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26402581.mp3|Для решения этих проблем крайне нужны слаженные и конкретные действия Совета Безопасности|6.048
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26108653.mp3|Мы смогли добиться результатов которые позволяют спасать жизни людей|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26109368.mp3|Бутан Польша Российская Федерация|3.96
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31882880.mp3|Но мама молчала сидя на своем месте|4.932
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18951723.mp3|Во дворе опять остался только один малыш|4.056
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932597.mp3|Их гуманитарные условия попрежнему вызывают серьезную озабоченность у правительства и народа Индии|7.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20389811.mp3|Слово имеет представитель Нигера|3.096
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821401.mp3|Он привык давать полную волю всем затеям своего довольно ограниченного ума|6.336
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19565289.mp3|Хотят начать секретные переговоры|2.88
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26085077.mp3|Нет это совершенно все равно|2.628
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21322481.mp3|Спасибо Вам за Ваше заявление уважаемый представитель Ирана|4.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27302296.mp3|Два крыла Крылья краснозвездные Милые и грозные Жду я вас попрежнему Как ждала|6.3
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26096510.mp3|Все это пагубно сказывается на водных ресурсах особенно на санитарных условиях|4.5
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18987688.mp3|Мы приветствуем в частности меры по обеспечению участия женщин в политическом процессе|5.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21902246.mp3|Однако мы хотели бы чтобы в нем содержалось больше выводов и аналитической информации|7.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20801212.mp3|И после того как оно пробудилось его не так легко остановить|4.416
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18912878.mp3|За ним полезли и остальные|2.496
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26432883.mp3|Мы также еще раз подчеркиваем важность средиземноморской диеты|6.012
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30135636.mp3|И тут не я один а все мы сколько нас ни было почувствовали это|8.1
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121582.mp3|Я не понял этих бессмысленных слов Федора|3.6
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33622794.mp3|Нет нужды если даже в этой задаче мы сблизимся с какойнибудь мыслью старых|5.364
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29349931.mp3|Евгений|1.908
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26085214.mp3|Они вышли на улицу|2.628
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27014926.mp3|Его цель  изменить восприятие и стереотипы|4.356
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28852639.mp3|Ну а потом|2.088
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36984985.mp3|Она видела по лицу Вронского что ему чегото нужно было от нее|6.156
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21554250.mp3|Авторы согласились с логикой такого подхода|3.696
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25381679.mp3|Тарелка с траулера «Тауэр» стоит талер|3.816
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29349532.mp3|Эх думали мы дерутся хорошие люди|3.996
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19840646.mp3|Моя делегация хотела бы обратить внимание Генеральной Ассамблеи на пять моментов|6.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19306699.mp3|В этой связи мы расширяем сотрудничество с Тунисом и Египтом|5.184
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27355450.mp3|Почему не начать работу в том порядке который изложен в повестке дня|5.616
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19027344.mp3|Мы хотим подтвердить то что уже неоднократно заявляли подавляющее большинство членов Конференции по разоружению|6.264
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32739099.mp3|Теперь я слышу в двери стук|3.276
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19282153.mp3|Мы также приветствуем решение Генеральной Ассамблеи передать место Ливии представителям Национального переходного совета Ливии|7.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33900277.mp3|Даровитые люди не свободны от самых грубых суеверий|4.464
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27401437.mp3|Международный терроризм дважды выбирал нас объектом своих нападений|6.048
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20445500.mp3|Вместе с тем мы не поддерживаем расширение Совета в категории постоянных членов|6.504
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932005.mp3|Может быть это было бы лучше для всех|2.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25900422.mp3|К сожалению расходы на военные цели в мире продолжают расти каждый год|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26085771.mp3|Мы надеемся что элементы учитывающие эти соображения будут включены в будущие резолюции|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26078709.mp3|Пугачев уехал народ бросился за ним|4.428
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897298.mp3|Не скажешь ли ты любезный где мне найти владельца этой дачи|4.512
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35042096.mp3|Такой изобретатель находится в лучших условиях|3.816
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822289.mp3|А из водосточной трубы на панель выскочили три маленьких кирпичных осколка|5.76
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26198305.mp3|Уж не послать ли за доктором в город|3.168
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19027292.mp3|Есть ли какиелибо возражения|2.496
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35177894.mp3|Мне вдруг казалось что я забыл чтото какойто случай или важное слово|6.12
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18914142.mp3|В рамках мер жесткой экономии треть рабочей силы была уволена|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35218860.mp3|И потом спрашивал себя что случилось|3.6
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34007523.mp3|Она требует от своих героев силы и даже насилия|4.32
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24396413.mp3|Напрасно ж она стыдится|2.808
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18951593.mp3|Это критически важный момент для Сомали|3.984
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18920755.mp3|И я полагаю что от этого и следует попытаться оттолкнуться Первому комитету|6.696
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20451736.mp3|Вернувшись домой Вронский нашел у себя записку от Анны|4.656
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33923329.mp3|Они требуют иллюзий от которых они не могут отказаться|4.968
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18899129.mp3|Со временем гель застывает в твердейший полимер и свойства пластика становятся прежними|5.232
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18878133.mp3|Но вот острые прямые лучи прожектора поблекли погасли|5.16
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19341555.mp3|Настоятельно рекомендуется иметь четкую стратегию направленную на активное содействие финансированию мер противодействия изменению климата|7.944
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22290169.mp3|Как мы можем разработать такие понятия и как мы можем согласовать их|6.216
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22932380.mp3|Представляете Самохвалов передал мне письма Рыжовой|4.776
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28881714.mp3|А свои труды задаром|2.88
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822248.mp3|На дворе лежат сложенные высокими кучами дрова|4.176
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30635091.mp3|У меня ничего нет|2.268
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33622727.mp3|Власть портит несовершенную природу человека развращает его очень скоро|5.94
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31912030.mp3|Главное дело  блюди святыню дома|6.408
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26087087.mp3|Эти выборы готовил независимый избирательный механизм|4.356
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19527967.mp3|Правительство Японии приветствует этих новых участников и надеется на сотрудничество с ними|5.928
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36995638.mp3|Каждого кто об отдыхе взмолится оплюй в его весеннем дне|6.336
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33292658.mp3|Женихов так называемых я видеть не могу|4.5
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20528383.mp3|Колумбия вынуждена бороться с глобальной проблемой наркотиков пожалуй как ни одна другая страна мира|7.752
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19471657.mp3|Мы должны найти всеобъемлющее и справедливое решение этим проблемам|4.416
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30582176.mp3|О чем это|2.34
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31469095.mp3|Смотрите в даль перед собой|3.348
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19805191.mp3|Просим зафиксировать нашу позицию в протоколе заседания|4.752
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21907445.mp3|Передача вируса от родителя ребенку в Австрии практически исключена|5.136
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18910359.mp3|Это что же такое – переворачивая пакет и оглядывая разинувших рты ребят спросил Квакин|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18928038.mp3|И вот на его выставке познакомились со Слепяном|4.824
 /home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18910963.mp3|Нгерулмуд  столица Палау|3.264
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27463593.mp3|Ядерные державы должны взять на себя ответственность за ядерное разоружение|6.444
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18862844.mp3|Он также часто беседует по телефону с представителями всех соответствующих сторон|5.904
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18896646.mp3|Задачи которые ставили перед институтом требовали математического моделирования|4.848
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20475075.mp3|Государствам абсолютно необходимо выполнять свои обязательства в ее рамках|5.424
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35041916.mp3|Две страсти эти не мешали одна другой|3.96
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19100883.mp3|Сегодня больше всего необходима политическая воля позволяющая воплотить эти цели в конкретные дела|7.56
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21343643.mp3|Поэтому мы не должны допустить чтобы религия и культура становились источником раскола|5.664
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821521.mp3|А тут как на беду пробегала мимо лиса|4.32
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20449747.mp3|Оттого что я не смела ты забываешь мое положение|6.504
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18931981.mp3|Это породило новые волны жестоких расправ в том числе в моей стране Афганистане|6.096
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19797412.mp3|Германия будет продолжать настаивать на резолюции Совета Безопасности|7.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22958805.mp3|Вас дети ждут|2.544
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27500744.mp3|В чем дело товарищи|2.628
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18989974.mp3|Ну я|2.184
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31406627.mp3|Я взял чемодан и вышел из комнаты|3.852
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18922121.mp3|Тимур подошел к Жене|3.216
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821454.mp3|Гении развиваются рано но они не выделяются официально своими успехами в школе|6.516
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22932437.mp3|Помогаю тебе чем могу Джимми но Агнес твои методы не по душе|5.544
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34007523.mp3|Она требует от своих героев силы и даже насилия|4.32
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29530769.mp3|Хотите я чай поставлю|3.096
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26078698.mp3|Оборудование не собирается выделение ресурсов происходит настройкой в панели управления системой|7.02
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20957649.mp3|Разнообразие культур и цивилизаций является одной из основных характеристик человеческого общества|5.208
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873582.mp3|Утверждение повестки дня|2.856
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18914789.mp3|Я говорю что у нас есть в институте человек который давно занимается экстракцией|6.096
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921392.mp3|Сегодня судебная система является в полной мере независимой реформированы ветви расследования и судебного преследования|9.744
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18966301.mp3|Смысл сказанного моим алжирским коллегой сводится к тому что доклад должен носить фактологический характер|8.304
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27368793.mp3|Мы убеждены что в договоре должно участвовать как можно большее число государств|5.94
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31383049.mp3|И как он страшно переменился|3.456
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399012.mp3|Если так то надо в деревню уехать|3.204
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26033553.mp3|Как ни странно у вершителей судеб мира не возникает никаких нареканий|8.856
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18929055.mp3|Секретариат увеличивает число посвященных женской проблематике докладов и придает им больше значения|7.344
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18896659.mp3|Это ты укрыл меня ночью простынею|3.072
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20224261.mp3|Украина привержена делу выполнения обязательств по достижению национальных целей в области развития|7.896
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30558320.mp3|Тут уже идет голая нога|3.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18950723.mp3|Это было через три года после моего назначения|4.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32263792.mp3|Так что вы можете рассчитывать на полную поддержку Бразилии в ваших начинаниях|6.588
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19897925.mp3|Проблема доступа к недорогим лекарствам была затронута целым рядом участников|6.72
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36657058.mp3|Старики объявляют войну а умирать идут молодые|3.888
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20423259.mp3|И чтоб им держаться им надо выдумывать направление|4.56
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23690532.mp3|Да я и сам уже вижу матушка что он узок|4.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19579496.mp3|Избиратели должны отметить крестиком в избирательных бюллетенях фамилии кандидатов за которых они хотят голосовать|6.792
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20215581.mp3|Позвольте мне воздать должное Совету за его взаимодействие с властями ГвинеиБисау|7.656
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26126173.mp3|Значит договор подпишут сегодня|3.456
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38055041.mp3|Европейский союз предлагает свою помощь для достижения этой цели|5.4
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25426899.mp3|Приказа мы такого отдать Вам не можем|3.312
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35177698.mp3|Стремление создающее в данном случае ошибочное суждение называется идеализацией|6.84
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29384273.mp3|Для этого я бы устроил в городе центральную яму и бросал бы туда детей|5.076
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33116161.mp3|Постояв несколько секунд она вошла в вагон и села на свое место|4.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31471492.mp3|Один из текстов с участием реальных персонажей|4.968
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20106277.mp3|Введение к докладу было подготовлено делегацией Нигерии которая в июле председательствовала в Совете|8.064
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18864335.mp3|Насущными делами своими он совсем перестал и не хотел заниматься|5.544
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399189.mp3|Это камердинер вбегал за забытыми перчатками|4.212
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31472515.mp3|Кучера спали у экипажей лошади дремали|4.068
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25405331.mp3|Я напротив уверен что мы с тобой гораздо правее этих господчиков|5.292
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932343.mp3|Часовой Алешка оглянулся|3.144
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28711169.mp3|Он и дома за столиком в отношеньях в семье в быту|4.248
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26436746.mp3|В гневе и слезах крикнула Женя и помчалась разыскивать Тимура|4.68
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873865.mp3|И еще десяток мальчишек рванулись с тылу и с фланга|4.728
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20536328.mp3|Сидела она спереди и слегка оборотившись говорила чтото Яшвину|5.88
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19010585.mp3|Действительно я в первый раз беру слово в ходе официального заседания Конференции|6.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19111634.mp3|И сегодня надо и дальше идти вперед|4.656
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18927897.mp3|Благодарю представителя Венгрии за его заявление|4.296
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19837987.mp3|Поэтому кооперативы заслуживают дополнительной поддержки и поощрения|5.616
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21902234.mp3|Вспомогательные органы системы Организации Объединенных Наций не являются самоцелью|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30440168.mp3|Что если правду говорила Дарья Александровна|4.716
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873728.mp3|Моя делегация рада тому что Конференция приняла свой годовой доклад|5.424
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26432698.mp3|Развитые и развивающиеся страны должны укреплять взаимопонимание и координацию своих действий|7.236
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30174912.mp3|Посмотри пощупай рубашку|3.888
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22413400.mp3|У Конференции нет иного выбора кроме как продемонстрировать свою способность добиваться конкретных результатов|7.632
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18922972.mp3|Спасибо господин Председатель за все Ваши усилия в контексте подготовки этого доклада|6.144
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21950131.mp3|Всех нас шокируют в частности сообщения о пытках детей|4.464
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21601808.mp3|Черногория выражает свою приверженность дальнейшему развитию взаимопонимания и укреплению всех форм сотрудничества в будущем|8.52
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37832516.mp3|Таким образом я как бы родился в третий раз|5.04
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25843461.mp3|Вместе со своими партнерами Франция продолжит работу по всем направлениям чтобы положить конец насилию|9.324
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21781442.mp3|Тот с выделанным изумлением посмотрел на него не произведя впрочем на того никакого эффекта|7.848
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27465499.mp3|Я хотел бы особо отметить несколько моментов и остановиться на них более подробно|6.228
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27588272.mp3|Ну и на этом я хотел бы закончить наше заседание на сегодня|5.652
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37832683.mp3|Это является абсолютным императивом для нашего продвижения вперед|6.624
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18853497.mp3|Я предоставляю слово представителю Армении для выступления по порядку ведения заседания|7.416
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25857701.mp3|С нами сила крестная|2.736
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35041393.mp3|Вот – я весь боль и ушиб|4.428
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25514145.mp3|В заключение господин Председатель делегация моей страны желает Вам всяческих успехов в Ваших начинаниях|7.848
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36444745.mp3|Были дни когда я ничего не ел|4.392
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26826990.mp3|Есть несколько причин такого положения вещей|5.076
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26432883.mp3|Мы также еще раз подчеркиваем важность средиземноморской диеты|6.012
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32299803.mp3|Не ты первый не ты последний|4.068
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38407262.mp3|Я стал читать текст но ничего не понимал слова както прыгали в глазах|5.868
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31852321.mp3|Я сунул в воду палку|2.448
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21865260.mp3|Суверенные государства являются главными субъектами в эффективном международном управлении информационным пространством и киберпространством|8.784
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31469140.mp3|Левин не замечал как проходило время|3.24
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121867.mp3|Он сказал ей и поверив ее спокойному тону пошел раздеваться|5.184
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26791004.mp3|Этого допустить нельзя|3.528
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30676622.mp3|Погребец с чайною посудою на два рубля с полтиною…»|5.4
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932752.mp3|В последние годы в процессе международного ядерного разоружения были достигнуты некоторые новые успехи|6.984
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21552883.mp3|Еще более важную роль на Африканском Роге играет устойчивое развитие|4.944
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30638932.mp3|Пойдем пойдем|2.448
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21547442.mp3|Наблюдались проявления недоверия между представителями различных культур|5.424
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27475570.mp3|Мы будем продолжать взаимодействовать с государствами обладающими ядерным оружием в этом плане|6.66
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19360227.mp3|Мы благодарим государствачлены которые внесли свою лепту в этот ценный вклад|5.376
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20828168.mp3|Дарья Александровна теперь всею душой уже жалела его|5.184
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28818447.mp3|Что мне делать|2.628
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26353492.mp3|Марья Ивановна заплакала|3.492
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20546626.mp3|В соответствии с согласованной программой работы мы вначале рассмотрим и примем проект доклада Комиссии|6.312
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897278.mp3|В отдельных домиках жили профессора академии|3.288
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25835837.mp3|Поэтому мы считаем что нам следует сохранить заголовок главы в его нынешнем виде|4.968
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27463591.mp3|Не соглашения в качестве золотого стандарта а соглашения базового свойства|7.2
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26109368.mp3|Бутан Польша Российская Федерация|3.96
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20247134.mp3|Мы представляем регион в котором появилась первая страна сбросившая с себя оковы системы рабовладения|7.8
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20474936.mp3|Это милое дитя так же как этот наш хозяин|4.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34918196.mp3|Мультсериал по большей части стал таким каким мы его знаем именно благодаря этой парочке|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19341556.mp3|Вместе с тем процесс переговоров набрал позитивный импульс|4.344
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27433018.mp3|Многие задаются вопросом а что дальше|3.276
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20247150.mp3|Мы попрежнему ждем когда это произойдет|4.728
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32966768.mp3|Вот он всегда на бильярде играет|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18930707.mp3|И дальнейших шагов в русле создания группы видных деятелей еще не предпринято|6.456
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31405693.mp3|Иван пробегая мимо старухи ударил её палкой по морде|5.148
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24361305.mp3|Неужели Бедная старуха|2.916
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26198251.mp3|Она уехала с сестрой за ее сыном|2.916
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32989508.mp3|Какое название ты предлагаешь|3.348
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932558.mp3|Да вот и сегодня мы тщательно выслушали мнения других делегаций|4.944
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32030319.mp3|Это было нелегкое дело потому что никто не мог дать ему полезные указания|5.688
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25414494.mp3|Обе стояли нагнувшись над тележкой с зеленым зонтиком|3.96
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28852715.mp3|Левин в деревне|2.16
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36763223.mp3|Увидав Агафью Михайловну он пошутил с ней и расспрашивал про старых слуг|6.048
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25692268.mp3|Милости прошу к нашему шалашу я пирогов покрошу и откушать попрошу|4.644
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18928920.mp3|А сам только готовился заняться живописью но ничего еще не писал|5.616
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36657098.mp3|Я не могу сам решить этого|2.448
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18885591.mp3|Нет|2.208
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36761314.mp3|Божечки мои что здесь произошло|3.348
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18910889.mp3|Она порылась в сумке|2.664
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26346528.mp3|Мы заслушали последнего оратора выступившего по мотивам голосования до голосования|7.02
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_34511554.mp3|Он знает толк и он говорит что это замечательная вещь|4.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921332.mp3|Насилие против женщин во всех его проявлениях должно решительно и неукоснительно пресекаться|7.584
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18889535.mp3|Мы полностью поддерживаем расширение и осуществление планов по стабилизации освобожденных секторов|6.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29565598.mp3|Лучше не медные это похоже на рыжие волосы а лучше платиновые|5.904
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19574260.mp3|Мы заявляем что преследование и притеснение не могут обеспечить процветание|5.52
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32310488.mp3|С этой точки зрения мы явно выполнили свой совещательный мандат|4.86
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21950226.mp3|Бразилия готова взять на себя обязанности постоянного члена Совета|5.016
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23869496.mp3|Швабрин Алексей Иваныч вот уж пятый год как к нам переведен за смертоубийство|7.464
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18981606.mp3|Недавно мы увеличили количество стипендий для сомалийских студентов и специалистов|6.696
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26887025.mp3|Поэтому мы должны сообща положить этому конец|4.68
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32977954.mp3|Она брюнетка и ей не будет итти У меня это всё рассчитано|5.976
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21615579.mp3|Связь эта утвердилась еще больше во время студенчества Левина|4.92
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38426587.mp3|Данный материал заблокирован по требованию Правительства Российской Федерации|6.12
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19010720.mp3|Я хотел бы поддержать предложение которое Вы господин Председатель выдвинули|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24966951.mp3|Мы всецело поддерживаем усилия Лиги направленные на прекращение кровопролития в Сирии|7.344
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20441745.mp3|Вы меня дичью угощали и я вас не забуду|4.464
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26932817.mp3|Организация Объединенных Наций принимает важные меры во всем мире|4.68
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18892780.mp3|Эту поддержку следует распространить и на другие районы как только позволят условия|5.184
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21262463.mp3|Молодежь  это движущая сила перемен в любом обществе|4.944
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36373203.mp3|Чтобы выйти из этого затруднения он не мог просить денег у матери|5.22
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23407177.mp3|За столиком|2.736
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18849622.mp3|Вот уже больше года в арабском мире происходят беспрецедентные радикальные перемены|5.688
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868499.mp3|Из дверей как раз в эту минуту выходили двое пьяных|3.984
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20864022.mp3|Но основу для оптимизма должны заложить другие|4.128
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21262635.mp3|Благодаря им Совет станет более гибким пред лицом новых и изменяющихся реалий|7.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18918849.mp3|Каждому гарантируется свобода мысли и слова|3.624
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36980642.mp3|Я равнодушен к сексу|3.42
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18911720.mp3|Хорошо Работайте|2.784
 /home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36979497.mp3|Он чувствовал что солнце приближалось к нему|4.752
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22940793.mp3|Скажите это Уэльсу|2.736
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19563983.mp3|Тоже ты мне начальник…|2.616
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32263636.mp3|Железногорск  классный город|4.428
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18875250.mp3|И в качестве такового я в курсе какие нам поступают письма от философских факультетов|6.24
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31912011.mp3|И вот он бедняжка в конце концов умер от бессоницы|5.76
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27368953.mp3|Теперь же Анна в надежде увидать Вронского пожелала ехать|5.076
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921734.mp3|Три миллиарда девятьсот пятнадцать миллионов сто одна тысяча сорок пять|5.784
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32999365.mp3|Бибиков сел на камушек и стал ждать|4.32
-/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19897829.mp3|Теперь наша общая обязанность  преуспеть в решении этой задачи»|5.952
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24624093.mp3|Мы одобряем усовершенствования в методах работы Совета|4.14
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28915667.mp3| Как его зовут|1.944
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29138333.mp3|Молодцом поступил|2.448
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21949825.mp3|Люди требуют обеспечения верховенства права на основе принципов равноправия и справедливости|6.072
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29379425.mp3|Мелькнула гладкая чернопегая широкая спина Голландки|5.148
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20177327.mp3|Мы работаем вместе над конкретными предложениями и решениями и над их реализацией|7.296
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362458.mp3|Два аршина безлицего розоватого теста хоть бы метка была в уголочке вышита|9.0
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23115585.mp3|Хочу благословить кости воскресшего|5.28
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20458176.mp3|Важно чтобы Совет мог выполнить свой мандат во всех аспектах|6.024
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24797095.mp3|Одним из примеров тому является урегулирование конфликта в КотдИвуаре|6.516
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36861968.mp3|Что на крыше небоскрёба может делать чьято панама|4.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27465501.mp3|Центр управления|2.916
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897519.mp3|Генеральная Ассамблея сообщила о своем растущем нетерпении по поводу заторов на Конференции по разоружению|8.352
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22116852.mp3|В некоторых случаях мигранты подвергаются особой опасности сексуального насилия или эксплуатации|7.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36698146.mp3|Прекратите называть его деревенщиной Это не называние вещей своими именами а прямое оскорбление|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25835889.mp3|Мы преисполнены решимости напряженно трудиться в предстоящем году в интересах достижения успешных результатов|7.488
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30601622.mp3|Как ты чувствуешь|2.736
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362625.mp3|Общество определенно выразило свое желание|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19950601.mp3|Вместе с тем мы можем предпринять некоторые шаги в нужном направлении|4.896
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28705687.mp3|Я сидел погруженный в глубокую задумчивость как вдруг Савельич прервал мои размышления|6.588
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19100621.mp3|Будем настаивать на том чтобы это положение получило отражение в программе работы Конференции|6.576
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22227178.mp3|Президента Республики Зимбабве господина Роберта Мугабе сопровождают из зала Генеральной Ассамблеи|8.592
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27328854.mp3|Параметры данных|3.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18913402.mp3|Одна бомба упала рядом с временной школой|3.864
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25426764.mp3|Я читаю учусь вообще стараюсь стать в уровень с современными требованиями|5.148
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18882178.mp3|Сегодня для успеха наших инвестиций в Афганистане требуются рамки регионального сотрудничества|6.216
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18993166.mp3|– Вот – сказал Тимур|3.888
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30503446.mp3|Она ждала с замиранием сердца мазурки|4.896
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27356009.mp3|Индия считает что атомная энергия является важнейшим элементом ее национальной системы энергоснабжения|8.856
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822228.mp3|Недодеревушку под снос Все равно ее уже никто достраивать не собирается|5.22
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35041684.mp3|Он раб системы и я тоже И ты Федя раб системы|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31424071.mp3|Маленький мальчик ел из плевательницы какуюто гадость|4.968
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22797042.mp3|Как правило постояльцы не мужчины|4.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18922583.mp3|Вот тебе ключ вот квитанция от папиной телеграммы|4.584
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921499.mp3|Она убивает мораль|2.496
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873549.mp3|Еще одним важным аспектом является членский состав Конференции|5.328
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362504.mp3|Они стали приближаться к детям|2.7
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19541923.mp3|Сейчас слово имеет представитель Бразилии|4.248
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25748359.mp3|Мы должны постоянно помнить и напоминать себе о жертвах таких катастроф|4.716
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28870892.mp3|Кити первая прервала молчание|2.736
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37662324.mp3|Не больше|1.944
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36980643.mp3|Изрубленные как капуста мы войн революций призы|5.328
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33433770.mp3|Боже дай мне сил вырастить этого сорванца|4.5
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30676633.mp3|Я такой же как и вы все только лучше|4.968
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22959232.mp3|Как и ваш брат|2.472
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18995293.mp3|Несмотря на критику оговорки и инсинуации все больше возрастает убежденность в важности Конференции|6.912
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18951691.mp3|Погибшие были надеждой политического будущего Норвегии|4.824
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18879185.mp3|Я думаю что эти слова могли бы стать руководящим принципом политического диалога в стране|6.432
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33319594.mp3|Вронский и Анна за границей|3.024
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28782658.mp3|Анна спасла меня|2.34
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25586548.mp3|Мы должны использовать каждую из существующих возможностей для реанимации Конференции|5.76
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19471738.mp3|Я благодарю представителей правительств за их усилия|4.032
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18849274.mp3|Она отличается более высоким уровнем творчества и очень часто больше расположена к различным инновациям|6.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18909652.mp3|Одним из важных элементов работы будет активизация деятельности Ассамблеи и ее Председателя|6.264
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21641701.mp3|Демократия  это основа самоопределения народа и государство должно быть готово верно следовать воле народа|7.344
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18989815.mp3|Поэтому вывод очевиден судебная система остается крайне уязвимой для возможного вмешательства извне|7.296
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25919263.mp3|С этой точки зрения отсутствия безопасности они объясняют нам что сейчас необходимы глубокие преобразования|8.208
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20436465.mp3|Мы должны усилить роль женщин в обществе|3.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21548241.mp3|Разумеется инициатива в данном вопросе за самим афганским народом|5.256
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29349468.mp3|Вы все Левины дики|2.916
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821540.mp3|На стене слева висела двойная полка на которой лежало неопределенно что|6.48
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19043444.mp3|И вот на этой ноте господин Председатель и позвольте мне завершить свое краткое выступление|7.776
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25900422.mp3|К сожалению расходы на военные цели в мире продолжают расти каждый год|5.076
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37242841.mp3|Тем не менее я хотел бы высказать несколько дополнительных замечаний|5.436
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21398730.mp3|Необходимо будет представить другим государствамучастникам конкретные и значимые результаты|6.504
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37578272.mp3|Я получила твое письмо и вот приехала|3.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26865164.mp3|Год назад мы не ожидали никаких перемен в Египте Тунисе и Ливии|5.58
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868489.mp3|Мы должны проявлять стратегическое терпение и не отворачиваться от этого региона|5.52
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399165.mp3|Ему хотелось чтобы Левин был весел|3.024
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18881304.mp3|Кто найдёт рифму для «Азии»|3.768
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25634412.mp3|А впрочем это все пустяки|2.556
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30731124.mp3|Он все ниже наклонялся ко мне многозначительно грозил пальцем и повторял точно законченную мысль|8.064
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26864857.mp3|Ядерная безопасность попрежнему является исключительно важным вопросом для всех государств|7.38
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27613313.mp3|Васенька был действительно славный малый простой добродушный и очень веселый|6.84
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873641.mp3|Вход был с тротуара по лестнице вниз в подвальный этаж|4.608
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19253933.mp3|Это аномалия поскольку все знают в чем состоит решение|5.592
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26316208.mp3|И что это за беседа|3.78
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26109470.mp3|Кроме того сложным и спорным остается вопрос о существующих запасах расщепляющегося материала|8.1
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21641669.mp3|Нам остается лишь заявить что мы всецело убеждены в том что достижение мира неизбежно|5.544
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25755724.mp3|Мы также показываем некоторые новые возможности для добровольческой деятельности которые появились в последнее время|6.876
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37414839.mp3|По причинам о которых не время теперь говорить подробно я должен поступить в лакеи|5.256
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868912.mp3|Тридцать пять миллиардов семьсот восемьдесят шесть миллионов девятьсот двадцать девять тысяч сто двенадцать|7.776
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30892811.mp3|Ангарск  интересный город|3.204
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25414410.mp3|За десять лет проживания в Донецке выбрался туда впервые|3.96
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26400552.mp3|Она добилась десятикратного увеличения объемов финансирования на цели борьбы с инфекционными заболеваниями|7.668
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38055485.mp3|Как бы это было хорошо|3.06
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26431290.mp3|Мы надеемся что такое успешное начало позволит нам создать программы борьбы с неинфекционными заболеваниями|7.848
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19563518.mp3|Мы полны решимости потребовать причитающееся нам место за общим столом|4.824
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20778655.mp3|Вследствие этого под оккупацией находятся палестинские территории а не израильская территория|6.672
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22917888.mp3|Она наверное чокнулась|2.88
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22958794.mp3|Если за нами придут мы будем защищать Республику до последней капли крови|5.376
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33622564.mp3|Это бывает со мной|2.628
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18898911.mp3|Глобальный экономический кризис и жесткие меры экономии во многих странах сдерживают эти возможности|6.192
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26914392.mp3|Уважение верований культур и традиций  это признак цивилизованного поведения|6.768
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27368611.mp3|Слово имеет уважаемый посол Японии|5.148
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19682870.mp3|Если таких пьяниц начнешь принимать то и двора скоро не будет|4.872
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19157639.mp3|Для решения этих проблем правительствам помимо политической воли требуются технические инструменты и экономические ресурсы|7.008
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36763108.mp3|И решив что он это непременно сделает завтра пошел к жене|5.868
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19805260.mp3|И я собираюсь как следует развлечься|3.912
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21722707.mp3|Благодаря своим коллективным усилиям и помощи всего мира он сумеет пережить эти испытания|6.264
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31690975.mp3|Самую длинную в мире железную дорогу разорило дальнейшее удлинение|6.516
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18892707.mp3|Они обеспечивают нам ресурсы для выполнения нашего мандата|4.344
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18929132.mp3|Имеется также неподтвержденная информация о еще двух бомбах сброшенных в этом районе|6.264
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23690459.mp3|Я читала Ваши сочинения|3.456
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18928108.mp3|Квакин улыбался Фигура хмурился|3.984
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22935084.mp3|Увидимся позже отметим|2.832
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19105040.mp3|Для Нидерландов хорошей отправной точкой для наших переговоров все еще является гибкий мандат Шеннона|8.424
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19341469.mp3|– Меня – Коля обиделся|3.456
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20389722.mp3|Я хотел бы высказать несколько замечаний по ряду конкретных вопросов|4.584
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23768123.mp3|Да то ты матушка то батюшка|3.216
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30614655.mp3|Скорее скорее за работу|3.78
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19579007.mp3|То что сказал представитель Японии далеко от реальности|3.888
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36391199.mp3|За голод за мора море шаг миллионный печатай|5.976
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22850591.mp3|Заходи через минуту|2.424
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20968491.mp3|Эти принципы являются краеугольным камнем международных отношений и системы Организации Объединенных Наций|7.464
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19576255.mp3|Женщины созданы не только для того чтобы вынашивать детей|4.872
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25190232.mp3|Итак ход событий меняется и я надеюсь что мы справимся с этим вызовом|6.588
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29565777.mp3|– Гейка|2.088
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25755176.mp3|Ненавижу я этого лекаришку|3.816
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30365598.mp3|Здравствуй здравствуй|3.312
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26914320.mp3|Оно также дает нам возможность объединиться в решении стоящих перед нами критически важных проблем|5.976
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19157512.mp3|Латинская Америка  это не Африка и не АзиатскоТихоокеанский регион|4.68
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35200321.mp3|Она повернулась и медленно пошла из комнаты|5.148
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25762291.mp3|Я продолжу зачитывать тот же отрывок|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36656990.mp3|Разве это не материально не ощутимо|3.348
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31507325.mp3|Кити даже не заметила ее|3.6
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24396291.mp3|Несколько телег запряженных разнузданными лошадьми шибко катились по узкому проселку|6.3
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20900472.mp3|Индия Маврикий Сирийская Арабская Республика|4.824
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29844488.mp3|Мне  кончено|2.88
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23690618.mp3|Все мнения оказались противными моему|3.72
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20864133.mp3|Имеются ли какиелибо возражения|3.072
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32987260.mp3|Но я мы все родные все любящие ее просим умоляем тебя|6.516
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23877978.mp3|Мысли мои волновались|3.408
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21950442.mp3|Мы встречаемся с ней повсюду от официальных мандатов до внутренней политики Генерального секретаря|5.952
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27403826.mp3|Наш коллега из Нидерландов не имеет права читать наставления другим или критиковать их|6.228
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32421124.mp3|Мы добиваемся значительных результатов в реализации этих мер|5.184
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121795.mp3|Она хотела итти но он удержал ее|2.988
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18892599.mp3|Трудоспособные дети достигшие восемнадцати лет должны заботиться о нетрудоспособных родителях|6.216
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18882165.mp3|Гарантируется свобода массовой информации|3.72
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20528182.mp3|Левин Кити и Марья Николаевна стояли у постели|5.28
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19643888.mp3|Эти тихоокеанские страны вовсе не являются «малыми островными государствами» это большие океанические государства|8.976
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26562723.mp3|Мы также с нетерпением ожидаем консультаций которые состоятся в апреле здесь в НьюЙорке|6.408
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18930919.mp3|Тамара приготовилась к финишному рывку|4.776
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26400878.mp3|Укрепление Организации Объединенных Наций невозможно без нахождения баланса между интересами различных групп государств|7.92
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22935127.mp3|Я попрошу Маклауда как минимум не спускать глаз|4.08
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30601643.mp3|Вот именно за то я люблю Щербацких что сам лучше делаюсь|4.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21588365.mp3|Международное сообщество не может вечно дожидаться полной ликвидации ядерного оружия|6.144
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18944181.mp3|Легкое одеяло поползло через подоконник|5.136
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868480.mp3|С этим была создана теория сейчас это направление|4.08
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32959462.mp3|Пестр как форель сын безузорной пашни|4.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29379383.mp3|Это был Туровцын|2.88
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19360447.mp3|Эмбарго остается главным препятствием на пути социальноэкономического развития Кубы|5.832
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36657005.mp3|Это такой вздор такое вранье такое самообманыванье|4.716
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399168.mp3|Скупые на похвалу доказывают что они небогаты достоинствами|4.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26088775.mp3|Существуют конфликты разногласия и смерть|3.348
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30175134.mp3|Мы его не видали  сказала Кити|3.24
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32987104.mp3|Вронский взглянув на часы поспешно уехал|4.32
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33292465.mp3|Воспользуйся какимнибудь форумом Гденибудь да ответят|5.58
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19541944.mp3|Мы не должны подвести их|3.6
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18894142.mp3|А то я не посмотрю что ты за меня заступался|4.656
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38055977.mp3|Он поддакивал брату но невольно стал думать о другом|4.716
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19660053.mp3|Несмотря на достигнутый прогресс впереди еще много трудностей|4.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25843260.mp3|Это уже раскрытый секрет|2.988
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362249.mp3|Дербент  интересный город|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33746903.mp3|Бумажку встречать с отвращением нужно|4.428
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19826804.mp3|Однако путь к этой цели предстоит долгий и нам необходимо сделать еще очень многое|6.576
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25832044.mp3|Хвостом след устилает долы и горы промеж ног пускает|4.788
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24393443.mp3|Это не совсем справедливо|3.06
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27500879.mp3|Делегация Аргентины считает что инициатива канадской делегации является полезной|4.932
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36772627.mp3|Мне при жизни с вами сговориться б надо|3.276
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36635838.mp3|Вронский низко поклонился и подвинул ей стул|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27345431.mp3|Традиционная виртуализация которая используется повсеместно разделяет физическую инфраструктуру|7.956
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35177882.mp3|Хоть бы Снетков Хороши мы нет ли мы тысячу лет росли|4.968
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18920703.mp3|И это не слова а действия|3.144
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23927410.mp3|Сколько прикажете купить|3.024
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31469078.mp3|Кити и Каренина на балу|3.168
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18864458.mp3|Задача первостепенной значимости  уничтожение наркопосевов и инфраструктуры по производству наркотиков|7.368
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25037002.mp3|Мы твердо убеждены в том что единая Палестина будет лучше служить интересам палестинского народа|8.028
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24001557.mp3|Можно найти наилучшего кандидата|4.5
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18929484.mp3|Ссылка на так называемую военную агрессию Армении вводит в заблуждение|6.024
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18922813.mp3|Лед такой холодный что от него идёт пар|3.624
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26118518.mp3|В доме коменданта был я принят как родной|2.988
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25694097.mp3|Право не знаю о ком бы еще упомянуть чтобы не забыть кого|3.6
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18910517.mp3|А теперь слово имеет следующий оратор − представитель Кубы|4.344
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873593.mp3|Мы все едины в достижении этой общей цели|4.08
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18978727.mp3|На оборотной дощечке их был изображен глобус|5.784
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26865004.mp3|Тем не менее этих результатов недостаточно|4.428
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29844131.mp3|Ну имей совесть Вылезти на экран в такое время суток|4.608
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18898648.mp3|А тогда спускайся вниз и иди за мной|3.504
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29565324.mp3|Верно ты всё коекак сделал|3.528
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37414974.mp3|Под ними могут подразумеваться две страны два региона или даже правительство и его народ|4.86
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33622727.mp3|Власть портит несовершенную природу человека развращает его очень скоро|5.94
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18878176.mp3|Юпитер  самая большая планета в Солнечной системе|5.28
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19576044.mp3|Мы хотим поблагодарить делегации Бразилии и Соединенных Штатов Америки за их координационные усилия|7.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18927404.mp3|Принцип консенсуса заложенный в правилах процедуры Конференции способен защитить законные интересы безопасности государствчленов|9.144
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26353419.mp3|Выбор исходной операционной системы|4.284
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22684750.mp3|Не хотели ли бы высказать дальнейшие воззрения какиелибо другие делегации|5.952
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37762035.mp3|Принимая сегодняшнюю резолюцию Ассамблея действовала в соответствии с безотлагательной рекомендацией Совета|10.008
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33903266.mp3|Действительно кому нужны в минуту общественного подъёма идеи о «дороге слез»|7.956
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18980330.mp3|– Гейка – пробормотал он поднимая лицо – ты откуда|5.856
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31881962.mp3|Тимур вскочил|2.808
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21781377.mp3|По сути ядерное разоружение должно оставаться нашим высшим приоритетом|5.352
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28881874.mp3|И вот я живу|2.628
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18980360.mp3|Судебные органы наказывают лиц совершивших сексуальное насилие|5.616
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19838112.mp3|Соответствие данным критериям остается непременным условием вывода фигурантов талибского списка изпод режима санкций|8.376
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23869993.mp3|Зима затруднявшая военные распоряжения проходила и наши генералы готовились к дружному содействию|9.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21207818.mp3|Она значима потому что проводится в самом представительном и демократическом органе Организации Объединенных Наций|7.68
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18881310.mp3|Политические лидеры Гаити должны незамедлительно выполнить свои обязанности преодолеть тупик и приступить к сотрудничеству|8.76
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24703994.mp3|Поэтому необходима реальная мобилизация ресурсов|5.22
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22797114.mp3|Как говорится каждому по способностям не правда ли|5.472
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23146476.mp3|И Левину и молодому малому сзади его эти перемены движений были трудны|6.72
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35093011.mp3|Боже мой ведь я еще не выключил электрической печки|4.896
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27046165.mp3|В списке ораторов у меня значатся еще Колумбия Чили Пакистан и Россия|5.796
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20900440.mp3|Система гарантий Агентства является одним из основополагающих элементов глобального режима ядерного нераспространения|10.008
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18916904.mp3|Нет и указаний на то что целью этих нападений была Организация Объединенных Наций|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26886783.mp3|Давайте же работать все вместе во имя достижения этих целей|5.58
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29111356.mp3|Я подумал что от брата идет такая тишина и сказал ему об этом|4.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32940688.mp3|Гибель одного спасает множество|3.96
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36747305.mp3|Комаров смотрит и видит шар|2.844
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18966312.mp3|Играй Оля|2.664
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36394558.mp3|А вот сейчас ты увидишь дом|3.348
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33289921.mp3|С двух прошлых браузеров мне пришлось перейти потому что они технически устарели|6.768
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36761098.mp3|Прочитай меня|2.268
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26408190.mp3|Они с криком бросились на меня и мигом стащили с лошади|4.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18881226.mp3|Эти две деревяшки были склеены и оставлены высыхать на насколько часов|4.92
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35177807.mp3|Она была должна опуститься до действительности чтобы наслаждаться им таким каков он был|5.976
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19797233.mp3|Теперь этот режим считает что у него есть картбланш на убийство собственного народа|7.104
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36416258.mp3|И он посмотрел на свою руку и на короткую руку дьякона|5.544
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23879851.mp3|Про какие про покупки|3.144
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30672538.mp3|Ниже трёх сот метров не опускайся|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18981639.mp3|Многое будет зависеть разумеется и от исхода работы группы правительственных экспертов|6.816
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18864530.mp3|Мы можем либо противодействовать им либо управлять ими|4.344
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921374.mp3|Это крайне важно для обеспечения безопасности и защиты прав женщин мужчин и детей|5.184
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921837.mp3|Более того его право на самоопределение неотъемлемо неотторжимо и непреложно|8.496
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21930479.mp3|Мы уделяем особое внимание проблеме изменения климата и состояния окружающей среды|6.432
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27711345.mp3|Я вышел из кибитки и требовал чтоб отвели меня к их начальнику|5.688
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29349835.mp3|Весловский вот когда серенаду|3.708
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29577611.mp3|Такой уж я человек что все меня гоняют|4.14
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26209431.mp3|И тут мои действия никак не отличаются от действий любых других моих коллег|5.292
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30674325.mp3|Вороной конь а на коне солдат|4.248
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26134869.mp3|Мы не можем позволить себе противостоять им в одиночку|3.564
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24548484.mp3|Этот лекарский сын не только не робел он даже отвечал отрывисто и неохотно|6.084
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22418458.mp3|Мы ценим представленный нам проект решения|4.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25586551.mp3|Компас|2.196
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36981228.mp3|К удивлению их красавица останавливается у подъезда того самого дома куда они едут|6.84
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27159207.mp3|– Все так – говорила Ольга|3.708
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22927052.mp3|Это Ольге понравилось|3.624
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18875411.mp3|И это не связано с попыткой упредить предстоящие нам трудные переговоры|5.256
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38403741.mp3|Но вот взошла луна и стало светло|4.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31331928.mp3|Очень мы сейчас им нужны|3.24
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20864047.mp3|Каждый год Генеральная Ассамблея принимает консенсусом резолюцию об осуществлении Конвенции по химическому оружию|7.896
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28968196.mp3|Я опять отрицательно замотал головой|2.736
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28914894.mp3|Что же это|2.268
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20236323.mp3|Разрешите мне закончить ужин мисс Лоулер|4.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27637598.mp3|Вы всё еще работаете в правительстве|3.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19536461.mp3|Члены Генеральной Ассамблеи соблюдают минуту молчания|4.416
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22370339.mp3|Прозвучали интересные предложения относительно активизации некоторых элементов разоруженческого механизма Организации Объединенных Наций|8.064
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21615952.mp3|Я с нетерпением ожидаю возможности поработать с ними и с остальными членами Бюро|5.688
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26120257.mp3|Организация Объединенных Наций остается единственным поистине универсальным и всеобъемлющим многосторонним форумом|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21561684.mp3|Я например нашла его очень ценным дополнением к нашим официальным дискуссиям на пленарных заседаниях|7.104
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31491995.mp3|Теперь она была отдана дворнику внаймы|3.204
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26408241.mp3|Как говорили и другие делегации начало переговоров − это лишь первый шаг|5.796
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25200782.mp3|Так этот лекарь его отец|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21314355.mp3|Мы приветствуем включение мероприятий относящихся к разработке ядерной реакторной технологии|6.552
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20546655.mp3|Это они|2.64
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36959678.mp3|Но он смешон когда он хочет идентифицироваться с главнокомандующим|5.436
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18978848.mp3|Женщины также играют ключевую роль в обеспечении устойчивого развития экономического успеха и социальной стабильности|8.304
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26102582.mp3|Уверен что под Вашим господин Председатель умелым руководством эти два принципа будут неукоснительно соблюдаться|8.856
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821873.mp3|Собакой забьюсь под нары казарм|2.988
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18862865.mp3|Это могло бы стать примером консультативной демократии способной предотвращать проблемы в будущем|6.456
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932691.mp3|В доме номер двадцать два девчонка плачет – как бы нехотя сообщил Гейка|5.256
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30642845.mp3|Я и зеркал не вижу|2.232
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30684230.mp3|Неужели вы сами слышали|2.304
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24548486.mp3|Мы не можем игнорировать потребности государств серьезно страдающих от стихийных бедствий|6.228
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26269093.mp3|В этой связи господин Председатель Вы можете рассчитывать на сотрудничество и поддержку нашей делегации|8.928
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23009525.mp3|Можно и сейчас отдать|2.88
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24548481.mp3|Будучи единственным самым представительным форумом наций Ассамблея является высшим проявлением плюрализма нашего мира|8.172
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821855.mp3|Сергею Ивановичу когда он подходил показалось что Вронский его видит но притворяется невидящим|8.64
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19034105.mp3|Слово имеет Марокко|3.792
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26436321.mp3|Мы желаем ему всяческих успехов в его дальнейшей работе|7.236
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897263.mp3|Несмотря на окончание голода Сомали попрежнему нуждается в помощи|4.608
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19549708.mp3|Кстати не будет преувеличением сказать что цивилизация определяется движением от силы к праву|7.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18930863.mp3|Это тебе – с удовлетворением объяснил Квакин Фигуре|4.656
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38260739.mp3|Это виноватое выражение подтвердило все его сомнения|4.104
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18921423.mp3|Конференция имеет надежные институциональные гарантии|4.896
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36724044.mp3|И он ждал ее в ее гостиной|2.268
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26427261.mp3|Я знаю что это значит|3.168
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25200640.mp3|И нужно будет чтобы договор принимал в расчет такое использование|6.048
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25822224.mp3|Но так и не принято никаких существенных мер по устранению ее изъянов|5.544
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33319571.mp3|Хочу испуг не показать  и ретируюсь задом|4.86
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38257176.mp3|Хорватия решительно поддерживает концепции универсальности взаимозависимости и неделимости всех прав человека|8.712
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23713940.mp3|Из третьего она выросла одно я ей носить пока не даю|4.416
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121782.mp3|Он рад случаю показать мне что у него есть другие обязанности|4.32
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21905101.mp3|Мы должны сделать для этого именно то что нужно|5.736
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26433870.mp3|Правительства и другие заинтересованные стороны играют важную роль в создании условий содействующих расцвету добровольчества|9.108
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35093745.mp3|Во чудак Да кто ж часы на голове носит|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31380758.mp3|И действительно командир полка утонул|4.644
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19353028.mp3|Я начал мое выступление с необходимости сосредоточения нашего внимания на проблеме неинфекционных заболеваний|7.776
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30515876.mp3|Максим|2.16
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23877914.mp3|Ну шутник шутник|3.312
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36698118.mp3|Таковы Эдгар По Помяловский Николай Успенский и множество других|4.896
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18920441.mp3|А за нею с воплем пронеслась уже знакомая Жене босоногая девчонка|6.624
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18918500.mp3|Это отличная основа для продвижения вперед и мы в Ваших руках|4.824
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21905102.mp3|Спортивные мероприятия служили средствами замены вражды на мир|7.656
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33740121.mp3|В результате много зла|3.42
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30893143.mp3|Потом вставал кипятил в электрическом чайнике воду и садился пить чай с пшеничным хлебцем|6.552
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23738530.mp3|Ну конечно все думают – цветок а не девочка|3.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21346802.mp3|Однако затем все население избрало путь мирного урегулирования примирения и возмещения ущерба|8.016
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27637635.mp3|На прошлой неделе я с удовольствием разослал его по электронной почте всем делегациям|5.508
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18912774.mp3|Она была совершенно иначе настроена|4.416
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25426751.mp3|Наша делегация присоединяется к заявлению сделанному ранее представителем Египта от имени Движения неприсоединения|7.812
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27108976.mp3|Приложение моделирования требует аппаратное видеоускорение и соответствующие настройки|5.94
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27309483.mp3|– А тебето что – А то что у меня дядя матрос тоже|7.236
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18928107.mp3|И Япония намерена форсировано реализовывать свою позицию на переговорах как только те начнутся|7.296
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36821920.mp3|Непонятное для нее самой чувство удерживало ее|3.78
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18896635.mp3|Как я упоминал ранее Комитет уже провел два заседания|3.768
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29574542.mp3|Это было так неожиданно что у меня прошел даже всякий страх|4.608
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30601676.mp3|Куда же их девать|1.98
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37759016.mp3|Она поднялась чтоб опомниться откинула плед и сняла пелерину теплого платья|8.928
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18875592.mp3|Через минуту я еще вернусь к этому|2.976
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19792427.mp3|Это подводит меня ко второму пункту наших сегодняшних прений  реформе Совета Безопасности|7.248
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26437531.mp3|Право на ответ предоставляемое Европейскому союзу является более ограниченным|6.048
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26864979.mp3|Они должна провести ряд надстроек на операционной системой хоста|5.94
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19574869.mp3|Китай является ответственной страной и другом арабского народа|4.488
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25835855.mp3|Мы продолжаем добиваться прогресса в усилиях по реформированию нашего сектора безопасности|5.796
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25831463.mp3|Однако мы должны четко заявить что мы готовы рассмотреть другие варианты|5.328
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21950061.mp3|А сейчас слово имеет Пакистан|3.984
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20247090.mp3|На сегодня наша работа завершена и я намерен объявить данное заседание закрытым|6.528
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26118820.mp3|Это являет собой следующий логический шаг по пути к миру без ядерного оружия|4.968
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26864880.mp3|Правительство уделяет постоянное внимание этим категориям общества|6.12
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26134914.mp3|А что дядя здоров|3.204
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30642955.mp3|Танец вокруг репы|2.52
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29109841.mp3|Некоторые открыто говорили об этом давая точные объяснения которые казались им правдоподобными и ясными|6.768
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32263664.mp3|Ведь вы не знаете|3.636
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32414716.mp3|Мы призываем и других доноров внести свой вклад в оказание помощи|5.22
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33289232.mp3|Это всё равно о чем|3.96
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18913287.mp3|Избрание господина Пана на второй срок является свидетельством его авторитета|5.856
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21930272.mp3|Ничего не поделаешь|2.592
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25252900.mp3|О них много говорили и к ним готовились|4.284
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26430897.mp3|Мы внесли ряд предложений во время заседаний в ходе предыдущей сессии|5.364
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19112251.mp3|Это сложная проблема но мы должны ее уладить|4.56
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18858616.mp3|Ягоды еще не созрели|3.144
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25695273.mp3|Нашим безусловным приоритетом остается разработка договора о предотвращении размещения оружия в космосе|5.94
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22797223.mp3|Может быть мы встретимся с тобой завтра вечером|3.984
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19027153.mp3|Это стало отражением политической воли никарагуанского правительства|4.584
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19282264.mp3|А задуманная им комплексная операция в Конго пошла еще дальше|4.632
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28782626.mp3|Она перебила его|2.52
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26432615.mp3|Число молодых людей в мире продолжает увеличиваться и их потребности огромны|5.58
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28717680.mp3|Ну что Максимыч все ли благополучно»|3.924
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36852860.mp3|Я знаю этого нельзя простить|3.528
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20224278.mp3|Мы будем и впредь принимать в нем всестороннее участие|5.52
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35229123.mp3|Эта держава  был сын|4.428
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22203066.mp3|Те попрежнему стоят в стороне|3.624
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26102923.mp3|– И то правда – сказал смеясь Пугачев|4.392
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19027103.mp3|Мы просим Комитет поддержать данный проект резолюции|4.584
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21314341.mp3|Я призываю все делегации оставаться в зале для ознакомления с этой важной информацией|5.472
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35121480.mp3|И разве ты думаешь что он не менее тебя тяготится этим|4.392
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31883754.mp3|Он ничего не понимает не чувствует|3.672
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26316523.mp3|Константин Левин не любил говорить и слушать про красоту природы|5.076
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20864138.mp3|И мы и выражаем признательность этим экспредседателям|4.008
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27639459.mp3|Поэтому я считаю что в целях поддержания единообразия нам следует сохранить данную формулировку|8.064
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27345375.mp3|Наша политика по отношению к Израилю не является исключением из этих принципов|6.156
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28915943.mp3|радио|1.8
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30382664.mp3|должно|2.016
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35249932.mp3|Больше у меня денег нет какаято только мелочь|3.276
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26346299.mp3|Мы считаем что в основе реагирования на бедствия должна быть готовность к ним|5.58
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21222741.mp3|Она вскрывает ложь которой пытаются прикрыть неприглядную картину несправедливости|5.256
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36399159.mp3|Анна поздоровалась с ним и остановилась|3.672
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36994296.mp3|Всё зашумело и стремительно бросилось к двери|4.5
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32065320.mp3|Я подошел к своей комнате|2.916
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30382604.mp3|Но если вам угодно подтверждение|3.888
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33195546.mp3|Да в висках были седые волосы|4.716
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822227.mp3|Потом Катавасов своим громким крикливым голосом прочел свою записку об ученых трудах юбиляра|7.056
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30362320.mp3|И почему вы все избегаете смотреть на меня разве я так переменился|5.148
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18878157.mp3|Я вас ничем не обидел|2.544
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932665.mp3|Соединенное Королевство созвало настоящее заседание по двум важным причинам|5.784
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21644463.mp3|Я преисполнена решимости добиваться урегулированию всех наших проблем с соседней Индии посредством обсуждения|8.6465
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18897298.mp3|Не скажешь ли ты любезный где мне найти владельца этой дачи|4.512
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20957289.mp3|Мы также поздравляем с избранием других членов Бюро|4.152
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19156873.mp3|Эти обязательства были выполнены|2.328
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22415744.mp3|У воды также есть свой противник врагом этого природного ресурса является глобальное потепление|7.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31912331.mp3|Ты знаешь|1.8
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20249031.mp3|Путь к освобождению мира от расизма нелегок|5.016
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20827753.mp3|Профилактические меры мы рассматриваем как важную инвестицию в будущее украинской нации|6.216
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31430058.mp3|Надо дело кончить|2.484
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26085245.mp3|Что будет то будет авось бог не оставит|4.716
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26791264.mp3|Мы считаем что необходимо и в дальнейшем работать над этим гуманитарным аспектом сектора безопасности|8.028
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27403748.mp3|Эти меры могут служить хорошим примером|5.04
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24797268.mp3|Мы считаем что вопрос о государственном руководстве Сирией должны решать сами сирийцы|6.48
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36822041.mp3|Это кто поет хозяин|2.556
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32357984.mp3|Левин у Катавасова|4.176
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33215576.mp3|Иные холодны сердцем а иные слишком женолюбивы и легкомысленны|5.688
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27301905.mp3|Азербайджан подтверждает свою верность позиции высказываемой большинством государствчленов Организации Объединенных Наций|9.756
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26791312.mp3|Совет не нуждается ни в каких реформах|4.86
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33890808.mp3|Хорошо ли так будет|2.16
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36994316.mp3|Левин и Облонский уезжают обедать в гостиницу|3.996
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31466265.mp3|Откликнись кто идёт|2.664
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25695140.mp3|Что касается Сомали то мы призываем увеличить объем официальной помощи в целях развития|5.292
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18920807.mp3|К сожалению только это правительство Аргентины предпочитает не говорить с жителями Фолклендских островов напрямую|7.704
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26431099.mp3|Я тоже хотел бы выразить наши соболезнования в связи с трагическими событиями в Норвегии|6.552
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21867511.mp3|Так что я приношу свои извинения и прошу о снисхождении посла Австралии|8.136
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27345665.mp3|И мы лишь спрашиваем есть ли у вас возражения|5.22
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18873773.mp3|Ни одно из государствчленов не получило того чего добивалось|5.4
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29566309.mp3|Ты обычно наблюдаешь за Олимпийскими играми|3.672
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18922891.mp3|О какой же справедливости здесь можно говорить|3.984
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27403796.mp3|Более того некоторые из них быть может имеют даже более важное значение|6.48
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33902796.mp3|Ведь у ней обо всем болит сердце|3.708
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18885671.mp3|Господин Председатель позвольте мне теперь перейти к проекту программы работы который вы нам представили|7.704
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21930432.mp3|Генерал замолчал как бы ожидая ответа|4.344
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30672591.mp3|– Двадцать три пятьдесят пять – ответил он|3.384
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21554250.mp3|Авторы согласились с логикой такого подхода|3.696
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35041892.mp3|Левин погладил Ласку и посвистал в знак того что можно начинать|5.94
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20792887.mp3|Швейцария считает что давно настало время для значительной активизации и усовершенствования процесса ее осуществления|9.504
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24416856.mp3|И прыгают скороговорки как караси на сковородке|3.276
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18913482.mp3|Позвольте мне повторить что в Стамбуле стороны признали центральную роль Организации Объединенных Наций|6.864
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28335505.mp3|Сбрую портят|2.7
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19563647.mp3|Экономическое процветание и продовольственная безопасность стран зависят от состояния Мирового океана|6.744
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36670036.mp3|Иначе обстоит дело в Католической церкви|3.96
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23115645.mp3|Иван Иваныч Рагозов и графиня Лидия Ивановна с мадам Шталь|8.16
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19010586.mp3|Такой подход должен обеспечивать продолжение переговоров и после реализации отдельного шага|7.104
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31418949.mp3|Всё говорило за то что он станет большим поэтом|5.616
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22227344.mp3|Я благодарю Постоянного представителя Казахстана за любезные слова в мой адрес|5.784
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26408248.mp3|Сегодняшние решения скажутся не только на нас но и на будущих поколениях|6.48
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28870936.mp3|Денег совсем не было|2.268
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31405660.mp3|В гостиную вошла Анна|4.068
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37757286.mp3|Интересы государств будут защищены принципом консенсуса при принятии всех решений Конференцией по разоружению|7.956
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26170323.mp3|Международному сообществу пора подумать о практических методах удаления космического мусора с используемых орбит|7.236
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_23407476.mp3|– Я и не вступала|1.1755
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22797075.mp3|Вы читаете отвратительно|3.528
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18955017.mp3|Но новый окрик строгий и холодный заставил ее от этого отказаться|5.496
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27345585.mp3|Поэтому Ассамблее следует начать рассматривать другие варианты продвижения вперед процесса многосторонних переговоров по разоружению|8.316
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25634464.mp3|Моя делегация подчеркивает свою поддержку и приверженность его предстоящим усилиям по продвижению дела Совета|6.948
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31912367.mp3|необходимо|2.268
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27613417.mp3|– Расскажу тебе сказку которую в ребячестве мне рассказывала старая калмычка|6.336
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26946756.mp3|Израиль уже предпринял определенные шаги по ослаблению блокады|4.788
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20838440.mp3|Значит будем считать что он принимается|4.416
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20828131.mp3|Лига истощила свой потенциал сыграв эту достойную сожаления и сомнительную роль|6.144
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30558158.mp3|нельзя|2.124
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22491386.mp3|Исходя из этого мы преисполнены решимости приложить все усилия в целях преобразования Совета Безопасности|10.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24802406.mp3|Это наглядно свидетельствует о том что Система сертификации остается открытой и коллективной|6.192
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26169378.mp3|Такая деятельность должна пользоваться поддержкой со стороны международного сообщества в рамках социальной интеграции|8.136
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19564129.mp3|Давно пора осознать что сильные народы никогда не откажутся от своего права на выбор|5.856
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38403703.mp3|Для лаосского правительства подготовка к проведению Саммита является одной из приоритетных задач|7.776
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36373236.mp3|Давай начнём всё с чистого листа|3.42
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20864140.mp3|Мир не должен быть заложником производителей нефти|3.792
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28633021.mp3|Колокольчиков ты – Я|3.348
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19010551.mp3|Швеция входит в число тех кто испытывает это разочарование|5.376
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_32429203.mp3|Так он с утра до вечера|3.42
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30676637.mp3|Пришел увидел победить забыл|4.608
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18911472.mp3|Семантически это конечно полный бред но синтаксис верен|6.456
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18898897.mp3|Причём поводов для оптимизма на будущее тоже пока нет|4.032
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33293147.mp3|Ему приписывали авторство многих песен и поэм явившихся отражением народной ирландской поэзии|7.56
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31507507.mp3|Надо было стараться только помочь больному месту перетерпеть и он постарался это сделать|7.2
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22318817.mp3|Конференция уже сделала первый шаг в этом году была оперативно согласована повестка дня форума|7.944
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19951720.mp3|В качестве Председателя Генеральной Ассамблеи я буду уделять первоочередное внимание посредничеству в предстоящем году|7.536
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21419092.mp3|Ключевым приоритетом для Новой Зеландии остаются переговоры по договору о запрещении производства расщепляющихся материалов|8.496
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30174997.mp3|художник|1.8
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_38055186.mp3|Но я скоро ясно различил отдаленный гул голосов|4.32
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18875575.mp3|Спят и его товарищи веселый Симаков молчаливый Ладыгин смешной Коля|6.072
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18911048.mp3|Еще более тревожит то что большинство преступников остаются на свободе|4.824
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22403943.mp3|Такие поступления должны также переводиться Палестинской администрации на регулярной основе|7.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26946749.mp3|Существует много факторов которые объясняют отставание в развитии многие из которых являются внешними|7.2
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27465471.mp3|К сожалению этот Договор пока не вступил в силу|5.112
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28870865.mp3|Вы нездоровы|1.98
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24802296.mp3|Но башкирец глядел на него с тем же выражением и не отвечал ни слова|5.652
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18878119.mp3|С какогото момента торговаться уже не имеет смысла потому что время тоже имеет цену|6.912
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31912050.mp3|Счастливая жизнь не дается легко|4.068
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20461379.mp3|Кити чувствовала что Анна враждебно смотрит на нее|5.256
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31054255.mp3|восемьдесят шесть кусков|2.592
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26402268.mp3|Это показалось ему повидимому странным|3.24
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30635208.mp3|Теперь я могу с тобой поговорить|2.448
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25253692.mp3|Важно также продвигаться вперед в деле трансформации и модернизации Организации|7.2
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37476981.mp3|Он вдруг остановился и даже как бы весь затрясся от обиды|5.148
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21275465.mp3|На этом Генеральная Ассамблея завершает нынешний этап рассмотрения этих двух пунктов повестки дня|7.512
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_28947759.mp3|Ты говорил что наше положение мучительно что надо развязать его|5.94
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21207880.mp3|И он вдруг покраснел от негодования|3.696
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30135636.mp3|И тут не я один а все мы сколько нас ни было почувствовали это|8.1
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27767602.mp3|И безусловно она пользуется полной поддержкой Новой Зеландии|5.328
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25748976.mp3|Сциллу недооценки вытесненного бессознательного и Харибду склонности измерять нормальное исключительно меркой патологического|8.496
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_24396456.mp3|Системные процессы не ограничены политиками безопасности доступа|4.248
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22917826.mp3|Виски  и бокал шампанского|3.48
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18868434.mp3|Африка взяла на себя ответственность руководящую роль и управление этим процессом|5.592
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30601726.mp3|Чтобы успокоить маму ей налили еще одну рюмочку|4.968
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18902170.mp3|И я сам выбрал метод для этого|3.72
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26084669.mp3|Но он не является и не может быть самоцелью|4.5
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18881244.mp3|В этом отношении интересам Конференции отвечал бы разбор применения этого правила|5.448
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36747437.mp3|Пожив в Москве особенно в близости с семьей он чувствовал что падает духом|4.644
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_31690983.mp3|Теперь надо рассчитать так чтобы только одно место было удобно|5.868
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18875635.mp3|А я завожу людей с периферии обеспечиваю их жильем и так далее|5.184
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26086451.mp3|Вместо этого предлагаем сообща подумать о восстановлении нейтрального статуса Афганистана|5.796
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25414637.mp3|Я к вашим услугам Николай Петрович но куда нам до Либиха|4.068
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26790965.mp3|Ядерное разоружение и нераспространение ядерного оружия являются взаимодополняющими процессами|9.18
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_33433947.mp3|Отправлю вам наработку только после перевода предоплаты|5.148
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_25620498.mp3|Пугачев сидел под образами в красном кафтане в высокой шапке и важно подбочась|7.38
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36724036.mp3|За экипажем крикливо тянется толпа созвездий пестрополосая|4.392
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_37023798.mp3|Зажми и солнца и лун лучи мстящими пальцами тысячерукого Марата|5.94
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18932794.mp3|Сейчас Ассамблея примет решение по проекту резолюции|4.464
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27522568.mp3|Вот теперь настала наша очередь|5.328
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36636297.mp3|Это сомнение отравляло прелесть ее новой жизни|3.708
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26095752.mp3|Добиться этого можно только благодаря солидарности|3.348
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19791882.mp3|Необходимо чтобы всерьез учитывались интересы всех стран и регионов связанные с этим щекотливым вопросом|8.688
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26120571.mp3|Во всяком случае я бы напомнил что предложения вносятся в конкретном контексте Конференции|5.4
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19527933.mp3|Мы несем тяжелое бремя этих болезней|3.0
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20451785.mp3|Конференция по разоружению должна согласовать и осуществлять программу работы|6.24
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19334858.mp3|Камерун Центральноафриканская Республика Колумбия Габон Панама Тонга|6.216
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_36635993.mp3|Я прогоню его  сказал Левин|2.916
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_22911410.mp3|Рада что ты пришла|2.784
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21586730.mp3|Перечень этих вопросов был наконец утвержден после напряженных усилий|5.232
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26408220.mp3|Имеет значение как скорость сети удаленного устройства так и локального|5.58
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18913422.mp3|Гуманитарный подход к ядерному оружию оспаривает основания для обладания ядерным оружием|7.224
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18927890.mp3|Благодарю представителя Российской Федерации за его заявление и сразу же коснусь двух его вопросов|7.104
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_21802223.mp3|Я также поздравляю с избранием остальных членов Бюро|3.696
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_29894807.mp3|Владимир  приятный город|3.24
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19066651.mp3|Необязывающей политической декларации тут просто недостаточно|5.784
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30505870.mp3|Стригите девочки ваши косички|4.572
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19348448.mp3|Однако для достижения всеобщего доступа потребуются новые модели сотрудничества и новые модели финансирования|6.984
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26791045.mp3|Да здравствует здоровье всех народов мира|4.5
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26347391.mp3|Состоялось семь раундов межправительственных переговоров и государствачлены изложили свои позиции по ключевым вопросам|9.576
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30893144.mp3|Привычка и знаешь что так надо|3.672
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_35279868.mp3|Не бойся солнышко ничего не бойся|3.6
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_27302093.mp3|В нем четыре пункта преамбулы и три пункта постановляющей части|6.228
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18858242.mp3|Невежливо спрашивать дерево о его истории|3.696
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26426913.mp3|Эта принудительная мера является нарушением международного права и Женевских конвенций|6.588
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_19578967.mp3|Вновь следует подчеркнуть что это обстоятельство может наиболее серьезно затронуть страны с формирующейся экономикой|6.768
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_26430737.mp3|Пленятьто здесь жаль некого|3.564
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_18912608.mp3|Сейчас Карасахин ищет инвесторов которые могли бы запустить проект на коммерческой основе|7.656
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20957575.mp3|Они одинаково важны и подкрепляют друг друга|3.072
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20452544.mp3|Княгиня была растеряна и не знала что делать|3.936
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_20450469.mp3|Он быстро взял протянутую руку и крепко пожал ее|4.704
+/home/ashankwi/commonVoiceData/ru/trainFiles/common_voice_ru_30642753.mp3|Завтра приходите со слесарем|2.88

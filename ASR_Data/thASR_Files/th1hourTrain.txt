@@ -1,872 +1,880 @@
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26489307.mp3|ศิวาลัย  ทมยันตี|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27399203.mp3|คุณยังต้องอดทนกับสิ่งที่ไม่เป็นธรรม|4.14
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28722973.mp3|มีโอกาสได้เงินก้อน|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26623876.mp3|พระราชูปถัมภ์|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27396468.mp3|อุปกรณ์ทำงาน|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30319045.mp3|สหมิตรเครื่องกล|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28912627.mp3|และเคยร่วงถึง|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295452.mp3|ส่งพระเคราะห์|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25634842.mp3|คุณมีวิธีการแยกความแตกต่างระหว่างรถบัสกับรถโค้ชอย่าไงร |6.12
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28748638.mp3|อย่างไรก็ดี เน้นไปที่การมองโลกตามความจริง|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26167354.mp3|บมจทีฆะและเพื่อน|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27702277.mp3|แฮ็กเกอร์เล่นแรง ทวีตข้อความโอบามาถูกยิงตายฉลองวันชาติสหรัฐ|6.66
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27073395.mp3|หรือเงินสะสมเข้ากองทุนสงเคราะห์ตามกฎหมายว่าด้วยโรงเรียนเอกชน|6.408
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26665438.mp3|กฎบัตรสหประชาชาติ|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668578.mp3|บ้านสำเภาล่ม|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28721646.mp3|เข้มงวดกับคนอื่น ผ่อนปรนกับพวกพ้อง|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30243310.mp3|ถ้าทำแบบนี้ ถูกไล่ออก|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27497439.mp3|เอาใจเขามาใส่ใจเรา น่าจะเป็นทางเดินหนึ่ง|6.876
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26424563.mp3|สยามอินเตอร์บุ๊คส์|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702378.mp3|แต่จริงแล้วก็เรียบร้อยดี|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551675.mp3|มีปัญหาบางอย่างผูกติดมาเงียบ|4.896
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26459824.mp3|เขามั่นใจในขณะที่ยังตื่น|4.572
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28104736.mp3|สามารถล้มแล้วไม่เจ็บมาก เดินต่อได้|3.852
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26105558.mp3|หรือเหมารวมขนาดนั้นไม่ได้|3.384
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31189084.mp3|อันมีสมเด็จพระพุทธเจ้าทุกพระองค์เป็นอาทิ|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26163224.mp3|ความผิดเกี่ยวกับชีวิตและร่างกาย|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30572334.mp3|การเปิดเผยข้อมูล|1.98
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26623405.mp3|การบูรณาการการทำงานของหน่วยงานต่างต่าง|4.068
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27285214.mp3|หมกใต้พรมนานมาแล้วสาบสูญ|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28643415.mp3|ปวดศีรษะมาก|2.412
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26594447.mp3|ไม่ใช่เศษเล็กเศษน้อยของมัน|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26824258.mp3|จอที่สามผมแล้วเนี่ย|3.456
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25924948.mp3|ซอสสำหรับห่านคือซอสของห่านตัวผู้|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27523954.mp3|แต่ยังไม่เหมาะที่จะลงทุนระยะสั้น|5.328
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28539402.mp3|หรือได้คนเก่งเป็นแฟน สนับสนุนกันในเรื่องงาน ให้แรงบันดาลใจในทางที่ดี|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27060869.mp3|กระทั่งในเดือนพฤศจิกายน|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28719370.mp3|มีคนช่วยเหลือส่งเสริม|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26113512.mp3|เขายอมรับว่าภาพสเก๊ตช์นั้นทำให้เขาตกใจ|4.968
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26522567.mp3|ทีละเล็กละน้อย|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625520.mp3|คูปองนี้มีอายุถึงสิ้นเดือน|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823834.mp3|เด็กหญิงรักเค้กนางฟ้าสีชมพู|3.78
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26315376.mp3|ร้านขายข้าวหน้าเป็ด มักจะขายหมูกรอบด้วย|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27161369.mp3|ความหดหู่ท้อแท้|4.176
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30217412.mp3|ลองเลือกเป็นหมอนใบชาเพื่อสุขภาพ ที่ช่วยดับกลิ่นอับ สร้างบรรยากาศให้ผ่อนคลาย|5.04
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27180638.mp3|การหารือกับมืออาชีพ|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26410038.mp3|คาร์ลอยู่ตรงนั้น|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422264.mp3|อ่ะนะ|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26226839.mp3|เจ็ด ยกเลิกพระราชอำนาจในการแสดงความคิดเห็นทางการเมืองในที่สาธารณะ|7.992
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26597303.mp3|โครงสร้างสังคม|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26160960.mp3|ฉันไม่คิดว่าพวกเราเคยเจอกันมาก่อน ใช่ไหม |4.968
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151448.mp3|คนมีพื้นที่ตรงกลางน้อยลงที่จะเข้าใจกัน|5.076
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28125267.mp3|เปิดระหว่าง|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294917.mp3|เสภาทรงเครื่อง|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26822086.mp3|มีคนได้ใช้ประโยชน์จากเสียงระฆังวัด|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_24736700.mp3|วันทำงาน|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702958.mp3|ฉันคิดว่าพวกเขากำลังมองหางานใหม่|3.744
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26049420.mp3|ยูนิวานิชน้ำมันปาล์ม|3.456
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409155.mp3|จิ้มฟันจระเข้|2.124
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409965.mp3|เพชร แสงมณี|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27518690.mp3|ส่วนถ้าวันไหนที่เราเกิดต้องการใช้งานขึ้นจริง|5.688
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27709841.mp3|อ่านแล้วปลง|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26120643.mp3|กระเชอก้นรั่ว|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27424109.mp3|โดยเฉพาะคอนซีลเลอร์ ที่นอกจากจะช่วยปกปิดสิว รอยสิวได้แล้ว|6.336
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26185127.mp3|คนเดียวหัวหาย สองคนเพื่อนตาย|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26150580.mp3|วันนี้หน้าไม่สวย ไม่เอา ไม่ถ่าย|3.924
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26479232.mp3|ทำไมกระดานหมากรุกต้องทำแปดคูณแปดช่อง|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25896439.mp3|เขาพิจารณานาฬิกาของเขา|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30567255.mp3|แต่พอได้ทำงานกับเพื่อนร่วมงานที่คลิกกัน|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30615080.mp3|รับประทานอาหารเย็นกันเถอะ|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26148843.mp3|ในระบอบประชาธิปไตยอันมีพระมหากษัตริย์ทรงเป็นประมุข|6.048
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26559819.mp3|เถาวัลย์เหล็ก|1.836
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25921095.mp3|ไม่มีแม้แต่เสียงมาจากในประตู|3.312
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154254.mp3|แชงกรีลา โฮเต็ล|3.672
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070393.mp3|คุณสามารถจัดการทุกอย่างโดยลำพังได้อย่างไร คุณยัง|5.004
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26073881.mp3|คุณเป็นทหาร เซอร์เลสเตอร์ตั้งข้อสังเกต และคนที่ซื่อสัตย์|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28867538.mp3|ฟันธง |2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25896818.mp3|พวกเขาตายทั้ง ๆ ที่มี|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26184539.mp3|ถ้าไม่พูดแล้วถูกมองว่าเป็นคนโง่ก็ยังดีกว่าเปิดปากพูดและทำให้ทุกคนหมดข้อสงสัย|8.424
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27380497.mp3|และนางตะเภาทองผู้น้อง|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26630930.mp3|กฎหมายว่าด้วยการส่งเสริม|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27248889.mp3|เอาคืนหรือพยายามสู้กับคนมีอำนาจมากกว่า|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28810328.mp3|เราไม่เบียดเบียนกันและกัน~|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295083.mp3|พรรคยุทธศาสตร์ชาติ|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27682902.mp3|เขากำลังพูดประเด็นอะไรเหรอครับ ตอนโดนตัด พ่อบอกว่ามันกลายเป็นโฆษณายาว กลับมาอีกทีเป็นรายการใหม่|9.144
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26315395.mp3|เก้าอี้ม้ายาว|2.304
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421607.mp3|เง้อ บ้านก็ต้องเช่า ข้าวก็ต้องซื้อ|4.176
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668816.mp3|ไล่เซฟทีละคนไม่ไหวหรอก มันต้องตีที่ต้นเหตุ|4.32
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551709.mp3|รับฟังข้อวิเคราะห์นานา|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27678536.mp3|อย่าดีแต่ปาก|2.16
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28658612.mp3|ปริงปรงปริกปรูปราง|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26226918.mp3|ไม่ ฉันจะบอกหล่อนด้วยตัวของฉันเอง|4.896
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29336951.mp3|ส่วนใครสนใจ|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26400099.mp3|เที่ยวผู้หญิง|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27966451.mp3|แต่ยังกระชับรูขุมขนบนใบหน้าให้ดูเล็กลงอีกด้วย|4.608
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27664948.mp3|ของเงินได้|2.232
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26554647.mp3|ทะลุกลางปล้อง|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27494273.mp3|เมื่อรัฐต้องการเห็นหน้าคุณ|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687479.mp3|การเผชิญหน้ากับคู่แข่งขันที่มีลีลาร้ายกาจ|5.76
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27406197.mp3|นี่คือหนังรักอีกเรื่องที่สร้างจากนิยายเรียกน้ำตาของ|5.976
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26343389.mp3|จอดรถหลังร้าน|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409064.mp3|ไม่ยอมส่งโฉนดที่พิพาทตามคำสั่งศาล เพื่อใช้เป็นพยานหลักฐาน|6.912
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28950396.mp3|สถานีเดินรถ|1.98
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27341218.mp3|คู่รักจะเข้าใจกันมากเป็นพิเศษ|5.256
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27138957.mp3|การโอนเงินจะต้องทำผ่านศูนย์แลกเปลี่ยนข้อมูลเช็กและบัญชีเพื่อความปลอดภัย|7.236
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27096909.mp3|ใครไม่สะดวกลงทะเบียน|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25671553.mp3|คุณมีอยู่เท่าไรในกระเป๋าเสื้อ|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668218.mp3|เขียนทีละประเด็น แล้วอัพโหลด ให้ประชาชนที่ให้ลงทะเบียนล่วงหน้า เห็นก่อนที่จะสรุป|6.732
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27388088.mp3|มันเรียกว่าอะไรนะ |3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26181248.mp3|สามารถเทลคอม|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26291567.mp3|ใบหน้าของเขาไม่แสดงถึงความกลัวเลย|4.176
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647974.mp3|ตกลงศาลรัฐธรรมนูญ|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26150067.mp3|ฉลองให้แบบตัวของตัวเอง|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25696704.mp3|ผมเคยอ่านหนังสือที่เขาเขียน|4.248
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29620981.mp3|ศูนย์ข้อมูลโควิด|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25645350.mp3|มันเป็นสิ่งประดิษฐ์ของฉันเอง เพื่อเก็บเสื้อผ้าและแซนด์วิช|7.848
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27250041.mp3|สองแสนสามร้อย|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26405135.mp3|ลูกเขยตายแม่ยายทำศพ|3.564
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28495050.mp3|โอ๊ย ให้แปดสิบดาว|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647482.mp3|ห้องถ่ายทอด|2.772
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27406227.mp3|อ่อนไหว|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26617529.mp3|เทียนข้าวเปลือก|2.16
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579553.mp3|ในอีกกรณีหนึ่ง|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26133727.mp3|โดยพร้อมเพรียง|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298250.mp3|นั่นคือ|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26216646.mp3|ใครบางคนเอาบัตรเครดิตที่ฉันทำหายไปคืนที่ธนาคาร|5.796
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26688216.mp3|แล้วมันเกี่ยวกับฉันยังไง|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665589.mp3|เอาเป็นตัวเลขเลย|2.484
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26246789.mp3|โครงการแอฟริกาในปัจจุบันใช้เวลาทั้งหมดของฉัน|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26093648.mp3|ถูกโยนเข้ามาระหว่างผู้ชุมนุมและเจ้าหน้าที่|4.716
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421311.mp3|ประชาชนจะจัดการกันเองแบบนี้|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28501638.mp3|คุณเคยเข้าไปได้ยังไง|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27104567.mp3|ถ้าสนใจก็ติดตามได้ที่เว็บไซต์|5.076
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27523984.mp3|วิจักร ศรไชย  ก็เทคนิค มัดย้อม|6.12
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29967248.mp3|โดยเฉพาะการที่มีการใช้|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687483.mp3|หรือว่านหางจระเข้|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28497361.mp3|ประมาณ หกสิบสอง บาท ขอบคุณข้อมูลจาก|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561391.mp3|การเที่ยวเตร่|2.016
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26106759.mp3|มัดมือชก|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27728649.mp3|จังหวัดในภาคอีสานตอนใต้|3.384
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26109870.mp3|เขาเคยให้ใครใช้ห้องแลปรึเปล่า|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409639.mp3|อาจารย์ผู้สอน|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299724.mp3|ส่งผลให้การทำงานของปอดดีขึ้นด้วย|4.464
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27308745.mp3|มักมีสถานการณ์ที่ต้องร่วมกันต่อสู้|4.608
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23646877.mp3|เตรียมพร้อมสำหรับการระเบิดเขาประกาศและเริ่มนับถอยหลัง|4.512
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26449399.mp3|หนังสืออ้างอิง|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702386.mp3|และยังมีวิธีการอีกมากที่จะให้เรานำข้อมูลมาทำงานข่าว หลากองค์กรชวนผู้สนใจ|8.172
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26569673.mp3|ลบเจ็ดสิบองศาเซลเซียส|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26264657.mp3|สามคนจากทั้งหมดถูกเขย่า|4.716
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26479577.mp3|กลุ่มชาติพันธุ์|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294575.mp3|การท่องเที่ยวไทยกำลังปรับตัว|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293605.mp3|ในระดับชุมชน|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26629728.mp3|พลายแก้วได้นางพิมเป็นภรรยา เหมารวมนางสายทองไปด้วยเลย|7.2
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27250148.mp3|จึงตัดสินให้ประหารชีวิตเสีย|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26062120.mp3|เหงื่อตกกีบ|2.772
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27377728.mp3|ความเข้าใจอย่างถูกต้องเกี่ยวกับความสำคัญของวันมาฆบูชา|6.048
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26546704.mp3|ยกระดับคุณภาพชีวิตของประชาชน|5.508
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070473.mp3|มีเป็นต้นว่า หลอกว่าจะบำรุงการทำมาหากินอย่างโน้นอย่างนี้|7.776
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28647172.mp3|ที่ทำงานร่วมกันเพื่อช่วยลดเลือนจุดด่างดำ|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561724.mp3|เข้าเมืองตาหลิ่วต้องหลิ่วตาตาม|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25931111.mp3|ฉันต้องการรู้ว่าทั้งหมดนี้เป็นไปได้อย่างไร|4.896
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823717.mp3|เธอดูเหมือนจะมีนิสัยที่ไม่ดีบางอย่าง|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26184208.mp3|หล่อนปิดเครื่องขยายเสียงจนกระทั่งพวกเขาสงบลง|5.688
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27250074.mp3|กล้าหาญตามสภาพและพยายามอีกหน่อย|4.788
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409296.mp3|วิชาบังคับพื้นฐาน|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25641210.mp3|คุณแม่ของฉันใช้ปลอกนิ้วขนาดเล็กขณะเย็บผ้า|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28760455.mp3|เทศกาลอาหารเจ จะมีอาหารอร่อยมากมาย|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687733.mp3|ภาพธงเขียว|2.16
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28425365.mp3|ช่างภาพข้างหน้าเขาบอกนะ ผมไม่รู้หรอก|4.14
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28728007.mp3|ขาดความสามารถในการแยก|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551510.mp3|ก่อนมาได้ดูสารคดี|4.176
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28495099.mp3|เราชอบชื่อนี้|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249906.mp3|ขอฝันใฝ่ในฝันอันเหลือเชื่อ|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26360987.mp3|อาจารย์ที่ปรึกษา|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26339025.mp3|การท่องเที่ยวเรือสำราญ|3.492
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26167431.mp3|บริษัท ถนอมพลแลบ จำกัด|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26163255.mp3|นายทวี บุณยเกตุ|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26464567.mp3|หกล้มพี่ หกล้ม|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31868881.mp3|ที่สำคัญในทุกปี|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25911703.mp3|สำนักงานใหญ่มาสามารถเข้าถึงสาธารณะได้ระหว่างในสัปดาห์|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25901358.mp3|มันเป็นยังไง|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409860.mp3|สยามดิสคัฟเวอรี่|2.412
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26605885.mp3|สิ้นสวาท  โรสลาเรน|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28271666.mp3|มะม่วงเขียวเสวยไม่นิยมกินกับข้าวเหนียว|4.932
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421528.mp3|ไม่มีทหาร เราก็มีตำรวจได้  สมปอง สุจริตกุล ลึกซึ้ง|7.308
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27649163.mp3|ลพบุรีมีลิง |2.16
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28824595.mp3|ความบกพร่องมันอยู่ตรงไหน |2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249565.mp3|มีความเสี่ยงที่จะติดโรคตามไปด้วย|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27716828.mp3|ที่มาพร้อมกับนวัตกรรมใหม่|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26082859.mp3|เซ็ปเป้|2.304
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26165338.mp3|ฉันต้องเปิดกระป๋องนี้ คุณมีที่เปิดไหม|4.932
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_24563248.mp3|แฮรรี่หวังว่าเขาจะพบกับความสำเร็จจากโปรเจคที่เขากำลังทำอยู่|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27696283.mp3|ห้ามนำเครื่องดื่มแอลกอฮอล์ข้ามไปที่เกาะ|4.572
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26413193.mp3|แปดพันเก้าร้อยล้านกิโลเมตร|2.484
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30238685.mp3|เคียงข้างกับพวกเขา นกแคนาดาเจย์นั้นเด็ดเดี่ยวที่สุด|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27180807.mp3|เอเชียตะวันออกเฉียงใต้คือหมู่เกาะและแหลมที่เชื่อมกันด้วยทะเล|6.588
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26630119.mp3|เขาตรวจดูตารางเขาวัดระยะห่างระหว่างเก้าอี้|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30023169.mp3|ฝ่ายที่ยินยอมหรือรู้เห็นเป็นใจจะยกเป็นเหตุฟ้องหย่าไม่ได้|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26462273.mp3|พระฉายาลักษณ์|2.592
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730820.mp3|อีฟส์ บิสซูม่า|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27500108.mp3|และมีอาการคล้ายไข้หวัดใหญ่|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27705839.mp3|หรืออาจต้อง|1.908
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27705863.mp3|ไม่ได้หมายถึงคำพี่บอมนะ แต่หมายถึงว่า การจะชูประเด็นนี้เป็นประเด็นเดี่ยวไปเลย เพือความง่าย|9.648
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26500394.mp3|รูปสี่เหลี่ยมด้านขนาน|3.924
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26340342.mp3|ทะเลเหลือง|2.484
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26325524.mp3|ธงชัยพระครุฑพ่าห์น้อย|3.096
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28740841.mp3|ตามกฎหมายของไทย|2.088
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823645.mp3|แล้วก็เลยมีน้องสาวชื่อไจโกะ ซึ่งไม่ได้เข้ากับทาเคชิ|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26288027.mp3|ทำไม่เป็น ก็ไม่ต้องทำ|2.844
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26619170.mp3|ฉันไม่ชอบกินซูชิ อาหารมื้อนี้เลยไม่อร่อยเลย|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26443605.mp3|พระพุทธเจ้าอยู่หัว|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26398393.mp3|ผู้พิพากษาหัวหน้าศาล|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293488.mp3|สี่สิบหกตารางวา|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27550916.mp3|เพราะวัฒนธรรมประชาธิปไตยบ้านเรา คือระบบอุปถัมภ์ การบริหารจัดการบอลไทยจึงไม่เป็นสากล|8.676
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25660313.mp3|ไม่มีไฟโดยไม่มีควัน|3.204
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27354528.mp3|เขียนบิดกันไปขนาดนั้น|3.312
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409472.mp3|เฮฮาปาร์ตี้|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26546890.mp3|ขบวอลนัทด้วยฟันข้างที่แหลมคมของคุณ|7.92
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299574.mp3|โอวาทปาติโมกข์|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409345.mp3|ผู้ชำนาญการพิเศษ|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28528051.mp3|นอกจากนี้ยังต้องระวังโรคติดต่อทางเพศสัมพันธ์ด้วย|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26342537.mp3|ส่งเสริมการเข้าถึงกระบวนการยุติธรรมอย่างรวดเร็ว|5.076
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26326617.mp3|เจ็ดทะนาน|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27405818.mp3|เก้า ของรับไหว้งานแต่ง|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29535386.mp3|เมื่อเย็น|2.088
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26994799.mp3|แป้งมันสำปะหลัง|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27702367.mp3|ทาทั้งผิวหน้าและผิวกายเลย|3.312
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25942048.mp3|เด็กรับใช้ของท่านขอรับ คุณจอร์จพูดด้วยท่าทางแบบทหาร|6.876
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26822474.mp3|แล้วมันก็นำไปสู่การเข้าใจผิดหลายอย่าง คุณเห็นไหม|5.328
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299937.mp3|ชวนกันตั้งกลุ่มอ่านหนังสือนี่มันเชยไปไหม แบบ เฮ้ยสนเรื่องนี้ อะ แจกจ่ายมอบหมายแกไปดูส่วนนี้|9.648
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26821855.mp3|เขาทำงานที่ศาลของผู้พิพากษาท้องถิ่น|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28214354.mp3|แม้ว่าคุณจะพูดถึงมันสมองและความกล้าของเขา คุณก็จะยังสงสัยผู้ชายคนนั้นอยู่ดี|7.524
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26522514.mp3|ลดอุปสรรคในธุรกิจ ประมงพาณิชย์ ประมงชายฝั่ง|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26339921.mp3|เพื่อเป็นฐานในการขับเคลื่อนประเทศด้วยปัญญาประดิษฐ์|4.32
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28217306.mp3|หรือเสื้อผ้าที่จำเป็นต้องแขวนก็สามารถแขวนได้|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26580571.mp3|มีผลบังคับใช้|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28824622.mp3|พกง่ายใช้สะดวก ยี่ห้อไหนดี|3.78
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25899783.mp3|วันแต่ละวันอันน้อยนิดคือสิ่งที่มากมายในหนึ่งปี|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27696411.mp3|เจ้าชาละวันจึงจำต้องใช้เวทมนตร์สะกดให้นางตะเภาทองหลงรัก|6.66
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151683.mp3|เสียงหนวกหูเสียงเดิม|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668569.mp3|ร้องไห้หนักมาก สิบ ซีรีส์ดราม่าน้ำตาท่วมจอ|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27651990.mp3|แนะนำหน่อย|1.548
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26149404.mp3|ชุมพรอุตสาหกรรมน้ำมันปาล์ม|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26679676.mp3|ต้องพิจารณาความสัมพันธ์ในการผลิตทั้งหมดของสังคม|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409857.mp3|ในการขยายและเข้าถึงตลาดในรูปแบบต่างต่าง|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25888703.mp3|ทั้งในด้านเศรษฐกิจโลกที่ยังมีความเสี่ยงจากปัจจัยหลายประการ|4.752
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730670.mp3|คือเรื่องประวัติของคอนกรีตที่เอามาสร้างโดม|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298629.mp3|หรือภายใน สี่ ชั่วโมง|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27395580.mp3|การไม่ขัดขืนทางกายภาพนั้น ก็เพื่อจะแสดงความขัดขืนต่อแนวคิด  ไม่งั้นอะไรก็เป็น อารยะขัดขืน ได้|8.388
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26056485.mp3|เธอมองเห็นความจริงในทันที|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26113669.mp3|วิทยาศาสตร์ของภาษาไทย|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26156775.mp3|เมืองไทย แคปปิตอล|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28771101.mp3|การตัดสินใจคือเรื่องสำคัญ|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26594373.mp3|เหนียงนกกระทุง|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409578.mp3|การผลิต|2.124
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26440603.mp3|เปิดค่ะ|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26651058.mp3|ทะเลอีเจียน|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26085559.mp3|ประเทศไทย|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26339903.mp3|พระบาทสมเด็จพระเจ้าอยู่หัวภูมิพลอดุลยเดชมหาราช|5.508
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28655638.mp3|มาเที่ยวนี้ได้มีโอกาสพักในพื้นที่ตัวเมืองชั้นใน|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26110149.mp3|บะหมี่ไข่เอกมัย ไข่ซักสี่ฟองโลด|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27678875.mp3|ถ้าคิดแง่ เข้าถึง สำหรับภาวะปกติ คนจำนวนนึงก็ไม่ได้มีมือถือ|7.776
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26825109.mp3|คณะประมง มีบ่อเป็นของตนเองด้วย วันไหนร้อนก็ลงบ่อกัน|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25667431.mp3|การชุมนุมเป็นการแสดงออกทางการเมือง|5.184
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26185140.mp3|พวกโลกที่หนึ่งแบบมีตัวเลือก|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26569671.mp3|ความยาวในการบันทึก|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26050759.mp3|คนหลังสุดฟาดเนื้ออยู่คันไซครับ|4.104
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26052254.mp3|สามีของฉันเปิดเผยว่าเขาเป็นคนรักร่วมเพศ|4.824
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26600499.mp3|รวมทั้งนำระบบดิจิทัลมาใช้ในการส่งเสริม|6.66
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28737317.mp3|เมื่อไรที่ต้องการใช้งานก็นำถ้วยคัพเค้กออก|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561661.mp3|ผลิตภัณฑ์หรือนวัตกรรมใหม่ใหม่|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26191144.mp3|ในบางประเทศมันไม่ถูกกฎหมายที่จะดื่มแอลกอฮอล์จนถึงยี่สิบเอ็ด|5.508
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154866.mp3|เนื่องจากของปลอมนั้นต้องไม่เคยจริงเลย|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26782833.mp3|ทำให้ยากไปอีก|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26106652.mp3|กองทุนรวมอสังหาริมทรัพย์|3.384
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25892942.mp3|แต่คุณเป็นคนอารมณ์ และไม่รู้จักเอาใจ|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26475041.mp3|การใช้ประโยชน์ของเทคโนโลยีสื่อสารสมัยใหม่|4.212
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27752772.mp3|อุบลราชธานีโดดเด่นด้วยแหล่งท่องเที่ยวริมแม่น้ำโขง|4.572
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26153430.mp3|ของเหลวถูกพรมไปทั่วห้องโถง|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26156376.mp3|และบำรุงสุขให้ประชาชน|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26297661.mp3|รวมทั้งเพิ่มประสิทธิภาพการบริหารจัดการ|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26824179.mp3|การมีชีวิตที่ดี คือมีอาหารการกินดี มีคนดูแลยามถูกรังแก|6.84
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28726564.mp3|เพราะอาจทำให้สำลักอาหารเข้าหลอดลมได้ ไม่ควรฝึกระบายลมหายใจติดต่อกันเป็นเวลานาน|9.0
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27407412.mp3|ภัยข้อมูลส่วนตัวบนอินเทอร์เน็ต|4.32
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27648450.mp3|น้ำฟ้าไม่ได้กิน|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32256881.mp3|สามสิบเอ็ด ธันวาคม สองพันห้าร้อยหกสิบสาม ได้ ในกรอบงบประมาณที่วางไว้|6.264
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26822630.mp3|ใช้เพื่อแบ่งประโยค|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23714231.mp3|มันคือหนทางเดียว|4.44
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28497391.mp3|สามารถสรุปใจความสำคัญได้ว่า|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25885329.mp3|ถ้าคุณไม่เชื่อฉัน คุณควรที่จะไปอ่านงานเขียนของตัวเองนะ|5.328
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293766.mp3|พระประยูรวงศ์|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26968874.mp3|มีสีเขียวอมส้ม เขียวอมทอง และเขียวอมทองแดง|6.516
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26056572.mp3|ห่านี่ก็พร่ำเพ้อมาสองวันละ|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151446.mp3|ช่วงเย็นที่ย่ำแย่กำลังใกล้เข้ามาแล้ว|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421797.mp3|รวมถึงคำพูดคำจา|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25920363.mp3|บ้านถูกสร้างครั้งละหนึ่งบล๊อก|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27423977.mp3|เริ่มจากลองเข้าไปรุกเขาก่อนด้วยการกอด|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26410015.mp3|นอสทัลเจียไม่เป็นอย่างที่มันเคยเป็น|3.672
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26690649.mp3|ต้องชมบุคคลากรหรืออาสาสมัคร|4.428
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29445562.mp3|ฮาร์ดไดรฟ์เกิดความเสียหายรุนแรงและรูปถ่ายของครอบครัวก็หายไป|4.428
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26709509.mp3|อ๋า คงต้องมีคนหนึ่งไปเอาบัตรผ่านพวกนั้นมาละล่ะ|6.408
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27184240.mp3|พานขันหมาก|1.908
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26063869.mp3|และการมีส่วนร่วมของประชาชนด้านความมั่นคง|4.248
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25906730.mp3|การอ้างอิงไม่ชัดเจนและเข้าใจยาก|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26446115.mp3|เอกสารเผยแพร่|2.484
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27276761.mp3|ซึ่งถ้าหากหัวนมยุบหรือบุ๋มลงไป|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26292831.mp3|ทะเลเคลติก|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25667351.mp3|ฉันชอบอ่านบทความของเว็บเด็กทีนมาก|5.4
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26478670.mp3|อาหารที่อร่อยคือฮอตครอสบันส์|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249567.mp3| ตัดสัญญาณทีวีต่างประเทศ|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28871575.mp3|เพราะผู้ใช้อาจหงุดหงิดเมื่อรู้ว่าคอมมันใช้เวลานิดเดียวในการเอาชนะ|5.148
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26326531.mp3|การทางพิเศษแห่งประเทศไทย|2.664
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27269713.mp3|นายทะเบียนจะพิมพ์รายละเอียดนั้นไว้ในช่องบันทึก|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27678998.mp3|นี่เดาไม่ออกเลยว่าตอนนั้นคุยไร|4.032
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30239079.mp3|พรอดดิจิ|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26153866.mp3|วันนี้ฝนตก กาแฟเลยเหนียวผิดปกติ|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28271727.mp3|ความเบื่อน่ากลัว เพราะเบื่อแล้วไม่มีความหวังว่าจะมีอะไรเปลี่ยนแปลงในสังคมได้|7.92
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28501752.mp3|ตั้งคำถามว่าบริจาค และ ขายทอดตลาด ดินในการก่อสร้างรัฐสภา ให้กับใครบ้าง|8.424
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28726783.mp3|โดยระหว่างที่ให้นมลูก|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26782788.mp3|มันใช้เวลาอยู่บ้างในการอธิบายและพัฒนาแผนปฏิบัติงาน|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26338887.mp3|ฉันหยิบจานและรีบเร่งไปด้านหน้า|4.14
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26436393.mp3|พลายชุมพลเป็นหลานใครแล้วนะ|3.852
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26399495.mp3|และการบริการด้านสาธารณสุข|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28745803.mp3|ผมเตรียม พาวเวอร์พอยท์ ด้วย|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27395106.mp3|ชัยวัฒน์ ดันแคน ผาสุก เกษียร  สัญญาทางสังคมใหม่  ทางออกของวิกฤติการเปลี่ยนแปลง|7.668
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26679415.mp3|ขนมเทียนใบตองแห้ง|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32123994.mp3|สวยหวาน เลอค่า|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707232.mp3|นั่งฟังมันเกือบชั่วโมง|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28537813.mp3|พอทุกอย่างปกติแล้ว ท้าวกำพร้าจึงหลอกว่าขอดูไอ้ที่ร้องเอาวิญญาณคนได้ไหม|5.688
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294596.mp3|สุดถนนบนทางเปลี่ยว  นันทนา วีระชน|4.896
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27648583.mp3|ฟ้า เป็นสัญญาวันใหม่ พวกเราแจ่มใส เหมือนนกที่ออกจากรัง|6.264
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422660.mp3|ก็น่าสนใจนะ|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27180635.mp3|เทคนิคนี้อาจจะไม่ได้ทำให้สิวหัวช้างหายไปภายในพริบตา|8.1
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26443541.mp3|กินล้างกินผลาญ|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28319709.mp3|แถบคาบสมุทรบอลข่าน ตะวันออกกลาง และเอเชีย|5.112
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27097075.mp3|หากหัวนมไม่ยื่นออกมาแสดงว่าหัวนมแบน|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26989115.mp3|เธอเดินทางท่ามกลางความน่าเบื่อหน่าย เมืองอันจืดชืดที่ไร้ซึ่งลักษณะหรือความสนุกสนาน|7.2
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27342067.mp3|ผีน้อยที่มาขโมยกินปลาที่ไซ|4.788
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27405996.mp3|หรือใครเป็นผู้ร้ายตัวจริงกันแน่|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28166933.mp3|หรือมีความรู้สึกอะไรพิเศษ|4.176
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26375358.mp3|แก่งแย่งชิงดี|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26133710.mp3|ฉันกังวลเมื่อได้ยินเรื่องนี้|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551563.mp3|ที่ทั้งคนในจังหวัดมุกดาหาร|5.256
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25924755.mp3|มันไม่มีอะไรให้ฉันเลย|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26440677.mp3|จากการแบ่งปันทรัพยากรหรือพื้นที่ในการขนส่งสินค้า|6.516
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26051932.mp3|ก็เพราะขบวนการแรงงานสากล|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26205946.mp3|การมีจิตสาธารณะและการมีส่วนร่วมทำประโยชน์ให้ประเทศ|6.336
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26515814.mp3|สั่งเป็นจานเดียว หรือจะสั่งเป็นกับมากินด้วยกัน|8.712
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27097257.mp3|เพราะตัวนายจ้างก็คงลำบากถึงต้องให้พนักงานหยุดงานเอง|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294941.mp3|จนกระทั่งบัดนี้|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26050764.mp3|กลิ่นนี้เป็นอันตราย|2.772
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26369767.mp3|ช้าง ช้าง ช้าง น้องเคยเห็นช้างหรือเปล่า|4.608
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27308731.mp3|คุณยังติดอยู่ที่เจนีวาหรา|4.608
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27420711.mp3|ห๊ะ เผลอไงนะ|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27308641.mp3|แต่โดยทั่วไปคุณเป็นคนแก้ปัญหาเก่งยังไงก็จะผ่านด่านไปได้ล่ะน่า|8.28
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26567729.mp3|องค์การรัฐบาล|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25901226.mp3|นายจุติ ไกรฤกษ์|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299038.mp3|คนส่งอาหารอาจต้องไปยืนรอเกะกะตามทางเดินหรือทางเท้าเหมือนเดิม|7.524
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28559146.mp3|นี่มันจะไปหมดลงเมื่อไหร่เหรอครับ เกณฑ์มันคืออะไร|4.14
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30615684.mp3|พวกเราจะออกไปกันได้แล้วยัง|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27419709.mp3|อย่างเวลาผมพูดแล้วทุกคนหยุดฟังผม|4.788
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30630748.mp3|ใครทำเว็บไซต์ ทดสอบความปลอดภัยของเว็บไซต์เบื้องต้น|5.076
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27319952.mp3|โดยคณะปฏิวัติ|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27354744.mp3|งานค้างคาหรือจิตใจอยู่ในสภาวะระส่ำระสาย|5.508
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27579970.mp3|เทพไท เสนพงศ์ ประชาธิปัตย์ อย่ามั่ว|5.256
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27308184.mp3|คุยกับเขา ก็จะรักเขา แต่เศร้ากับประเทศชาติ|6.12
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551226.mp3|รถติดราชดำเนินนอก เพราะแท็กซี่จอดรอรับคนไปสามเลน |7.236
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299509.mp3|ตั้งแต่วันที่|3.024
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26967971.mp3|ความชื้นสัมพัทธ์|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27394745.mp3|สำหรับผม ค่าบริการ กับ ทิป เป็นคนละเรื่องกันนะ ลองนึกถึงซื้อแอร์ ก็มีค่าติดตั้งนะ|7.2
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30622513.mp3|ความประมาทเลินเล่อของผู้ดูแลที่ติดตั้งระบบไม่รัดกุม|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26062079.mp3|เขาลักษณะเป็นอย่างไร|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31173212.mp3|ที่เขาหลัก|1.8
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26404867.mp3|พรรคไทยรักราษฎร์|2.772
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26062306.mp3|ได้ใหม่ลืมเก่า|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299759.mp3|เรื่องก็ง่าย|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27723619.mp3|บานาน่าโบ๊ท|2.232
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27740465.mp3|ใบตองแห้งออนไลน์  ยุบไม่ยุบก็|6.12
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579389.mp3|อือ ถ้าเป็นพวกขี้นกมาหางานอะ สมควรโดนแต่ถ้าเป็น แบบที่เข้าใจ ก็ไม่น่าไปเก็บอะไรเขา มาเป็นทางผ่าน|8.028
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26219436.mp3|บ้านแฟนของฉันน่าเบื่ออย่างยิ่ง|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26679135.mp3|หนี้สินท่วมท้นรุงรัง|3.096
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27523782.mp3|หากพูดถึงเรื่องใกล้ตัวอย่าง|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27458150.mp3|ในส่วน กระแสตรวจสอบรัฐ|5.04
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647839.mp3|ยิ่งคุ้มที่จะพัฒนาโครงสร้างพื้นฐาน|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665449.mp3|บ่างลั่วจึงแลบลิ้นออกมาให้ดู|4.032
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28874303.mp3|พูดคุยกับ|1.98
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28870740.mp3|มองหากันไป|2.412
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26071379.mp3|ชีวิตเราในฐานะพลเมืองและในฐานะผู้บริโภค|5.256
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450675.mp3|ด้วยบัดนี้ตัวข้ามะเหลเถ|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27242876.mp3|ลาโบราทอรี่|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25924330.mp3|ถ้าคุณยังทำเสียงดังอึกทึกอีก คุณควรที่จะออกไป|6.156
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28739701.mp3|บุลล็อก|1.728
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687537.mp3|ผมไปมาเมื่อสองเดือนก่อน|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28277942.mp3|ปฎิเสธไม่ได้เลยว่าขนในร่างกายเป็นปัญหากวนใจของผู้หญิงหลายคน|6.228
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26650854.mp3|ด้วยความซื่อสัตย์ สุจริต ยึดประโยชน์ส่วนรวมของประชาชน|7.056
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701794.mp3|ป่าพร้าวก็หลายในเมืองนี้|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26509254.mp3|แจกเงินอีกแล้ว|2.952
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28125177.mp3|จาน จ่าน จ้าน จ๊าน จ๋าน|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25921136.mp3|ใจดีมากจริง ๆ|2.412
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27513011.mp3|คือ เหตุการณ์ยังไม่นิ่งเลยครับ|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28550501.mp3|และที่รอเงินก้อนใหญ่จะยังไม่มา|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28455130.mp3|หนึ่งในทวิตเตอร์|1.836
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26052266.mp3|จรัญประกันภัย|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28125718.mp3|ซึ่งประเทศไทยยังไม่มีหน่วยงานในลักษณะนี้|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28217292.mp3|ตัวท่านเองเบื่อ หรือว่า ทีมงาน ท่านเบื่อครับ |5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26113513.mp3|เมียในนาม  วลัย นวาระ|4.896
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26296068.mp3|เต็มเม็ดเต็มหน่วย|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26783269.mp3|การเชื่อมต่อของประสาทเทียมสามารถทำบางสิ่งที่คล้ายกันมาก|4.788
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26297014.mp3|ตะเกียงเจ้าพายุ|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25906726.mp3|และเป็นลุงของคุณ|2.484
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28103935.mp3|ราคา สี่ร้อยห้าสิบ บาท มาถึงครีมหน้าขาวสูตรเนื้อเจลตัวนี้กันบ้าง|8.28
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26161048.mp3|รักนี้สีกุหลาบ  อาริตา|4.068
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30298182.mp3|มักถูกมองข้ามไปในมาตรการช่วยเหลือ ทั้งด้านสุขภาพ และด้านที่ไม่ใช่สุขภาพ ในหลายประเทศ|5.76
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26443720.mp3|วันนี้คนเดินห้างเยอะเป็นพิเศษ|3.312
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28905139.mp3|รออ่านข่าวเอา  เราฟังแล้วชอบอุปนายกสมาคมเคเบิ้ล เซ็งรสนา|7.848
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25888090.mp3|ในระยะยาว|2.844
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27702631.mp3|ยืดหยุ่นต่อสถานการณ์|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27705703.mp3|บางทีที่คนคอสตาริกามีความสุข ส่วนหนึ่งเพราะ ใจกว้างกับความแตกแยกทางสังคมและความคิดเห็นที่แตกต่าง|9.288
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27506218.mp3|ทหารสะพายปืนกลนั่งดูยูบีซี สนามบินหาดใหญ่|7.236
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27149793.mp3|ท้าวพังคีนาคไม่ยอมลดละ|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26408921.mp3|พร้อมทั้งศึกษาแนวทางการพัฒนา|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31939919.mp3|คณะกรรมการชั่วคราว|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26464755.mp3|พรรคเพื่อไทย|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30011240.mp3|สำหรับผู้หญิงธุรกิจทั้งหมดนั้นจริงจังเหมือนพิธีที่เคร่งขรึมที่สุด|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26163654.mp3|มันกระทบตำแหน่งท่านผู้หญิงของคุณหรือเปล่า หล่อนเหมือนกับใครบางคนไหม|5.58
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730780.mp3|สิบแปด ปีที่สามารถตั้งครรภ์ได้|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32081678.mp3|จากที่อ่านจะเห็นว่า แม้เราไม่ได้หมิ่นใคร|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26429536.mp3|มุกเข้าห้องน้ำก็มาว่ะ|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293573.mp3|อาถรรพณ์ป่า  เมื่อคุณหมอหลงป่า  พนมเทียน|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665117.mp3|ไม่ดีเลย|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25641063.mp3|พรุ่งนี้เช้าเจอฉันที่ป้ายรถเมล์|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26190418.mp3|ทำนาบนหลังคน|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26628564.mp3|แล้วคนไทยไปเกี่ยวอะไรกับสามก๊กด้วย|5.04
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422996.mp3|ผลโหวต|1.836
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26051063.mp3|ที่เขี่ยบุหรี่ว่างเปล่า|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299982.mp3|วิธีเปลี่ยนตัวเองให้สวยแบบเปล่งปลั่ง|5.148
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151559.mp3|ยู ซิตี้|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27269816.mp3|บลัชออน และอายแชโดว์|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687844.mp3|พ่อว่อแพ่แว่|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295237.mp3|ไม่ใส่ผัก|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27487316.mp3|จึงต้องเก็บเงินเอาไว้ก่อน|4.248
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28548779.mp3|ที่เกิดจากการเสียดสีของก้ามเวลาเดิน|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26824950.mp3|คุณใส่เหล้าจินในเหยือกไปแค่ไหน|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27678890.mp3|แม้หลายคนจะตกงานแต่คุณยังจะมีงานพิสูจน์ศักยภาพอยู่|6.192
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30493599.mp3|การปกป้องตัวเองยิ่งพาไปสู่สถานการณ์ตึงเครียดกว่าเดิม|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26073819.mp3|ตีนถีบปากกัด|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26968166.mp3|นอกจากนี้ยังดัดแปลงมาจากภาษาอื่นมากมาย|5.472
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25658117.mp3|เรายังมีหนังสือหลายเล่มที่ไม่ได้อ่าน|3.456
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31939565.mp3|อัปเดตโพสต์ เมื่อโลกสื่อใหม่ดิ้นรนจะบังเกิด และโลกสื่อเก่ากำลังตาย |6.408
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450573.mp3|ในระหว่างนั้น|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26479276.mp3|เลือกโฟลเดอร์และลองอีกครั้ง|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26743014.mp3|มันจะเติมเต็มความต้องการในสัญญาได้อย่างแน่นอน|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551142.mp3|คนกรุงเทพไม่ขี้ไม่เยี่ยวฮะ ไม่ต้องมีก็ได้|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25897915.mp3|ที่ทำการไปรษณีย์จะทำการหยุดตัวอักษรหรือโทรเลข เขากล่าว|6.624
 /home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687408.mp3|การฝึกหัดชำระจิตใจให้สงบ|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707200.mp3|เสี่ยมอด|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26551510.mp3|ประวัติการทำงาน|3.312
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27760649.mp3|ภาพที่ สิบเอ็ด ผังการส่งมอบพื้นที่การก่อสร้างอาคารรัฐสภาตามแผนเดิม|8.712
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28104196.mp3|วิจารณ์|2.592
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27434000.mp3|เขาห่วงศาลรัฐธรรมนูญมากกว่ารัฐธรรมนูญใช่ไหมฮะ |6.336
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28207773.mp3|กระเทียม หัวหอม ขิง ข่า ตะไคร้ ใบมะกรูด|4.788
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26297607.mp3|ตอนเด็กอยากโตมาใช้ชีวิต โตมาอยากนอนเฉยเฉย|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27523754.mp3|เชียงใหม่จัดวางสังคม เป็นขบวนการทางศิลปะอันหนึ่งที่เกิดขึ้นภายใต้บรรยากาศการแสวงหานั้น|9.36
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421003.mp3|หมอบอกเป็นรีดสีดวง แต่ไม่ต้องห่วง แค่เอายาไปเหน็บ|6.228
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28271695.mp3|เห็นแล้วที่เคยคุยกับเพื่อนว่า พวกเรารู้แหละว่าทางมันลำบาก|7.848
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28550113.mp3|เปลือกไข่แข็งและเปราะบาง ในขณะที่ภายในเหนียวติดนิ้วมือ|4.968
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26400133.mp3|ที่เพียงพอ|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26429441.mp3|การส่งข้อความด่วนโดยไม่ต้องใช้อินเทอร์เน็ต|4.464
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293730.mp3|แต่ในช่วงปีที่ผ่านมา|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576236.mp3|ตามปฏิทินของอินเดีย|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26462274.mp3|โดยเฉพาะคนไทย|2.412
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27682554.mp3|มุขไรฟะ  ไปตาย|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561213.mp3|เขาค่อนข้างชัดเจนว่าเขาไม่ได้ดีกว่า|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_33148004.mp3|แล้วลูกบ้านก็จ่ายค่าส่วนกลางเข้านิติบุคคลเป็นปกติอยู่แล้ว|6.3
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27700009.mp3|ซึ่งสามารถติดต่อได้จากการมีเพศสัมพันธ์|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28721121.mp3|คุณมั่นใจว่าฉันจะไม่ถ่วงเวลาเขานาน|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31870539.mp3|ชมรมผู้ผลิตข่าวออนไลน์ อยู่ไหนจ๊ะ |3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524200.mp3|กลุ่มพลังคลับ|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27612693.mp3|มิตรสหายที่เคยใช้ชีวิตในเกาหลีครับ|4.284
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28480021.mp3|แน่นอนว่าจากการที่เป็นลูกสาวของตลกชื่อดัง|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28323201.mp3|เมื่อพระราชาเห็นแล้วก็รักใคร่|3.744
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26436426.mp3|ให้สามารถรองรับเทคโนโลยีด้านพลังงานสมัยใหม่ในอนาคต|5.688
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28550375.mp3|ลูกเต้าเหล่าใครโน่นนี่|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579105.mp3|ความเหนียวแน่น|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28216775.mp3|ยี่สิบเก้า เจ็ดพันหกร้อยสี่สิบเอ็ด|4.896
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26569652.mp3|พบไม้งามเมื่อขวานบิ่น|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28333864.mp3|แต่ละที่ก็มี สิ่งพิเศษ|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25942098.mp3|มันถูกแล้วใช่ไหม|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28217540.mp3|ไว้ที่|2.016
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27368227.mp3|ใจ อึ๊งภากรณ์|4.248
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26052566.mp3|ฉันไม่คุ้นเคยกับมารยาทของคุณ โปรดยกโทษให้ความไม่รู้ของฉัน|5.796
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27276114.mp3|เวลาโทรเข้าไปธนาคารแล้วเขาบอก ทำรายการ|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25631976.mp3|คุณอายุเท่าไหร่|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26235452.mp3|ซิโมเน่ปิดทำการก่อนเวลา|3.744
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28729880.mp3|อืมโอเค นั่นก็สิ่งที่คุณอยากให้ฉันช่วยหาใช่ไหม|4.608
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26153463.mp3|เมื่อฉันได้อ่านประโยคเหล่านี้หลายล้านประโยคฉันจะสมัครเป็นผู้บรรยายมืออาชีพ|6.84
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28763149.mp3|อาหารเจ สามารถทานเนื้อสัตว์บางชนิดได้ เช่นหอยนางรม|5.04
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25929860.mp3|เบอร์ตี้เป็นผู้เชี่ยวชาญพายและมันยังไม่เสร็จเกินครึ่ง|7.596
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26067429.mp3|คอขาดบาดตาย|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409027.mp3|ตอนนี้ฆาตกรรมออกมา คุณคือเอสเธอร์ใช่ไหม|5.472
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28801467.mp3|ช่วงเวลาเดินทางคือ วันที่ หนึ่ง กลับเช้าวันที่ ห้า|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26385025.mp3|กระดานหมากรุก|2.664
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26051094.mp3|ฉันไม่ต้องการที่จะท้าทายอำนาจของผู้จัดการของฉัน|5.256
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27700347.mp3|ยุบเพื่อไทย รายวัน ชื่อหนังสือพิมพ์ยี่ห้อใหม่|4.032
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28323525.mp3|และฝั่งไต้หวัน|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27536882.mp3|การจัดทำข้อมูลขึ้นมาใหม่|4.716
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27301376.mp3|แต่หลัง|1.656
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29661333.mp3|ย้ายมารวมกัน|1.656
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28608363.mp3|เรื่องเดิม|2.124
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26292946.mp3|ส่งเสริมให้ทุกภาคส่วนมีส่วนร่วมในการพัฒนา|4.716
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26157539.mp3|เกือบบอกแล้วว่านิชคุนก็คนไทย|4.068
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409067.mp3|สมาชิกสภาผู้แทนราษฏร|2.664
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730647.mp3|บ้านเรือนที่อยู่อาศัย|2.088
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28126642.mp3|เพื่อให้องค์กรปกครองส่วน|4.248
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26424518.mp3|เหลือบ่ากว่าแรง|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32121973.mp3|ผ้าขนหนู ไม่ได้ทำมาจากขนของหนู|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28339618.mp3|สามพันหนึ่งร้อยยี่สิบห้า|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28866658.mp3|ผมได้ไปกับผู้สมัครนายกเทศมนตรีนครเชียงใหม่|5.76
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27301765.mp3|สามสิบสาม จึงถือว่ามีรายได้จากการทำงานก่อนการเจ็บป่วย|7.128
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25892878.mp3|มันมีความหมายอะไร |2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25917340.mp3|เขาใส่ดีวีดีในเครื่องเล่น|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26413330.mp3|ใช่ฮะ ดีจริง|2.844
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28334940.mp3|หน้าโฆษณาสินค้าลดราคา|3.672
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26017362.mp3|เรือที่ฮัลล์มันถล่มลงมา|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27396131.mp3|ส่วนถ้าทำธุรกิจส่วนตัว|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348279.mp3|ข้าวต้มเครื่อง|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26742931.mp3|นิ้วนาง อันนี้เป็นการตั้งชื่อได้น่ารัก แถมฝรั่งก็นิยมสวมแหวนแต่งงานนิ้วนี้|6.768
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30386603.mp3|รับรีวิวจ้า ไม่รับเงินด่วย แต่ชมจริงด่าจริง|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409981.mp3|ยินดีด้วยค่ะ|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27620215.mp3|ฐานข้อมูลเปิดภาครัฐ|3.78
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31940640.mp3|ไม่ใช่ปิดทั้งฉบับ|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26202059.mp3|เมื่อเวลาผ่านไปกาลเวลาจะเปิดเผยทุกสิ่ง|5.508
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26651045.mp3|ถึงแม้ว่าจะเป็นการสร้างความมั่นคงของมนุษย์|5.112
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27433078.mp3|ลมพัดเอาละอองเกสรปลิวไปไกล|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26429391.mp3|กระจังหลังเบี้ย|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28748751.mp3|ทั้งนี้ อัตราแลกเปลี่ยนแรกของบิตคอยน์ถูกกำหนดขึ้นในเดือนตุลาคม|4.968
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26082153.mp3|นายพันเอก พระอุดมโยธาธิยุต|4.212
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28719492.mp3|ผีเสื้อเริงระบำรำฟ้อน|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450618.mp3|กระต่ายต้องแร้ว|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27180845.mp3|สถาบันป้องกันควบคุมโรคเขตเมือง|5.076
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27705837.mp3|ข้าวหอมกว่า แต่ของสยามสเต็กก็โอเคนะ|4.104
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26152127.mp3|กี่ฟลอร์นะครับ ยื่นไมค์ถามคุณพนล|4.392
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27368277.mp3|หนึ่งในของชำร่วยยอดฮิตตลอดกาล เพราะสื่อถึงความรักที่อยู่ยงคงกระพัน|8.028
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27161334.mp3|เตือนถึงปัญหาการไม่ได้อยู่ใกล้ชิด|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27683271.mp3|หากทำโครงการใหญ่|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625110.mp3|โสเภณีลอยฟ้า  นันทนา วีระชน|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28653873.mp3|หรือจนกว่าส่วนผสมจะเริ่มเดือดกลายเป็นสีน้ำตาล|6.588
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823159.mp3|เขามาทำอะไรที่นี่  ถามกุสซี่อย่างสงสัย|4.968
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27523769.mp3|จะมีสถานการณ์ที่มองไม่ออก|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26057954.mp3|ตัวร้านไม่ได้จัดซื้อจัดหาหรือเป็นผู้เลือกว่าใครจะมาฉีดบ้าง|7.236
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26051936.mp3|ไม่ว่าในกรณีใดเราจะต้องไม่ลำบากกับเขา|5.04
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26325554.mp3|นายทุนแห่งชาติต้องล้มละลาย|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26152524.mp3|ทีอาร์ซี คอนสตรัคชั่น|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27506317.mp3|เจลล้างมือ|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28666796.mp3|ความปวดร้าวทางจิตใจที่เกิดจากคำพูดที่ไม่เหมาะสมได้ลดน้อยลงอย่างชัดเจน|6.696
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28548781.mp3|ไม่ต้องทนเก็บเอาไว้ให้เปลืองพื้นที่|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28853438.mp3|สมัครเรียนออนไลน์|2.016
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27395955.mp3|ยังต้องไปรับปัญหาคนอื่น|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27649142.mp3|การใช้เทคนิคอย่างสร้างสรรค์ยังคงจะมีประโยชน์|4.104
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26149556.mp3|วนไปแล้วก็วนมา ติดแล้วติดอีก ขอบคุณ|4.752
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707189.mp3|แต่ฉันเป็นผู้จัดงานที่แข็งแกร่ง เขากล่าวอย่างนักเลง|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665959.mp3|หลักประกัน|2.016
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25974431.mp3|เขาเรียกบริกรชายและสั่งอาหารเย็น|3.78
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26424619.mp3|ย้ายค่ายเบอร์เดิม|2.592
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27300055.mp3|งานช้ากว่าตั้งใจสุด|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561487.mp3|ก็คงเป็นเรื่อง|2.052
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26435760.mp3|ศูนย์ถึงสิบ|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293090.mp3|พญาครุฑแปลงเป็นสุบรรณจร|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524171.mp3|มันไม่ใช่คนไทย|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26607759.mp3|สำนักงานคณะกรรมการนโยบายพลังงานแห่งชาติ|4.464
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26056632.mp3|นอกจากนี้เราพบการก่อตัวที่ไม่ซ้ำกันในส่วนนี้ของหิน|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26150107.mp3|ครีมให้ความชุ่มชื้นนี้สุดยอดมาก|4.644
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26153727.mp3|ไทยพีบีเอส|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27443656.mp3|ง่วงเกิน|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25889347.mp3|ฉันบอกเธอด้วยความมั่นใจไม่ได้ แต่ฉันคิดว่าเธอพูดถูก|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299553.mp3|การเอาชนะใจตัวเองคือการปฏิบัติธรรมอย่างหนึ่ง|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26292880.mp3|เงื่อนไขการชำระเงิน|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421315.mp3|แต่ก็ยังขึ้นอยู่กับการทำงาน|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299517.mp3|ใส่คุณ|2.268
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26206952.mp3|ฉันไม่รู้ว่าฉันพูดอะไรออกไปตอนนี้|4.104
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070004.mp3|พวกเขาย่ำเท้าออกไปโดยไม่คิดจะบอกฉันเลยว่าจะไปไหน|4.788
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27073385.mp3|ความสัมพันธ์ที่มีจุดเหนื่อยล้าอยู่ระหว่างทบทวนสถานการณ์|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28319892.mp3|สรุปคือ ทุกคนผิดหมด|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668109.mp3|ใช่ว่าจะสิ้นโอกาสไปเสียทั้งหมด|3.456
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27395126.mp3|เก้าอี้มั๊ย|2.088
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25633483.mp3|สัญญาเช่าหมดอายุแล้ว|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32125671.mp3|จึ๋ย|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576181.mp3|สำคัญที่ว่าจะต้องอยู่ยึดในหลักการเอาไว้|5.4
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27473911.mp3|ก่อนขึ้นเรือนของฝ่ายหญิง|4.896
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27691904.mp3|โดยสิ่งที่คุณหมอจะซักถามทั้งคุณพ่อคุณแม่ ได้แก่ ประวัติการคุมกำเนิด เคยคุมกำเนิดแบบไหน|8.1
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26628502.mp3|ถือยศถือศักดิ์|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26775589.mp3|มันอยู่ในลิสต์สิ่งที่ฉันจะทำ|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27536744.mp3|การพัฒนาด้านเศรษฐกิจสร้างสรรค์|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561528.mp3|แบ่งปันผลประโยชน์อย่างเป็นธรรม|3.024
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26291655.mp3|การส่งเสริมและพัฒนาคุณภาพชีวิต|3.78
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31175672.mp3|กลุ่มเพศหลากหลาย|1.836
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27269846.mp3|แต่อย่างบัตรรถไฟฟ้าผมแปะนะ|4.608
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27380534.mp3|เป็นการรู้ตัวที่สั้นสุดเลยมั้งเนี่ย แถมเป็นประเทศที่ไม่เคยไป|6.948
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26291499.mp3|ไม่เป็นไร จะเล่ากี่รอบก็ได้|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26152951.mp3|ฉันเดาะลิ้น น่ารำคาญ|3.096
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23668473.mp3|ใช้อนาคอนดาสำหรับโครงการนี้กันเถอะ|4.176
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26283431.mp3|เผชิญกับความเจ็บปวดและทรมาน|3.924
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27380272.mp3|สาวไอซ์ก็มิวายถูกเมาท์ว่าใช้เส้นของพ่อเพื่อก้าวเข้าสู่วงการบันเทิง ซึ่งเรื่องนี้|7.992
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422642.mp3|ทรัพยากรที่มีจำกัด และเกี่ยวกับความเป็นความตายของคนทุกคน ซึ่งต้องอาศัยลำดับการจัดสรรตามความเสี่ยง|9.576
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27691885.mp3|ฟังโฆษณาทหาร และภารกิจนายก|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25906258.mp3|แค่นั้นแหละชายชราพยักหน้า|4.428
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25888099.mp3|เธอจะมาช่วยพวกเราใช่ไหม|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27745811.mp3|ใช้ได้สะดวก|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701442.mp3|เพราะอาณานิคมต้องการแรงงาน|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27135247.mp3|ส่วนร้านข้างทางก็ให้จอดมอไซค์บนถนนหรือบนฟุตบาทมาตลอด|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26163679.mp3|ความทรงจำทำให้ฉันรู้สึกแย่ นี่ฉันกำลังแก่ขึ้นใช่ไหม|4.32
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27702243.mp3|บอกเลยว่านอกจากดีกรีความเก่งแล้ว|3.78
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409228.mp3|พรรคประชาธรรมไทย|3.852
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27406699.mp3|ตกค่ำก็อาศัยนอนในวัด|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27405783.mp3|นี่คือนายทุนโลภเจอรัฐเลว|3.78
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27705979.mp3|มันแนะนำว่าเราน่าจะเป็นเพื่อนกะคนนั้นนี้ ซึ่ง เอ๊ะ เคยแอดกันแล้วนี่นา|7.416
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26339282.mp3|บางกอกเอธเลติก|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28729861.mp3|ใบหน้าของเขาดูเหน็ดเหนื่อยและเศร้าหมอง และสายตาเต็มไปด้วยประกาย|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27161348.mp3|ปล่อยเอาไว้|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070041.mp3|หลังจากนั้น ทับปี้ก็ไล่ตามเขามาตลอดสองชั่วโมงครึ่ง|6.048
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26152297.mp3|ฉันก็จะยอมรับ ให้คนที่ฉีดวัคซีนที่มีในประเทศของเธอ เข้าประเทศฉันเหมือนกัน|10.044
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28723199.mp3|ผู้มีโรคภูมิแพ้รุนแรงเฉียบพลัน|4.14
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295982.mp3|เหนือธรรมชาติ|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25672325.mp3|ไม่มีภาพยนตร์ตะวันตกที่ปราศจากการทะเลาะวิวาทในรถเก๋ง|6.768
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27696301.mp3|ส่วนชาวเกาะที่เคยอาศัยอยู่บนเกาะบิ๊ก|4.32
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579016.mp3|เดี๋ยวนี้ไม่มียามเดินตีเหล็กตอนดึกแล้ว|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154165.mp3|ถ้าปิดสองเดือนคงมีสกินเฮด|3.672
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27536913.mp3|สองโดส แต่ละโดสห่างกันสามถึงสี่เดือน|6.408
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27706534.mp3|อย่าปล่อยให้ตัวเองเดินถอยหลังเด็ดขาด|4.068
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28653472.mp3|สถานการณ์ยังไม่ดีจริง|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551335.mp3|สำหรับไทย หลังกรณีปิดที่พักคนงานก่อสร้าง|6.408
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25901223.mp3|ตอนนี้ไปก่อนเถอะ ค่อยมาที่นี่วันหลัง|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27679090.mp3|พรุ่งนี้ ใครอยู่ใจกลางเมืองมีนัดแล้วอย่างน้อยสองที่ ไม่ไกลกันเท่าไรนัก|8.172
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151783.mp3|เอาล่ะ กัสซี่ ฉันกล่าว|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27500013.mp3|ที่ว่าเคยเป็นโรคนั้นนี้บริจาคไม่ได้ มันมีส่วนอื่นของเลือดที่ยังบริจาคได้ไหม แม้เคยเป็นโรค|9.216
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28853856.mp3|ยังมีอีกสองทวิตเตอร์|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26628904.mp3|ขอเดชกตเวทิตา อีกวิริยะพา|7.128
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25891096.mp3|ความเย่อหยิ่งมาก่อนความล้มเหลว|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26354036.mp3|การให้สินเชื่อที่เอื้อให้ประชาชนสามารถมีที่อยู่อาศัย|4.572
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27300570.mp3|ทำให้สถาบันกษัตริย์อยู่เหนือการเมืองและอยู่ใต้รัฐธรรมนูญอย่างแท้จริง|7.2
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294893.mp3|แสบเนื้อแสบตัว|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524087.mp3|ยังต้องรวบรวมทรัพย์สินไว้ก่อน|4.32
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26089737.mp3|การคำนึงถึงสมาธิในพื้นที่ทางกายภาพที่ไม่ใช่ห้องเรียนโดยเฉพาะ|5.688
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27342975.mp3|ธีระ สุธีวรางกูร|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28339228.mp3|จึงไม่ค่อยมีระบบไหนที่ประสบความสำเร็จ|3.888
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27407418.mp3|ดีเด่น|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26706434.mp3|หลุดออกมานอกจอตัวนึง|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26593061.mp3|สวัสดีมีการบ้าน อภิปรายไม่ไว้วางใจรัฐบาล|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26546718.mp3|การเดินทางไปทำงานที่ไม่น่าอภิรมย์|6.12
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27144956.mp3|รวมถึงโรคติดต่อทางเพศสัมพันธ์|4.248
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27433614.mp3|บริเวณหอประชุมใหญ่|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27342830.mp3|ผมเทียบให้เห็นประเด็นว่า มันมีสิ่งมากมายที่อ้างได้ เพื่อให้ละเลยหลักการข้อใหญ่ ทำเป็นมองไม่เห็น|9.828
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29543694.mp3|เป็นชื่อของเดือน|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26405098.mp3|เกมไหม|3.204
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27347752.mp3|มีด้วยกัน|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26184442.mp3|ทาทา สตีล ประเทศไทย|3.132
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32245400.mp3|ตามที่กำหนดไว้ในรัฐธรรมนูญ|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29500856.mp3|กรณีนี้จะไม่ได้รับค่าจ้าง|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701540.mp3|จูเลียเป็นคนตลกมาก|2.772
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293505.mp3|หนาวแปร  สุภาวดี|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28323146.mp3|ลำบากตรงศัพท์บัญญัติกับวิธีวัดมาตรฐานนี่แหละ|4.824
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26219458.mp3|ฉันออกกำลังกายประมาณหนึ่งชั่วโมง|5.4
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579320.mp3|หุ้นบุริมสิทธิ|2.16
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26853513.mp3|สัปดาห์หน้าจะมีการจัด วิ่งไล่ลุง|3.384
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27405836.mp3|เป็นไอเดียที่แปลกใหม่|3.78
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32036577.mp3|หรือทำการเป็นปฏิปักษ์ต่อการที่เป็นสามีหรือภริยากันอย่างร้ายแรง|6.048
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28728673.mp3|ประกาศยุติกิจการในประเทศไทย|3.096
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31897533.mp3|พระภัททิยะ ผู้เกิดในตระกูลสูง|4.464
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625334.mp3|นอกจากนี้รัฐบาลจะดำเนินการจัดทำร่างกฎหมายที่จำเป็น|5.04
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26297868.mp3|คุรุศาสตรบัณฑิต|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551171.mp3|หลังนอนในห้องขังหนึ่งคืน|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26342654.mp3|นโยบายที่หนึ่งการปกป้อง รัฐต้องพิทักษ์รักษาไว้ซึ่งสถาบัน|7.02
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25668142.mp3|ไฟแก๊สทั้งหมดจะเป็นของเขา|3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687785.mp3|เป็นเรื่องเกินกว่าเหตุ และเป็นชนวนของการปะทะ|4.392
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421530.mp3|ได้เวลาลงทะเบียน ล่าช้า|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348281.mp3|ที่ทำการป่าไม้|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31871313.mp3|เพราะหากเราไม่เลือกกำจัดข้าวของออกไป|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29664333.mp3|สหภาพแรงงานสร้างขึ้นมาเพื่อแทนที่การสร้างพรรคสังคมนิยมไม่ได้|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31868017.mp3|อนุสรณ์พระราชทานเพลิงศพ|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29150146.mp3|คุณรู้จักหล่อน เมื่อไหร่ |2.196
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28675050.mp3|นักศึกษาจึงมาช่วยเก็บ|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28497619.mp3|สงสัยถึงเชียงใหม่หกโมงเย็น|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28673767.mp3|แล้วมีกรณีที่ไม่ขอไหม |3.348
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28975963.mp3|คำพูดที่จริงจังดีเท่ากับสุนทรพจน์|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27697505.mp3|โชว์คอมพิวเตอร์ครับ|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27405583.mp3|ไม่ว่าช่วงใด|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707260.mp3|แสงไฟสลัวทำให้บ้านดูมืดครึ้ม|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26190418.mp3|ทำนาบนหลังคน|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27494280.mp3|ถ้าคิดอย่างรับผิดชอบต่ออนาคตก็ต้องว่า พ่อแม่ไม่ได้ให้โลกนี้กับเรา เรายืมมาจากลูกหลาน|9.108
 /home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26586003.mp3|อาหรัดกัดติกา|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26205656.mp3|พุ่มไม้เจริญเติบโตในสวนหลังจากที่ครอบครัวออกจากเมืองไปแล้ว|6.516
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26067749.mp3|ดังที่คุณปรารถนา|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348209.mp3|ซื้อขายแลกเปลี่ยน|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26150611.mp3|อินเตอร์ลิ้งค์ คอมมิวนิเคชั่น|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27300933.mp3|นำมาซึ่งโชคครั้งใหญ่|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26340012.mp3|ไก่ตุ๋นน้ำแดง|2.412
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26216748.mp3|หน้าสิ่วหน้าขวาน|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26148112.mp3|ไม่ดูดำดูดี|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26485142.mp3|กำหนดวาระการวิจัยแห่งชาติ|4.608
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625728.mp3|ข้าวคือธัญพืช|2.016
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27433473.mp3|พอลงมานั่งอดข้าวอยู่หน้าศาล ที่รัชดา กรุงเทพ|5.616
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579271.mp3|เครื่องวัดอุณหภูมิ|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409562.mp3|สำนักงานคดีแพ่ง|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26027112.mp3|คนเกียจคร้านคือมิตรของปีศาจ|3.456
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26429586.mp3|ตอบกลับ|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28674766.mp3|กองทัพมีมติว่าจะไม่ใช้ความรุนแรง เอ้า มีมติในทางตรงข้ามได้เหรอ |5.4
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27368198.mp3|แต่จะทำอย่างไรได้ในเมื่อของมันต้องมี|5.22
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26623291.mp3|ดูแลกิจการด้านพลังงานให้มีการแข่งขันอย่างเสรี|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27060565.mp3|โรงพยาบาลตากสิน|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26183996.mp3|มีความคิดเห็นอะไรไหมว่าเขาจะยาวขนาดไหน|5.616
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32098696.mp3|เป็นที่ยอมรับของเกษตรกร|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27433629.mp3|และสามารถแก้ไขให้หายได้ด้วยการหมั่นดึงหัวนมออกมา คือหัวนมบุ๋มลงไป|7.848
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26339111.mp3|อุตสาหกรรมที่ใช้แรงงานเข้มข้น|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26464703.mp3|สัญญาตะวัน  กันยามาส|3.456
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25887983.mp3|ถ้าคุณปวดหัว คุณควรทานยาพาราเซตามอลหรือแอสไพริน|6.372
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26316064.mp3|กุมารทองเป็นลูกขุนแผน|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25900757.mp3|นักท่องเที่ยวส่วนใหญ่ไปเที่ยวต่างประเทศแบบประหยัดโดยการซื้อทัวร์ไปแทน|5.256
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409721.mp3|ลัทธิเผด็จการ|2.772
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26822669.mp3|ตรัส อ่านว่า ตรัด ไม่ใช่ตะหรัด แต่สดับ อ่านว่า สะดับ|8.568
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25897968.mp3|ฉันต้องการที่จะรู้|4.284
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28976000.mp3|เพื่อนมนุษย์ต่างดาวยิงอ้อมมนุษย์โลก |2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27073474.mp3|อย่าซื้อของมาเก็บ|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26340416.mp3|ตามคำร้องขอคุ้มครองชั่วคราวกล่าวว่า จำเลยที่สองและที่สาม|7.416
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28650243.mp3|อันนี้น่าจะเป็นขั้นต่ำ คือสุดท้ายผิดไม่ผิดไม่รู้ แต่อย่างน้อยรู้ว่ากำลังอ้างถึงอะไร|7.488
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28737416.mp3|โบกหางสวย|3.024
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30022402.mp3|นอกจากการส่งเสริมให้คนมีลูกเพิ่มขึ้น|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26153451.mp3|ควรใช้มาตรการอื่นร่วมด้วย|3.096
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28978692.mp3|เพราะเรามาบิน|1.728
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26462343.mp3|ยาธาตุน้ำแดง ลดอาการท้องอืด|4.932
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28728652.mp3|คือการเรียนคอมพิวเตอร์|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154409.mp3|พายเรือในอ่าง|2.52
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26067447.mp3|ให้ตราพระราชบัญญัติธรรมนูญการปกครองแผ่นดินสยามชั่วคราว|5.616
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28537766.mp3|พร|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29446085.mp3|อำเภอดอยเต่า จังหวัดเชียงใหม่|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25921150.mp3|ฉันกำลังเรียนการพัฒนาในการแสดง|3.132
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27319678.mp3|ใครอธิบายหน่อย|3.096
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579211.mp3|รอยแยกในกำแพงทำให้ลมลอดผ่านมาได้|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409190.mp3|ฉันมีแค่หนึ่ง ฉันสามารถมีได้แค่หนึ่ง|4.716
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27300163.mp3|น้ำมันมะพร้าวจะช่วยให้ผมเงางามนุ่มสลวยได้ แต่วิธีนี้ไม่ต้องทำบ่อยนะคะ|8.928
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26546796.mp3|ไอเดียที่เสนอให้ใช้เลเซอร์ไอดีตอนแรก|5.76
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26404847.mp3|ยอดเงินคงเหลือของคุณไม่เพียงพอ กรุณาเติมเงินค่ะ|5.328
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26226952.mp3|รวมถึงผลิตสื่อที่มีคุณภาพและมีความรับผิดชอบ|6.264
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26316017.mp3|การคัดเลือก|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28104036.mp3|รวมมิตร ยี่สิบห้า ทะเลฮิตในไทย|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27731802.mp3|ตัวชื่อ|1.62
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27580084.mp3|บางเวลาทำให้คุณอยากจะหาที่พักใจ|4.032
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25926865.mp3|ฉันไม่รู้|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27447432.mp3|เป็นลายเพนต์|2.196
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27300440.mp3|บอยแบนด์ตัวท็อป|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26583028.mp3|ปิดฝา นิฮนจิ้นสไตล์|3.96
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27444061.mp3|ใช่ โคตรหนัก จักรยาน สิบกว่าโลได้|5.688
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26103982.mp3|อินเทอร์เน็ตประเทศไทย|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25916031.mp3|ฉันคิดว่าคุณต้องมีเรื่องรบกวนเล็กน้อย ฉันกล่าว|5.472
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27134969.mp3|อ่านใหม่  จับตาเศรษฐกิจ  อ่านเศรษฐศาสตร์  เข้าถึงความเหลื่อมล้ำ|6.264
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27443564.mp3|ก็จะผ่านไปในที่สุด|4.32
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26478961.mp3|อีกสิบสองนาทีเสร็จ|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26110067.mp3|จับให้มั่นคั้นให้ตาย|2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701591.mp3|มีถ้อย มีความ เจ็บท้องข้องใจ|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151424.mp3|เป้าหมายของการประกวดคือการระดมทุนที่ดี|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421453.mp3|ระวังรถข้างหลัง |2.88
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25912369.mp3|คำอุทานเล็กน้อยจากฮานาด์นั้นทำให้โลกสะเทือน|4.716
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348259.mp3|ผู้สำเร็จการศึกษา|2.916
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26354031.mp3|มืออ่อนตีนอ่อน|2.592
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249942.mp3|ทำไมต้องตรวจ และควรตรวจอะไรบ้าง|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27345016.mp3|ดอกไม้อะไรดึกแล้วยังไม่นอน ก็ดอกนีออนบานค่ำ|6.84
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28416156.mp3|ช่วงนี้ไม่ได้ออกไปวิ่งด้วย|3.564
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27599660.mp3|มีโรงเรียนกำลังจะให้สั่งหนังสือ|4.032
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31140013.mp3|แล้วเค้าก็ต้องยอมรับไปในบ่ายนั้น|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32516768.mp3|ที่เปลี่ยนให้กลายเป็นซอมบี้|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25636525.mp3|ทุ่งหญ้านั้นเต็มไปด้วยดอกเดซี่|4.176
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29116224.mp3|ทุจริตต่อหน้าที่|1.98
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665868.mp3|ต้องอดกลั้นกับความต้องการ|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30567235.mp3|เชิญหยิบฟรีได้ตามร้านกาแฟและสถานที่พบปะ|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409878.mp3|พรรครวมพลังคนรุ่นใหม่|3.096
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26315704.mp3|ระเบิดไฮโดรเจน|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26569546.mp3|กินกับแกงกะหรี่ หรือแกงมัสหมั่นก็ดี|5.94
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27444085.mp3|แต่มีเพียงโสเภณีคู่ขาอย่าง|4.716
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26384791.mp3|สร้างพลังแผ่นดินเพื่อพัฒนาศักยภาพ|4.32
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27395598.mp3|เซ็กส์มัดใจสามี|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26049532.mp3|เลยแถวห้าแยกไปหน่อย เออ แล้วมึงชิดซ้าย ร้านมันอยู่ริมถนนเลย|6.66
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26133508.mp3|ฟิลเตอร์ วิชั่น|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450590.mp3|ในกลุ่มอุตสาหกรรมที่มีศักยภาพ|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27097154.mp3|ให้เยาวชนเป็นนายกเหอะ รักในเอเนอจี้ เอาใจไปเลยค่ะ|4.968
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28721715.mp3|วีระถามว่า กี่วัน นายกไม่ตอบ ไม่อ้อมค้อมด้วย พูดเรื่องอื่นเลย |5.148
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154134.mp3|เธอกำลังจะเสียสติไปเมื่อรู้ความจริง|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28853581.mp3|สื่อถึงความก้าวหน้าในทุกด้านของชีวิต|3.456
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25898181.mp3|ฉันให้ความสนใจกับสิ่งที่คุณสนใจ|4.536
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26341688.mp3|ทุนสำรองเงินตรา|3.024
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25631053.mp3|คุณมีมัน|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27341289.mp3|แสตมป์ร้องเพลงให้ เรยา โคตรฮา  ดอกส้มสีทอง|7.416
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295504.mp3|คุณได้เข้าสู่ระบบฝากข้อความของหมายเลข|4.14
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26069844.mp3|พูดไปสองไพเบี้ย นิ่งเสียตำลึงทอง|4.68
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422397.mp3|เนื้อหาดี|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524160.mp3|ไม่ได้มีเนื้อหาอะไรอยู่|3.348
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27139211.mp3|เพราะสิ่งที่อาจละเมิดสิทธินั้นเกิดจากการกระทำนอกกฎหมาย และผู้รักษากฎหมายก็ไม่กล้าแม้แต่จะพูดถึง|9.36
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27285141.mp3|เจอคนท่าดีทีเหลว ล้มเหลวอยู่ตลอดเวลา|5.436
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707188.mp3|ต้องใช้ไม้ถูกชนิด แล้วก็ปิดยันต์เยอะแยะ|5.256
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28608765.mp3|อีกหนึ่งพฤติกรรมของพวกผู้ชายเจ้าชู้คือ นิสัยมือไม่อยู่นิ่ง|5.472
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25885338.mp3|ฉันเห็นว่าฉันควรทำตัวเองให้ชัดเจนขึ้น|4.716
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28501819.mp3|ยังไงในการใช้ชีวิตทางสังคม|4.032
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27518890.mp3|ทำเอาโลกโซเชียลตะลึง|4.068
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27073405.mp3|ไม่ได้ช่วยอะไรเลยในตอนนั้นที่จักรวรรดิอยู่ท่ามกลางความขัดแย้งอย่างต่อเนื่อง|7.236
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27628849.mp3|จังหวะชีวิตที่เริ่มมองเห็นแสงสว่าง|4.284
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26354818.mp3|ขยายตลาดสู่ต่างประเทศได้|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26679525.mp3|เพื่อการใช้สื่อออนไลน์อย่างสร้างสรรค์|3.42
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28125880.mp3|ภาพจาก มิตรสหายท่านหนึ่ง|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26764485.mp3|หลายประเทศ จะต้องมองให้ลึกถึงข้างใน|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25888917.mp3|ช่วงฤดูของเฮอริเคนเป็นช่วงเวลาที่น่ากังวลของคนหลายคนผู้ที่อาศัยอยู่ใกล้ชายฝั่ง|9.18
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27619348.mp3|วิกิลีกส์ แฉ กัมพูชาไทย เกือบได้ข้อยุติพื้นที่ทับซ้อนอ่าวไทย ก่อนเกิดรัฐประหาร|7.2
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27700415.mp3|บรรยากาศดี|1.8
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26095671.mp3|พึงตั้งตนอยู่ในความสงบ และตั้งหน้าทำมาหากิน|5.544
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730546.mp3|เพราะอาจเกิดอาการเวียนศีรษะ|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26449398.mp3|สมัครสมาชิกใหม่|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28737723.mp3|ห้าพันหกร้อย|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27161254.mp3|สามสิบสี่ หยด แต้มหัวสิวทิ้งไว้|5.508
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421455.mp3|รูปปลอมป่าว รูปจริงเผาไม่ไหม้ไม่ใช่เหรอ|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28751587.mp3|ไฮบริดวอร์|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25668031.mp3|คุณชื่นชอบเส้นก๋วยเตี๋ยวที่ทำจากแป้งหรือเส้นก๋วยเตี๋ยวที่ทำจากข้าวมากกว่ากัน |5.724
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27612702.mp3|หายใจ|2.664
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25924979.mp3|คุณพูดแบบนั้นทำไม|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27396066.mp3|มีปากเสียงกันนิดหน่อย|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_33461404.mp3|เสียงวิจารณ์จ้า อ่านดูทั้งเธรด มีเรื่องความรู้สึกปลอดภัยหรือถูกต้อนรับในพื้นที่ด้วยอะ|8.388
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450615.mp3|พลังชุมชน|2.16
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295001.mp3|เลื่อนกล่องไปตรงที่ว่างตรงนั้น|3.996
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26440542.mp3|เชลล์ไม่ได้มาชิม|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26410056.mp3|วัสดุสังเคราะห์|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293000.mp3|ผู้ควบคุมนักโทษ|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668026.mp3|ชูศักดิ์ ภัทรกุลวณิชย์ กำลังปาฐกถา ยุคเปลี่ยนผ่านวรรณกรรมไทย|6.912
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26440914.mp3|ให้ร้ายป้ายสี|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25917224.mp3|คุณได้รับรางวัลนายเขากล่าว|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28608123.mp3|เจ็ด เทรนด์ชุดแต่งงานเจ้าบ่าว|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26216651.mp3|แล้วเขาก็จุดไฟ บุหรี่อีกอันหนึ่ง|4.824
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27269615.mp3|และยังสามารถแต่งเป็น|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26016891.mp3|ข้อมูลทั้งหมดใหญ่เกินไปที่จะใส่เข้าไปในความจำของเครื่อง|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26133552.mp3|ฉันไม่เคยจะต้องรับผิดชอบเลยในชีวิต ฉันทำไม่ได้หรอก|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421797.mp3|รวมถึงคำพูดคำจา|3.348
 /home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27702791.mp3|ร้อน|1.44
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702739.mp3|ในมือของเขาถือขวดอะลูมิเนียมแวววับอันใหญ่|4.068
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26623292.mp3|เสียค่าใช้จ่าย|2.412
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32621760.mp3|ในภาษาอีสานที่แปลว่า|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28445883.mp3|เบื้องหลังพวกเขายังมีอีกหนึ่งแรงจูงใจที่ทรงพลังมากกว่า|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30426816.mp3|สำนักงานคณะกรรมการจัดระบบการจราจรทางบก|3.816
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26059310.mp3|เพราะนี่เป็นความทรงจำที่เกี่ยวกับชีวิตของตัวเอง|5.328
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26133569.mp3|เธอยืนหยัดอีกครั้ง|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28537847.mp3|ฮุนเซนสามารถมีจุดยืนทางการเมืองของตัวเองได้ และอาเซียนไม่ใช่ของประเทศไทยประเทศเดียวนิ|5.4
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28271716.mp3|ว่าแล้วใครที่กำลังมีปัญหานี้ปล่อยไว้ไม่ได้นะคะ|6.444
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25896457.mp3|ฉันกำลังติดต่อสื่อสารความรู้กับเธออยู่นะ ลูกชายของฉัน|4.608
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409163.mp3|ราเมงร้านไหนอร่อย|2.304
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28653504.mp3|คำว่า สก๊อย|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26989069.mp3|พืชเจริญเติบโตและมีสีเขียวที่บริเวณหน้าต่าง|4.788
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28678524.mp3|ก็หยวน|2.016
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421482.mp3|ส่วนกลุ่มที่เหลือเงินเข้าวันไหน|4.248
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450638.mp3|การศึกษานอกสถานที่|3.168
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27678494.mp3|ถ้าไม่ยอมขึ้นมาก็เชิญประทับอยู่ในพระที่นั่งนั้นเถิด|6.264
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25904551.mp3|ปุ่มบนรวงของข้าวสาลีเจริญเติบโตทุกวัน|4.392
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26782797.mp3|ฉันเชื่อว่าทุกอย่างผิดปกติ|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27512698.mp3|สองปีแล้ว|3.276
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26341409.mp3|ส่งเสริมกลไกอาสาสมัครเกษตรหมู่บ้าน|4.464
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27394796.mp3|สมาธิแตก|2.088
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26339166.mp3|กลุ่มเด็กนอกระบบการศึกษา|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299720.mp3|จังหวัดท่องเที่ยวภาคใต้น่าสนใจ|4.248
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294810.mp3|ดูเวลา ชายชรากล่าว|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27523792.mp3|พาเราไปพบกับ|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27760981.mp3|ส่วนนึงก็ต้องถามสื่อด้วย ว่าถ้ารู้อย่างนี้ แล้วทำไมไม่เอาสารเอาความคิดของคนที่ไม่ใช่แกนนำมาเสนอบ้าง |8.352
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25927157.mp3|ฉันรู้สึกทึ่งกับมัน|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26050760.mp3|ไมโครลิสซิ่ง|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298261.mp3|คนได้กลับมารวมตัวกันอีกครั้งพร้อมเรื่องในอดีตที่ยังตามหลอกหลอน|7.812
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26586053.mp3|ไม่ได้เอาบัตรมา|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26460169.mp3|อาวุธปืน เป็นของต้องห้าม|5.04
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702266.mp3|ดีนะ ยั่งยืน|2.304
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26429620.mp3|การเคหะแห่งชาติ|3.132
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27966507.mp3|ความที่พอคุ้นกับ|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26153728.mp3|ใครก็ตามที่เป็นเจ้าของที่ถูกต้องคือเรายังคงมีนักวิทยาศาสตร์จำนวนมากที่ขาดหายไปเพื่อพิจารณา|8.136
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26408937.mp3|เข้าพกเข้าห่อ|2.628
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26291641.mp3|สิ้นเวรสิ้นกรรม|2.772
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26071154.mp3|เพลงเมื่อวานที่มึงเปิดชื่อไรนะ|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28978405.mp3|พระอาทิตย์ขึ้นส่องแสงสว่างให้ท้องฟ้าทิศตะวันออก|3.636
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29455896.mp3|ถ้ายังไม่มี|1.8
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27269823.mp3|หกพันหนึ่งร้อยสี่สิบเก้า|3.996
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28649271.mp3|อาจจะมีใจให้คนอื่นเงียบ|2.376
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687794.mp3|ขอให้ครูอุปัชฌาย์อาจารย์ของข้าพเจ้ามีความสุข|4.284
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26161379.mp3|หาญ เอ็นจิเนียริ่ง โซลูชั่นส์|3.6
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26385505.mp3|โต๊ะทำงานและเก้าอี้สองตัวถูกทาด้วยสีแทน|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28740841.mp3|ตามกฎหมายของไทย|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27512329.mp3|ชาวเขาหินซ้อนร่วมรณรงค์กับช้าง ยืนยันต้านโรงไฟฟ้าถ่านหิน นักข่าวพลเมือง|9.18
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30388399.mp3|มีเรื่องให้เหนื่อยใจ|1.836
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25896803.mp3|นายณัฏฐพล ทีปสุวรรณ|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647548.mp3|สื่ออิสระที่ทำงานในพื้นที่มามากกว่าสิบปี|5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28217457.mp3|ครึ่งชั่วโมงถึงจะมีรถคันนึง|3.996
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26112452.mp3|คนที่ได้รับวัคซีนที่ยูเคอนุมัติให้ใช้อีกสองตัว|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26104041.mp3|มีปลาพิการอยู่ในทะเลสาปแห่งนั้น|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26113711.mp3|ทรัพย์สินส่วนพระมหากษัตริย์ ที่อยู่ภายใต้การควบคุมของกระทรวงการคลัง|6.768
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298134.mp3|อันนี้สำคัญมากนะ ตรงที่เมืองไม่ควรพึ่งพิงอุตสาหกรรมอย่างใดอย่างหนึ่งเพียงอย่างเดียว|8.604
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26705637.mp3|เครื่องบินลำสีดำตกลงจากการนำเครื่องบินลงจอด|6.48
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26474954.mp3|เสียงสะท้อนจึงดังก้องมาจากประชาชนไทยเสมอ|6.048
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26291764.mp3|ธนาคารยูโอบี|2.772
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26854257.mp3|นางบัวคลี่วางแผนฆ่าขุนแผน|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26052218.mp3|กาฝาก|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701336.mp3|คุณคิดผิด  ทวีดเลดดัมร้องไห้|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294132.mp3|การท่าเรือแห่งประเทศไทย|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070176.mp3|เป้าหมายการพัฒนาที่ยั่งยืนในกรอบสหประชาชาติ|5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707285.mp3|ดีจะตาย|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665567.mp3|น่าจะคุยไปด้วยทำไปด้วยน่ะครับ เอาแต่ทำอย่างที่ตัวเชื่อว่าดีโดยไม่คุยกับใครระหว่างนั้นเลย ก็ไม่ไหว|9.648
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26149230.mp3|โน้ตเพลงยาวเต็มความยาวโดยไม่มีการหยุดระหว่างมันและโน้ตถัดไป|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28727057.mp3|งั้นถ้าไม่ติดอะไร|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_33099996.mp3|แม่ไก่ไล่ตีกา|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524103.mp3|มีไว้ใช้ตอนไหน|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28643472.mp3|หรือกีฬาทางน้ำต่าง|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28723674.mp3|จัดกิจกรรมทั้ง|2.052
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28720845.mp3|แต่อีกมุมหนึ่งเขาอาจจะแอบไปคุยกับสาวอื่นก็ได้|3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26152127.mp3|กี่ฟลอร์นะครับ ยื่นไมค์ถามคุณพนล|4.392
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26360989.mp3|เลยหันมาใช้เลเซอร์ไอดีนี้กัน|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26071259.mp3|มันไม่มีคำจัดกัดความที่เป็นสากลของคำว่า ความฉลาด แต่ทุกคนเห็นด้วยกันว่ามันคือความสามารถในการเรียนรู้|9.9
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687784.mp3|โรงไฟฟ้าหินกรูด|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26342017.mp3|นรินทร์ธิเบศร์|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28104208.mp3|จะดูพวกรายการที่ไทยพีบีเอสซื้อลิขสิทธิ์ต่างประเทศมาไม่ได้ แต่ยังดูรายการไทยได้อยู่|7.488
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070336.mp3|ผู้หญิงคนนั้นพูดกับเขา|2.772
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26679132.mp3|รูปสี่เหลี่ยมขนมเปียกปูน|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26341784.mp3|ขุ่นข้องหมองใจ|2.592
 /home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27682765.mp3|อาเจียน|2.16
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26150542.mp3|สายป่านยาว|2.448
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576477.mp3|มีนโยบายเร่งด่วนในข้อ|3.528
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28976558.mp3|ด้วยเงินคนอื่นก็ได้|1.98
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26782860.mp3|แต่ที่นิยมในยุคนั้นคือโดเรมอน ของวิบูลย์กิจ|5.076
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26133501.mp3|สิบปากว่าไม่เท่าตาเห็น|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27396086.mp3|ความสัมพันธ์ที่งอกงาม|2.808
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27138879.mp3|แล้วใช้ผ้าที่เตรียมไว้แปะลงไปโดยใช้มือกดให้แนบสนิทไปกับผิว สี่|8.676
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26156902.mp3|เอเวอร์แลนด์|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26478799.mp3|ให้เหมาะสมกับกิจกรรมทางเศรษฐกิจตามศักยภาพพื้นที่|4.86
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665641.mp3|อ้างละเมิดลิขสิทธิ์|2.664
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28801671.mp3|อำเภอยี่งอ จังหวัดนราธิวาส|3.06
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26515757.mp3|คณะกรรมการอำนวยการ|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294169.mp3|อ่าวอะมุนด์เซน|2.556
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26354784.mp3|รัฐต้องดำเนินการให้เด็กทุกคนได้รับปัญหาในการดำรงชีวิต|5.724
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27284982.mp3|จะครึ่งปีละ ไม่คืบหน้า สรรหามาตามกระบวนการ แต่ประกาศไม่ได้|8.82
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26105477.mp3|เลขานุการกระตุกดึงเส้นใยที่หย่อน|4.284
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625053.mp3|เสี่ยหนูโหดขิง|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27405964.mp3|ฟิลิปปินส์ทวงข้าวไทยช่วยเหยื่อพายุกิสนา ผ่านมานานแล้ว|7.56
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26073837.mp3|มาสเตอร์ แอด|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26522920.mp3|สุขสันต์วันเกิด|3.24
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27870463.mp3|หรือการเก็งกำไร|2.7
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23885309.mp3|มันเกิดอะไรขึ้นในร้านทำผมกันแน่ |3.792
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27341681.mp3|โดยแหล่งที่มาต่างกัน|3.708
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27406119.mp3|ตราบใดที่คู่ต่อสู้ทางการเมืองยังไม่ถูกทำลายล้างจนราบคาบ|7.848
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25668609.mp3|ทันใดนั้นนิ้วของเขาก็ปิดผ้าเช็ดหน้าอย่างแน่น|4.5
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27420217.mp3|การทำงานเป็นทีม|2.736
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26853989.mp3|การบังคับใช้กฎหมายเป็นองค์ประกอบสำคัญของประชาสังคม|4.968
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26195299.mp3|มีเชื้อเพลิงสี่ประเภทที่แตกต่างกันที่สถานีบริการน้ำมันนี้|6.876
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26161472.mp3|ไม่ได้พยายาม|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25901913.mp3|พวกเขาไปไหนเงินก็ไปด้วย|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151691.mp3|ซึ่งไม่ควรมีความผิดทางอาญา|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070703.mp3|ดังนั้นคุณต้องการเพิ่มที่สาม |3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28657541.mp3|แต่ดูเหมือนเมืองมุกดาหารนิ่งไม่มีความเปลี่ยนแปลงมากนักในช่วง|5.076
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23655070.mp3|ฉันเกือบจะแน่ใจแล้ว|3.264
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26462417.mp3|ประโยชน์ส่วนตัว|2.592
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27679090.mp3|พรุ่งนี้ ใครอยู่ใจกลางเมืองมีนัดแล้วอย่างน้อยสองที่ ไม่ไกลกันเท่าไรนัก|8.172
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730225.mp3|อยากได้เสื้อไปขาย|2.016
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26343483.mp3|อยู่เหย้าเฝ้าเรือน|2.592
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579500.mp3|การปรับปรุงการทำงานให้มีมาตรฐานสูงขึ้น|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26325586.mp3|จดหมายสมัครงาน|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28653770.mp3|อุเบกขาคือการวางเฉยเป็นกลาง|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576557.mp3|หรือพานธูปเทียนแพ|3.132
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27506267.mp3|นี่หว่า แย่แล้ว|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28548887.mp3|รถเมล์ไม่จอดป้าย|2.016
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28737416.mp3|โบกหางสวย|3.024
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26167408.mp3|กวนน้ำให้ขุ่น|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27512423.mp3|รัฐประหารพากัน|4.356
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26460169.mp3|อาวุธปืน เป็นของต้องห้าม|5.04
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151724.mp3|มึงก็ตอบเขาไปว่ามึงไม่พร้อม|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702735.mp3|ด้วยวิธีใดก็ตามสีม่วงจะจางลงจนกลายเป็นสีเทา|5.04
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26106652.mp3|กองทุนรวมอสังหาริมทรัพย์|3.384
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665103.mp3|วารสารศาสตร์เชิงคำนวณ  จะผลักข่าวไปข้างหน้า คอมพิวเตอร์ต้องเป็นมากกว่าเครื่องพิมพ์ดีด|7.524
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687609.mp3|แอร์นกแอร์ก็น่ารัก|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27344971.mp3|เขาก็สิ่งพิเศษของเขา|4.608
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27678536.mp3|อย่าดีแต่ปาก|2.16
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26247577.mp3|ฉันรักจังหวะและความโศก|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30621970.mp3|ฟัง ภาษาไทยวันละคำ ของ เพลิน พรหมแดน สุดยอด  สุดยอด  สุดยอด |6.876
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28748769.mp3|การเมืองวัฒนธรรม ศัตรูมันอยู่ข้างในตัวคุณ อยู่ในหัวคุณ|4.968
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27433588.mp3|เหนื่อยอะ ขอจ่ายเพื่อนั่งพัก|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26464547.mp3|สถาปนิกจัดทำพิมพ์เขียวสำหรับการพัฒนาใหม่|4.176
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295004.mp3|ปฏิรูปบูรณาการระบบการเรียนการสอน|4.716
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409878.mp3|พรรครวมพลังคนรุ่นใหม่|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293887.mp3|ต่อยอดภูมิปัญญาความรู้ของปราชญ์ชาวบ้าน|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25924611.mp3|มาก่อน เสิร์ฟก่อน|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26464807.mp3|โดยความสมัครใจ|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26152717.mp3|สุธากัญจน์|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28721088.mp3|เป็นสีทองคำที่ดูธรรมชาติมากที่สุด|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26219458.mp3|ฉันออกกำลังกายประมาณหนึ่งชั่วโมง|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25913076.mp3|กรุงโรมไม่ได้สร้างเสร็จภายในวันเดียว|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27242906.mp3|แต่ถ้าพอปรับตัวหากันได้ก็ฟัง|4.104
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249890.mp3|ทำให้มีเรื่องไม่ได้ดั่งใจอยู่เสมอ|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27702377.mp3|นมัสการสมภารวัดเล่าเรื่องให้ท่านฟังโดยละเอียด|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31939974.mp3|หากลูกให้พ่อแม่แล้ว พ่อแม่นำกลับมาให้ลูกต่ออีกที|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27648197.mp3|ควรเลือกดีไซน์ของแหวนทองที่เหมาะกับมือของคุณ|5.544
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26569591.mp3|ธงชัยพระครุฑพ่าห์ใหญ่|3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26106759.mp3|มัดมือชก|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25904518.mp3|เต่าเป็นสัตว์เลื้อยคลานไม่ใช่สัตว์ครึ่งบกครึ่งน้ำ|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27679033.mp3|การจะรักชาติมันก็ยังมีอีกหลายทางหลากแนว จะมาบอกให้ รักชาติ แบบนี้แบบเดียวเท่านั้น|8.964
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27319892.mp3|ปัจจุบันขึ้นกับบ้านแสงอินทร์|4.788
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28726630.mp3|ในจังหวัด|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27073384.mp3|การวางรากฐานให้แข็งแรง|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26509653.mp3|อยากรู้อยากเห็น|2.556
 /home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27184229.mp3|เมื่อไรก็ตามที่สบโอกาสอยู่ด้วยกันเพียง|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27148338.mp3|การตระหนักในกฎแห่งกรรม|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28439981.mp3|แต่ก็เป็นเรื่องที่ต้องทำอย่างที่ไม่สามารถเลี่ยงได้|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27613452.mp3|หลายปีต่อมา|1.908
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27678527.mp3|ทารกตายในครรภ์|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28728111.mp3|และจะปรับปรุงการตั้งตำแหน่งในระบบราชการ เลิกการันตีตำแหน่งให้กับนักเรียน|5.436
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28653843.mp3|แต่แวร์ซายน์ยังตั้งตระหง่านให้เราดูถึงทุกวันนี้|6.588
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28853438.mp3|สมัครเรียนออนไลน์|2.016
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28271727.mp3|ความเบื่อน่ากลัว เพราะเบื่อแล้วไม่มีความหวังว่าจะมีอะไรเปลี่ยนแปลงในสังคมได้|7.92
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26462343.mp3|ยาธาตุน้ำแดง ลดอาการท้องอืด|4.932
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26408927.mp3|หมอเมืองเถื่อน  จามรี พรรณชมพู|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26690802.mp3|ย้อนกลับไปวันเหล่านั้น มันเป็นไปอย่างดีสำหรับเมือง|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25917337.mp3|ฉันว่าคุณรับภาษานั้นจากมาเหล่าคนอินเดีย|4.176
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32832221.mp3|ข้าขอประณตน้อมสักการ|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27706752.mp3|ได้มีส่วนร่วมในการกำหนดนโยบาย|3.564
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27180884.mp3|สนุกครบรส|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450670.mp3|ด้วยประการฉะนี้|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422642.mp3|ทรัพยากรที่มีจำกัด และเกี่ยวกับความเป็นความตายของคนทุกคน ซึ่งต้องอาศัยลำดับการจัดสรรตามความเสี่ยง|9.576
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25888722.mp3|อยู่กับเขาในตอนเย็นที่ช่วงฤดูหนาวยาวนาน|4.968
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730598.mp3|มองหาคนที่จะช่วยคุณในรูปแบบต่าง|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294633.mp3|เขาถูกปลุกด้วยการมองไปที่หน้าเพื่อนของเขา|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27651989.mp3|วาทะแห่งวัน คุณหมอหญิงบอก นายกสั่งห้ามซื้อ|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26067941.mp3|ก๋วยเตี๋ยวแคะ ใช้ลูกชิ้นปลา|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30297047.mp3|นกกระจอกและนกเกาะคอนเต้นรำตลอดแนวรั้ว|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26161117.mp3|ผู้หญิงคนนั้นขโมยกระเป๋าตังค์ของฉันไป |4.176
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687517.mp3|ฝ่ายเครื่องมือทางดิจิทัลได้โดยสะดวก|4.788
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32082312.mp3|เราทำอะไรอยู่ที่ไหนหว่า|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25896583.mp3|ฉันอยากเห็นเธอ|2.196
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26464596.mp3|ให้เกิดการนำเทคโนโลยีดิจิทัลนวัตกรรมสมัยใหม่มาใช้|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25896651.mp3|การปิคนิคถูกรบกวนด้วยวงโยธวาทิตย์|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26491699.mp3|กระเพาะปลาใส่เส้นหมี่ด้วย|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561432.mp3|ความกล้าหาญคือความสามารถในการเอาชนะความกลัว|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26533208.mp3|พัดลมตั้งโต๊ะ|2.268
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294728.mp3|เล่าปี่ อ่านแบบจีนกลางคือ หลิวเป้ย|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26067981.mp3|ยุลิน ศรีธนะเวทย์|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26073823.mp3|ความผิดเกี่ยวกับบัตรอิเล็กทรอนิกส์|4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_34054139.mp3|คณะรัฐมนตรีต่างประเทศสหภาพยุโรปแถลงทบทวนความสัมพันธ์กับไทย|7.668
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27341554.mp3|รู้สึกว่าคนเขียนเขาก็ตั้งใจ|4.788
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26328395.mp3|ความปวดร้าวใจ|2.124
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28708202.mp3|กลับวัด|2.16
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26167541.mp3|แกะดำ|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26399595.mp3|การบำเพ็ญกุศล|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26597309.mp3|การปฏิรูปที่ดินเพื่อเกษตรกรรม|4.932
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28548352.mp3|จึงถือว่าเป็นงานสุดท้ายที่ผมได้ทำในฐานะ สมาชิกสภาผู้แทนราษฎรชุดที่ ยี่สิบห้า นี้|6.336
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26147785.mp3|เสียงนั้นตกลงไปในนรก|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409964.mp3|ซุปเปอร์มาร์เกต|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25676990.mp3|กรณีภัยแล้งเพื่อประเมินสถานการณ์น้ำประจำวัน|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26287483.mp3|ถ้าเป็นบริบทก่อนหน้านี้|3.132
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27308745.mp3|มักมีสถานการณ์ที่ต้องร่วมกันต่อสู้|4.608
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26994823.mp3|ในการเป็นผู้ประกอบการขนาดกลาง|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25885172.mp3|ซีเลียหันหลังให้แฮร์รี่อีกครั้ง|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28913546.mp3|มุมมองจากยุโรปและสหรัฐอเมริกาเป็นหลัก|5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28492079.mp3|ก่อนนี้ ถ้าใครพอมี ก็ใช้เงินเลี่ยงปัญหาเมืองไปก่อนสำหรับตัวเอง|9.288
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27536895.mp3|ที่ตรงความต้องการ|4.608
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27149746.mp3|รวมไปถึงความทรงจำที่ดีในบางเรื่องราว|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26546718.mp3|การเดินทางไปทำงานที่ไม่น่าอภิรมย์|6.12
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298336.mp3|อ้าวมีทัศนคติและค่านิยมไม่ตรงกัน|5.436
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26049532.mp3|เลยแถวห้าแยกไปหน่อย เออ แล้วมึงชิดซ้าย ร้านมันอยู่ริมถนนเลย|6.66
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32063361.mp3|การพัฒนาเศรษฐกิจจากยางพาราที่ควรทำให้ครบวงจร|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293504.mp3|รูปธรรมนามธรรม|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27706729.mp3|ความสามารถพิเศษของผู้ชายเจ้าชู้คือ พวกเขาสามารถพูดโกหกให้คนอื่นเชื่อได้|6.804
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151429.mp3|ควรเชื่อถือข้อเท็จจริงนี้ในระดับใด|4.428
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27512414.mp3|ภายในปัญหาคือจะไปทางไหนดีล่ะ|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32080683.mp3|ต้องเตือนอีกครั้ง|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31940785.mp3|ความเหงาที่มากกว่าจะอธิบายได้|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28480110.mp3|โดนครับ ไม่สวมหมวกกันน็อก ด่านที่เจริญประเทศ กินข้าวซอยอิสลามเสร็จ ไปจ่ายค่าปรับวโรรส เฮ่อ|8.46
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28334826.mp3|ถึงโต๊ะแรก โต๊ะนี้เขาถามเฉพาะเวลานัดกับชื่อ เพื่อให้เฉพาะคนที่อยู่ในเวลานัดได้เข้าไป|9.216
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26016998.mp3|ถ้าเราต้องแก้ไขมันก็จะทำได้|4.176
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25906119.mp3|องค์กรสันติภาพนัดประชุมเพื่อปรึกษาเรื่องแผนงาน|5.616
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421182.mp3|งั้นตอนหั่นปลาบอกว่า นี่คือการทำหาอาหาร ด้วยได้ไหมอ่ะ เดี๋ยวกรูไม่รู้ว่าทำไรกันอยู่|10.368
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23900805.mp3|พลอยปลอมส่องประกายมากแต่มีราคาน้อย|4.632
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26375542.mp3|หันหลังให้กัน|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28322997.mp3|จุดที่ทำการแสดงศิลปะ แต่ละจุดคือจุดที่มีผู้เสียชีวิต|6.588
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26156932.mp3|ฉันสามารถเอาตัวเองเข้าไปในบ้านของกุซซี่|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27648510.mp3|ลงทะเบียนแจ้งว่าจะฉีดทางเว็บ|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28742282.mp3|ฟังเสวนาได้ที่|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070795.mp3|รอยตรา  นาวิกา|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25889347.mp3|ฉันบอกเธอด้วยความมั่นใจไม่ได้ แต่ฉันคิดว่าเธอพูดถูก|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26287169.mp3|ไม่ได้เข้า|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26429536.mp3|มุกเข้าห้องน้ำก็มาว่ะ|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26106653.mp3|ในขณะที่ลังเลเพราะหวาดกลัวเธอก็ได้ยินหญิงสาวกล่าวขึ้นอย่างเงียบงัน ด้วยเสียงอันสั่นเทา|8.208
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26822263.mp3|ภาษีบำรุงท้องที่|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27506317.mp3|เจลล้างมือ|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28824595.mp3|ความบกพร่องมันอยู่ตรงไหน |2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26443499.mp3|ร้านขายหนังสือ|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32014697.mp3|สัมภาษณ์ พระไพศาล|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154615.mp3|ชื่อทันครับ|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26051310.mp3|มีสลึงพึงบรรจบให้ครบบาท|3.996
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348314.mp3|เชียร์สยาม ครับ|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25930119.mp3|นี่เป็นบทสนทนาทั้งหมดที่พวกเขาคุยกันตลอดทั้งมื้ออาหาร|6.084
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27716725.mp3|จากการที่โดนหมัดกัด|2.592
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26678842.mp3|บำเรอเชอภักดิ์|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422687.mp3|ดูดวงไพ่ยิปซี สิบสอง ราศี ประจำวันที่ สามสิบเก้า พฤษภาคม สองพันห้าร้อยหกสิบสี่|9.18
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31939761.mp3|ยูเอสบี ไทป์ซี|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26446403.mp3|เครือข่ายทางสังคมที่มีมาแต่เด็ก|3.996
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26408975.mp3|เร่งคืนพื้นที่ป่า|2.952
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409518.mp3|มันขึ้นอยู่กับจิตวิทยาหรือไม่ |2.664
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26475076.mp3|สองปีผ่านไป ไวเหมือนโกหก|4.752
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701566.mp3|ต้องไปต่อข้างในเมืองปักกิ่งอีกที|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26568997.mp3|รู้จักเก็บรู้จักเขี่ย|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26404769.mp3|พระรามแผลงศร|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30635009.mp3|เราแทบไม่ได้เขียนอะไรเลย|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422714.mp3|ทั้งสองอันใช้ชื่อ หมอพร้อม เหมือนกัน|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409491.mp3|พัฒนาชุมชนการจ้างงานผู้พิการ|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421071.mp3|ว่าจะมีปัญหาเรื่องการควบคุมกันมากไปไหมในภายหลัง|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295246.mp3|ในการเฝ้าระวัง|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25660313.mp3|ไม่มีไฟโดยไม่มีควัน|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27433334.mp3|โดยต้องรู้จักรูปร่างของตัวเองเสียก่อนว่าเรามีจุดบกพร่องตรงไหน|7.956
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665868.mp3|ต้องอดกลั้นกับความต้องการ|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524029.mp3|เกษม เพ็ญภินันท์ เสริมทีหลัง|5.04
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29663902.mp3|ขับมาจนถึงตำบลแม่นะ|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26150172.mp3|กระท่อมนั้นถูกเผา|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25924948.mp3|ซอสสำหรับห่านคือซอสของห่านตัวผู้|5.436
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30631853.mp3|บุพบทบอกเวลา เช่น เมื่อ ตั้งแต่ จนกระทั่ง|6.084
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31872641.mp3|อะไรคือคอนเซปต์ของ หยุดชดเชย ล่ะ แบบนี้ หรือว่าตัววันหยุดชดเชย ก็เป็นวันหยุดในตัวมันเอง |9.18
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32124987.mp3|น้ำตาร่วงหล่นด้วยความสงสารในชะตากรรมของหลานที่ต้องมาตายอย่างทุกข์ทรมาน|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27628849.mp3|จังหวะชีวิตที่เริ่มมองเห็นแสงสว่าง|4.284
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28439976.mp3|แม่ของฉันให้เสื้อจัมเปอร์กันหนาวตัวใหม่ทุกคริสต์มาส|4.644
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28732584.mp3|อันนี้เข้ม|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27443564.mp3|ก็จะผ่านไปในที่สุด|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668148.mp3|อคติ |1.476
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576236.mp3|ตามปฏิทินของอินเดีย|3.96
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421760.mp3|กรมวิทยาศาสตร์การแพทย์ แล็บอ้างอิง ศูนย์วิทยาศาสตร์สุขภาพโรคติดต่ออุบัติใหม่|8.928
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26455908.mp3|พอวัดพอเหวี่ยง|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30660349.mp3|ที เอ็ม ซี อุตสาหกรรม|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27434152.mp3|ใครจะคิดว่าความสัมพันธ์ในครอบครัวจะกลายเป็นเรื่องเจ็บปวดได้เหมือนกัน|6.768
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27286974.mp3|ซึ่งไม่น่าจะมีอะไรผิดไหม |3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27536952.mp3|ดูข่าวช่องทีเอ็นเอ็น|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26071359.mp3|ไทยออพติคอล กรุ๊ป|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27709992.mp3|ความสว่างไสวที่มาเพียงชั่วคราว|4.284
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26292054.mp3|อุกกาบาต พยัคฆราช คลาดเคลื่อน เลื่อนลอย|5.724
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26051179.mp3|ยักษ์ใหญ่ ไล่ยักษ์เล็ก|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26353947.mp3|สิ่งปลูกสร้าง|2.772
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450775.mp3|ทำเครื่องหมาย|3.348
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702611.mp3|ตอนห้าทุ่มพนักงานเสิร์ฟนำโทรเลขเข้ามาในห้อง|5.076
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27794654.mp3|ภาพด่วนจาก อนุเสาวรีย์ประชาธิปไตย น่าเป็นห่วงมาก|5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26049729.mp3|คุณนายราเชล เพื่อนสาวของเราไม่เคยได้ยินเรื่องนี้|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27648405.mp3|การเกี่ยวข้องกับคนหมู่มาก|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28530690.mp3|ทัศนศาสตร์ กับทัศนมาตรศาสตร์ คนละศาสตร์กัน|4.716
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154320.mp3|ฉันพลาดอะไรไป|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576146.mp3|ร้านอาหารแถวนี้|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32080850.mp3|คำคมวันพระ|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25634320.mp3|โอ้ เงียบสิ  เจ้ากระต่ายน้อยกระซิบด้วยน้ำเสียงที่ตื่นตระหนกตกใจกลัว|7.2
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551716.mp3|คนสวนของพระราชา มาทำจึงจับได้ช้าง|6.66
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25929729.mp3|ฉันบอกคุณว่านี่ไม่ใช่เรื่องผิด|4.968
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25677274.mp3|ฉันทำให้คุณขุ่นเคืองไหม|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26631026.mp3|ความผิดลหุโทษ|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25892878.mp3|มันมีความหมายอะไร |2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23650642.mp3|เธอกินด้วยความรู้สึกหิวโหย|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28495028.mp3|สามพันสี่ร้อยเจ็ดสิบห้า|3.744
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154634.mp3|ช่วยกดเปิดสวิตซ์นั่นให้ชั้นหน่อยได้ไหม|4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28550375.mp3|ลูกเต้าเหล่าใครโน่นนี่|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348279.mp3|ข้าวต้มเครื่อง|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26340545.mp3|พรรคพลังไทสร้างชาติ|3.348
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28886817.mp3|โอเลย์|1.656
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151448.mp3|คนมีพื้นที่ตรงกลางน้อยลงที่จะเข้าใจกัน|5.076
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26399160.mp3|แล้วมีเทศกิจพุ่งมาจับ|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647477.mp3|เวิร์กแฮะ|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28780520.mp3|เรื่องนี้เป็นผลดีอย่างไร|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293729.mp3|ด้วยการสอนในเชิงแสดงความคิดเห็น|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26629697.mp3|กระต่องกระแต่ง|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27671041.mp3|คิดมาทุกท่าแล้ว|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25976925.mp3|มันจะดีกว่าไหมถ้าเกิดมาแล้วโชคดี ดีกว่าเกิดมารวย|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27760803.mp3|ที่มีเฉพาะบางกลุ่มได้สิทธิพิเศษ|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28746031.mp3|แถมยังสื่อถึงความจริงใจที่คู่บ่าวสาวอยากมอบให้ได้ไม่ดีเท่าไหร่|6.84
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26095495.mp3|นั่งทำงานในออฟฟิศนี่ก็ใช่|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26060624.mp3|หลังจากนั้นเราสามารถพูดคุยเรื่องแผนงานและแผนงาน|5.832
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28912934.mp3|แต่อย่างไรก็ตามการใช้ข้อมูล|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26554476.mp3|สัมมากัมมันตะ|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30061257.mp3|โพล ควรหรือไม่|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26404948.mp3|เส้นทางสายไหม|2.16
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26375613.mp3|ขว้างงูไม่พ้นคอ|3.348
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27319687.mp3|มึงเอาใครมา|3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421478.mp3|ขนมจ่ามงกุฎ|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28608259.mp3|หรือเข้าถึงแหล่งเงินกู้ดอกเบี้ยต่ำได้ลำบากจากสถานะคนงานข้ามชาติ|6.084
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27705642.mp3|อืม หมิ่นประมาทไม่ควรเป็นโทษอาญา เห็นด้วย ไม่น่าติดคุก มีเฉพาะโทษปรับหรือบริการสังคม|8.964
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668109.mp3|ใช่ว่าจะสิ้นโอกาสไปเสียทั้งหมด|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28649262.mp3|ประเด็นอยู่ที่ปลดล็อกกฎหมาย|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28550900.mp3|กลัวแสง|2.268
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26792631.mp3|กุสุมิตลดาเวลลิตา|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26568969.mp3|สำนักงานเร่งรัดพัฒนาชนบท|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26073665.mp3|ศรีตรังโกลฟส์ ประเทศไทย|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31940157.mp3|กองสลากสามารถช่วยปกป้องความเป็นส่วนตัวของผู้ถูกรางวัลได้|4.716
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450095.mp3|หน้ากากเมขลา  เพ็ญศิริ|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28126919.mp3|คุณภาพคับแก้ว สมตำแหน่งสามีแห่งเอเชีย|7.38
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28537437.mp3|ด้วยวิธีต่อไปนี้|1.728
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707352.mp3|ใครเป็นผู้หญิง |2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26445874.mp3|ทั้งในส่วนของเงินกู้|3.024
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823995.mp3|และในความรู้อย่างแจ่มแจ้ง ความกลัวที่ยิ่งใหญ่เข้าจู่โจมเธอ|5.508
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25886328.mp3|ซีเลียได้ยินว่ามันถูกล๊อคอยู่ และประตูถูกกระแทก|6.768
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26246812.mp3|เครื่องหมายอัศเจรีย์ในส่วนท้ายของประโยคสามารถแสดงถึงความตื่นเต้น หรือสัญญาณเตือน|6.516
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28501874.mp3|ถ้าทำธุรกิจส่วนตัวยังจะมีอนาคตที่ดี|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28738132.mp3|ถ้าเป็นเช่นนั้นจริง ผมก็อยากฟีเจอริ่งกับเขาบ้างนะครับ ใช้ร่วมกันได้ ไม่เป็นไร ผมสนับสนุนคอมมอนส์|8.46
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294195.mp3|ความสมานฉันท์|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28686273.mp3|และมีขายจริงแล้วในปี สองพันยี่สิบเอ็ด|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26296068.mp3|เต็มเม็ดเต็มหน่วย|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28751608.mp3|มันฝรั่งกูลิโกะ รสน้ำพริกหนุ่ม |3.96
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27506350.mp3|การที่มนุษย์ฝันถึงอวกาศ เป็นเรื่องของจิตใต้สำนึก|6.588
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26408971.mp3|หาห่วงมาคล้องคอ|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28680345.mp3|คุณพร้อมแล้วหรือยังที่จะดูแลเพื่อนสี่ขาให้ดีที่สุด|5.976
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27499933.mp3|ซึ่งคำว่า สื่อทางเลือก ถูกใช้โดยผู้เขียนแล้ว|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26167327.mp3|ขอให้พระเจ้ารับเธอไปสู่สุขคติ|3.96
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27434003.mp3|สำหรับคนที่ลงทุนในหุ้น|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31867109.mp3|ขายที่นาพิพาทให้จำเลยที่สอง และที่สาม|5.148
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25906735.mp3|ความเศร้าโศกและงานเฉลิมฉลอง|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31871567.mp3|พยากรณ์อากาศพร้อมแจ้งเตือนเมื่อเกิดแผ่นดินไหว|4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27696284.mp3|ขันหมากเอก|2.196
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27161256.mp3|อานนท์|2.268
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27395906.mp3|จะได้รับ|1.728
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26413268.mp3|อุตสาหกรรมเป้าหมาย|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25888567.mp3|บางคนเรียกร้องให้มีจรรยาบรรณวิชาชีพของนักพัฒนาซอฟต์แวร์|6.84
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29031452.mp3|เพิ่งทำใบขับขี่เสร็จ ออกมา ฝนตั้งเค้า เอ้า แล้วจะไปหลบไหน อยากมีออฟฟิศเลยตอนนี้|5.436
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27301723.mp3|กับไม่มีความชัดเจนเลย|3.312
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151683.mp3|เสียงหนวกหูเสียงเดิม|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27726370.mp3|ระบบบริการสารสนเทศของรัฐสภาที่จะเป็นการเปิดเผยข้อมูลกับสาธารณะ|7.92
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27648081.mp3|สหภาพชะงัก|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28721570.mp3|เรื่องราวสุดหวานที่เล่าผ่านชีวิตของ หลุยซ่า ลู คล้าก|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31394714.mp3|ในการจัดซื้อจัดจ้าง|2.232
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28821209.mp3|สุนัขกระดิกหาง|3.348
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27706552.mp3|ราคา ยี่สิบ บาท บัตรชมเกาะแสมสารสำหรับชาวต่างชาติทั้งเด็กและผู้ใหญ่|7.38
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28678430.mp3|กรอกง่าย|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30216297.mp3|เช่าก็ได้|1.836
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26630973.mp3|หันหน้าเข้าวัด|3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28748707.mp3|เราชอบตึกแถวราชดำเนินกลาง|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298690.mp3|โรงพยาบาลศรีสวรรค์|3.816
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26404707.mp3|ให้ความสำคัญกับกรอบวินัยด้านการเงินการคลังของประเทศ|6.48
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26246898.mp3|เตี้ยอุ้มค่อม|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28217435.mp3|และอยากนอนนาน|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249781.mp3|โรงพยาบาลสุทธาเวช|3.312
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30317303.mp3|เพื่อฝ่ายบริหารจะได้ประเมินคุณภาพการทำงานได้ตลอดเวลา|5.976
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25630670.mp3|ศูนย์ภาคพื้นถึงเที่ยวบินหนึ่งศูนย์หนึ่ง กรุณาเปลี่ยนตำแหน่งความสูงของคุณด้วย ทราบแล้วเปลี่ยน|7.452
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27161393.mp3|เช็กอาการหลังหายจากโควิด|4.176
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28607348.mp3|มีแค่ประตูไม้สานเนื้ออ่อนที่กั้นระหว่างเธอและพวกเขาเท่านั้น|5.256
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27487283.mp3|ไม่อนุญาตทำซ้ำ|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707461.mp3|นิ้วชี้ เอาไว้ชี้ ก็ตามชื่อ คือเอาไว้ชี้|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30386603.mp3|รับรีวิวจ้า ไม่รับเงินด่วย แต่ชมจริงด่าจริง|4.536
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27297972.mp3|เครือญาติพี่น้องไม่เห็นชอบเรื่องการเงินส่วนตัวของคุณ|6.192
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25929400.mp3|ฉันก็รักคุณ|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26058006.mp3|เลิกงานแล้วแจ้|2.196
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26375510.mp3|คุณทดสอบรึยัง และจะพบว่ามันไม่ทำงาน|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27745837.mp3|เหล่านี้|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26546811.mp3|กลไกระเบิดตัวเอง|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25906728.mp3|เธอเก็บสะสมชุดของพจนานุกรมและสารานุกรมไว้ที่ตู้อันนี้|6.948
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27682902.mp3|เขากำลังพูดประเด็นอะไรเหรอครับ ตอนโดนตัด พ่อบอกว่ามันกลายเป็นโฆษณายาว กลับมาอีกทีเป็นรายการใหม่|9.144
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25677294.mp3|กรรไกรพวกนี้ใช้ตัดโลหะได้|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26424529.mp3|กระรอกน้ำข้าว|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27551356.mp3|ยิ่งเพิ่มมูลค่า|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348255.mp3|ในการให้บริการของภาครัฐ|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26619206.mp3|วางตัวเป็นกลาง|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27096938.mp3|ที่ไม่จำเป็นก็ให้พับ|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707509.mp3|ธนิย อ่านว่า ทะนิยะ|4.428
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25931329.mp3|บึงจะแข็งตอนที่มันเย็นพอ|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25885519.mp3|ไม่ใช่อะไรสลักสำคัญ ทหารตอบกลับ|4.428
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28476695.mp3|ไม่มีซักอย่าง|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27161320.mp3|มันสั้นไป|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29697903.mp3|ข้าวต้มแห้ง คือข้าวต้มเครื่องที่ไม่เอาน้ำ|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25906047.mp3|ฉันได้จองวันหยุดแล้ว|2.196
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561689.mp3|คณะมัณฑนศิลป์|2.844
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27394775.mp3|มีรายงานว่า วันนี้ชาวบ้านจะนะ|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26040012.mp3|มันเป็นสัตว์ประหลาดตัวใหญ่ทำจากโลหะ|3.564
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561576.mp3|เพลงหน้าพาทย์|2.052
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26636629.mp3|ไม่ใช่ไปได้เลขประจำตัวประชาชนมาจากที่อื่น|4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27380131.mp3|ฝ่ายชายก็จัดเครื่องขันหมากและเครื่องใช้ในการแต่งงานลงเรือสำเภา|7.812
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28537863.mp3|แค่นี้ก็จะช่วยแก้ปัญหาชักโครกกดไม่ลงได้แล้วค่ะ|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26316122.mp3|เขตบางกะปิ กรุงเทพมหานคร|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26050683.mp3|กำขี้ดีกว่ากำตด|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26050684.mp3|หมดสมาธิเรียนไปนานมาก|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26130878.mp3|พระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช|5.652
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27378058.mp3|ลาโชว์มอญ|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27716717.mp3|แม้ว่าหาดทรายด้านหน้าของเกาะจะค่อนข้างหยาบ|4.644
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249465.mp3|ฉันไม่เคยไปบีเวอร์ลี่ฮิลส์|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27180648.mp3|ท้ายทอย|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26630957.mp3|กฎหมายไม่อนุญาต|4.176
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28821302.mp3|ประมาณ สามร้อยสิบสอง บาท วัคซีนเชื้อตาย|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26094995.mp3|สหภาพแรงงานได้นัดหยุดงานทั่วสหรัฐ|4.824
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561179.mp3|ในสถานการณ์โควิดสิบเก้า เราจัดการเรียนกันผ่านออนไลน์เป็น|5.436
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26067516.mp3|รอยร้าวใจ  ชาครียา|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27599660.mp3|มีโรงเรียนกำลังจะให้สั่งหนังสือ|4.032
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823174.mp3|กกกร อ่านว่า กะกะกอน|5.796
 /home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27389864.mp3|หรือให้เด็กเล็ก|1.8
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27682959.mp3|บรรยากาศไม่ดีนัก|2.484
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27601225.mp3|แล้วป้ายลงบนเส้นผมให้ทั่ว|4.428
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701696.mp3|ข้าพเจ้าขอนอบน้อมครูบาอาจารย์ผู้ให้โอวาทเหล่านั้น|4.356
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561341.mp3|สินสอดทองหมั้น|2.34
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26073691.mp3|เขาแต่งตัวแสดงตัวตนของเขา|2.988
-/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701708.mp3|คุณไม่ได้วิตกกังวลใช่มั้ย|3.492
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151431.mp3|เส้นผมบังภูเขา|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25669933.mp3|พายุเฮอริเคนมีมีแนวโน้มจะเข้าถล่มอีกสามวันข้างหน้า|5.94
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28728075.mp3|กึ๋ย ผมว่ามารวยมีแต่พวกฮาวทูน่ะ มันก็โอเคในด้านนั้น ตามจุดประสงค์เขา แต่แบบว่าไม่ใช่แนวที่อ่าน|7.956
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25927157.mp3|ฉันรู้สึกทึ่งกับมัน|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27500013.mp3|ที่ว่าเคยเป็นโรคนั้นนี้บริจาคไม่ได้ มันมีส่วนอื่นของเลือดที่ยังบริจาคได้ไหม แม้เคยเป็นโรค|9.216
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26089735.mp3|วีรันดา รีสอร์ท|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26424518.mp3|เหลือบ่ากว่าแรง|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25896737.mp3|เก็บเกวียนก่อนที่จะเก็บม้า|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26216517.mp3|กระต่ายตื่นตูม อยู่ในนิทานอีสป ข้อความนี้ถูกต้องหรือไม่|6.156
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409965.mp3|เพชร แสงมณี|3.816
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26149873.mp3|เบอร์ลินสมัยนั้นแยกเป็นสี่เขตปกครอง|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26462226.mp3|เพื่อป้องกันลดผลกระทบในเชิงสังคม|3.564
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26093648.mp3|ถูกโยนเข้ามาระหว่างผู้ชุมนุมและเจ้าหน้าที่|4.716
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26325525.mp3|จดหมายแนะนำตัว|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26067921.mp3|โดยผู้เผยแพร่อาจมีหรือไม่มีเจตนาทำให้เข้าใจผิดก็ได้|5.508
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27365954.mp3|ดูตัวอย่าง|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28539368.mp3|เป๋าตัง|1.836
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26640635.mp3|แต่หญิงชั่วเร่ขายชาติ|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30395779.mp3|ข้อมูลการจดทะเบียนบริษัท|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421762.mp3|ข้างในสถานที่แออัด เจ้าหน้าที่จำกัด งบประมาณจำกัด|6.66
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28912627.mp3|และเคยร่วงถึง|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26375363.mp3|นักโทษการเมือง|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26594357.mp3|จิตมนุษย์นั้นไซร้ ยากแท้ หยั่งถึง|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27419589.mp3|เงินจะถูกตัดบัญชีในวันพฤหัสบดี คนที่มีวินัยดี|6.876
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30419838.mp3|มีคำไหนแทนคำว่า สั่งอาหาร ได้บ้าง|4.284
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25669102.mp3|เธอจะทำให้วิญญาณปรากฏตัวและพูด|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28446053.mp3|เดือนสุดท้ายของปี สองพันห้าร้อยห้าสิบเก้า|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26782797.mp3|ฉันเชื่อว่าทุกอย่างผิดปกติ|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26462195.mp3|ทะเลชุกชี|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28384756.mp3|เท่าที่อ่านในลิงก์|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26051273.mp3|กระท่อมถูกไฟไหม้|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668717.mp3|สื่อที่รัก|1.944
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28480021.mp3|แน่นอนว่าจากการที่เป็นลูกสาวของตลกชื่อดัง|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28271685.mp3|เมื่อการวินิจฉัยของฉันควรได้รับการตัดสิน|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070041.mp3|หลังจากนั้น ทับปี้ก็ไล่ตามเขามาตลอดสองชั่วโมงครึ่ง|6.048
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28323128.mp3|หนูเก็บที่นอนทุกเช้าค่ะ|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26156983.mp3|เตียงชายหาดและสนามหญ้าเหมาะสำหรับการอ่าน|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28745457.mp3|ระบบอาวุโส และเครื่องแบบ|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27691965.mp3|กล่าวหา|1.836
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26157258.mp3|เขารู้สึกงี่เง่ากับการใส่เน็คไทในการชุมนุมอย่างไม่เป็นทางการ|6.048
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26784323.mp3|การขี่ม้าไม่ได้เป็นพื้นฐานของการขับรถยนต์|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26291391.mp3|อ่าวฮัดสัน|2.268
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27361889.mp3|รายการเชฟกระทะเหล็กวันนี้โจทย์คือปลา แต่เจือกเบลอปลา|8.568
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31897427.mp3|เริ่มทำพรชัยยัง ชิ้นไหนล่ะ  จ๊าก|4.824
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23714231.mp3|มันคือหนทางเดียว|4.44
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294375.mp3|ความบริสุทธิ์|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579545.mp3|รักษาการในตำแหน่ง|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28728652.mp3|คือการเรียนคอมพิวเตอร์|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26455877.mp3|วินโดวส์รุ่นล่าสุด|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151566.mp3|เชื่อใจฉันการอยู่คนเดียวกับความคิดของฉันก็ยิ่งรบกวน|5.076
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702266.mp3|ดีนะ ยั่งยืน|2.304
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30538303.mp3|แต่เรานึกถึง อาร์สยาม บ่าววี|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27394974.mp3|ขออานิสงส์ผลบุญดังกล่าวนี้โปรดกลายเป็นโภคทรัพย์|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28727019.mp3|ดูชื่อ รายละเอียด สถานที่ถูกจัง ได้ที่|6.3
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28104356.mp3|เรายังคิดว่ามันน่าจะยังต้องมีวิธีปฏิบัติอะไรร่วมกันอยู่  และเกิดจากการกำหนดร่วมกัน คนเก่า คนใหม่|8.676
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28874303.mp3|พูดคุยกับ|1.98
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294192.mp3|คบคนให้ดูหน้าซื้อผ้าให้ดูเนื้อ|3.816
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28126731.mp3|ราคา สี่ร้อยเก้าสิบเก้า|4.356
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26341345.mp3|ทุกคนนั่งนิ่งและมองไปยังหน้าจอ|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293605.mp3|ในระดับชุมชน|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32098769.mp3|ฉันคิดว่าฉันควรจะจ่ายเงิน|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25665517.mp3|ผมไม่เคยอ่านหนังสือที่เขาเขียน|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26281554.mp3|โซลฮะ|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26070370.mp3|เอเอสเอ็น โบรกเกอร์|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647612.mp3|ที่ยากจะกลับง่าย|3.024
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687422.mp3|ชิปเป๋ง เดดไลน์หัวข้อวิทยานิพนธ์คือวันจันทร์นี้ |5.076
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26740936.mp3|ลิ้นตวัดถึงหู|3.348
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28125997.mp3|กับสิ่งที่มีอยู่|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26052453.mp3|ไม่มีใครมารับดังนั้นฉันจึงไปตามสถานที่ของเธอระหว่างทางที่นี่|7.596
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409992.mp3|ราชประชานุเคราะห์|3.348
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27579823.mp3|เพราะเนื้อที่มันน้อยลง|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576477.mp3|มีนโยบายเร่งด่วนในข้อ|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28126698.mp3|บางครั้งก็จำเป็นต้องฝันน้อยลง|4.356
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26410170.mp3|นโยบายแผนระดับชาติว่าด้วยความมั่นคงแห่งชาติ|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27301748.mp3|เทียบให้ชัด|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26398277.mp3|ตนและผู้ส่งออกข้าวได้หารือกัน|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26642194.mp3|ยาวด้วยนะ|3.816
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26446286.mp3|ไม่ถึงสามชั่วโมงจะบิน ได้ฤกษ์ออกจากบ้าน|4.608
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665122.mp3|ความยอดเยี่ยมของหนังเรื่องนี้กดดันให้ผู้ชมลุ้นตลอดเวลาว่า|6.912
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154251.mp3|หล่อนกำลังพยายามสนับสนุนให้มีการเพิ่มข้อมูลที่ยังขาดแคลนในวิกิพีเดีย|6.12
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27139359.mp3|เราแวะกินข้าวกันที่ ซึ่งเป็นเกาะที่ สาม สำหรับทริปเที่ยวทะเลชุมพรของวันนี้|9.936
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26168317.mp3|ฉันกำลังสังเกตพฤติกรรมเชิงก้าวร้าวนักจิตวิทยากล่าวด้วยน้ำเสียงระดับมืออาชีพ|8.46
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26445699.mp3|ธนาคารแห่งเอเชียเพื่อการอุตสาหกรรมและพาณิชยกรรม|5.076
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28648885.mp3|หลากหลายปัญหา กับ บุฟเฟ่ต์แอร์เอเชีย|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524087.mp3|ยังต้องรวบรวมทรัพย์สินไว้ก่อน|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_31940640.mp3|ไม่ใช่ปิดทั้งฉบับ|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26081467.mp3|ไทยมิตซูวา|2.844
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26161445.mp3|ราษฎรยังมีเสียงทางการเมืองไม่ได้ เพราะราษฎรยังโง่|5.76
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28648874.mp3|ซึ่งต้องรีบจัดการทั้งแนวทางการคัดแยก และ นำขยะไปผลิตเป็นปุ๋ยและพลังงาน|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28537766.mp3|พร|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27728630.mp3|หนึ่งร้อยยี่สิบสอง|2.772
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25670463.mp3|ทุกคนอยู่ในทางที่กำหนดแล้วครับท่าน|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27180635.mp3|เทคนิคนี้อาจจะไม่ได้ทำให้สิวหัวช้างหายไปภายในพริบตา|8.1
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26375454.mp3|ห้องน้ำนี้ควรได้รับการทำความสะอาด|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26623292.mp3|เสียค่าใช้จ่าย|2.412
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154322.mp3|โกลบอล คอนซูเมอร์|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26369767.mp3|ช้าง ช้าง ช้าง น้องเคยเห็นช้างหรือเปล่า|4.608
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28502031.mp3|ให้จ่ายเงินบำเหน็จชราภาพแก่สามี|5.292
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295404.mp3|ส่งเสริมการสร้างมูลค่าเพิ่มให้กับสินค้าเกษตร|4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25912600.mp3|แมวจรจัดให้กำเนิดลูกแมว|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_23662934.mp3|มีข้อมูลจำนวนเท่าไรในหนึ่งเอกซะไบท์|4.224
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28339190.mp3|เขากลับมาดื่มกินอย่างหนัก|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26168650.mp3|ไทยอุตสาหกรรมพลาสติก|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25637363.mp3|เธอใช้แต่สีเข้มเพราะเธอไม่ชอบสีอ่อน|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26607623.mp3|ขนมหวานอิตาเลียน ถ้าให้อธิบายเป็นไทยก็ วุ้นครีมนมสด อร่อยที่สุดในสามโลก|7.344
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25930484.mp3|เธอเป็นนักเรียนหญิงในวัยเด็กของเธอ|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576226.mp3|เผื่อใช้ประกันตัวได้|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26326491.mp3|ขีดความสามารถ|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28538097.mp3|ใกล้หวยออก|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26315520.mp3|ห้ามเข้าพื้นที่นี้โดยปราศจากเจ้าของแมว|3.024
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26069806.mp3|พลเรือเอกสงัด ชลออยู่|4.176
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27134945.mp3|ทุกข้อมีหลักการรองรับและอยู่ในกรอบประชาธิปไตยที่มีกษัตริย์เป็นประมุข|6.516
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27473814.mp3|ก็เพียงการรับรองความปลอดภัยเฉพาะกับคนที่เราโอเคกับเขาหรือเปล่า|7.848
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249565.mp3|มีความเสี่ยงที่จะติดโรคตามไปด้วย|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26293174.mp3|การขัดเกลาทางสังคม|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26704915.mp3|นายบัคเก็ต หายโกรธในทันทีทันใด เช็คเขาได้|6.48
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27578260.mp3|แหวนทองคำที่มีสีเหลือง|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28870740.mp3|มองหากันไป|2.412
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665954.mp3|ฟ้าธานี|1.836
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30637269.mp3|ก่อนจะเป็นหนึ่งในแหล่งท่องเที่ยวยอดฮิตของ|3.96
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27144995.mp3|เดินทางมาพร้อมประชาไท|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26137231.mp3|สิบ ห้ามมิให้ลงพระปรมาภิไธยรับรองการรัฐประหารครั้งใดอีก|7.272
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27458215.mp3|ภาวะที่สายฟิตติดออกกำลังกายต้องระวัง|6.228
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249942.mp3|ทำไมต้องตรวจ และควรตรวจอะไรบ้าง|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27394809.mp3|ที่คราวนี้มาพร้อมกับเหตุการณ์ที่อยู่|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29030672.mp3|พะยูน เรียกอีกอย่างว่าหมูน้ำ ใกล้สูญพันธุ์แล้ว|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26691030.mp3|ก็คงมีเผื่อมาบ้าง|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26226918.mp3|ไม่ ฉันจะบอกหล่อนด้วยตัวของฉันเอง|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27104609.mp3|ข้างในมีหลายตึก|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27407508.mp3|บนโต๊ะด้านหน้า|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26623217.mp3|คำอธิบายศัพท์|2.304
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25917441.mp3|ดูแลตัวเองด้วยนะ อลิซบอกอย่างเศร้าสร้อย|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26106517.mp3|องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย|5.004
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28276723.mp3|ใช้แชมพูแบบไหนดี|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27409669.mp3|คืนก่อนหน้านี้|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249000.mp3|เพราะมีโอกาสสูงมากที่ทารกจะสับสนเรื่องหัวนมและวิธีการดูดนมได้|7.56
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28824009.mp3|แผ่นรองเมาส์ที่แถมมากับเครื่องก็พอใช้ได้|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27728649.mp3|จังหวัดในภาคอีสานตอนใต้|3.384
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32088914.mp3|สิบเก้า แสดงอาการคล้ายผื่นลมพิษ เป็นรอยแดง|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26446442.mp3|ความเจ็บปวดรวดร้าว|3.132
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26708035.mp3|เขารู้สึกกดดันและรู้สึกเบื่อหน่ายอยู่เสมอ|5.04
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26291433.mp3|รวมทั้งสนับสนุนการส่งออกผลิตภัณฑ์ดังกล่าวไปสู่ตลาดโลก|6.084
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27135081.mp3|ภาคีนักเรียนมหาสารคาม จัดชุมนุม ภาคีภาษีกู|5.868
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26110135.mp3|เมฆขาว  โรสลาเรน|3.96
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687247.mp3|หรือจำเป็นต้องออกไปพบปะผู้คนจะให้ปิดแมสก์ตลอดเวลาก็อาจจะไม่ค่อยดีนัก|7.956
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25704461.mp3|ล็อคประตูที่มั่นคงเมื่อม้าถูกขโมย|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27406182.mp3|สแตมเปอร์|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25988195.mp3|เรามาเริ่มกันใหม่อีกครั้งแล้วเป็นไงบ้าง |4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26822708.mp3|อย่าลืมว่าทุกวันนี้ไม่มีกฎหมายกำกับกิจการ|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27716619.mp3|ต่อมามีฟ้องคดีกับทั้งเจ้าหน้าที่และแกนนำ|5.112
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26222351.mp3|ฉันสามารถหรือไม่ |3.024
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25924374.mp3|ฉันไม่ใช่พวกรอบบินสูง อลิซกล่าว|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26287641.mp3|สักกะทัตติยะ วิษณุกรรมประสิทธิ์|5.148
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26112248.mp3|เอมม่าเคาะเล็บของเธอบนโทรศัพท์มือถือของเธอ|4.968
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25927152.mp3|อุปกรณ์ช่วยฟังมีคุณสมบัติในการขยายเสียงให้ผู้ฟัง|5.688
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26161593.mp3|โดยไม่มีเขตต์จำกัดที่แน่นอน|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647869.mp3|ตอนนั้นยังขวดเขียวอยู่|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26435899.mp3|วัดอุณหภูมิด้วย|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26167725.mp3|นักเรียนวิ่งหนีไปรอบรอบ|3.816
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27223739.mp3|แต่ส่วนใหญ่จะมาพบแพทย์ด้วยอาการมีเลือดออกผิดปกติทางช่องคลอด|7.416
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524211.mp3|หรือไกลกว่านั้น|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29540755.mp3|คุณจะไม่ชอบการเขียนของฉันมั้ย|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561724.mp3|เข้าเมืองตาหลิ่วต้องหลิ่วตาตาม|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26245424.mp3|พอมี แต่น้อย|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27241332.mp3|จากนั้นก็ใส่ผงซักฟอกหรือน้ำยาล้างจานลงไป|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647459.mp3|ปัญหาอื่น|2.844
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32089101.mp3|ถึงอย่างไรก็ตาม|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28216852.mp3|ร่ำรวยเงินทอง|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26455906.mp3|วายุบุตรยาตรา|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26247174.mp3|จริยธรรม|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154250.mp3|ฉันอาหารเป็นพิษหลังจากที่กินอาหารที่ร้านอาหารคุณภาพต่ำ|5.148
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26404964.mp3|มาตรฐานที่เป็นปัจจัยนำไปสู่การสร้างงานวิจัย|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26429470.mp3|แค่นกตัวหนึ่งที่ทำรังเอง|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26399246.mp3|ข้าวสารเหนียว|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25930787.mp3|ไก่จะโจมตีไก่อื่นที่เข้ามาในอาณาเขตของมัน|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32026772.mp3|คนละรุ่นกันคิดไม่เหมือนกัน แต่ก็ไม่พยายามเข้าใจกัน|5.508
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28727786.mp3|อยู่ด้านล่าง|1.98
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249424.mp3|นอกจากนี้เธอยังเคยประกวดเวทีมิสแกรนด์ไทยแลนด์|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25888112.mp3|เขามองโดยไม่ละสายตา|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26328086.mp3|กลับไปเมนูหลัก กดเครื่องหมายสี่เหลี่ยม|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702719.mp3|แต่สงสัยเก้าอี้มีน้อย|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27518694.mp3|เรายังนึกว่าที่ดูเป็น|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26163736.mp3|งานสองเสร็จแล้ว|3.816
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27248889.mp3|เอาคืนหรือพยายามสู้กับคนมีอำนาจมากกว่า|5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26148080.mp3|พี ซี เอส แมชีน กรุ๊ปโฮลดิ้ง|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625273.mp3|เครื่องทองลงหิน|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27184276.mp3|นี่โดนเจ้าของลิขสิทธิ์ทำนองเพลงบล็อคไปแล้วแฮะ อืมมม แต่อันนี้มันถือเป็นการแสดงออกทางการเมืองไหมนะ|7.848
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348245.mp3|พระบุรพกษัตริยาธิราช|4.428
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26150580.mp3|วันนี้หน้าไม่สวย ไม่เอา ไม่ถ่าย|3.924
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27286928.mp3|ขณะที่ในฤดูหนาว|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249980.mp3|ได้ให้กำเนิดโอรสลักษณะแปลกประหลาด|5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26294761.mp3|ฟื้นฟูดูแลรักษาผู้เสพผ่านกระบวนการทางสาธารณสุข|5.148
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823112.mp3|ฉันขอปฏิเสธ  กระต่ายมีนากล่าว|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25630672.mp3|ฉันได้รับมรดกรูปปั้นในพินัยกรรมของยายของฉัน|5.76
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26133509.mp3|สกาย ไอซีที|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26152551.mp3|เดี๋ยววันนี้จะเข้าไปดู|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26782831.mp3|คุณอยู่ที่ไหน |2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26050780.mp3|ใครได้ที่อยู่อาศัยที่ดีขึ้นก็ควรยินดีด้วย|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29002097.mp3|องคมนตรี|2.016
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26339676.mp3|ผู้พิมพ์โฆษณา|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28480314.mp3|สมาคมคนโสด คนไม่โสดเข้าได้ไหม|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25929556.mp3|ฉันคิดว่าพวกเราควรทำให้แม่ดีขึ้นเกี่ยวกับสิ่งนั้น|5.076
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26340380.mp3|กฎแห่งกรรม|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26915622.mp3|การละเล่น คือการเล่นหรือการไม่เล่นกันแน่ เพราะละแปลว่าไม่|7.884
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27506394.mp3|ยังช่วย ที่ค้างอยู่ในปอด|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28729470.mp3|แล้วเว็บไซต์ก็ยิบย่อยไปตามแขนงของหน่วยงาน|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151799.mp3|แหม่ แท็กซี่ขับจี้คันหน้าแบบจะชนแล้ว|5.04
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28559972.mp3|ไม่พอใจก็ไปที่อื่น|3.492
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27420020.mp3|ยี่สิบหก ที่ต้องหาเงินมาจุนเจือครอบครัวและยังไม่รู้จะจัดการอย่างไรกับชีวิต|7.596
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26179207.mp3|ยึดเป้ของรูมเมทไปอัมพวาละกัน ขนาดกำลังดี|4.968
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26296522.mp3|ก่อนหน้านี้พวกเราจำนวนนึง|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26050705.mp3|ใช่ หล่อนพูดพร้อมพยักหน้า คุณถูกทุกอย่าง|5.544
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28904263.mp3|โอเพ่นดรีม|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27420711.mp3|ห๊ะ เผลอไงนะ|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_33504565.mp3|กาแฟกินอร่อยกินดี|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25676780.mp3|คุณจะไม่ทำลายการปล้นครั้งนี้|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561040.mp3|สตราโตสเฟียร์|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26340519.mp3|สถานการณ์เศรษฐกิจโลก การเปลี่ยนแปลงต่างต่าง|4.608
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26153808.mp3|ห้างหุ้นส่วนจำกัด เตชะกำพุพืชผล|5.076
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27523792.mp3|พาเราไปพบกับ|3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295005.mp3|คนเรามักไม่ชอบแสดงให้ใครรู้ว่ามีความกังวล|4.788
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25642034.mp3|ตอนนี้เจ้าพอใจแล้วหรือยังละ เจ้ากิ้งก่าถาม|7.02
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27073366.mp3|มันมีคำเรียกเป็นภาษาไทยไหมครับ|4.68
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524147.mp3|คู่อาจจะไม่ค่อยมีความรู้เกี่ยวกับการ|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409210.mp3|วิวาห์ไฟ  ชลาลัย|2.664
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26491740.mp3|ช่างรับเหมาก่อสร้าง|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26446440.mp3|พรรคมัชฌิมาธิปไตย|3.384
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27447428.mp3|สำหรับ การไร้การศึกษา |2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26679135.mp3|หนี้สินท่วมท้นรุงรัง|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421800.mp3|ใครมีข้อมูลเพิ่มเติมมั่ง|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28572806.mp3|คิดคำนวณ|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28909639.mp3|หลายสัปดาห์ก่อน|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26375749.mp3|โรงเรียนทางไปรษณีย์|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28538512.mp3|กำลังคบหากับคนที่มีความคิดยึดมั่นถือมั่น|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26067749.mp3|ดังที่คุณปรารถนา|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28217201.mp3|ดิสเครดิต|1.98
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27407594.mp3|ล็อกสเป็ค |2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26096200.mp3|จบมอหกแล้ว|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28608363.mp3|เรื่องเดิม|2.124
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28727198.mp3|ให้สามารถออกแบบบริการ|4.356
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28746197.mp3|เช้าวันรุ่งขึ้น|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26854323.mp3|อย่างไรก็ตาม คำพูดของวูสเตอร์เป็นพันธการของเขา|4.824
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26605885.mp3|สิ้นสวาท  โรสลาเรน|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27149789.mp3|ภาวะฟองสบู่|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26154714.mp3|มะม่วงน้ำดอกไม้ กินได้ทั้งดิบและสุก|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27700009.mp3|ซึ่งสามารถติดต่อได้จากการมีเพศสัมพันธ์|5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26485656.mp3|เปลือกตาของเขาหลุบต่ำด้วยความง่วงนอน|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27500070.mp3|ก้าวร้าว|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28125436.mp3|โรงพยาบาลสันทราย|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27666477.mp3|เค้าเรียกพม่าหรือว่าเร็กเก้ |4.356
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30359552.mp3|และจะประสบความสำเร็จได้เลื่อนขั้นเลื่อนตำแหน่ง|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27300937.mp3|จะไปให้ทันกินข้าวเช้า|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27161350.mp3|การต้องดีลกับคนที่เข้าใจยาก|3.996
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450609.mp3|หลักฐานเป็นหนังสือ|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26247468.mp3|ยังมีอุปสรรคทางชีววิทยา|3.96
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249994.mp3|การใช้สิทธิทั้งสองก็เป็นไปได้  ดังกรณีของผู้มีฐานะจ้างทนายทั่วไป|7.308
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26642243.mp3|เจ้าฟ้าหญิงสิรินธร|3.564
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25924863.mp3|ฉันเก่งเท่ากันกับผู้ชาย เธอแหย่|4.788
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26153864.mp3|ที เค เอส เทคโนโลยี|3.564
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26783458.mp3|เหมือนเป็นเยอะนะครับ คงเซ็งกันถึง ครับ|5.436
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25666888.mp3|ปัญหาได้ถูกแก้แล้ว|3.132
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30425536.mp3|และนำไปสู่เหตุการณ์สุดสยิวที่ตามมาในบางครั้ง|4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25631241.mp3|คุณเตรียมพร้อมสำหรับการตอบคำถามภูมิศาสตร์ในวันพรุ่งนี้|4.536
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29661333.mp3|ย้ายมารวมกัน|1.656
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26607825.mp3|วันนี้ สามหลักจะมาไหม|3.204
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26205676.mp3|ผมนึกได้ว่าคุณไปพักร้อนที่สเปน ที่ไหนดีที่สุดสำหรับคุณหละ|6.228
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27524205.mp3|นิมิตรบุตร|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26247259.mp3|ประมาณการจำนวนผู้ชุมนุมระหว่างหกร้อยถึงสามพันคน|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625393.mp3|มันก็เป็นพลังบวกกับชีวิต|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27716794.mp3|อัปเดตดอกนางพญาเสือโคร่ง|2.808
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27443854.mp3|พ่อจะปล่อยเช่า|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25931274.mp3|เขารอที่จะได้กลับบ้านพร้อมเขา|4.428
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27433669.mp3|ทั้งคู่จดทะเบียนสมรสกันแล้ว แต่ไม่มีบุตร|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28608789.mp3|ตั้งแต่ปี|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27380327.mp3|การจัดการกับทรัพย์สินอย่างชาญฉลาด|4.284
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27368277.mp3|หนึ่งในของชำร่วยยอดฮิตตลอดกาล เพราะสื่อถึงความรักที่อยู่ยงคงกระพัน|8.028
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26112304.mp3|คู่มือไขข้อสงสัยเรื่อง ถ้อยคำสร้างความเกลียดชัง|5.4
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25928211.mp3|เราน่าจะพกมันติดตัวดีกว่านะ นายทหารกล่าว|4.608
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27347684.mp3|ซึ่งต่อมาเรียกเพี้ยนไปว่า|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26246445.mp3|หนึ่งพฤษภาคม จึงไม่ได้เป็นวันหยุดพักผ่อนเฉยเฉย|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27679100.mp3|โรงพยาบาลศรีสังวรสุโขทัย|3.96
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28685353.mp3|เสนอกฎหมาย|1.908
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26450513.mp3|โดยไม่เลือกลัทธิการเมือง|3.528
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27368253.mp3|หนึ่งพัน บาท สามารถพักได้|4.788
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730301.mp3|ค่าตอบแทนมักได้น้อยกว่าที่คิด|2.7
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27249676.mp3|สังคมนิยมข้างบน ทุนนิยมข้างล่าง|4.644
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30425530.mp3|กลุ่มคนเสื้อแพง|2.016
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295377.mp3|สองแง่สองง่าม|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26087564.mp3|งานเสร็จละ|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27536739.mp3|บางทีเราอาจจะต้องดีใจในบางขณะ ที่เราอยู่ในสถานะถูกควบคุมคุกคาม|9.108
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27647608.mp3|หรือใช้บอดี้สครับแบรนด์ดังก็แล้วแต่ถนัด|4.968
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26569671.mp3|ความยาวในการบันทึก|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701722.mp3|เธอเหนื่อยและน่าสงสาร ราชินีแดงพูด|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26081485.mp3|ซีเอ็มโอ|2.196
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27409711.mp3|ส่องข้อมูล|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26459867.mp3|ร่วมมือร่วมใจ|3.132
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298317.mp3|ห้าร้อยห้าสิบสาม|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27341681.mp3|โดยแหล่งที่มาต่างกัน|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25679397.mp3|คุณจะสามารถเห็นดาวนับพันดวงด้วยตาเปล่าในยามค่ำคืนหรือไม่ |5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25666887.mp3|ฉันควรจะอยู่ที่นี่|3.672
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26216646.mp3|ใครบางคนเอาบัตรเครดิตที่ฉันทำหายไปคืนที่ธนาคาร|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27331273.mp3|แสบเนอะ|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28653772.mp3|เป็นการดีท็อกซ์ตั้งแต่เริ่มต้นวัน|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25772593.mp3|คลินิก|2.16
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25679278.mp3|แม้ว่าทุกสิ่งควรอยู่ภายใต้การควบคุมของรัฐ แต่ก็มีความรุนแรงในเรือนจำมากมาย|7.56
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26579575.mp3|เอวบางร่างน้อย|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26051217.mp3|แอสเสท เวิรด์ คอร์ป|2.844
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26533001.mp3|โดยมิชอบด้วยกฎหมาย|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665725.mp3|ส่งงานหนึ่งชิ้นแล้ว|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26586051.mp3|ให้ได้มาตรฐานสากล|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665589.mp3|เอาเป็นตัวเลขเลย|2.484
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28674105.mp3|ในเรื่องงานต้องขอแสดงความยินดีไว้ล่วงหน้า|3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28737317.mp3|เมื่อไรที่ต้องการใช้งานก็นำถ้วยคัพเค้กออก|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27396091.mp3|อยากจะลงให้พ่อ|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26707353.mp3|คุณโทรไปหาตัวแทนขายอสังหาริมทรัพย์หรือยัง|4.86
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26429497.mp3|เธอจะนั่งเข้าทรงตลอดทั้งวัน แต่ซีเลียอ้างว่าเธอเหนื่อยมาก|5.616
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26071379.mp3|ชีวิตเราในฐานะพลเมืองและในฐานะผู้บริโภค|5.256
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27500049.mp3|อะไรให้ทำ|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28912748.mp3|การหายใจที่ถูกต้องนอกจากจะช่วยให้เราหายใจดีขึ้นแล้ว|5.688
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26464767.mp3|ไปรษณีย์โทรเลข|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26049435.mp3|การต่อคิวเป็นอะไรที่ชาวบริติชทำได้ดีเยี่ยม|4.536
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28216930.mp3|ยืนยันก่อนเข้าใช้บริการร้านค้า|3.996
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625361.mp3|บ้องตันแทงเสือ|1.836
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28721018.mp3|และไม่ว่าจะขึ้นเหนือหรือล่องใต้|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28547884.mp3|และเปิดเผยบนเว็บไซต์|2.268
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26325626.mp3|อย่าว่าเราเจ้าข้า อยู่พื้น เดียวกัน|5.868
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27470059.mp3|ขอบคุณวิทยากรและทุกท่านที่ติดตามการอภิปรายและเสวนาวันนี้|6.84
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27506237.mp3|ช่างมัน|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26295540.mp3|ข้าวหน้าเป็ดมีทั้งแบบเป็ดย่างและเป็ดพะโล้|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25889154.mp3|อินเตอร์เน็ตถูกสร้างขึ้นจากหลายโปรโตคอลที่ส่งเสริมกันอย่างสมบูรณ์แบบ|6.3
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27723619.mp3|บานาน่าโบ๊ท|2.232
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27612558.mp3|ช็อปสะดวก|2.664
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26968166.mp3|นอกจากนี้ยังดัดแปลงมาจากภาษาอื่นมากมาย|5.472
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32124760.mp3|สามแสนเจ็ดหมื่นแปดพันสามสิบห้า|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_32123942.mp3|ไม่ประดับเพชรหรือทองคำ|3.348
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28502160.mp3|เอ้า มีงี้ด้วย|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27702299.mp3|ระยองก็ไม่มีรถไฟ|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27760894.mp3|ทีมหมอครอบครัวพบว่า|2.664
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25929581.mp3|นี่เป็นธุรกิจของแองเจล่ากับฉัน|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27405836.mp3|เป็นไอเดียที่แปลกใหม่|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27580062.mp3|ได้ทุนพัฒนาแอปไป|2.952
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27405578.mp3|โดยปัจจุบันนี้สาว|3.888
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409781.mp3|มั่นคงแข็งแรง|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26081701.mp3|ฉันต้องการตุ๊กตาตัวนี้ แต่ว่าราคาของมันในการประมูลนั้นแพงเกินไป|7.128
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27407418.mp3|ดีเด่น|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27341579.mp3|ต้องอยู่โรงพยาบาลนาน สิบสอง สัปดาห์|5.796
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823159.mp3|เขามาทำอะไรที่นี่  ถามกุสซี่อย่างสงสัย|4.968
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30620719.mp3|เลนส์หนักมากแต่มันซูมได้วิเศษมาก|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26398214.mp3|โรคไซนัสอักเสบ|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576155.mp3|ลองต่อรถไฟไป|4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26464764.mp3|และค้นหาแหล่งพลังงานใหม่|3.492
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26326590.mp3|แต่ก็เป็นการสนทนาที่ดี|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27487270.mp3|โลกนี้ยังมีความหวัง|3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_30622088.mp3|การคืนพื้นที่ก่อสร้างล่าช้า|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27300927.mp3|ถ้าเป็นเหตุให้อีกฝ่ายหนึ่ง|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625110.mp3|โสเภณีลอยฟ้า  นันทนา วีระชน|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576152.mp3|พร้อมทั้งขับไล่นายพรานและหมาขาวตัวนั้นไป|6.516
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26057567.mp3|หลังจากนั้นนี่พังทั้งเครือ เซ็ง|4.644
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27395842.mp3|กลอง กล่อง กล้อง กล๊อง กล๋อง|4.248
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409642.mp3|ราชการส่วนท้องถิ่น|2.232
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28075365.mp3|มีครับ|1.908
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28657512.mp3|ขอบคุณมาก กำลังปั่นอยู่ เขาโทรมาทวง ว่าส่งช้าเกินไป ก็อยากจะใช้แต่สิ่งของจำเป็น เออ เอ๊อเออเอ๊อเออ|10.476
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27664938.mp3|ต้องคิดคำนวณจากค่าลดหย่อนด้วย|4.356
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27576399.mp3|การทำรัฐเปิดเผย|2.556
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28104112.mp3|รักจัดหนักคงเป็นผลงานชิ้นแรก|3.744
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26642050.mp3|อาเทสนาปาฏิหาริย์|4.032
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27458311.mp3|ได้สีม่วง|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27523994.mp3|บ้างพบความรักหลาย|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421213.mp3|อีกคดี|2.16
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26105835.mp3|ฟังดูก็แฟร์ดี|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665653.mp3|ควรเก็บ|1.692
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29003155.mp3|เตรียมการสำหรับผลิตกำลังคน|2.376
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26517545.mp3|พยอม หนูสูงเนิน|4.284
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27709982.mp3|มีโครงการเว็บแลกหนังสือเรียน|4.608
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26071062.mp3|คุณร้องเพลงเป็นไหม|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27380497.mp3|และนางตะเภาทองผู้น้อง|2.916
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687819.mp3|เมื่อใช้ทวีต|2.16
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25916406.mp3|ซีเลียจะได้รับการต้อนรับอย่างดี|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28657513.mp3|เขาจึงหยุดไถนาเข้าพักผ่อนอยู่ใต้ต้นไม้|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26823488.mp3|เป็นวิสกี้กับโซดาอย่างงั้นหรอ|4.068
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28576661.mp3|คุณคิดบ้างไหมว่าผมไม่รู้คำตอบเรื่องนั้น|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27706402.mp3|ปกติแล้วแม่ผู้ชราจะมาส่งก่องข้าวให้ทุกวัน|5.04
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27628854.mp3|ทำบ่อย|1.764
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25704055.mp3|ไม่ฉันจะไปดีกว่า|4.176
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25894993.mp3|เขาเคยมีงานในชีวิต จนกระทั่งเขาเริ่มตั้งคำถามโปรแกรม|6.696
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25929620.mp3|ภารกิจเสร็จสมบูรณ์ |3.78
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26340416.mp3|ตามคำร้องขอคุ้มครองชั่วคราวกล่าวว่า จำเลยที่สองและที่สาม|7.416
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26741017.mp3|ฉันไม่มีส่วนรับผิดชอบกับเสนาบดี|5.256
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27705818.mp3|หากมีปัญหาการติดเชื้อไวรัสจะรู้สึกว่าตัวเองทุกข์ใจ|6.552
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26121105.mp3|ใครใช้ห้องแลปในขณะที่สร้อยคอยังอยู่ตรงนี้|5.22
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29653424.mp3|เสาร์นี้สี่ทุ่ม|2.196
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409148.mp3|อีสารวีช่วงโชติ  สีฟ้า|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28748660.mp3|เสื้อลายดอกผู้ชาย|2.268
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298947.mp3|แต่จงเชื่อว่าคุณจะผ่านด่านไปได้สำเร็จ|5.328
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421281.mp3|ได้แสดงความสามารถ|3.096
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26160966.mp3|เอบิโก้ โฮลดิ้งส์|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26630120.mp3|สำนักงานพลังงานปรมาณูเพื่อสันติ|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27649705.mp3|มันมีไรมั่ง ซึ่งเราช้อบชอบ|3.636
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421144.mp3|มาพร้อมโปรวิตามิน|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28658569.mp3|มาเป็นของชำร่วยงานแต่งนั้นเก๋กู้ดที่สุด|4.464
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25660006.mp3|ปู่กับย่าคอยเป็นกำลังใจให้เสมอ|4.32
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27687257.mp3|เพราะผู้หญิงที่มีหัวนมบอดอาจจะรู้สึกไม่มั่นใจ|5.436
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26156335.mp3|นั่นไงเขา แฮนนาด์พูดขณะที่หยิบหมวกขึ้นมา|5.436
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26636525.mp3|เรียงพี่เรียงน้อง|3.24
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27298896.mp3|การปรับสภาพ|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27395843.mp3|อย่าหลงรักใครเพียงเพราะเขาพูดจาหวาน|4.428
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26415458.mp3|พร้อมทั้งส่งเสริมการใช้ปัญญาประดิษฐ์|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561352.mp3|ความอับอายขายหน้า|2.628
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409190.mp3|ฉันมีแค่หนึ่ง ฉันสามารถมีได้แค่หนึ่ง|4.716
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26052601.mp3|สามารถ ดิจิตอล|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27396441.mp3|ในความฝันที่เป็นไปไม่ได้ของฉัน ฉันไม่เคยคิดเลยว่ามันจะเกิดขึ้นได้|6.588
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26089737.mp3|การคำนึงถึงสมาธิในพื้นที่ทางกายภาพที่ไม่ใช่ห้องเรียนโดยเฉพาะ|5.688
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28728067.mp3|หัวนมบอดคืออะไร|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27487300.mp3|เอาปลากับเห็ดลงไปพร้อมกันเลย|4.356
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625325.mp3|เป็ดปักกิ่งในปักกิ่งจะมีเนื้อเป็ดและไขมันติดมาด้วย ไม่บางกรอบ|6.66
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26561541.mp3|เพื่อตอบสนองต่อความต้องการของผู้บริโภค|3.6
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27760649.mp3|ภาพที่ สิบเอ็ด ผังการส่งมอบพื้นที่การก่อสร้างอาคารรัฐสภาตามแผนเดิม|8.712
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27299975.mp3|บ้านร้าง และตอน เมืองแม่ม่าย ที่ออกอากาศทางช่องจ๊ะทิงจานั่นเอง|8.748
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28495190.mp3|อ่า เห็นในทวีตละ ไม่แน่ใจว่าใครทวีต น่าสนใจดี|5.868
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26066569.mp3|ขายผ้าเอาหน้ารอด|2.772
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26625504.mp3|ไม่มีสูบฮะ วันอาทิตย์ว่างมั้ยอะพี่|4.356
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27308076.mp3|นอกจากหนึ่งในอาการโควิด สิบเก้า|4.536
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28976558.mp3|ด้วยเงินคนอื่นก็ได้|1.98
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26702488.mp3|ฉันต้องการคำพูดกับคุณ และฉันพาเขาไปที่ห้องอาหาร|4.644
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26701502.mp3|แล้วทำไมไม่นับอาณาจักรล้านนามาด้วย|3.492
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26479170.mp3|สู่การเพิ่มศักยภาพด้านเทคโนโลยี|3.816
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26190213.mp3|ไม่เอาถ่าน แต่จะเอาแฟน|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28791327.mp3|เพลงประกอบหนัง  อินทรีแดง แดง แดง แด่ง แดง แด๊ง แดง แดง แด่ง แดง รักอินทรีแดง|9.108
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26556153.mp3|กะเปิ๊บกะป๊าบ|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26628881.mp3|การอำนวยความสะดวกทางการค้า|4.896
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27691906.mp3|เห็นอันนี้แล้วใช่ป่ะ|2.988
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_29828057.mp3|ศิวนาฎราช คือการร่ายรำของพระศิวะหรือพระอิศวร|5.04
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26334731.mp3|ภาษาที่สามที่สามารถสื่อสารแสวงหาความรู้ได้|4.5
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28950396.mp3|สถานีเดินรถ|1.98
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27512384.mp3|ยอดไม่ขยับเลยวันนี้|4.14
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27422792.mp3|พรุ่งนี้อย่าลืมไปออกเสียงนะ  หีบปิดบ่ายสาม อย่าลืมพกร่มไปด้วย เผื่อฝนตกครับ|8.1
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26409876.mp3|เอนเตอร์เทนเม้นท์|2.736
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28464533.mp3|คุณไม่ควรบอกปัดใช่หรือไม่|3.06
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26348206.mp3|ขึ้นชื่อลือชา|3.42
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26339167.mp3|ก็จะยากหน่อย|2.952
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27139192.mp3|ไม่ต้องกังวลใจไป|3.276
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26296398.mp3|ผมไม่ว่าอะไรหรอกครับ หล่อนพูด|3.708
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26662999.mp3|แผ่นรองเม้าส์|2.772
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26190055.mp3|ฮิวแมนิก้า|2.268
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27421007.mp3|แล้วโปรดอโหสิกรรม และอนุโมทนาบุญแก่ข้าพเจ้า ด้วยอำนาจบุญนี้ด้วยเทอญ|9.108
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27668193.mp3|เรียกให้ครบทุกพยางค์กันเถอะ|3.672
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26424081.mp3|และระบบกักเก็บพลังงาน|2.448
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26062004.mp3|โตเกียวเคยเรียกว่าเอโดะแปลว่าปากน้ำ|4.104
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27665903.mp3|ที่หลีกเลี่ยงไม่ได้|2.484
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_27361950.mp3|นักวิจารณ์หนังชื่อดัง กรูตั้งใจพิมพ์ผิด|6.12
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26491689.mp3|หลักบ้านหลักเมือง|2.34
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28741825.mp3|เป็นธรรมเนียมมารยาทที่เชื้อเชิญญาติผู้ใหญ่ทั้งสองฝ่ายขึ้นเรือน|6.12
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26061502.mp3|เป็นต้น|2.412
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28905224.mp3|รวมทั้งส่งเสริมความเข้มแข็ง|2.52
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26151794.mp3|ในอีกสัปดาห์เราจะเดินทางไปอเมริกา|3.456
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26335764.mp3|ในการเข้าถึงตลาดในประเทศ ตลาดโลก|3.168
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_28730659.mp3|นั่นคือคุณกำลัง|2.088
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_26063844.mp3|และให้แบ่งทรัพย์สินออกเป็น|2.88
+/home/ashankwi/commonVoiceData/th/trainFiles/common_voice_th_25912429.mp3|คอลินและนาธานเป็นคู่แข่งกัน|3.456
