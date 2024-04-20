@@ -1,0 +1,664 @@
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30470871.mp3|Hayo yalifuatia tukio la jumamosi usiku ikiwa ni siku moja kabla ya mazishi|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37098330.mp3|Alimwandikia rafiki wake barua|3.528
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29837308.mp3|Zipo pia mbuga za Kakuma na Turkana pamoja na Naivasaha|8.028
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30370846.mp3|Rais wa kwanza alikuwa Kabaka bwana Edward Mutesa na waziri mkuu Milton Obote|6.084
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28681786.mp3|Ndege kwa kawaida hutumia petroli za pekee|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35106480.mp3|kama msingi mpya wa taifa la Mungu badala ya Israeli ya kale|4.788
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36387208.mp3|Takribani asilimia ishirini ya hewa safi duniani kote|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29925557.mp3|Mafunzo haya yanatolewa kulingana na kitivo|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28584469.mp3|Sehemu hizo zote ziko katika Hifadhi ya Kitaifa ya Gouraya|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31475973.mp3|Nadhari hii hutoa mfumo rasmi wa mwelekeo kwa hali za kijamii|10.008
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36319355.mp3|Serikali inafanya jitihada za dhati za kuendeleza uvuvi wa bahari kuu|6.12
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29821306.mp3|Wazazi wa Bibi Fatma Karume ni wazaliwa wa Bumbwini|4.428
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31285606.mp3|Tanganyika inakuwa jamhuri na wakati huo|2.988
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30197127.mp3|Mvulana aliyehitimu mafunzo alichezewa ngoma ya Kizigua maarufu kama Mwaliko|7.56
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29966185.mp3|Mboga maarufu ijulikanayo kama msele na nkokoro ambayo hupendwa sana|9.036
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29433192.mp3|Uhuru kwa ajili ya malengo|2.736
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35106833.mp3|wanajumuishwa wafanyabiashara wa huduma za kibenki|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35167243.mp3|uhaba wa maji umesababishwa na matumizi mabaya ya maji|4.428
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29948991.mp3|kangaroo ana uwezo wa kuogelea kwenye maji|4.212
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29407411.mp3|Uchumi unategemea utalii pamoja na kilimo|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35152543.mp3|wakisafiri kuelekea kalbala na kuua watu saba|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30478687.mp3|Wazazi wao walizaliwa Zambia kugombea cheo hicho cha juu zaidi|5.256
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30176408.mp3|Milima ya Mindu na ule Mlima Misada|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30073324.mp3|waliwasaidia adui wa adui yao kwa jina la oparesheni|4.32
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30182180.mp3|Wanyama wanaopatikana ndani ya hifadhi hii ni wengi|4.608
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30182081.mp3|Kila mfadhili haina budi kuwa katika kundi linalolingana na umri wa mama au mtoto|8.28
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29796071.mp3|Ni mtoto pekee ya kiume katika familia ya mzee Salum yenye watoto watatu|7.416
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31787647.mp3|mbalimbali ya kihistoria kama vile Bagamoyo Pugu Magofu ya Kilwa na milimani|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29924843.mp3|kufuatia ukosefu wa rasilimali watu yani nguvu kazi ya kibinadamu|6.84
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29747840.mp3|Shabaha ya safari hizi ni upelelezi na utafiti wa kisayansi|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29937378.mp3|Aliteuliwa kuwa Mkuu wa Wilaya ya Kisarawe|3.456
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30572095.mp3|mwalimu nyerere alikuwa anajiamini kupita kiasi|6.66
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34827094.mp3|Mkoa wa Kagera una jumla ya eneo la Kilomita za mraba|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35198959.mp3|Zaidi masomo ya Historia na Jiografia pia Castro hakufanya|5.076
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36642509.mp3|ikiwa ni pamoja na kuainisha vikwazo na mafanikio ambayo yamepatikana|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34746349.mp3|kwa mikataba ya makubaliano yenye unafuu wa kodi|4.068
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29924693.mp3|tanzania wamasai wanapatikana mikoa ya arusha na manyara|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30090897.mp3|Baada ya maono hayo alipona na kuamua kubadili dini|5.328
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30563093.mp3|magari ndege na silaha vinasaidia mamlaka kufanya kazi ya ulinzi na uhifadhi kwa ufanisi|9.9
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31320769.mp3|Kwenye Maendeleo utaona Iringa matajiri na wenye nyumba nzuri ni wabena na wakinga|8.208
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30022917.mp3|Binadamu wote bila kujali rangi zetu tumetoka kwa Muumba mmoja|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28584803.mp3|Kwa hakika Darfur ndilo jimbo kubwa zaidi nchini Sudan|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29966582.mp3|lijari anapaswa kuufikiria kwa kuwa unaweza kugeuka|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29789294.mp3|Wilaya ya Kyela ni Tambarale na kuna Joto|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30173122.mp3|wakati wa ukoloni wa ujerumani vilitokea vita vya majimaji|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36036722.mp3|Nipeleke jijini kwa duka kuu|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35374104.mp3|pamoja Ukaja upepo toka juu kama upepo wa nguvu ukienda kasi|9.576
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30630996.mp3|Wasifu wa Magufuli unaonyesha kwamba alipata cheti cha Stashahada ya ualimu|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31787470.mp3|iliyopo wilaya ya Kilombero mkoani Morogoro|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36375766.mp3|mgonjwa wa malaria anaweza kutetemeka na kuumwa mwili mzima|3.24
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34946070.mp3|hivyo hayapokei hewa yenye unyevunyevu kutoka bahari|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35221616.mp3|ya Mashariki Hata hivyo Amin alipata usaidizi wa ofisi ya upelelezi ya Marekani iliyotuma|6.876
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34750014.mp3|Waarabu Mfalme wa Hispania akampa Kolombo fedha za kuandaa meli|6.3
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30340975.mp3|za bahari maeneo ya kihistoria milima maziwa|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36106141.mp3|Risasi zile mbili zilizowakosa Watoto hazikuonekana zilizoonekana ni zile zilizowadungua wale Watoto|7.38
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30173298.mp3|Ni kulingana na sensa ya watu ya mwaka elfu mbili na kumi na mbili|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29945221.mp3|malatwe umekuwa kero kwa walimu wote|3.96
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36255712.mp3|akaona katika maeneo ambayo tayari sauti zetu|2.88
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36381530.mp3|wa mkoa wa Kilimanjaro huongoza kwa utapiamlo Sababu kubwa ni wazazi kujali kazi kuliko|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34989708.mp3|kwani wanawatumia waimbaji wa nyimbo za injili na bongo fleva|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34677504.mp3|abiria waliyookolewa kwenye meli ya titanic|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30033824.mp3|kwa sasa ni kocha wa Pamba ya Mwanza inayoshiriki Ligi Daraja La Kwanza|6.912
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35222407.mp3|watanzania wanalinda rasilimali zao zisitumiwe vibaya|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30074870.mp3|walimaanisha watu walio na miguu kama tunda bivu|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30434931.mp3|kama hamtalala ndani ya hifadhi ni sehemu gani nyinginezo za huduma hiyo|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30354864.mp3|Jarida la michezo la nchi ya ufaransa likaanzisha tuzo za mchezaji bora|5.004
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37093965.mp3|Ilikuwaje akawa Afisa wa kwanza kuwa kwenye tukio kabla maafisa wengine|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37090912.mp3|ungumza kabla ya mkutano huo meneja wa uzalishaji katika|6.948
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34731108.mp3|Lengo ni kukuza maendeleo ya kiuchumi na kijamii ndani ya Zanzibar|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30099431.mp3|Alisema alipokea ujumbe wa simu ya maneno aliyosema ulinzi uimarishwe|8.676
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29798750.mp3|Mwaka wa elfu moja mia nane ishirini na tisa|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30378183.mp3|ngorongoro haiko chini ya mamlaka ya hifadhi za taifa yenyewe ina usimamizi wake|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37088794.mp3|Wakati anaikaribia gari yake aloegesha nje simu yake ya kiganjani iliita|6.624
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30635708.mp3|Walikuwa wakijiandaa dhidi ya shambulio lakini walitaka amani|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29788034.mp3|Na hadi leo jina hilo limewaganda Wadigo|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29867281.mp3|muhimu kwa wale wanaotarajia kupanda|4.32
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30052922.mp3|Vilevile amepata kuonekana katika mfululizo wa runinga maarufu wa Siri Ya Mtungi|7.056
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29943870.mp3|pep guardiola ametwaa kombe la ulaya mara mbili|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36381829.mp3|na sherehe au misiba tafakuri tiba maombi kwa baadhi ya maeneo ya Uchifu na|7.236
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34895666.mp3|idadi ya vifo imeshuka toka vifo laki mbili na elfu hamsini miaka sita iliyopita|7.308
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29859719.mp3|diego maradona hakufunga magoli mengi kama ilivyo kwa pele|7.128
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29954732.mp3|Kuna chura wetu wa kihansi walishawahi pelekwa nchi flani flani hivi|5.976
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29805801.mp3|Wanasheria waliruhusiwa kufanya kazi Zanzibar watu hawakugongewa tena milango usiku|8.856
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36332158.mp3|Baada ya kusoma kwa muda macho yake yaligota kwenye jina la Tetere|4.356
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30026407.mp3|Hasa baada ya mabingwa wa mambo ya kale na utalii kuonya hivi karibuni|5.508
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29797882.mp3|Idadi ya watu inaongezeka kwa kasi na hivyo pia kuongezeka kwa wakulima wa mbogamboga|7.488
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35167529.mp3|mkurugenzi wa shirika la kimataifa la oxfam shere miho|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36386002.mp3|Ulifanya kazi gani|2.376
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30377034.mp3|Kapteni Tom von Prince alijenga jengo jipya karibu na mji Kalenga|6.192
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36644984.mp3|Vikundi vya tai viliwafuata kutoka juu vikiwasubiri waathirika|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29970071.mp3|Ikikamilisha jumla ya halmashauri tisa za mkoa wa Mara|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35113290.mp3|Pasifiki ikatwaa ardhi ya Maindio wazalendo ikapokea|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36036486.mp3|wa Ugiriki ya Kale kuna majengo tu|2.916
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30629921.mp3|Bilionea aliyeorodheshwa wa nne barani Afrika ni mfanyabiashara wa almasi|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37093584.mp3|nneMakazi kupakwa kinyesi cha ngombe ili kuzuia mvua isipenye Wamasai wanawake wakitengeneza nyumba|7.128
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37224320.mp3|Badala yake alieleza ya kuwa atampigania rais Kibaki achaguliwe tena|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36388990.mp3|Baba yake alimpa ushauri|2.808
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30585269.mp3|Na ni kawaida kuyaona makundi makubwa ya Tembo ya kila majani katika mabwawa|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35180055.mp3|yote yanatufunulia Baba na matakwa yake kwetu|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36382350.mp3|watu wa tabaka la chini hawakufanikiwa kufika kwenye staha ya meli|6.696
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30080379.mp3|Umoja wa nchi za mashariki mwa Ulaya waliongozwa na Urusi|5.904
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28661927.mp3|Kata hii pia ina taasisi mbalimbali nyingine za serikali na za kidini|6.516
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_32244229.mp3|Gusa karatasi yako|2.988
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36251767.mp3|Walishinda mbio za olimpiki|3.276
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29826403.mp3|Wakienda sehemu za Ntunzu wanaambiwa ni Wanyamwezi|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28670640.mp3|Kwa kumpa Papa miji kadhaa aliweka msingi wa Dola la Papa|7.38
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29796040.mp3|Idi Amin alitangaza kwamba eneo la Kagera lilifaa kuwa sehemu ya Uganda|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29945321.mp3|Mmoja wa wapiganaji walioendesha mapambano ya kisayansi usiku wa Mapinduzi|6.516
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29847721.mp3|Wapare ni kabila kutoka milima ya Pare Mkoani Kilimanjaro kaskazini ya mwa Tanzania|7.74
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34962823.mp3|akabadilisha upepo uliodumu kwa miaka kumi na nne|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29236808.mp3|Historia ni hasa mfululizo wa habari za mambo yaliyotokea pamoja na sababu zake|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35582767.mp3|Nafasi ilikuwepo lakini ni ile ya kupangapanga vitu ili kupata nafasi nzuri|6.696
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29377767.mp3|Mfano moja ni sungura|2.268
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35165716.mp3|muziki rfi u hali gani mpenzi msikilizaji|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35099379.mp3|Wale ni wafupi sana|2.34
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31306591.mp3|Iliwafanya wakoloni kumlazimisha Nyerere kuchagua kati ya siasa na kazi ya ualimu|8.856
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30337837.mp3|vikosi vya Urusi na hapa ndipo kilipo kitendawili|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35206836.mp3|huyo ni mwanasheria kutoka kituo cha sheria na haki za binadamu nchini tanzania|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29960747.mp3|Mamia ya watu walitupwa jela na kwenye kambi za kutumikisha kazi za sulba|6.768
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30113245.mp3|Chui na pundamilia na wanyama wengine wanaokula majani|2.916
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29431251.mp3|Mkristo ni raia wa miji yote miwili|4.356
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28681045.mp3|Albamu pia inajumuisha masimulizi ambayo yana mistari ya Biblia|8.1
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34048079.mp3|hali ya hewa ya Mkoa wa manyara|3.168
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30712175.mp3|Mama alimsomesha katika shule ya msingi ya Kanisa Katoliki|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34958099.mp3|Amin alitorokea Libya halafu Iraki na mwishowe Saudia|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37094492.mp3|na wabunge wa nchini humu ikumbukwe tu kwamba kenya sasa hivi|4.428
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29789334.mp3|ziwa ngosi lipo katika ya milima ya uporoto mkoani mbeya|7.488
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37097102.mp3|Ambapo kwa wakati huo alizaliwa katika eneo hilo|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35425615.mp3|Kiu ya Mama Samia Suluhu Hassan kujiendeleza kielemu haijawahi kufikia ukomo|6.156
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34985819.mp3|udi nao wenyewe wakatumia wanataka kuvutia kwao kwamba imebidi ufaidi pekeyao|5.904
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36037121.mp3|Jamii ndiyo nguvu kazi katika nchi hasa nchini Tanzania|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29960748.mp3|nyerere alipiga vita ukabila ndani ya nchi ya tanzania|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34989661.mp3|awamu ya kwanza ya ligi kuu ya soka tanzania bara|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28990853.mp3|Hapo kati alikwenda Jeshi la Kujenga Taifa huko Arusha kwa mujibu wa sheria|6.66
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35180377.mp3|waziri wa utamaduni Abel Prieto aliiambia shirika la utangazaji la marekani|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35155517.mp3|mawaziri wengine italia hii leo wametangaza|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36035267.mp3|na kuua watu ishirini na watano mahujaji wa kishia|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36040389.mp3|nyumba mpya watoto nakadhalika Kukutana na watu mbalimbali ambao hamuonani baada ya kipindi hicho|9.216
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29854031.mp3|Watu wanaotaka kupanda mlima ndani ya siku nne au tano wanaweza wakaamua|8.64
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35104883.mp3|ambaye alifariki akiwa madarakani hayati John Joseph Pombe Magufuli|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29794644.mp3|Waluo ni mkusanyiko wa kabila la Waniloti ambalo lilisafiri kutoka Afrika ya Kaskazini|5.94
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36945354.mp3|bodi hiyo ilianza kubadilisha paundi ya uingereza|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29818304.mp3|Mlipuko wa mawenzi ulitokea miaka laki nne elfu aroubaini iliyopita|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30356234.mp3|Kinachohitajika si kupungua kwa hisabati wala ni kuongezeka kwa viwango vya hisabati|6.048
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30185721.mp3|Mito mikubwa ni Songwe na Kiwira|3.204
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34906981.mp3|Tungepiga mbizi ndani ya bahari|3.24
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29791883.mp3|magufuli amebadili maisha ya watu wengi sana|3.636
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34766320.mp3|hapo azungumza akiwa nairobi jijini kenya|4.14
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30090614.mp3|vyombo vyetu vya usafiri wa majini ni salama|3.96
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36031967.mp3|Kukosa uwezo wa kuwa na furaha au kusikia raha|7.236
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31285092.mp3|Mawe moto yenye majimaji yaligawa ziwa hili|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37092541.mp3|Nambari ya saba ilichukuliwa na msichana|3.42
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29813591.mp3|Wamwera ni wabantu waishio mkoa wa Lindi katika wilaya ya Ruangwa na nachingwea|9.18
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30108098.mp3|Kanisa la wasabato limefanukiwa kuwa na waumini wa kanisla la Sabato wengi sana|7.92
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30121972.mp3|Funga kamba vibebeo kuzuia bakteria na hewa isiingie kirahisi kwenye vimengenywa|8.028
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28584388.mp3|Hata hivyo viwango vya ushiriki katika nchi nyingi za Afrika ni vya chini|7.416
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28583639.mp3|Majike hawana mabawa lakini wana miguu kinyume na wadudugamba wengine|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34942722.mp3|na wakuu wa wakati huo jeshini dhidi ya waziri mkuu|4.14
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29924613.mp3|kutoka kanisa kuu la mtakatifu Yosefu kwenda parokia ya Kristo Mfalme Tabata|7.236
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30674883.mp3|algeria ilikomea hatua ya mtoano ya michuano hiyo|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29798089.mp3|Hivyo kuondolewa kwenye orodha ya milima kumi mirefu zaidi|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30033781.mp3|Hoja ya Nyerere ikashinda kwa madai hayo|5.004
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30025409.mp3|wanachukua wilaya ya Sikonge na Mirambo|3.24
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34932600.mp3|yaliomweka madarakani adira jorin anayeugwa mkono na jeshi la nchi hiyo|6.516
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29272474.mp3|Hall alianza kazi yake ya kamera kama mwigizaji wa kibiashara|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36035311.mp3|mtangazaji anatakiwa kupata uzoefu wa mahojiano|2.88
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36037168.mp3|alikuwa mwanamke wa tatu kutawala uingereza|5.328
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31446535.mp3|Alipokea amri zake kutoka Berlin moja kwa moja|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34047795.mp3|Waoman ndio walifanikiwa kuimiliki kwanza kisiwa hicho|6.408
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29601759.mp3|Inakuwa maarufu zaidi pwani ya Magharibi ya Marekani pia|4.5
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35132622.mp3|ni ya kipekee wanaita wao wenyewe wanaita sweet crude yaani|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30037332.mp3|usiku uliokuwa bila mwanga wa mwezi ambao ulifaa|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28672902.mp3|Una bandari kubwa na mpangilio mzuri wa barabara za juu na chini|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34762312.mp3|kila mtu amekuwa akisimulia anavyojua au alivyosimuliwa|5.796
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29790136.mp3|Nyamageni iliyotokea Aprili ishirini na nane mwaka elfu mbili na sita|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29791876.mp3|Hii ilifuatwa na ufunguzi wa nyanda kwa Wazungu walowezi|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34832996.mp3|Hali hii huwafanya kutokuwa na uhasama na kima|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30307578.mp3|kitulo Kuna aina elfu nne za maua na mimea adimu|4.608
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30193948.mp3|Tangu zamani kuta za tembe zilijengwa kwa fito kwa Kigogo hutamkwa sito|6.948
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34600126.mp3|Kazi ngumu ya uwindaji hufanywa wakati wa usiku|3.276
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36032134.mp3|Machungwa ni tamu sana|2.916
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35104797.mp3|kuhalalisha matumizi yakeWajumbe kutoka Umoja wa Ulaya Uswisi|5.076
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35216502.mp3|netanyahu ametoa vitisho hivyo saa chache zilizopita|9.288
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30072227.mp3|Mtaalamu wa historia Frank Schubert anasema mapinduzi ya Obote yalibainisha wazi|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29925893.mp3|Kama tukipoteza ziwa ina maana uwezekano wa kupoteza wanyama au ndege hawa hawataweza kurudi|8.856
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35108065.mp3|Ukristo kutoka neno la Kigiriki Khristos ambalo|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28879612.mp3|Alisoma shule ya sekondari|3.456
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30478522.mp3|bayern ikaendelea kutwaa makombe ya ndani kila msimu|4.068
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35115445.mp3|na wanawake kwa mbao matawi madogo yaliyochanganywa na matope vijiti majani kinyesi cha ngombe|7.776
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34917735.mp3|Kongamano liliandaliwa na taasisi ya Uongozi Tanzania|4.32
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_38022034.mp3|Takriban watu elfu ishirini na nane hufa kila mwaka nchini Uganda|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36036805.mp3|kuhesabiwa kwa kura inaendelea vizuri tunaamini kuwa|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30201056.mp3|Samia alikamilisha masomo ya shule ya upili miaka kadhaa iliyopita|7.596
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31996270.mp3|Mama anapasi nguo za mjomba|3.528
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30342726.mp3|sendor Kocsis wa Hungary na Ftritz Walter walikuwa nyota|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29595604.mp3|Rangi yao kijani kijanizeituni kahawiazeituni kijivu au takriban nyeusi|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30297498.mp3|heshima ya pep guardiola ni kubwa sana barani ulaya|6.048
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30328004.mp3|Milima ya Takamorwa na ule Mlima Talagwe|6.408
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35103011.mp3|aa wakati tunapoongea na wewe muda huu|3.6
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29764035.mp3|Alikuwa profesa wa sanaa katika Chuo Kikuu cha New York|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30004443.mp3|Eneo la Lushoto ambalo linapatikana kwenye safu ya milima ya Usambara|7.56
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31409746.mp3|Huduma ya boti hizi ipo katika hoteli za mchanga mweupe na Jangwani|7.236
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36032431.mp3|kenyata hakupeleka jina lake kati ya wagombea wa urais upande wa chama|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29001946.mp3|Alianzisha mashirika ya kitawa ya Mabinti wa Mt|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29963835.mp3|kusimamia na kutekeleza majukumu ya familia mara baada ya kuanza maisha ya ndoa|6.66
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35683509.mp3|mkubwa kutoka kwa makamu wa rais Saulos Chilima rais wa zamani Joyce Banda na|9.54
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29296979.mp3|Kuna pia visiwa vikubwa vya Asia kusini kwa ikweta na visiwa vingi vya Pasifiki|6.66
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36642931.mp3|Wanu Hafidh Ameir ni mwakilishi maalum katika bunge la Zanzibar|6.516
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29855495.mp3|Wapiganaji ambao wameanzishwa katika utamaduni wa kufanya majukumu yao|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36617465.mp3|Ni vema na busara kuwa na utamaduni wa kupeana mafunzo yanayohusiana na huduma ya|5.94
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30009889.mp3|sanamu za watumwa zinatafsiri biashara ya utumwa kwa watalii wanaokwenda kutembelea|6.84
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34933130.mp3|jamhuri ya Kongo Kutokana na nguvu ya umma iliyokuwa ikifanywa na wananchi wa Kongo|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29937689.mp3|Eneo la Makaburi ambalo lipo katika maeneo ya Chuo Kikuu cha Kilimo cha Sokoine|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34940884.mp3|kuwa asilimia ndogo hasa kufikia mwisho wa karne|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28662881.mp3|Kahawa ndilo zao pekee la biashara kama ilivyo katika wilaya yake na kata nyingine|7.776
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28683326.mp3|Milima ya volkeno huwa na kasoko kwenye kelele mara nyingi pia na kasoko kando|6.156
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30002320.mp3|Kwa miaka mingi aliiambia shirika la utangazaji la Ujerumani|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29336167.mp3|Muundo wa Nigeria ni Jamhuri ya Shirikisho|2.988
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35167816.mp3|Maambukizi ya ngozi na majipu Dalili ambazo hutokea mara tu unapoacha kutumia heroin|6.948
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29984945.mp3|Viongozi hao walikuwa na nguvu za kisiasa na utajiri|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28648761.mp3|Ni sababu muhimu ya kupanda kwa halijoto duniani|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34761598.mp3|Tunda la mama|2.376
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29987209.mp3|timu itakayoshinda inapewa zawadi ya kombe na fedha tasilimu|5.94
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30024831.mp3|makabila mengi nchini yanatumia lugha zao|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29898265.mp3|Kulagasama ni tukio la kuagwa kwa waliooana|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30308280.mp3|kutokana na uwezo aliokuwa nao shujaa huyo aliamua kwenda kuwapiga Wakamba|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31304328.mp3|Mbinu ya kwanza ilikuwa kwamba mikataba ilianza kutiwa saini kati yao na viongozi wenyeji|8.676
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30640490.mp3|Ametaka wanawake kujiamini nchini kuacha woga wakati wa mapambano ya kutafuta fursa|8.28
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36390770.mp3|Rwanda kuna wafanyakazi wazuri na wenye adabu|3.24
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30071253.mp3|Uchezaji wake rasmi ulianza akiwa na klabu ya Manchester united|3.816
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29961477.mp3|Mussolini aliondolewa madarakani na serikali mpya ilijiunga na mataifa ya ushirikiano|6.876
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30629818.mp3|Pia kumejengwa hoteli kubwa kwa ajili ya wageni kutoka ndani na nje ya nchi|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30327535.mp3|Kupitia njia Morogoro ni kilimita Mia nane Sabini na Sita|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30624176.mp3|midomo ya mbuni ni mipana na ncha ya duara kidogo|4.5
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30381641.mp3|Mongolia yalitangaza pia hali ya vita dhidi ya Ujerumani na Japani|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34991592.mp3|mwandishi wetu dennis ingoro anaelezea zaidi|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29943819.mp3|Kama sehemu ya hatua zinazoambatana na serikali mpya ya Msumbiji|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28679567.mp3|Mji wake mkuu ni Southampton|3.276
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29799429.mp3|Mmasy Kimaro Swai nao pia wapo kwenye ukoo wa Mushi|7.236
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34945149.mp3|msemaji wa jeshi la sudan kusini spla|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29988393.mp3|Ili tu kujifunza na kujionea namna gani wawindaji hao wanavyoishi|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35156889.mp3|Makamba alifanya kazi kwa karibu na mama Samia|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31737327.mp3|katika Jeshi la Mwingereza na Jeshi la Uganda|7.668
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30327155.mp3|Inapitia kando ya mpaka wa magharibi wa Mbuga juu ya Mto Athi|7.056
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35104537.mp3|kia maslahi ya kundi la watu wachache kwa kibaraka|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35178754.mp3|Kihistoria siku ya uhuru wa vyombo vya habari|3.276
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29805118.mp3|pep guardiola alijituma ili afanikiwe kwenye soka|3.816
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30182568.mp3|Siku zilezile Warusi walianza kuwashambulia wanajeshi Wajapani huko Uchina|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29938616.mp3|Jamii ya wasambaa huwafunza watoto kwa Mila na desturi za kisambaa|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29925692.mp3|Jiografia ya wilaya ipo kilomita mia moja na tano kutoka Manispaa ya Bukoba|6.696
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30131959.mp3|kuhakikisha urithi huu unatunzwa Mikakati hii ni pamoja na kuwakutanisha wadau wa mkongo huu|7.056
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30585122.mp3|Wanauchumi pia hufanya kazi katika idara na mashirika ya serikali|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30450840.mp3|Sahihi iyo ilihusisha makubaliano ya kukomesha utumwa kwa pamoja ikiihusisha Uingereza|7.236
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30054399.mp3|kwa Afrika wamasai wamekuwa hawana nguvu tena kama ilivyokuwa hapo mwanzo|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34906413.mp3|kusababisha madhara makubwa ya kiafya lakini kivyovyote vile ni|4.788
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31270704.mp3|Makamba alichukua mchepuo wa masomo ya kemia baiolojia na kilimo|5.94
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30335819.mp3|ghana ilifungwa kwa mikwaju ya penati|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30103576.mp3|Sikuwahi kuitwa na Kamati ya Bunge ya Hesabu za serikali inayoongozwa na Zitto Kabwe|8.424
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35108023.mp3|mfumo utaboresha upatikanaji na matumizi ya huduma za kifedha nchini|6.3
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34838088.mp3|kwa Mola ataishi kuona utukufu mwingi wa Mola wenye kutajwa katika|6.66
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35110389.mp3|ivyoelekezwa kwa rais wa nchi hiyo|3.456
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30036666.mp3|magufuli alipita katika mchakato wa kuchagua mgombea wa chama|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28669654.mp3|Hali halisi kiwango hicho ni tofauti sana kati ya mahali na mahali|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29850310.mp3|Akaunti za kitaifa hujumuisha pia kipimo cha mitaji ya hisa|5.328
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30380406.mp3|Sekta nyingine ambazo huchangia kwenye uchumi wa Mkoa ni za Mifugo na Madini|6.12
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34943887.mp3|Nilishapanda ngazi hadi juu kabisa|2.808
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34932957.mp3|mabaya ya vileo unaosababisha kuathirika vibaya kiafya au dhiki kama|6.696
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30631278.mp3|Iliweza kutegemea usaidizi kutoka kwa upande mmoja wa vita baridi|6.12
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29789668.mp3|wakati huo Lakini Nyerere alikuwa amefedheheka Kuanzia|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34827685.mp3|limeleta utata na mapambano katika majimbo kadhaa|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35106371.mp3|Zimeshika nafasi ya kwanza huko nchini Marekani ikiwa ni|4.5
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30584846.mp3|jina la mimea ya mkonge inayoota hapo uligunduliwa na Loui na Mary Leakey|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30182907.mp3|Pamoja na kusimama dhidi ya utumwa waliishi pamoja|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34824530.mp3|katika hukumu hiyo haki za binadamu zilitakiwa kuzingatiwa|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30185839.mp3|gary lineker alikuwa mfungaji hodari sana|4.644
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29021676.mp3|Aliona milima kwenye Mwezi|3.06
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35107943.mp3|ya kuthibitisha matokeo hayo kwa macho yetu|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28683273.mp3|Mtakatifu huyo aliishi katika kipindi cha mageuzi cha Karne za kati|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28683159.mp3|Mamlaka haya yapo mjini Dar es Salaam|3.816
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28669550.mp3|Pia alijulikana nchini Marekani na Brazil|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29000761.mp3|Desturi hiyo ni ya kale labda kama ujenzi wenyewe wa makanisa|4.5
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36387063.mp3|Katika kifungu hiki tutazungumza nawe juu ya aina tofauti za uchafuzi wa mazingira|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36383257.mp3|ao pia ni maziri katika serikali iliopo sasa ni pamoja na waziri zolo|5.796
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30022004.mp3|Ni mbunge wa jimbo la Njombe Kusini katika bunge la taifa nchini Tanzania|4.608
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36036035.mp3|Narudia tena muuaji tunamjua na mara kaadhaa tumejizuia kumuua kwa sababu maalum|5.508
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30630413.mp3|Baadhi ya vitu kwenye magofu hayo vinaibwa|3.348
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29821047.mp3|Tuna mengi ya kujifunza hasa kizazi cha sasa ambao tumekuta tayari kuna mabadiliko mengi|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28725791.mp3|Siku hizi wengi huishi mjini na kwenye vituo vya migodi ya madini mbalimbali|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34920260.mp3|Plastiki ambazo zinatumika mara moja tu|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29546516.mp3|Hali ya kifo chake haijulikani|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30654105.mp3|raisi kikwete aliingia madarakani rasmi oktoba|4.14
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_32091422.mp3|Jumaa taswali tena|2.7
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35146570.mp3|migogoro ya kimataifa ya kutumia silaha siyo mizuri|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35168701.mp3|Msichana ameinama|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29795797.mp3|Mwenge ulipandishwa Mlima Kilimanjaro na Kapteni Alexander Nyirenda|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29846206.mp3|Baadae chama hicho kiliitwa Afro Shirazi Party|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30010549.mp3|afrika ni kivutio kizuri cha wataliii|3.6
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31363096.mp3|usiguse vifaa vya kutolea huduma bila idhini ya daktari|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29797465.mp3|Ikikadiriwa kuwa walikufa watu kati ya milioni ishirini hadi ishirini na nane|5.976
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30206637.mp3|miongoni mwao walikuwepo Waumini na makafiri Waliokufuru|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34979887.mp3|hadi mwaka elfu moja mia tisa tisini|4.068
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30653651.mp3|Na shughuli nyingine zinazo hitaji matumizi fedha|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36255575.mp3|kwamba sasa walau hata kuna mjadala kuhusu Chato inafaa au haifai kuwa mkoa|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30654102.mp3|Mlima huu wenye urefu wa mita elfu tatu na hamsini|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29797542.mp3|Zamu yake kucheza akawa anacheza na Mzee Maalim Shaha Kombo|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34911976.mp3|Pamoja na wengine waliandika kuhusu Mila na desturi za kabila la Waha|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36332193.mp3|na siku Mia Hadi Mia mbili kila mwaka|2.916
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34979771.mp3|Nakuja kukusaidia kufanya sherehe|3.096
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30002131.mp3|Chenye aina yake ya upishi ambacho kinapatikana Dar es salaam sana sana kwenye baa|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29898787.mp3|Akasoma shule Zanzibar mjini kuanzia mwaka elfu moja mia tisa na thelathini|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30184471.mp3|Kutokana na mashindano ya nchi za Ulaya|3.672
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36033757.mp3|Pakacha kazi yake ni kubebea vitu mbali mbali kama machungwa embe chenza na kuku|6.516
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28816899.mp3|Kwa kawaida Malindi umekuwa mji na bandari ya kirafiki kwa serikali zingine|5.76
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34597546.mp3|nayo mahakama ya kimataifa uhalifu wa kivita icc inachunguza tuhuma|7.668
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30248817.mp3|Kuna maeneo katika dunia hii yana baridi kali hali inayosabisha kuanguka theluji|6.696
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29935033.mp3|hata viongozi kwamba wote watahitaji mafanikio ya uwanjani|6.3
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30572102.mp3|Inawezekana kwamba maisha ya kisasa imefanya ya hermits|7.488
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31911993.mp3|Pochi hii alapsechi echu ikikamilika asari takuva ningii kichoveo cha papaa itakuva ni mwanadamu|7.416
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29192632.mp3|Mbele ya sheria kila mtu ana haki ya kutambulika kama mtu|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29892409.mp3|Watanzania wengi hujua kwamba wanaotakiwa kutembelea hifadhi za Taifa ni watalii wa nje|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30063775.mp3|Matunda huwa sehemu kubwa ya chakula cha watoto|3.816
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35425521.mp3|ezi kuwafanyia mahesabu ya kuchosha|3.276
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30338075.mp3|Idadi ya Wambugu ni asilimia ndogo tu kulingana na Wasambaa wa Lushoto|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36035555.mp3|watu zaidi ya mia nane wamethibitishwa kupoteza maisha nchini brazil|4.068
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30368579.mp3|Wanawake wana jukumu la ujenzi wa nyumba na vilevile kuchota maji|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28835265.mp3|Imepakana na Albania Masedonia Kaskazini Bulgaria na Uturuki|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28691419.mp3|Aliendelea kubuni njia ya kubadilisha tabia za mpira kuwa mgumu kabisa|6.876
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29936413.mp3|Alifariki dunia April saba mwaka elfu moja mia tisa sabini na mbili|5.76
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30003746.mp3|Mawenzi huwa na kilele cha pili kinachojulikana kwa jina la mnara wa Neumann|6.516
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34743506.mp3|Kila ijumaa mimi huandika|3.24
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34979536.mp3|Mguso wako ni baraka kwangu|3.06
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30220874.mp3|Inaelezwa kwamba kazi hiyo ya kufundisha ndiyo iliyomfanya apewe jina la Maalim|5.976
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36383303.mp3|Nyumba kubwa|2.232
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36384857.mp3|a idhaa ya kiswahili redio france international kutoka dar es salam|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36145792.mp3|Hutibu matatizo ya kumengenya chakula na mfumo wa kupumua kwa binadamu|8.28
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28581515.mp3|Uko katika Kaskazini mashariki ya nchi|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29944859.mp3|Ni mchezaji wa pili katika historia ya kupiga fainali mbili za Kombe la Mabingwa|7.236
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30335736.mp3|Mwaka mmoja baadae ndege za uchunguzi za Marekani ziligundua makombora ya Usovieti|7.596
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30351433.mp3|nchi ya tanzania ilizisaidia nchi nyingi sana duniani|6.696
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30206579.mp3|msimu huo pep guardiola hakuwa na bahati|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34677996.mp3|Alipendekeza kuwapo kwa mfumo wa Serikali tatu|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35110285.mp3|Hasira ya Karume aliyetawala kwa mkono wa damu iliwashukia wengi|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30004893.mp3|Huleta mabadiliko ya katiba ya kuongeza sauti ya waafrika kwa ajili ya jumuiya ndogondogo|7.2
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34990924.mp3|kupitia heshima yake kimuziki kudumu kwake muda mrefu ukongwe na tuzo nyingi alizowahi kutunukiwa|7.74
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37096435.mp3|katika maeneo ya Mpwapwa na Dodoma mwaka|3.24
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29787728.mp3|Upingamizi wa Sultani ulishindikana kwa sababu Wajerumani walituma manuwari|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29944328.mp3|Meli kubwa zinabeba mafuta na kuipa Naigeria fedha za kigeni|4.608
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30109157.mp3|Wakati waingereza na wamisheni wanafika Tanga tayari wadigo walishafika kutoka Shungwaya au kashuri|8.28
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30049888.mp3|Kwenye uchaguzi wa elfu mbili na ishirini alichaguliwa tena na wana Iramba|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29821240.mp3|Kuharakisha sio njia ya kufanikiwa kufika kileleni na kushuka bila kuumwa|6.3
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28679788.mp3|Habari zake zinapatikana hasa katika kitabu cha Mwanzo|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_33994768.mp3|hiyoPombe na matumizi mabaya ya madawa ya kulevya pia ni ya|4.356
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30035419.mp3|Mwimbaji huyu alirekodi zaidi ya nyimbo mia tatu|4.608
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30582643.mp3|kuna mambo yaliyoacha doa katika uongozi wa benjamini mkapa|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29788001.mp3|Mazao haya yanasafirishwa kuelekea nchi za Ulaya na Asia|7.128
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34729152.mp3|mpango mzima wa upandaji miti katika mlima elgon|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28679824.mp3|Baadhi ya madola na falme hizo ni Ghana na Mali|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29789275.mp3|luis suarez aliudaka mpira uliyokuwa unaeenda nyavuni|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29962396.mp3|Messi akawa sehemu muhimu ya Timu ya mtoto wa ndoto timu ya vijana Barcelona|6.408
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35164322.mp3|isipokuwa siku ya Krismasi na Pasaka au kwenye harusi na misiba|6.156
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30634571.mp3|kivutio cha watalii wengi wanaoingia|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34597610.mp3|ilikuwa na mamlaka ya kuchapisha noti na kutengeneza sarafu zake|4.32
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30569878.mp3|Wachezaji wengi wanauzwa kwa pesa nyingi sana|5.256
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35177541.mp3|Yeye ni Mwanasayansi|1.908
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28663263.mp3|Ni njia asili ya kutambua mtazamo au hisia|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29954806.mp3|ndege hao wana tabia ya kufukia vichwa vyao ardhini kwa muda mrefu|5.76
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34392773.mp3|pili watu wa maeneo mengine wataona nao ni wakati sahihi|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30201576.mp3|Wao wanadai haki ya kulisha mifugo katika hifadhi za Taifa|6.3
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35181832.mp3|Na moja kwa moja leo tutamzungumzia Mnyama twiga mwenye urefu wake wa kipekee|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36373597.mp3|benki kuu inatoa huduma nyingi sana|3.816
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29835888.mp3|Tanzania nchi iliyobarikiwa kuwa na makabila mbalimbali|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29788683.mp3|Hivyo waliwafukuza kwa kupigana kama ilivyokuwa kwa makabila mengi|6.408
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29790969.mp3|Johann Ludwig Krapf aliandika mnamo elfu moja mia nane sitini|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28669709.mp3|Macho ni meusi kwa kawaida|3.6
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29915479.mp3|Licha ya kwamba Kilimanjaro ndio mlima maarufu kutokana na kuwa mlima mrefu Afrika|6.408
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35165074.mp3|meli hiyo ilizama siku ya nne baada ya kuanza safari yake|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29788667.mp3|Msitu huu unaopatikana huko America kusini|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30100156.mp3|Inaelezwa kuwa mchakato huo utapitia hatua mbalimbali ikiwemo kuwashirikisha wadau husika|5.796
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35408705.mp3|Akavipakua viazi kwenye bakuli Vivyo hivyo mayai Na kumiminia kahawa kwenye kikombe|10.116
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30584855.mp3|Kloop aliwahi kuwa kocha mkuu wa ujerumani|3.636
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29793543.mp3|Utaratibu huu ulikuwa na manufaa makubwa maana ulirahisisha kazi|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30563059.mp3|Mswahili ni yule aliyezaliwa akakulia katika tamaduni za watu wa upwa wa afrika mashariki|10.188
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29834209.mp3|Umri wa miaka zaidi ya miaka elfu nane|3.276
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29960176.mp3|didier drogba ndiye alikuwa shujaa wa mechi|4.428
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37100934.mp3|uzoevu wa dawa ya walipopewa changamoto kwa kipimo kimoja cha|4.32
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30180084.mp3|Imani za kimaasai zinaonyesha kwamba hawaamini katika maisha baada ya kifo|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28584712.mp3|Kumbe maelezo ya sayansi ni kama ifuatavyo|4.14
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35115804.mp3|Msichana wa Kimasai mwenye mavazi ya rangi za kitamaduni na shanga katika matukio|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30381208.mp3|Ulaya watoto wengi walipenda kucheza mpira|3.204
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35251790.mp3|Mwanahabari alifanya kazi yake vizuri sana|7.488
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29977460.mp3|Kinara wa upinzani katika uchaguzi huo akiwa Augustino Mrema|6.3
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34985625.mp3|Mambo muhimu ya maandalizi ya usafiri huduma za chakula malazi au kulala|5.832
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30035761.mp3|Hifadhi ya Gombe yenye sokwe wanaoishi kama binadamu mkoani Kigoma|5.256
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34933067.mp3|Punja Kara Haji alidai mahakamani alipwe na Karume|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31431343.mp3|mbinu ya kumili pira inaweza kufanya ukafungwa|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29959340.mp3|Iko umbali wa kilomita mia moja kumi na nane Kusini Magharibi mwa Arusha|7.488
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34994751.mp3|kutokuwa salama kwa vizazi vijavyo Hatua zilizoratibiwa za kupunguza uchafuzi wa hewa n|8.748
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35116195.mp3|Maana mtu yeyote akijua taarifa za Juliana inakuwa rahisi kumpata Hakizimana|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30362895.mp3|Kabla ya Simba Chama alizichezea klabu ya Nchanga Rangers na klabu nyengine nyingi|5.328
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29790924.mp3|kurudia matokeo ya vipimo na kutotafuta matibabu|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35250309.mp3|benki hiyo ilianzisha bodi ya sarafu ya afrika mashariki|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30026700.mp3|Wilaya ya Chato ilikuwa sehemu ya wilaya ya Biharamulo mkoani Kagera|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30324330.mp3|Aliwataka wamsaidie kuendesha baadhi ya mambo|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36039141.mp3|Kutekeleza majukumu ya itifaki na sherehe za Kimkoa au Kitaifa|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30113244.mp3|Raheem Sterling akawa hashikiki akiwa na mpira|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36034794.mp3|mchezaji ataruhusiwa kutumia mikono kurudisha mpira ndani ya uwanja|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28661637.mp3|Ni pia kitengo kidogo cha kila dutu|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35168759.mp3|Twendeni sote|2.376
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31321867.mp3|Ambapo eneo hilo la mombasa wamekaa watu wanaoonge lugha ya kiswahili|9.18
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36644670.mp3|boti ya mwisho ya uokoaji ilifika katika eneo la ajali|5.076
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30370605.mp3|Tanzania inayo jumla ya mikoa ishirini na sita kwa upande wa Tanzania bara|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30326164.mp3|Ivyo basi kwa kutumia mwanya huo katika mikusanyiko ya kimichezozo walijadii jinsi ya kujikomboa|8.856
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_32243941.mp3|Kuwa muangalifu|2.7
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35102391.mp3|Wengi wakiiga mitindo ya makundi ya Marekani kama Niggers With Attitude na kadhalika|7.056
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36331865.mp3|Maji ni muhimu kwa afya ya binadamu|2.52
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30577567.mp3|Haki ya mageuzi haina misingi ya kisheria ya kubadili tabia ama mawazo|6.768
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29856823.mp3|watalii wanataka waongozaji wa watalii waongezewe elimu|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29164052.mp3|Alipata shahada ya uzamili katika uandishi wa habari kutoka Chuo Kikuu cha New York|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37229613.mp3|Aliepuka kukamatwa hai na kuteswa baada ya kuona asingeweza kutoroka|6.768
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29831656.mp3|Akiwa na matumanini ya kwamba watu wenye elimu hawatafuata imani|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29821256.mp3|unaleta uwiano unaosubiriwa na wengi kabla ya kuanza kwa msimu wa ligi kuu|5.976
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34893704.mp3|kuna wale ndio wanajali lakini pia kunaa|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30088158.mp3|mfumo wa serikali za mitaa uliboreshwa|4.14
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28682292.mp3|Ni maporomoko makubwa ya Amerika ya Kaskazini|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30200690.mp3|Watoto hufaria michezo|3.636
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30365964.mp3|Moja kati ya maambukizo kumi yasiyoleta madhara hatimaye huendelea na kuwa ugonjwa kamili|6.876
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28856182.mp3|Hali ya hewa haina joto kali kutokana na kimo|4.428
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29996066.mp3|Jinsi alivyopingana na utawala wa waakoloni kutoka Ulaya|7.848
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37101381.mp3|saba Hadi thelathini lakini wengi sana wanaongea pia Kifaransa|4.788
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28673067.mp3|Alirudi Algeria miezi michache kabla ya uvamizi wa Kifaransa|5.94
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28815232.mp3|Kwa maana hii ya kawaida nchi ni kitengo cha kisiasa katika eneo maalumu|7.128
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29906405.mp3|Unapoona ndege Tausi kainua mkia basi hapo ni kipindi cha dume huyo kuhitaji jike|9.0
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30209932.mp3|Ni watu shupavu sana kwenye kazi za kujitolea hasa za kijamii|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29953285.mp3|Jina litakalokubalika na kutumika na Wamaasai wote|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30204479.mp3|Rafiki wa Joseph Bruce Ismay alichukua oda hiyo|5.292
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29966933.mp3|Jina ambalo baadaye wavumbuzi waliviita virusi hivi|6.516
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_32295878.mp3|Ameweza kujilipia ada|2.736
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35183427.mp3|Mume kutokuja hospitalini siku mbili|4.428
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29717797.mp3|Jina la sala hiyo linatokana na maneno yake ya kwanza|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36387447.mp3|Jumbe hizo huwekwe kwenye mfumo wa mafumbo ambayo msikilizaji hufanya uchambuzi|5.76
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35100439.mp3|kupata ukweli wa mambo msikilizaji sikiliza rfi kiswahili na kuhusu wakti ni|8.496
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30581932.mp3|Je umefunga macho yako ukitarajia kuona mafanikio yako|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36643715.mp3|Akishinda magoli mawili na kuwa shujaa wa timu|4.32
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29525455.mp3|Amezaliwa nchini Ufini lakini|4.068
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29999207.mp3|kutokana na ugeni wake alicheza katika mechi za kirafiki tu na mashindano ya katalani|6.948
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29624375.mp3|Alfabeti ya Kigiriki ilianzishwa wakati wa ustaarabu wa Ugiriki wa leo|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36035942.mp3|maziwa makubwa zaidi ya Ulaya Majiji mawili|3.168
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30341982.mp3|Kufuatia uhusiano wake na Neymar na kile ambacho kila mtu anakitarajia kutoka kwa Mbappe|7.884
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35155310.mp3|na jinsi zoezi zima la upigaji kura lilivyoendeshwa|5.796
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30035850.mp3|Abeid Karume aliwakusanya waafrika hao kudai haki zao|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30363520.mp3|katika taifa la Tanzania na nje ya Tanzania|4.14
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34958809.mp3|mauaji ya kimbari yalimaanishe uangamizaji wa taifa|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28879329.mp3|Mfano nchini Tanzania mji mkubwa ni Dar es Salaam ingawa makao makuu ni Dodoma|7.128
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31286289.mp3|Adhabu ya kaburi aijua maiti|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30032406.mp3|wasukuma ni miongoni mwa kabila mojawapo kati ya yale mia moja ishirini na moja|5.976
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28718742.mp3|Aliwahi kucheza timu ya taifa ya Italia|4.608
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35101673.mp3|Nashindwa kuelewa|2.16
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29684610.mp3|Hii inajulikana kama hali ya kutegemeana ya daraja la pili|7.056
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35166272.mp3|zinahitaji maji so maji ni jambo ambalo ni la maana sana|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29413429.mp3|Karibu eneo lake lote ni nchi ya Italia|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31274688.mp3|Nchini Uganda kama vita vya Ukombozi|2.988
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36038094.mp3|obama amesema atatumia vizuri nafasi yake atakayoipata siku hiyo ya jumanne|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31304418.mp3|unaopikwa kutokana na unga wa mahindi yaliyokobolewa na kuvundikwa kwa muda mrefu|10.476
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30671228.mp3|Tabaka zito la jivu linaweza kugeuka kuwa ngumu|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36381887.mp3|Ziara ya Samia imechangia sehemu kubwa kufungua milango ya kibiashara|5.184
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36383662.mp3|sasa nadhani kuwa hii ya nigeria niyakuonyesha kwamba hili halikubaliki kabisa|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34594757.mp3|kwa upande wa Serikali za Mitaa|2.448
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29922449.mp3|Huu ulikua kama muendelezo wa mfumo wa shule ya Danubian|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29950873.mp3|Ina ukubwa wa kilomita za mraba elfu tano mia moja themanini na sita|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30562931.mp3|Inaweza hata kuchukua miaka kumi na tano nchi haijapata matokeo|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29488392.mp3|Mji ni kitovu cha biashara na uchumi kwa jimbo la Queensland|6.048
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31998024.mp3|Zungumza maneno kwa mizani|3.096
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29012639.mp3|Mdomo wenyewe una umbo la delta|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35103005.mp3|waandamanaji wapatao mia tano wamejitokeza|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29847496.mp3|Muda mwingi wakisuka nywele hizo kwa stairi ya aina yake|5.328
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30638379.mp3|Kumekuwa na gumzo kuhusiana na jinsi virusi vyake vinavyoweza kusambazwa|7.488
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30022076.mp3|Elimu hii iliwasaidia kupambana na changamoto za familia na kudumisha amani na upendo|6.336
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35168805.mp3|rais sarokzy huenda akafanya mabandiliko ya baraza la mawaziri|6.696
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36038138.mp3|Mambo yanayosisitizwa katika Sheria hii ni mipango na usimamizi|5.508
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29001311.mp3|Ngombe wanapatikana kote duniani na kuna aina kwa kila namna ya hali ya hewa|7.668
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29970433.mp3|Kwa wageni na wenyeji wa eneo husika kama vile kwenye biashara|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29798638.mp3|kama sehemu ya kutekeleza kawaida yake ya|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30582848.mp3|Mfano taifa la Algeria linauza mapiapa mengi sana|5.796
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34594800.mp3|walijaribu kufuta utawala wa Kiislamu katika nchi za Mashariki ya|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30197477.mp3|mazao ya pamba na kahawa huonesha utajiri wa kilimo|6.444
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29923421.mp3|timu nyingi za ulaya zilishindwa kusajili|3.168
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35221718.mp3|Sipendi nyama|2.016
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28876188.mp3|Alijiunga na majirani wakubwa kwa njia ya ndoa|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31330802.mp3|Kenyata alichaguliwa kuwa rais wa chama cha siasa cha kenya|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36033060.mp3|Chuo cha Marekani cha Dawa za Maumivu Shirika la Maumivu Marekani|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28876843.mp3|Watu wa mkoa wa Bonde la Ufa ni wa makabila mengi|5.328
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30563449.mp3|Wanajeshi wa Uganda walisonga mbele kwa tahadhari|7.2
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30180275.mp3|Hiki ni moja ya kivutio ambacho kwa kushirikiana na mwekezaji tumefanikiwa kuwa nacho|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36641249.mp3|Arusha kwa gharama zake ameenda kufanya matangazo amelipa ukumbi wameenda wamefunga mageti|6.696
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31410184.mp3|virusi vya ukimwi vinatokana na Chanjo ya polio|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30112780.mp3|wakati mwingine kesho yako inaonyeshwa pia Lakini|5.508
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36376041.mp3|abari za asubuhi ni jumamosi ya tarehe kumi na tatu ya mwezi novemba|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36390003.mp3|hakukijua ni kwamba angepigania maisha yake kwa zaidi ya|3.888
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34730487.mp3|Wengi wao wanapatikana wilaya ya Kilwa Masoko katika vijiji vya Kipatimu|6.84
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30179847.mp3|michuano yote inayochezwa ulimwenguni inalipa|3.636
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30195904.mp3|Kirangi ndiyo hasa lugha ya Warangi ambayo wao huiita Kilaangi|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28666681.mp3|Uchimbaji huu huitwa uchimbaji wa juu ya ardhi|3.96
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31274270.mp3|Wanawake ni elfu tisini na moja mia sita sitini na nane|4.14
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31909851.mp3|Piga teke mpira|2.52
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34831428.mp3|serikali ya marekani imekuwa iki imesisitiza mara kwa mara ikimwomba alistide kuahirisha safari yake|7.38
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36382234.mp3|na Mabepari wa Venus mwaka elfumoja miatisa sitini na tisa|4.356
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29793362.mp3|basi mtu huyo ni kiburi pia ana dharau|4.356
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29939253.mp3|Sayyid Said aliona nafasi kubwa ya biashara ya karafuu|4.788
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29790277.mp3|Tarehe kumi na tano mwezi wa tano mwaka elfu mbili kumi na tisa|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29307060.mp3|Teolojia katika dini mbalimbali inatumia neno hili kadiri ya imani yake|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28581817.mp3|Sehemu kubwa ya mwendo wake iko katika nchi ya Brazil|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30180320.mp3|bwawa hilo linaonekana kirahisi kwenye moja Kati ya barabara za serengeti|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30143007.mp3|Na tukisema watu wa Tanga ni wavivu|4.176
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36383176.mp3|na kusema kuwa mataifa hayo mawili yanapaswa kuzuia machafuko|5.652
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34393021.mp3|Ugali hutofautiana na uji ambao hutayarishwa na hupikwa na maziwa|8.316
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29860835.mp3|Msitu wa Kakamega siyo kivutio kikuu cha watalii|5.256
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28825564.mp3|Uzito wa vifaa hutofautiana na joto na shinikizo|7.488
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30654039.mp3|Mkwawa alijificha msituni pamoja na askari zake akasubiri|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30337248.mp3|Tanzania inazo pia mbuga na hifadhi nyingi za wanyama|4.32
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30050072.mp3|Akipiga bao tembo dume manii zake ni ujazo wa lita tano|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31252131.mp3|Hiki nacho kimekuwa ni kivutio kingine kwa watalii wengi kutembelea eneo hilo|6.48
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30081869.mp3|demokrasia na amani duniani|3.636
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31909699.mp3|msichana huyu ameniathiri kwa penzi lake|4.788
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35106553.mp3|Upinzani uliotolewa na baba wa taifa aliyekuwa Rais wa Kwanza wa Tanzania|5.508
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29792468.mp3|dakta jakaya aliingia madarakani kwa awamu ya pili|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35588537.mp3|Kwa jumla Wakristo wanaishi kati ya wafuasi wa dini nyingine|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30574701.mp3|Mara baada ya kuhitimu masomo ya chuo kikuu Maalim Self alirejea Zanzibari|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29942121.mp3|Tunapaswa tuwe makini katika kujenga mazingira yetu|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29765931.mp3|Wakati wake ilihesabiwa kati ya maajabu ya dunia ya kisasa|4.788
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34979833.mp3|Serikali itahakikisha kwamba kila senti inayoongezeka inatumika vyema|6.408
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29822135.mp3|Hali ya hewa ya Tanga ni nyuzi joto kati ya ishirini na nne|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29924249.mp3|Eneo hilo Mazimbu lilitolewa kwa Afrika Kusini|5.796
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37098426.mp3|wakarudi Yerusalemu yapata mwendo wa sabato na|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28679319.mp3|Watalii hutoka Ulaya hasa Wafaransa na Waingereza|7.2
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29792594.mp3|Ufaransa na Urusi pia mataifa ya Uingereza na Italia bila kuisahau Marekani|6.12
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29475539.mp3|Wanaweza kuwa na mikumbo minne katika kipindi cha chini ya miezi minne|4.428
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29795577.mp3|Watu hawa hushirikiana katika maswala ya shida na raha pia|6.84
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30354933.mp3|baada ya wareno kuondoka kikabaki chini ya sultani wa oman|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35438523.mp3|shinda na yeye kase amefurahi amefurahia|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29949779.mp3|watafiti ni sehemu yao ya kufanya baadhi ya tafiti muhimu wa kisayansi na kijografia|6.552
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34958890.mp3|i hii inaiweka wapi chama cha nrm|3.348
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29728264.mp3|Asilimia kubwa ya wakazi ni maskini|3.528
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30376262.mp3|Wagogo wana Mkinda ila Wawanji wana Nkinda|4.608
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28970600.mp3|Alikuwa kiongozi wa kwanza wa jumuia ya kike wa utawa huo|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29607688.mp3|Mwandiko wa Kichina ulikuwa pia msingi wa mwandiko wa Korea na Japani|4.86
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29796695.mp3|Huku wakijiandaa kumtafuta chifu mwingine|2.988
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34677364.mp3|kwa sababu ya kuyapeleka majeshi yake huko somali|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30351391.mp3|hitler alifanya mauaji ya halaiki kabisa|5.256
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36555535.mp3|Aliimba mpaka alipofika umri wa kuwa mzee kabisa|7.596
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34940181.mp3|Baada ya kurejea Zanzibar mwaka elfu moja mia tisa arobaini pamoja na kuwa mtu|7.668
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30382302.mp3|karol alisema nilikuwa nimeshapoteza wapenzi wangu wote|6.012
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35167407.mp3|Gavana Von Soden alidai kutoendelea na mapigano|5.076
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30381299.mp3|Hifadhi ya mikumi ni hifadhi inayopatikana katika mkoa wa morogoro nchini Tanzania|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30415172.mp3|Kupitia nchi ya Wamasai kwenye chanzo cha mto Nile|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29583633.mp3|Katika miaka iliyofuata farakano ilikua|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30003207.mp3|Juhudi zaidi ziongezwe za kuweka na kudumisha mawasiliano na Zanzibari|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35099110.mp3|la majanga ya moto katika eneo la msitu wa|3.528
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29797710.mp3|Mwamba huu huwa ni sehemu nzuri ya kuwatazama Tembo|4.5
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30616317.mp3|Jambo ambalo naamini kuwa baada ya kusoma makala hii wengi tutabadili fikra zetu|6.876
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29291954.mp3|Ni kundi kubwa la burudani studio ya filamu na studio ya rekodi|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28927603.mp3|Ina jumba la makumbusho dogo kuhusu historia ya Zanzibar|5.256
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35104534.mp3|muda mrefu Ni hatari kwa viumbe hai kwani vitu hivi vyenye mionzi huathiri moja|7.488
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28682437.mp3|Alikua katika mji wa NeuillysurSeine|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30117801.mp3|Utafiti wa gazeti hilo uligundua kuwa walikuwa wanne|4.824
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30200827.mp3|Kuna siku nyingine itakuwa tafrani lakini ndiyo sehemu ya maisha|6.408
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34729766.mp3|ndogo tu ya Shii ya Guiana Kwa hivyo kuna|4.896
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30370676.mp3|Eneo la Afrika ya kati yakiwemo mataifa ya Rwanda na Burundi pamoja na Congo|5.328
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30354364.mp3|Katika kipindi chake cha utawala wa eneo la ufipa|3.816
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29890312.mp3|Pep alitolewa na Real Madrid kwenye michuano|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30659162.mp3|david villa alishinda ubingwa wa ulaya alipokuwa barcelona|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34826111.mp3|baadhi vigogo wa chama cha mapinduzi ccm hasa|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36037587.mp3|Kalamu imeuzwa|2.7
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30178410.mp3|Oprah alilazimika kuhama alipokuwa akiishi na kuhamia kwa baba yake mzazi|6.948
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34896184.mp3|Roba anauza begi zuri|2.448
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35206745.mp3|unaonesha kwamba hao wakala ambao wanashughulikia tuhma hizo|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37084731.mp3|unataja madhila mbalimbali ambayo vyombo vya habari na waandishi wake kwa ujumla|9.576
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29948492.mp3|Gobori na mikuki ya Wahehe hazikuweza kushindana na mabomu za Wajerumani|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37218310.mp3|ni kauli yake mchambuzi wa masuala ya siasa|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35102439.mp3|Bwanake ni mdigo|2.376
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31271953.mp3|Akielezea historia yake mama samia ameelezea kwamba alizaliwa katika familia ya kawaida kabisa|9.036
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30325806.mp3|rais wa kwanza wa kenya alikuwa rafiki mkubwa wa nyerere|4.788
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35157365.mp3|wala hakuagiza taarifa rasmi juu ya maisha yake|4.5
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30009105.mp3|Lazima serikali ya Rais Samia ikubali kupunguza mamlaka za kutoa leseni|7.236
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34743326.mp3|samwel aliingia kwenye mashua ya kuokoa|5.256
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31258856.mp3|rai magufuli alikuwa na karama ya uongozi|4.428
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35107285.mp3|Yesu aliwalisha wafuasi wake|3.06
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35179492.mp3|Nampenda kwa vyovyote simshuku|3.42
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29944416.mp3|Mvua za vuli ambazo hunyesha toka mwezi Septemba hadi Desemba|6.48
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29936560.mp3|Sijaja kujiuzulu wala kutetea watu wenye madhambi|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31737339.mp3|Nilifikiri alikua mdogo zaidi kweye kundi lake|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30178396.mp3|Mwaka elfu mbili kumi na nne alipata tuzo ya mwigizaji bora wa kike|6.66
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28584800.mp3|Kwa kawaida mtu mzima huwa na meno thelathini na mbili|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29899299.mp3|Lazima kuandaa mifumo kwanza ili kupigana vita ya kiuchumi|4.968
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30113156.mp3|Jambo hili la mara kwa mara huitwa kwa Kiingereza yaani uhamiaji mviringo Nyumbu|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30008062.mp3|Wengine wakakataa kufanyishwa kazi ngumu katika mashamba na makazi ya Wazungu|6.3
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36616642.mp3|Wanafunzi wake hawajui kuandika|3.06
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29610445.mp3|Kuna safari ndefu na safari fupi|2.916
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29997175.mp3|Sababu kubwa ya kufukuzwa kwake inaelezwa kwamba|6.768
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35279186.mp3|dunia wa Rashid Matumla Alikuwa kijana mwenye mipango mingi ya maendeleo|5.436
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36005241.mp3|Walimu wamekasirika|2.916
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29826356.mp3|ivory coast ilishinda ubingwa dhidi ya ghana kwa mara ya kwanza|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31252300.mp3|Lazima kuwe na Wandebele nchini Zimbabwe na wote waitwe Wazimbabwe|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29660533.mp3|Katika nchi nyingi tendo la kubadilishana pesa bidhaa nakadhalika|7.092
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29793038.mp3|Kuanzia tarehe ya hukumu na alipwe gharama za kesi hiyo|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36644245.mp3|kujaribisha mafundisho haya mapya Ikiwa dunia kweli ina umbo la chungwa|6.048
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34905015.mp3|Ulipofika muda wa chakula cha mchana wakiwa huko Masiaka walipata|6.228
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30205439.mp3|Wanyama hao wametengwa kwenye maeneo maalumu kulingana na aina zao|6.48
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29954552.mp3|Vijana wamejiajiri katika uchimbaji wa madini katika maeneo tofauti tofauti|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29829431.mp3|Tanzania haiwezi kusahaulika kufungua utalii wa kanda ya kusini|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29793672.mp3|Mlo sahihi na kamili pamoja na mazoezi ya viungo|3.888
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28704552.mp3|Jimbo hili ni moja kati ya majimbo kumi na mawili katika kaunti ya Kakamega|7.02
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29970436.mp3|Wengi hushindwa kuvumilia ndio maana hata mipango yao Huweza kuishia njiani|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_32337693.mp3|Kijana anahisi njaa sana|3.24
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29821149.mp3|Ilikuwa vigumu kwake kuanza kuandika habari magazetini|4.716
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30363975.mp3|Mto umeanza kukauka wakati wa ukame umesababishwa na matumizi mabaya ya maji|6.372
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30575096.mp3|Baada ya uhuru wa Tanganyika na Zanzibar miaka michache|5.22
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29826602.mp3|joto linatoka kwa asilimia thelathini na tisa|3.276
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29797825.mp3|Iliitwa sheria ya kazi na sheria ya asili|4.248
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34760520.mp3|yaliyofuatia hadi mwisho wa vita hiyo ambayo mwanzo ilikuwa ya ushindi mkubwa kwa Waafrika|7.74
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30327479.mp3|mapango haya yana historia ya kushangaza|3.816
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35108137.mp3|amenukuliwa na mtandao wa gazeti la serikali la taarifa za habari za mtandaoni|5.688
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28719056.mp3|Tabaka la pili la juu lilikuwa lile la makuhani|3.816
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30375794.mp3|kuongoza Idara ya Uhamasishaji na Chipukizi ya umoja huu akiwa kaimu katibu wa idara|9.828
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36032304.mp3|Jacob alizima tochi akakaa kimya kusikilizia hatua za viatu zilipotokea maana zilikuwa za kusikilizia|8.136
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28696131.mp3|Wataalamu walijaribu kupanga aina hizo kwa vikundi vyenye tabia za pamoja|6.12
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30522815.mp3|angel Di Maria ni nyota hatari kutoka nchini argentina|6.048
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36945582.mp3|katika mashamba ya migomba na kahawa|3.996
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34946260.mp3|tulikuwa tumeutegemea ila baadaye wakasema kwamba wameahirisha|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34677241.mp3|baada ya kumzuia kwa muda wa miezi kumi na minane tangu mwaka uliopita|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28669560.mp3|Alama yake ni Ne|3.888
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29966968.mp3|nyota wengi wa ufaransa walifanya vizuri|5.616
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36384697.mp3|Na hasa suala la kuweka hadharani maisha yake binafsi|4.104
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28582833.mp3|Lakini si lazima iwe hivyo kwa kila sayari|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35106370.mp3|Nenda ukawasaidie wale kina dada|3.096
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35177098.mp3|Baba nakushukuru kwa kuwa umenisikia|3.78
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34818383.mp3|mlima mrefu kuliko yote barani Afrika|3.42
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35118925.mp3|kati ya Latitude moja na mbili na nyuzi arobaini na tano|4.536
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31406046.mp3|Ernest William wa Hedaru au Chome Naibu Katibu Mkuu wa kanisa la kilutheri Tanzania|5.94
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35250508.mp3|Msaada Kwa Sababu za Mazingira Hata tulishangazwa|5.04
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_36365928.mp3|na ustahimilivu Kitabu hiki sio tu kama mwongozo|6.876
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30668402.mp3|Kwa ajili ya kuwapa fursa kuuza na kununua malighafi hiyo|5.4
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30025330.mp3|Kilele cha mawenzi kina mgongo wenye umbo la kiatu cha farasi|4.356
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31446930.mp3|Hatukutangaza kwa sababu hatukutaka jambo lenyewe kulipa uzito mno|6.516
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30653754.mp3|Kusababisha hofu na woga mkubwa kwa yule ambae anaonekana ana nguvu|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29831878.mp3|patrick kluivert wa uholanzi alitwaa kiatu cha dhahabu akifunga mabao matano|5.868
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30025176.mp3|Waakie na Waakiek pamoja na Waalegwa na Waarusha|6.12
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30470906.mp3|Ndiye pekee miongoni mwa Wazanzibari ambaye angeweza kuendeleza fikra|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35099349.mp3|mbaya anakuambia hii hapana Ni watu wachache sana kwenye tasnia hii wenye uthubutu|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31284837.mp3|Kufuatia hatua hiyo utawala wa kifalme ukamuandama Osama na mwaka|4.68
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29963203.mp3|hilo refu na kuwapiga risasi watu takribani watano|4.356
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34962751.mp3|ndipo tukaletewa barua ya vitisho iliyopitishwa chini ya mlango Asubuhi ndipo tukaikuta Lakini zaidi|6.84
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34819138.mp3|Polisi walichunguza uharibifu uliofanyika|3.42
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30654101.mp3|Umoja wao na mshikamano umewafanya wafanikiwe katika shughuli zao|5.58
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29826243.mp3|Shughuli kuu zifanyikazo katika ziwa hili ni Uvuvi Usafirishaji Utalii Uvunaji wa maji|7.416
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_28666575.mp3|Historia ya mto wa pili haijulikani|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31284793.mp3|Austiralia na Antaktika huku bara pekee la Antaktika likiwa ni lenye barafu tupu|7.668
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29821481.mp3|Kuna watu maalum waliokuwa wamebobea kwenye mambo ya mma|5.328
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_31787696.mp3|kushiriki katika biashara ya siri ya pembe za ndovu kutoka Kongo|5.076
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_30171170.mp3|Kwani raia wengi walikuwa na maisha magumu sana|3.708
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29824178.mp3|Nguri huyo alipiga marufuku mchezo wa ngumi visiwani|5.148
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_37099073.mp3|pamoja na opioidi ambayo inaweza kutumika kihalali hupunguza au|3.888
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_35102354.mp3|ya desturi Kunyongwa kisheria hakujulikani na malipo ya kawaida kwa ngombe hutosheleza mambo Kuna|7.848
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_29855882.mp3|Mtorwi mita elfu mbili mia tisa sitini na moja|6.588
+/home/ashankwi/commonVoiceData/sw/trainFiles/common_voice_sw_34943186.mp3|kuliko zote duniani ikiwa na wafuasi bilioni ishirini|4.428
