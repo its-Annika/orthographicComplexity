@@ -35,7 +35,7 @@ Process the data again (run this command for 2.5,5,10 hours of training data
 	(env_whisper-finetune) ashankwi@ehecatl:~/whisper-finetune$ bash bashScripts/makeData.sh <langCode> <# of training hours>
 
 Make the ASR model (repeat this command for the 2.5,5,10 hour models).
-Model name format: <langCode><# of training hours>T
+Model name format: <langCode><# of training hours>
 
 	(env_whisper-finetune) ashankwi@ehecatl:~/whisper-finetune$ bash bashScripts/makeModel.sh <langCode> <fullLangName> <nameofModel>
 
