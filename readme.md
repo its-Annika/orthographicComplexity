@@ -41,7 +41,7 @@ Model name format: <langCode><# of training hours>T
 
 Evaluation (repeat this command for the 2.5,5,10 hour models)
 
-	(env_whisper-finetune) ashankwi@ehecatl:~/whisper-finetune$ head bashScripts/eval1.sh <langCode> <modelName> <checkpoint>
+	(env_whisper-finetune) ashankwi@ehecatl:~/whisper-finetune$ bash bashScripts/eval1.sh <langCode> <modelName> <checkpoint>
 
 
 ***
@@ -56,7 +56,7 @@ Virtual Enviornment
 
 	/orthographicComplexity/oteann4$ source oteann/bin/activate
 
-Provided data should be a csv file with two columns: word, pronunciation. The file should be named <langCode>_wikt_samples.csv and be placed in subdatasets/
+Provided data should be a csv file with two columns: word, pronunciation. The file should be named \<langCode\>_wikt_samples.csv and be placed in subdatasets/
 Copy this file into wikt_subsets.csv. 
 
 	/orthographicComplexity/oteann4$ cat subdatasets/<langCode>_wikt_samples.csv > wikt_samples.csv 
