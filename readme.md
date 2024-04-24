@@ -1,5 +1,9 @@
 ### step-by-step process for creating ASR models
 
+prereq: download the common voice corpus for the language of your choice into ~/commonVoiceData$.
+It should be a folder within this directory named <langCode>
+
+
 First, gather training, testing, and dev files 
 
 	/orthographicComplexity/ASR_Data$ bash makeSets.sh <langCode>
@@ -42,7 +46,9 @@ Evaluation (repeat this command for the 2.5,5,10 hour models)
 
 ***
 
-###step-by-step process for calculating OC with OTEANN
+### step-by-step process for calculating OC with OTEANN
+
+prereq: have 7,500 (word,pronunciation) pairs of your chosen language. 
 
 This code was intended to run on a multilingal data set. Alterations have been made to make it run on one data set at a time. 
 
