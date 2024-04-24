@@ -61,7 +61,7 @@ Copy this file into wikt_subsets.csv.
 
 	/orthographicComplexity/oteann4$ cat subdatasets/<langCode>_wikt_samples.csv > wikt_samples.csv 
 
-Edit oteann.py. In line 63, enter <langCode>
+Edit oteann.py. In line 63, enter \<langCode\>
 	
 	...
 	# These other configuration parameters will not be tuned
