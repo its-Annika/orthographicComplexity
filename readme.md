@@ -1,4 +1,4 @@
-step-by-step process for creating ASR models
+### step-by-step process for creating ASR models
 
 First, gather training, testing, and dev files 
 
@@ -42,7 +42,8 @@ Evaluation (repeat this command for the 2.5,5,10 hour models)
 
 ***
 
-step-by-step process for calculating OC with OTEANN
+###step-by-step process for calculating OC with OTEANN
+
 This code was intended to run on a multilingal data set. Alterations have been made to make it run on one data set at a time. 
 
 Virtual Enviornment
@@ -55,8 +56,6 @@ Copy this file into wikt_subsets.csv.
 	/orthographicComplexity/oteann4$ cat subdatasets/<langCode>_wikt_samples.csv > wikt_samples.csv 
 
 Edit oteann.py. In line 63, enter <langCode>
-
-	nano oteann.py
 	
 	...
 	# These other configuration parameters will not be tuned
