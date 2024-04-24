@@ -1,7 +1,7 @@
 ### step-by-step process for creating ASR models
 
 prereq: download the common voice corpus for the language of your choice into commonVoiceData/.
-It should be a folder within this directory named \<langCode\>
+It should be in a folder within this directory named \<langCode\>
 
 
 First, gather training, testing, and dev files 
