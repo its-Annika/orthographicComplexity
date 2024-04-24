@@ -14,7 +14,7 @@ Second, move to the newly created folder and convert the files into formats usab
 
 	/orthographicComplexity/ASR_Data/<langCode>ASR_Files$ bash prepareData.sh <langCode>
 
-Pro tip, move the prepare files back (don't accidently delete them) 
+Pro tip, move the prepare files back (don't accidentally delete them) 
 
 	/orthographicComplexity/ASR_Data/<langCode>ASR_Files$ mv prepareData.* /home/ashankwi/orthographicComplexity/ASR_Data/
 	
@@ -50,7 +50,7 @@ Evaluation (repeat this command for the 2.5,5,10 hour models)
 
 prereq: have 7,500 (word,pronunciation) pairs of your chosen language. 
 
-This code was intended to run on a multilingal data set. Alterations have been made to make it run on one data set at a time. 
+This code was intended to run on a multilingual data set. Alterations have been made to make it run on one data set at a time. 
 
 Virtual Enviornment
 
