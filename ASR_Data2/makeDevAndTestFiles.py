@@ -6,7 +6,7 @@ from mutagen.mp3 import MP3
 import random
 import re
 
-# trainFilePath, # audioFolderPath  #of speakers, #langCode, #task
+# FilePath, # audioFolderPath  #of speakers, #langCode, #task
 
 
 #read in and organize data
@@ -49,6 +49,7 @@ totalDuration = 0
 dataSet = []
 
 speaker = 0
+count = 0
 
 while totalDuration < 9000:
 	if len(speakerDict[speakerPool[speaker]]) != 0:
@@ -57,17 +58,23 @@ while totalDuration < 9000:
 		temp = speakerDict[speakerPool[speaker]]
 		temp.remove(selected)
 		speakerDict[speakerPool[speaker]] = temp
-		dataSet.append(selected)
 		audio = MP3(selected[0])
 		totalDuration += audio.info.length
+		dataSet.append((selected[0], selected[1], audio.info.length))
 
 	if speaker == speakerNumber:
 		speaker = 0
 	else:
 		speaker += 1
 
+
+	count+=1
+
+	if count % 500 == 0:
+		print(totalDuration)
+
 #print the dataFiles
 totalDuration = 0
 with open(langCode+"2.5Hour" + task + ".txt", "w+") as two:
-	for path, transcript in dataSet:
-		two.write(path+","+transcript+"\n")
+	for path, transcript, duration in dataSet:
+		two.write(path+","+transcript+","+str(duration)+"\n")
