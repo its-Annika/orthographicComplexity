@@ -83,6 +83,6 @@ while totalDuration < 3600:
 
 #print the dataFiles
 totalDuration = 0
-with open(langCode+"2.5Hour" + task + ".txt", "w+") as two:
+with open(langCode+"1Hour" + task + ".txt", "w+") as two:
 	for path, transcript, duration, speaker in dataSet:
 		two.write(path+","+transcript+","+str(duration)+","+speaker+"\n")
