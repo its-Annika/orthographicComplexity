@@ -12,7 +12,7 @@ import re
 #read in and organize data
 trainFilePath = sys.argv[1]
 audioFolderPath = sys.argv[2]
-speakerNumber = int(sys.argv[3])
+speakerNumber = int(sys.argv[3]) - 1
 langCode = sys.argv[4]
 
 numFilesDict = {}
@@ -58,7 +58,7 @@ while totalDuration < 36000:
 		speakerDict[speakerPool[speaker]] = temp
 		audio = MP3(selected[0])
 		totalDuration += audio.info.length
-		dataSet.append((selected[0], selected[1], audio.info.length))
+		dataSet.append((selected[0], selected[1], audio.info.length, speakerPool[speaker]))
 
 	if speaker == speakerNumber:
 		speaker = 0
@@ -73,11 +73,11 @@ while totalDuration < 36000:
 #print the dataFiles
 totalDuration = 0
 with open(langCode+"2.5HourTrain.txt", "w+") as two, open(langCode+"5HourTrain.txt", "w+") as five, open(langCode+"10HourTrain.txt", "w+") as ten:
-	for path, transcript, duration in dataSet:
+	for path, transcript, duration, speaker in dataSet:
 		totalDuration += duration
 		if totalDuration <= 9000:
-			two.write(path+","+transcript+","+str(duration)+"\n")
+			two.write(path+","+transcript+","+str(duration)+","+speaker+"\n")
 		if totalDuration <= 18000:
-			five.write(path+","+transcript+","+str(duration)+"\n")
+			five.write(path+","+transcript+","+str(duration)+","+speaker+"\n")
 		if totalDuration <= 36000:
-			ten.write(path+","+transcript+","+str(duration)+"\n")
+			ten.write(path+","+transcript+","+str(duration)+","+speaker+"\n")
