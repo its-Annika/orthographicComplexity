@@ -12,7 +12,7 @@ import re
 #read in and organize data
 trainFilePath = sys.argv[1]
 audioFolderPath = sys.argv[2]
-speakerNumber = int(sys.argv[3])
+speakerNumber = int(sys.argv[3]) -1
 langCode = sys.argv[4]
 task = sys.argv[5]
 
@@ -51,7 +51,7 @@ dataSet = []
 speaker = 0
 count = 0
 
-while totalDuration < 9000:
+while totalDuration < 3600:
 	if len(speakerDict[speakerPool[speaker]]) != 0:
 		selected = random.choice(speakerDict[speakerPool[speaker]])
 	#remove selected file to prevent duplicates
@@ -60,7 +60,7 @@ while totalDuration < 9000:
 		speakerDict[speakerPool[speaker]] = temp
 		audio = MP3(selected[0])
 		totalDuration += audio.info.length
-		dataSet.append((selected[0], selected[1], audio.info.length))
+		dataSet.append((selected[0], selected[1], audio.info.length, speakerPool[speaker]))
 
 	if speaker == speakerNumber:
 		speaker = 0
@@ -76,5 +76,5 @@ while totalDuration < 9000:
 #print the dataFiles
 totalDuration = 0
 with open(langCode+"2.5Hour" + task + ".txt", "w+") as two:
-	for path, transcript, duration in dataSet:
-		two.write(path+","+transcript+","+str(duration)+"\n")
+	for path, transcript, duration, speaker in dataSet:
+		two.write(path+","+transcript+","+str(duration)+","+speaker+"\n")
