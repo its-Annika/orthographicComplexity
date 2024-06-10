@@ -6,7 +6,7 @@ from mutagen.mp3 import MP3
 import random
 import re
 
-# FilePath, # audioFolderPath  #of speakers, #langCode, #task
+# FilePath, # audioFolderPath  #of speakers, #langCode, #task, #sentenceColumn
 
 
 #read in and organize data
@@ -21,12 +21,20 @@ numFilesDict = {}
 speakerDict = {}
 #{speakerID, [(path,transcript),(),(),]
 
+isHeader = True
+sentenceColumn = 2
+
 with open(trainFilePath) as tf:
-	next(tf)
+
 	for line in tf:
+		if isHeader:
+			if line.split("\t")[3] == "sentence":
+				sentenceColumn = 3
+				isHeader = False
+
 		id = line.split("\t")[0]
 		path = line.split("\t")[1]
-		transcript = line.split("\t")[2]
+		transcript = line.split("\t")[sentenceColumn]
 		cleanTranscript = re.sub("[.,!?\"\'`#@$^&*\(\)\[\]]", "", transcript).lower()
 
 		attributes = (audioFolderPath+path,cleanTranscript)
