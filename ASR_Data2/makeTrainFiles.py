@@ -20,17 +20,15 @@ numFilesDict = {}
 speakerDict = {}
 #{speakerID, [(path,transcript),(),(),]
 
-isHeader = True
 sentenceColumn = 2
 
 with open(trainFilePath) as tf:
 
+	firstLine = tf.readline()
+	if firstLine.split("\t")[3] == "sentence":
+		sentenceColumn = 3
+
 	for line in tf:
-		if isHeader:
-			if line.split("\t")[3] == "sentence":
-				sentenceColumn = 3
-				isHeader = False
-	
 		id = line.split("\t")[0]
 		path = line.split("\t")[1]
 		transcript = line.split("\t")[sentenceColumn]
