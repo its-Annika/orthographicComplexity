@@ -21,18 +21,16 @@ numFilesDict = {}
 speakerDict = {}
 #{speakerID, [(path,transcript),(),(),]
 
-sentenceColumn = 2
 
 with open(trainFilePath) as tf:
 
-	firstLine = tf.readline()
-	if firstLine.split("\t")[3] == "sentence":
-		sentenceColumn = 3
+	next(tf)
 
 	for line in tf:
+
 		id = line.split("\t")[0]
 		path = line.split("\t")[1]
-		transcript = line.split("\t")[sentenceColumn]
+		transcript = line.split("\t")[3]
 		cleanTranscript = re.sub("[.,!?\"\'`#@$^&*\(\)\[\]]", "", transcript).lower()
 
 		attributes = (audioFolderPath+path,cleanTranscript)
@@ -53,15 +51,13 @@ speakerPool = sorted(numFilesDict, key=numFilesDict.get, reverse=True)
 totalDuration = 0
 speakerCount = 0
 
+for speaker in speakerPool:
+	speakerCount += 1
+	for tripple in speakerDict[speaker]:
+		audio = MP3(tripple[0])
+		totalDuration += audio.info.length
 
-while totalDuration < time:
-	
-	for speaker in speakerPool:
-		for tripple in speakerDict[speaker]:
-			audio = MP3(tripple[0])
-			totalDuration += audio.info.length
-		speakerCount += 1
-		print(speakerCount, totalDuration)
+	if totalDuration > time:
+		break
 
 print(task + " " + str(speakerCount))
-		

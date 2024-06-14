@@ -12,7 +12,7 @@ import re
 #read in and organize data
 trainFilePath = sys.argv[1]
 audioFolderPath = sys.argv[2]
-speakerNumber = int(sys.argv[3]) -1
+speakerNumber = int(sys.argv[3])
 langCode = sys.argv[4]
 task = sys.argv[5]
 
@@ -21,18 +21,15 @@ numFilesDict = {}
 speakerDict = {}
 #{speakerID, [(path,transcript),(),(),]
 
-sentenceColumn = 2
 
 with open(trainFilePath) as tf:
 
-	firstLine = tf.readline()
-	if firstLine.split("\t")[3] == "sentence":
-		sentenceColumn = 3
+	next(tf)
 
 	for line in tf:
 		id = line.split("\t")[0]
 		path = line.split("\t")[1]
-		transcript = line.split("\t")[sentenceColumn]
+		transcript = line.split("\t")[3]
 		cleanTranscript = re.sub("[.,!?\"\'`#@$^&*\(\)\[\]]", "", transcript).lower()
 
 		attributes = (audioFolderPath+path,cleanTranscript)
@@ -47,7 +44,7 @@ with open(trainFilePath) as tf:
 
 
 #pull the files as equally as possible from the chosen number of speakers
-speakerPool = sorted(numFilesDict, key=numFilesDict.get, reverse=True)[:speakerNumber+1]
+speakerPool = sorted(numFilesDict, key=numFilesDict.get, reverse=True)[:speakerNumber]
 
 
 totalDuration = 0
@@ -68,7 +65,7 @@ while totalDuration < 3600:
 		totalDuration += audio.info.length
 		dataSet.append((selected[0], selected[1], audio.info.length, speakerPool[speaker]))
 
-	if speaker == speakerNumber:
+	if speaker + 1 == speakerNumber :
 		speaker = 0
 	else:
 		speaker += 1
